@@ -20,16 +20,17 @@ function App() {
   const selectMovie = (id: string) => { setSelectedMovieId(id); setActivePage('detail') }
   const selectSeries = (id: string) => { setSelectedSeriesId(id); setActivePage('series') }
   const selectActor = (id: string) => { setSelectedActorId(id); setActivePage('actor') }
+  const isMovieDetail = activePage === 'detail'
 
   return (
     <MoviesProvider>
-      <div className="app-shell">
+      <div className={isMovieDetail ? 'app-shell app-shell--movie-detail' : 'app-shell'}>
         <Header activePage={activePage} onNavigate={setActivePage} />
         {activePage === 'home' && <HomePage onNavigate={setActivePage} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
         {activePage === 'movies' && <MoviesPage onSelectMovie={selectMovie} />}
         {activePage === 'search' && <SearchPage />}
         {activePage === 'favorites' && <FavoritesPage onSelectMovie={selectMovie} />}
-        {activePage === 'detail' && <MovieDetailPage movieId={selectedMovieId} onNavigate={setActivePage} />}
+        {activePage === 'detail' && <MovieDetailPage movieId={selectedMovieId} onNavigate={setActivePage} onSelectMovie={selectMovie} onSelectActor={selectActor} />}
         {activePage === 'series' && <SeriesDetailPage seriesId={selectedSeriesId} onNavigate={setActivePage} />}
         {activePage === 'actor' && <ActorDetailPage actorId={selectedActorId} onNavigate={setActivePage} />}
         <Footer />
