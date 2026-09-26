@@ -5,7 +5,10 @@
     "year": 1999,
     "rating": 8.7,
     "duration": "2h 16m",
-    "genres": ["Action", "Sci-Fi"],
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
     "synopsis": "A hacker discovers that reality is a simulated world and joins a rebellion against its controllers."
   },
   {
@@ -14,7 +17,11 @@
     "year": 2014,
     "rating": 8.7,
     "duration": "2h 49m",
-    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
     "synopsis": "A team of explorers travels through a wormhole in space in search of a future for humanity."
   },
   {
@@ -23,7 +30,98 @@
     "year": 2008,
     "rating": 9.0,
     "duration": "2h 32m",
-    "genres": ["Action", "Crime", "Drama"],
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
     "synopsis": "A masked vigilante faces a chaotic criminal mastermind who pushes Gotham to its limits."
+  },
+  {
+    "id": "m4",
+    "title": "Oppenheimer",
+    "originalTitle": "Oppenheimer (2023) — Dirigida por Christopher Nolan",
+    "year": 2023,
+    "rating": 8.9,
+    "ratingCount": 740100,
+    "metascore": 89,
+    "certification": "R (18+)",
+    "duration": "3h 00m",
+    "genres": [
+      "Biografía",
+      "Drama",
+      "Historia bélica"
+    ],
+    "synopsis": "Durante la Segunda Guerra Mundial, el físico teórico J. Robert Oppenheimer lidera el ultrasecreto Proyecto Manhattan en Los Álamos, donde un brillante equipo de científicos compite contra el reloj nuclear. La creación de la primera bomba atómica cambiará para siempre el curso de la civilización y someterá a su creador a un tormento moral y político irreparable.",
+    "credits": [
+      {
+        "label": "Dirección y guion",
+        "name": "Christopher Nolan",
+        "detail": "Basada en American Prometheus, de Kai Bird y Martin J. Sherwin"
+      },
+      {
+        "label": "Reparto principal",
+        "name": "Cillian Murphy",
+        "detail": "J. Robert Oppenheimer"
+      },
+      {
+        "label": "Música original",
+        "name": "Ludwig Göransson",
+        "detail": "Partitura original"
+      }
+    ],
+    "cast": [
+      {
+        "name": "Cillian Murphy",
+        "character": "J. Robert Oppenheimer"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Katherine Oppenheimer"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Leslie Groves"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Lewis Strauss"
+      },
+      {
+        "name": "Florence Pugh",
+        "character": "Jean Tatlock"
+      }
+    ],
+    "awards": [
+      {
+        "count": 7,
+        "title": "Premios Óscar",
+        "detail": "Incluyendo Mejor Película y Mejor Dirección"
+      },
+      {
+        "count": 5,
+        "title": "Globos de Oro",
+        "detail": "Incluyendo Mejor Película dramática"
+      }
+    ],
+    "production": [
+      {
+        "label": "País de origen",
+        "value": "Estados Unidos"
+      },
+      {
+        "label": "Idioma original",
+        "value": "Inglés"
+      },
+      {
+        "label": "Productoras",
+        "value": "Syncopy · Universal Pictures"
+      },
+      {
+        "label": "Formato",
+        "value": "IMAX 70 mm · 2.20:1"
+      }
+    ],
+    "trailerUrl": "https://www.youtube-nocookie.com/embed/bK6ldnjE3Y0"
   }
 ]

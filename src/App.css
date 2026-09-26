@@ -377,3 +377,75 @@
   .movie-detail-specs { grid-template-columns: 1fr; }
   .movie-detail-panel__heading { align-items: flex-start; flex-direction: column; }
 }
+
+
+/* Extended movie detail panels from the complete CineBase reference. */
+.movie-detail__hero-labels { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; }
+.movie-detail__trend { color: var(--movie-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.045em; text-transform: uppercase; }
+.movie-detail__trend > span { color: var(--movie-primary); }
+.movie-detail__original { color: #d0d3da; font-size: 1.06rem; font-style: italic; }
+.movie-detail__meta { gap: 10px 15px; }
+.movie-detail__certification { padding: 3px 8px; border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 4px; color: var(--movie-text); background: rgba(38, 42, 48, 0.9); font-size: 0.72rem; font-weight: 800; }
+.movie-detail__score-cluster { display: flex; flex-wrap: wrap; gap: 9px; }
+.movie-detail__vote-count { color: var(--movie-muted); font-size: 0.68rem; }
+.movie-detail__metascore { display: grid; grid-template-columns: auto 1fr; align-content: center; align-items: center; gap: 4px 10px; min-width: 170px; padding: 12px 14px; border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 9px; background: rgba(28, 32, 37, 0.88); backdrop-filter: blur(12px); }
+.movie-detail__metascore .movie-detail__rating-label { grid-column: 1 / -1; }
+.movie-detail__metascore strong { display: grid; width: 36px; height: 36px; place-items: center; border-radius: 5px; color: #17140a; background: var(--movie-primary); font-family: "Space Grotesk", var(--font-sans); font-size: 1rem; }
+.movie-detail__metascore small { max-width: 100px; color: var(--movie-muted); font-size: 0.66rem; line-height: 1.4; }
+.movie-detail__actions { align-items: center; }
+.movie-detail__actions .button--primary { color: #1b1708; }
+
+.movie-detail-streaming { padding: 13px clamp(20px, 5vw, 72px); border-block: 1px solid rgba(255, 255, 255, 0.035); background: #14181d; }
+.movie-detail-streaming > div { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; width: min(100%, 1296px); margin: 0 auto; color: var(--movie-muted); font-size: 0.82rem; }
+.movie-detail-streaming strong { display: inline-flex; align-items: center; gap: 8px; padding: 6px 10px; border: 1px solid rgba(255, 255, 255, 0.06); border-radius: 7px; color: var(--movie-text); background: var(--movie-panel); font-size: 0.78rem; }
+.movie-detail-streaming strong b { display: grid; width: 20px; height: 20px; place-items: center; border-radius: 4px; color: #ffe0e4; background: #7f1421; font-size: 0.7rem; }
+.movie-detail-sidebar { display: grid; align-content: start; gap: 18px; min-width: 0; }
+.movie-detail__empty { color: var(--movie-muted); font-size: 0.8rem; line-height: 1.65; }
+.movie-detail__empty--review { display: grid; gap: 5px; padding: 18px; border: 1px dashed rgba(245, 197, 24, 0.2); border-radius: 8px; background: rgba(245, 197, 24, 0.035); }
+.movie-detail__empty--review strong { color: var(--movie-text); font-size: 0.82rem; }
+.movie-detail__empty--review span { font-size: 0.74rem; }
+.movie-detail-credits { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; padding: 16px; border-radius: 8px; background: var(--movie-panel-soft); }
+.movie-detail-credits > div { display: grid; align-content: start; gap: 6px; min-width: 0; }
+.movie-detail-credits span { color: var(--movie-muted); font-size: 0.62rem; font-weight: 800; letter-spacing: 0.07em; text-transform: uppercase; }
+.movie-detail-credits strong { color: var(--movie-text); font-size: 0.84rem; }
+.movie-detail-credits small { color: var(--movie-muted); font-size: 0.7rem; line-height: 1.5; }
+.movie-detail-cast__person:disabled { opacity: 1; cursor: default; }
+.movie-detail-cast__person:disabled:hover { transform: none; border-color: rgba(255, 255, 255, 0.055); background: var(--movie-panel-soft); }
+.movie-detail__review-cta { padding: 8px 11px; border: 1px solid rgba(245, 197, 24, 0.24); border-radius: 7px; color: var(--movie-primary-light); background: rgba(245, 197, 24, 0.06); font-size: 0.72rem; font-weight: 700; }
+.movie-detail-reviews { display: grid; gap: 10px; }
+.movie-detail-review { display: grid; gap: 9px; padding: 15px; border: 1px solid rgba(255, 255, 255, 0.045); border-radius: 9px; background: var(--movie-panel-soft); }
+.movie-detail-review__top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; }
+.movie-detail-review__top > div { display: grid; gap: 3px; }
+.movie-detail-review__top strong { color: var(--movie-text); font-size: 0.79rem; }
+.movie-detail-review__top small, .movie-detail-review > small { color: var(--movie-muted); font-size: 0.65rem; }
+.movie-detail-review__top > b { color: var(--movie-primary-light); font-size: 0.75rem; }
+.movie-detail-review h3 { color: var(--movie-text); font-size: 0.85rem; line-height: 1.35; }
+.movie-detail-review p { color: #b8bec8; font-size: 0.77rem; line-height: 1.65; }
+.movie-detail-awards { display: grid; gap: 10px; }
+.movie-detail-awards article { display: flex; align-items: center; gap: 12px; padding: 13px; border: 1px solid rgba(255, 255, 255, 0.04); border-radius: 8px; background: var(--movie-panel-soft); }
+.movie-detail-awards article > strong { min-width: 48px; color: var(--movie-primary-light); font-family: "Space Grotesk", var(--font-sans); font-size: 1rem; }
+.movie-detail-awards article > div { display: grid; gap: 4px; }
+.movie-detail-awards b { color: var(--movie-text); font-size: 0.77rem; }
+.movie-detail-awards small { color: var(--movie-muted); font-size: 0.66rem; line-height: 1.45; }
+
+@media (max-width: 800px) {
+  .movie-detail-sidebar { position: static; }
+}
+@media (max-width: 560px) {
+  .movie-detail__score-cluster { width: 100%; }
+  .movie-detail__rating, .movie-detail__metascore { flex: 1 1 130px; }
+  .movie-detail__actions .button { flex: 1 1 100%; }
+  .movie-detail-credits { grid-template-columns: 1fr; }
+  .movie-detail-streaming { padding-inline: 16px; }
+}
+
+
+.movie-trailer-modal { position: fixed; z-index: 100; inset: 0; display: grid; place-items: center; padding: 20px; background: rgba(4, 7, 11, 0.88); backdrop-filter: blur(12px); }
+.movie-trailer-modal__dialog { display: grid; gap: 14px; width: min(100%, 900px); padding: 18px; border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 12px; background: #151a20; box-shadow: 0 30px 100px rgba(0, 0, 0, 0.55); }
+.movie-trailer-modal__dialog > header { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.movie-trailer-modal__dialog h2 { color: var(--movie-text); font-family: "Space Grotesk", var(--font-sans); font-size: 1.1rem; }
+.movie-trailer-modal__dialog > header button { width: 36px; height: 36px; border: 0; border-radius: 50%; color: var(--movie-text); background: #252b32; font-size: 1.5rem; }
+.movie-trailer-modal__player { overflow: hidden; aspect-ratio: 16 / 9; border-radius: 8px; background: #050607; }
+.movie-trailer-modal__player iframe { width: 100%; height: 100%; border: 0; }
+.movie-trailer-modal__dialog > p { color: var(--movie-muted); font-size: 0.75rem; }
+.movie-trailer-modal__dialog > .button { justify-self: end; }
