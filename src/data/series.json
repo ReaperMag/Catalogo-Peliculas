@@ -1,0 +1,20 @@
+[
+  {
+    "id": "s1",
+    "title": "Dark",
+    "year": 2017,
+    "rating": 8.7,
+    "seasons": 3,
+    "genres": ["Ciencia ficción", "Drama"],
+    "synopsis": "La desaparición de dos niños revela secretos que conectan a cuatro familias de un pequeño pueblo."
+  },
+  {
+    "id": "s2",
+    "title": "The Bear",
+    "year": 2022,
+    "rating": 8.5,
+    "seasons": 3,
+    "genres": ["Drama", "Comedia"],
+    "synopsis": "Un joven chef vuelve a Chicago para hacerse cargo del restaurante familiar."
+  }
+]

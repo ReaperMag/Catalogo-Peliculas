@@ -5,8 +5,26 @@ export type Movie = {
   rating: number
   duration: string
   genres: string[]
-  posterUrl: string
   synopsis: string
 }
 
-export type PageKey = 'home' | 'movies' | 'search' | 'favorites' | 'detail'
+export type Series = {
+  id: string
+  title: string
+  year: number
+  rating: number
+  seasons: number
+  genres: string[]
+  synopsis: string
+}
+
+export type Actor = {
+  id: string
+  name: string
+  birthYear: number
+  nationality: string
+  biography: string
+  knownFor: string[]
+}
+
+export type PageKey = 'home' | 'movies' | 'search' | 'favorites' | 'detail' | 'series' | 'actor'

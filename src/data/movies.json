@@ -6,7 +6,6 @@
     "rating": 8.7,
     "duration": "2h 16m",
     "genres": ["Action", "Sci-Fi"],
-    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=600&q=80",
     "synopsis": "A hacker discovers that reality is a simulated world and joins a rebellion against its controllers."
   },
   {
@@ -16,7 +15,6 @@
     "rating": 8.7,
     "duration": "2h 49m",
     "genres": ["Adventure", "Drama", "Sci-Fi"],
-    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=600&q=80",
     "synopsis": "A team of explorers travels through a wormhole in space in search of a future for humanity."
   },
   {
@@ -26,7 +24,6 @@
     "rating": 9.0,
     "duration": "2h 32m",
     "genres": ["Action", "Crime", "Drama"],
-    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?auto=format&fit=crop&w=600&q=80",
     "synopsis": "A masked vigilante faces a chaotic criminal mastermind who pushes Gotham to its limits."
   }
 ]

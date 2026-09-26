@@ -1,9 +1,13 @@
 import { createContext, useContext, useMemo, useState, type ReactNode } from 'react'
+import actorsData from '../data/actors.json'
 import moviesData from '../data/movies.json'
-import type { Movie } from '../types/movie'
+import seriesData from '../data/series.json'
+import type { Actor, Movie, Series } from '../types/movie'
 
 type MoviesContextValue = {
   movies: Movie[]
+  series: Series[]
+  actors: Actor[]
   favorites: string[]
   featuredMovie: Movie
   favoriteMovies: Movie[]
@@ -12,7 +16,6 @@ type MoviesContextValue = {
 }
 
 const FAVORITES_STORAGE_KEY = 'favorite-movies'
-
 const MoviesContext = createContext<MoviesContextValue | null>(null)
 
 const readStoredFavorites = () => {
@@ -23,16 +26,19 @@ const readStoredFavorites = () => {
 export function MoviesProvider({ children }: { children: ReactNode }) {
   const [favorites, setFavorites] = useState<string[]>(readStoredFavorites)
   const movies = moviesData as Movie[]
+  const series = seriesData as Series[]
+  const actors = actorsData as Actor[]
 
   const value = useMemo<MoviesContextValue>(() => {
     const favoriteMovies = movies.filter((movie) => favorites.includes(movie.id))
-    const featuredMovie = movies[0]
 
     return {
       movies,
+      series,
+      actors,
       favorites,
       favoriteMovies,
-      featuredMovie,
+      featuredMovie: movies[0],
       isFavorite: (movieId) => favorites.includes(movieId),
       toggleFavorite: (movieId) => {
         setFavorites((currentFavorites) => {
@@ -45,7 +51,7 @@ export function MoviesProvider({ children }: { children: ReactNode }) {
         })
       },
     }
-  }, [favorites, movies])
+  }, [actors, favorites, movies, series])
 
   return <MoviesContext.Provider value={value}>{children}</MoviesContext.Provider>
 }
@@ -53,9 +59,6 @@ export function MoviesProvider({ children }: { children: ReactNode }) {
 export function useMovies() {
   const context = useContext(MoviesContext)
 
-  if (!context) {
-    throw new Error('useMovies must be used inside MoviesProvider')
-  }
-
+  if (!context) throw new Error('useMovies must be used inside MoviesProvider')
   return context
 }

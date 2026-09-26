@@ -11,7 +11,6 @@ type MovieCardProps = {
 export function MovieCard({ isFavorite, movie, onToggleFavorite, onViewDetail }: MovieCardProps) {
   return (
     <article className="movie-card">
-      <img src={movie.posterUrl} alt={`Poster de ${movie.title}`} />
 
       <div className="movie-card__body">
         <div className="movie-card__meta">

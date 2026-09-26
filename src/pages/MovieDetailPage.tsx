@@ -13,7 +13,6 @@ export function MovieDetailPage({ movieId, onNavigate }: MovieDetailPageProps) {
 
   return (
     <main className="detail-page">
-      <img src={movie.posterUrl} alt={`Poster de ${movie.title}`} />
 
       <section>
         <span className="eyebrow">Ficha tecnica base</span>

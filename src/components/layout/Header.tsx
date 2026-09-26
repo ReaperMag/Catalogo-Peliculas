@@ -16,8 +16,8 @@ export function Header({ activePage, onNavigate }: HeaderProps) {
   return (
     <header className="app-header">
       <button className="brand" type="button" onClick={() => onNavigate('home')}>
-        <span className="brand__mark">IMDb</span>
-        <span className="brand__text">Movie Catalog</span>
+        <span className="brand__mark">Cine</span>
+        <span className="brand__text">Base</span>
       </button>
 
       <nav aria-label="Principal">
