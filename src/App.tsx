@@ -4,7 +4,6 @@ import { Footer } from './components/layout/Footer'
 import { Header } from './components/layout/Header'
 import { MoviesProvider } from './contexts/MoviesContext'
 import { ActorDetailPage } from './pages/ActorDetailPage'
-import { FavoritesPage } from './pages/FavoritesPage'
 import { HomePage } from './pages/HomePage'
 import { MovieDetailPage } from './pages/MovieDetailPage'
 import { MoviesPage } from './pages/MoviesPage'
@@ -23,12 +22,11 @@ function App() {
 
   return (
     <MoviesProvider>
-      <div className="app-shell">
+      <div className={activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
         <Header activePage={activePage} onNavigate={setActivePage} />
         {activePage === 'home' && <HomePage onNavigate={setActivePage} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
         {activePage === 'movies' && <MoviesPage onSelectMovie={selectMovie} />}
-        {activePage === 'search' && <SearchPage />}
-        {activePage === 'favorites' && <FavoritesPage onSelectMovie={selectMovie} />}
+        {activePage === 'search' && <SearchPage onSelectMovie={selectMovie} />}
         {activePage === 'detail' && <MovieDetailPage movieId={selectedMovieId} onNavigate={setActivePage} />}
         {activePage === 'series' && <SeriesDetailPage seriesId={selectedSeriesId} onNavigate={setActivePage} />}
         {activePage === 'actor' && <ActorDetailPage actorId={selectedActorId} onNavigate={setActivePage} />}

@@ -3,12 +3,10 @@ import type { Movie } from '../../types/movie'
 
 type MovieCardProps = {
   movie: Movie
-  isFavorite: boolean
-  onToggleFavorite: (movieId: string) => void
   onViewDetail: (movieId: string) => void
 }
 
-export function MovieCard({ isFavorite, movie, onToggleFavorite, onViewDetail }: MovieCardProps) {
+export function MovieCard({ movie, onViewDetail }: MovieCardProps) {
   return (
     <article className="movie-card">
 
@@ -24,9 +22,6 @@ export function MovieCard({ isFavorite, movie, onToggleFavorite, onViewDetail }:
         <div className="movie-card__actions">
           <Button onClick={() => onViewDetail(movie.id)} variant="secondary">
             Ver ficha
-          </Button>
-          <Button onClick={() => onToggleFavorite(movie.id)} variant="ghost">
-            {isFavorite ? 'Quitar' : 'Favorito'}
           </Button>
         </div>
       </div>

@@ -4,7 +4,6 @@ const navItems: Array<{ label: string; page: PageKey }> = [
   { label: 'Inicio', page: 'home' },
   { label: 'Peliculas', page: 'movies' },
   { label: 'Buscar', page: 'search' },
-  { label: 'Favoritos', page: 'favorites' },
 ]
 
 type HeaderProps = {

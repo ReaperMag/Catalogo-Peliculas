@@ -5,7 +5,11 @@
     "birthYear": 1964,
     "nationality": "Canadiense",
     "biography": "Actor conocido por sus papeles en películas de acción y ciencia ficción.",
-    "knownFor": ["The Matrix", "John Wick"]
+    "knownFor": [
+      "The Matrix",
+      "John Wick"
+    ],
+    "image": ""
   },
   {
     "id": "a2",
@@ -13,6 +17,10 @@
     "birthYear": 1969,
     "nationality": "Estadounidense",
     "biography": "Actor reconocido por sus interpretaciones en dramas y películas de ciencia ficción.",
-    "knownFor": ["Interstellar", "Dallas Buyers Club"]
+    "knownFor": [
+      "Interstellar",
+      "Dallas Buyers Club"
+    ],
+    "image": ""
   }
 ]

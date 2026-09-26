@@ -6,6 +6,8 @@ export type Movie = {
   duration: string
   genres: string[]
   synopsis: string
+  image: string
+  viewCount?: number | null
 }
 
 export type Series = {
@@ -16,6 +18,7 @@ export type Series = {
   seasons: number
   genres: string[]
   synopsis: string
+  image: string
 }
 
 export type Actor = {
@@ -25,6 +28,7 @@ export type Actor = {
   nationality: string
   biography: string
   knownFor: string[]
+  image: string
 }
 
-export type PageKey = 'home' | 'movies' | 'search' | 'favorites' | 'detail' | 'series' | 'actor'
+export type PageKey = 'home' | 'movies' | 'search' | 'detail' | 'series' | 'actor'

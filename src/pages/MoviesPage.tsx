@@ -6,7 +6,7 @@ type MoviesPageProps = {
 }
 
 export function MoviesPage({ onSelectMovie }: MoviesPageProps) {
-  const { isFavorite, movies, toggleFavorite } = useMovies()
+  const { movies } = useMovies()
 
   return (
     <main className="page-stack">
@@ -19,13 +19,7 @@ export function MoviesPage({ onSelectMovie }: MoviesPageProps) {
 
         <div className="movie-grid">
           {movies.map((movie) => (
-            <MovieCard
-              isFavorite={isFavorite(movie.id)}
-              key={movie.id}
-              movie={movie}
-              onToggleFavorite={toggleFavorite}
-              onViewDetail={onSelectMovie}
-            />
+            <MovieCard key={movie.id} movie={movie} onViewDetail={onSelectMovie} />
           ))}
         </div>
       </section>

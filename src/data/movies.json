@@ -5,8 +5,13 @@
     "year": 1999,
     "rating": 8.7,
     "duration": "2h 16m",
-    "genres": ["Action", "Sci-Fi"],
-    "synopsis": "A hacker discovers that reality is a simulated world and joins a rebellion against its controllers."
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "synopsis": "A hacker discovers that reality is a simulated world and joins a rebellion against its controllers.",
+    "image": "",
+    "viewCount": null
   },
   {
     "id": "m2",
@@ -14,8 +19,14 @@
     "year": 2014,
     "rating": 8.7,
     "duration": "2h 49m",
-    "genres": ["Adventure", "Drama", "Sci-Fi"],
-    "synopsis": "A team of explorers travels through a wormhole in space in search of a future for humanity."
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "synopsis": "A team of explorers travels through a wormhole in space in search of a future for humanity.",
+    "image": "",
+    "viewCount": null
   },
   {
     "id": "m3",
@@ -23,7 +34,13 @@
     "year": 2008,
     "rating": 9.0,
     "duration": "2h 32m",
-    "genres": ["Action", "Crime", "Drama"],
-    "synopsis": "A masked vigilante faces a chaotic criminal mastermind who pushes Gotham to its limits."
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "synopsis": "A masked vigilante faces a chaotic criminal mastermind who pushes Gotham to its limits.",
+    "image": "",
+    "viewCount": null
   }
 ]

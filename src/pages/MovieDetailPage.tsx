@@ -8,7 +8,7 @@ type MovieDetailPageProps = {
 }
 
 export function MovieDetailPage({ movieId, onNavigate }: MovieDetailPageProps) {
-  const { isFavorite, movies, toggleFavorite } = useMovies()
+  const { movies } = useMovies()
   const movie = movies.find((item) => item.id === movieId) ?? movies[0]
 
   return (
@@ -31,7 +31,6 @@ export function MovieDetailPage({ movieId, onNavigate }: MovieDetailPageProps) {
         </div>
 
         <div className="hero-section__actions">
-          <Button onClick={() => toggleFavorite(movie.id)}>{isFavorite(movie.id) ? 'Quitar favorito' : 'Agregar favorito'}</Button>
           <Button onClick={() => onNavigate('movies')} variant="secondary">
             Volver al catalogo
           </Button>
