@@ -1,15 +1,15 @@
 .actor-detail-page {
-  width: 100%;
+  width: min(1180px, calc(100% - 40px));
   min-height: 100vh;
-  padding: 48px 5%;
+  margin: 0 auto;
+  padding: 48px 0;
 }
 
 .actor-detail {
   display: grid;
-  grid-template-columns: minmax(240px, 320px) minmax(0, 1fr);
+  grid-template-columns: 280px minmax(0, 1fr);
   gap: 42px;
-  max-width: 1180px;
-  margin: 0 auto;
+
   padding: 28px;
 
   border: 1px solid rgba(255, 255, 255, 0.07);
@@ -20,7 +20,7 @@
 
 .actor-detail__portrait {
   display: grid;
-  min-height: 430px;
+  height: 410px;
   overflow: hidden;
   place-items: center;
 
@@ -38,8 +38,9 @@
 .actor-detail__portrait img {
   width: 100%;
   height: 100%;
-  min-height: 430px;
+
   object-fit: cover;
+  object-position: center top;
 }
 
 .actor-detail__portrait > span {
@@ -153,7 +154,14 @@
   }
 }
 .actor-filmography {
-  margin-top: 36px;
+  width: 100%;
+  margin-top: 32px;
+  padding: 28px;
+
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 12px;
+
+  background: #151a20;
 }
 
 .actor-filmography__table {
@@ -169,8 +177,13 @@
 .actor-filmography__header,
 .actor-filmography__row {
   display: grid;
-  grid-template-columns: 72px minmax(240px, 1fr) 110px 100px;
-  gap: 16px;
+  grid-template-columns:
+    90px
+    minmax(300px, 1fr)
+    130px
+    110px;
+
+  gap: 20px;
   align-items: center;
 }
 
@@ -257,4 +270,29 @@
   .actor-filmography__row {
     min-width: 650px;
   }
+}
+.actor-filmography > h2 {
+  position: relative;
+
+  margin: 0 0 20px;
+  padding-left: 14px;
+
+  color: #f2f3f5;
+
+  font-size: 1.2rem;
+}
+
+.actor-filmography > h2::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+
+  width: 4px;
+
+  border-radius: 999px;
+
+  background: #f5c518;
+
+  content: "";
 }

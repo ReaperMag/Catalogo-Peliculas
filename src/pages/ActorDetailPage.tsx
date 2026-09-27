@@ -45,6 +45,7 @@ export function ActorDetailPage({
 
   return (
     <main className="actor-detail-page">
+
       <section className="actor-detail">
         <div className="actor-detail__portrait">
           {imageUrl ? (
@@ -93,46 +94,7 @@ export function ActorDetailPage({
 
           <div className="actor-detail__section">
             <h2>Conocido por</h2>
-            {actor.filmography && actor.filmography.length > 0 && (
-  <div className="actor-detail__section actor-filmography">
-    <h2>Filmografía destacada</h2>
 
-    <div className="actor-filmography__table">
-      <div className="actor-filmography__header">
-        <span>Año</span>
-        <span>Título y personaje</span>
-        <span>Tipo</span>
-        <span>CineBase</span>
-      </div>
-
-      {actor.filmography.map((work, index) => (
-        <div
-          className="actor-filmography__row"
-          key={`${work.title}-${work.year}-${index}`}
-        >
-          <span className="actor-filmography__year">
-            {work.year}
-          </span>
-
-          <div className="actor-filmography__work">
-            <strong>{work.title}</strong>
-            <span>como {work.character}</span>
-          </div>
-
-          <span className="actor-filmography__type">
-            {work.type}
-          </span>
-
-          <span className="actor-filmography__rating">
-            {work.rating != null
-              ? `★ ${work.rating.toFixed(1)}`
-              : 'Sin valoración'}
-          </span>
-        </div>
-      ))}
-    </div>
-  </div>
-)}
             <div className="actor-detail__known-for">
               {actor.knownFor.map((title) => (
                 <span key={title}>
@@ -141,17 +103,59 @@ export function ActorDetailPage({
               ))}
             </div>
           </div>
-
-          <div className="actor-detail__actions">
-            <Button
-              onClick={() => onNavigate('home')}
-              variant="secondary"
-            >
-              Volver al inicio
-            </Button>
-          </div>
         </div>
       </section>
+
+      {actor.filmography && actor.filmography.length > 0 && (
+        <section className="actor-filmography">
+          <h2>Filmografía destacada</h2>
+
+          <div className="actor-filmography__table">
+            <div className="actor-filmography__header">
+              <span>Año</span>
+              <span>Título y personaje</span>
+              <span>Tipo</span>
+              <span>CineBase</span>
+            </div>
+
+            {actor.filmography.map((work, index) => (
+              <div
+                className="actor-filmography__row"
+                key={`${work.title}-${work.year}-${index}`}
+              >
+                <span className="actor-filmography__year">
+                  {work.year}
+                </span>
+
+                <div className="actor-filmography__work">
+                  <strong>{work.title}</strong>
+                  <span>como {work.character}</span>
+                </div>
+
+                <span className="actor-filmography__type">
+                  {work.type}
+                </span>
+
+                <span className="actor-filmography__rating">
+                  {work.rating != null
+                    ? `★ ${work.rating.toFixed(1)}`
+                    : 'Sin valoración'}
+                </span>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <div className="actor-detail__actions">
+        <Button
+          onClick={() => onNavigate('home')}
+          variant="secondary"
+        >
+          Volver al inicio
+        </Button>
+      </div>
+
     </main>
   )
 }
