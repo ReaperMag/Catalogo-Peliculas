@@ -966,5 +966,162 @@
     }
   ],
   "image": "actores/ms_RyanGosling.png"
+},
+{
+  "id": "a11",
+  "name": "Zendaya",
+  "birthYear": 1996,
+  "birthDate": "1 de septiembre de 1996",
+  "birthPlace": "Oakland, California, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Zendaya es una actriz y productora estadounidense que comenzó su carrera profesional como modelo y bailarina antes de alcanzar reconocimiento en televisión. Posteriormente desarrolló una carrera cinematográfica en producciones como Spider-Man: Homecoming, The Greatest Showman, Dune y Challengers, además de protagonizar la serie Euphoria.",
+  "knownFor": [
+    "Euphoria",
+    "Dune",
+    "Spider-Man: Homecoming",
+    "Challengers"
+  ],
+  "filmography": [
+    {
+      "year": 2024,
+      "title": "Challengers",
+      "character": "Tashi Duncan",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2024,
+      "title": "Dune: Part Two",
+      "character": "Chani",
+      "type": "Película",
+      "rating": 8.5
+    },
+    {
+      "year": 2021,
+      "title": "Dune",
+      "character": "Chani",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2021,
+      "title": "Spider-Man: No Way Home",
+      "character": "MJ",
+      "type": "Película",
+      "rating": 8.2
+    },
+    {
+      "year": 2019,
+      "title": "Euphoria",
+      "character": "Rue Bennett",
+      "type": "Serie",
+      "rating": 8.3
+    },
+    {
+      "year": 2019,
+      "title": "Spider-Man: Far From Home",
+      "character": "MJ",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2017,
+      "title": "The Greatest Showman",
+      "character": "Anne Wheeler",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2017,
+      "title": "Spider-Man: Homecoming",
+      "character": "Michelle",
+      "type": "Película",
+      "rating": 7.4
+    }
+  ],
+  "image": "actores/ms_Zendaya.png"
+},
+{
+  "id": "a12",
+  "name": "Timothée Chalamet",
+  "birthYear": 1995,
+  "birthDate": "27 de diciembre de 1995",
+  "birthPlace": "Nueva York, Nueva York, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actor y productor",
+  "biography": "Timothée Chalamet es un actor y productor estadounidense que comenzó su carrera con trabajos en televisión, teatro y cine. Alcanzó reconocimiento internacional por su interpretación en Call Me by Your Name y posteriormente protagonizó producciones como Lady Bird, Little Women, Dune, Wonka y A Complete Unknown.",
+  "knownFor": [
+    "Call Me by Your Name",
+    "Dune",
+    "Lady Bird",
+    "A Complete Unknown"
+  ],
+  "filmography": [
+    {
+      "year": 2024,
+      "title": "A Complete Unknown",
+      "character": "Bob Dylan",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2024,
+      "title": "Dune: Part Two",
+      "character": "Paul Atreides",
+      "type": "Película",
+      "rating": 8.5
+    },
+    {
+      "year": 2023,
+      "title": "Wonka",
+      "character": "Willy Wonka",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2021,
+      "title": "Dune",
+      "character": "Paul Atreides",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2019,
+      "title": "Little Women",
+      "character": "Theodore Laurence",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2018,
+      "title": "Beautiful Boy",
+      "character": "Nic Sheff",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2017,
+      "title": "Call Me by Your Name",
+      "character": "Elio Perlman",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2017,
+      "title": "Lady Bird",
+      "character": "Kyle Scheible",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2014,
+      "title": "Interstellar",
+      "character": "Tom Cooper joven",
+      "type": "Película",
+      "rating": 8.7
+    }
+  ],
+  "image": "actores/ms_TimotheeChalamet.png"
 }
 ]
