@@ -24,8 +24,8 @@ function HomeMovieCard({ movie, onSelectMovie }: { movie: Movie; onSelectMovie: 
 }
 
 export function HomePage({ onNavigate, onSelectMovie, onSelectSeries, onSelectActor }: HomePageProps) {
-  const { actors, movies, series } = useMovies()
-  const mostViewedMovies = [...movies].sort((first, second) => (second.viewCount ?? -1) - (first.viewCount ?? -1)).slice(0, 10)
+  const { actors, movies, series, topMovies } = useMovies() // Leidy
+  const mostViewedMovies = [...topMovies].sort((first, second) => (second.viewCount ?? -1) - (first.viewCount ?? -1)).slice(0, 10) // Leidy
 
   return (
     <main className="home-page">
@@ -39,7 +39,7 @@ export function HomePage({ onNavigate, onSelectMovie, onSelectSeries, onSelectAc
 
       <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">En la gran pantalla</span><h2>Películas populares</h2></div><button className="home-section__link" onClick={() => onNavigate('movies')} type="button">Ver catálogo <span aria-hidden="true">→</span></button></div><div className="home-movie-grid">{movies.map((movie) => <HomeMovieCard key={movie.id} movie={movie} onSelectMovie={onSelectMovie} />)}</div></section>
 
-      <section className="home-section home-section--views"><div className="home-section__heading"><div><span className="home-eyebrow">Solo información</span><h2>Top 10 películas más vistas</h2><p>Las visualizaciones aparecerán cuando agreguemos esos datos al catálogo.</p></div><span className="home-section__index">03</span></div><ol className="home-view-list">{mostViewedMovies.map((movie, index) => <li key={movie.id}><span className="home-view-list__rank">{String(index + 1).padStart(2, '0')}</span><div><strong>{movie.title}</strong><small>{movie.year} · {movie.genres.join(' · ')}</small></div><span className="home-view-list__count">{movie.viewCount == null ? 'Vistas sin registrar' : `${movie.viewCount.toLocaleString('es-ES')} vistas`}</span></li>)}</ol></section>
+      <section className="home-section home-section--views"><div className="home-section__heading"><div><span className="home-eyebrow">Solo información</span><h2>Top 10 películas más vistas</h2><p>Ranking de las películas con más visualizaciones en CineBase.</p></div><span className="home-section__index">03</span></div><ol className="home-view-list">{mostViewedMovies.map((movie, index) => <li key={movie.id}><span className="home-view-list__rank">{String(index + 1).padStart(2, '0')}</span><div><strong>{movie.title}</strong><small>{movie.year} · {movie.genres.join(' · ')}</small></div><span className="home-view-list__count">{movie.viewCount == null ? 'Vistas sin registrar' : `${movie.viewCount.toLocaleString('es-ES')} vistas`}</span></li>)}</ol></section>
 
       <section className="home-section home-section--categories"><div className="home-section__heading"><div><span className="home-eyebrow">Encuentra tu próxima historia</span><h2>Categorías</h2></div></div><div className="home-category-grid">{(categoriesData as string[]).map((category, index) => <article className={`home-category home-category--${index + 1}`} key={category}><span className="home-category__number">0{index + 1}</span><strong>{category}</strong><span className="home-category__arrow" aria-hidden="true">✦</span></article>)}</div></section>
     </main>
