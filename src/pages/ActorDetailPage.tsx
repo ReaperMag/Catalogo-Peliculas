@@ -95,7 +95,7 @@ export function ActorDetailPage({
             <h2>Conocido por</h2>
             {actor.filmography && actor.filmography.length > 0 && (
   <div className="actor-detail__section actor-filmography">
-    <h2>Filmografía completa</h2>
+    <h2>Filmografía destacada</h2>
 
     <div className="actor-filmography__table">
       <div className="actor-filmography__header">
