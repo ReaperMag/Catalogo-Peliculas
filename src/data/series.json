@@ -34,14 +34,14 @@
         "episodes": 8,
         "year": 2025,
         "episodeDetails": [
-          { "number": 1, "title": "The Pilot","image": "series/it-ep.jpg"},
-          { "number": 2, "title": "The Thing in the Dark","image": "series/it-ep.jpg" },
-          { "number": 3, "title": "Now You See It" ,"image": "series/it-ep.jpg"},
-          { "number": 4, "title": "The Great Swirling Apparatus of Our Planet's Function","image": "series/it-ep.jpg" },
-          { "number": 5, "title": "29 Neibolt Street" ,"image": "series/it-ep.jpg"},
-          { "number": 6, "title": "In the Name of the Father" ,"image": "series/it-ep.jpg"},
-          { "number": 7, "title": "The Black Spot" ,"image": "series/it-ep.jpg"},
-          { "number": 8, "title": "Winter Fire","image": "series/it-ep.jpg" }
+          { "number": 1, "title": "The Pilot", "rating": 8.4, "image": "series/it-ep.jpg"},
+          { "number": 2, "title": "The Thing in the Dark", "rating": 8.1, "image": "series/it-ep.jpg" },
+          { "number": 3, "title": "Now You See It", "rating": 7.9, "image": "series/it-ep.jpg"},
+          { "number": 4, "title": "The Great Swirling Apparatus of Our Planet's Function", "rating": 8.2, "image": "series/it-ep.jpg" },
+          { "number": 5, "title": "29 Neibolt Street", "rating": 8.6, "image": "series/it-ep.jpg"},
+          { "number": 6, "title": "In the Name of the Father", "rating": 8.0, "image": "series/it-ep.jpg"},
+          { "number": 7, "title": "The Black Spot", "rating": 8.5, "image": "series/it-ep.jpg"},
+          { "number": 8, "title": "Winter Fire", "rating": 8.8, "image": "series/it-ep.jpg" }
         ]
       }
     ],
@@ -118,13 +118,13 @@
         "year": 2021,
         "trailerUrl": "https://www.youtube.com/watch?v=nLJR2twdK00",
         "episodeDetails": [
-          { "number": 1, "title": "Rubber(wo)Man: Part 1","image": "series/am-horr-s1.jpg" },
-          { "number": 2, "title": "Rubber(wo)Man: Part 2" ,"image": "series/am-horr-s1.jpg"},
-          { "number": 3, "title": "Drive In" , "image": "series/am-horr-s1.jpg"},
-          { "number": 4, "title": "The Naughty List" , "image": "series/am-horr-s1.jpg"},
-          { "number": 5, "title": "BA'AL" , "image": "series/am-horr-s1.jpg"},
-          { "number": 6, "title": "Feral" , "image": "series/am-horr-s1.jpg"},
-          { "number": 7, "title": "Game Over" , "image": "series/am-horr-s1.jpg"}
+          { "number": 1, "title": "Rubber(wo)Man: Part 1", "rating": 6.2, "image": "series/am-horr-s1.jpg" },
+          { "number": 2, "title": "Rubber(wo)Man: Part 2", "rating": 5.8, "image": "series/am-horr-s1.jpg"},
+          { "number": 3, "title": "Drive In", "rating": 6.4, "image": "series/am-horr-s1.jpg"},
+          { "number": 4, "title": "The Naughty List", "rating": 4.9, "image": "series/am-horr-s1.jpg"},
+          { "number": 5, "title": "BA'AL", "rating": 7.3, "image": "series/am-horr-s1.jpg"},
+          { "number": 6, "title": "Feral", "rating": 6.8, "image": "series/am-horr-s1.jpg"},
+          { "number": 7, "title": "Game Over", "rating": 5.1, "image": "series/am-horr-s1.jpg"}
         ]
       },
       {
@@ -133,14 +133,14 @@
         "year": 2022,
         "trailerUrl": "https://www.youtube.com/watch?v=3RWYH6UZ5PQ",
         "episodeDetails": [
-          { "number": 1, "title": "Dollhouse","image": "series/am-horr-s2.jpg" },
-          { "number": 2, "title": "Aura" ,"image": "series/am-horr-s2.jpg"},
-          { "number": 3, "title": "Drive" ,"image": "series/am-horr-s2.jpg"},
-          { "number": 4, "title": "Milkmaids" ,"image": "series/am-horr-s2.jpg"},
-          { "number": 5, "title": "Bloody Mary" ,"image": "series/am-horr-s2.jpg"},
-          { "number": 6, "title": "Facelift" ,"image": "series/am-horr-s2.jpg"},
-          { "number": 7, "title": "Necro" ,"image": "series/am-horr-s2.jpg"},
-          { "number": 8, "title": "Lake" ,"image": "series/am-horr-s2.jpg"}
+          { "number": 1, "title": "Dollhouse", "rating": 7.7, "image": "series/am-horr-s2.jpg" },
+          { "number": 2, "title": "Aura", "rating": 6.3, "image": "series/am-horr-s2.jpg"},
+          { "number": 3, "title": "Drive", "rating": 5.7, "image": "series/am-horr-s2.jpg"},
+          { "number": 4, "title": "Milkmaids", "rating": 5.6, "image": "series/am-horr-s2.jpg"},
+          { "number": 5, "title": "Bloody Mary", "rating": 6.9, "image": "series/am-horr-s2.jpg"},
+          { "number": 6, "title": "Facelift", "rating": 6.1, "image": "series/am-horr-s2.jpg"},
+          { "number": 7, "title": "Necro", "rating": 5.5, "image": "series/am-horr-s2.jpg"},
+          { "number": 8, "title": "Lake", "rating": 5.8, "image": "series/am-horr-s2.jpg"}
         ]
       },
       {
@@ -149,15 +149,15 @@
         "year": 2023,
         "trailerUrl": "https://www.youtube.com/watch?v=yHvZZIgMDFA",
         "episodeDetails": [
-          { "number": 1, "title": "Bestie","image": "series/am-horr-s3.jpg" },
-          { "number": 2, "title": "Daphne" ,"image": "series/am-horr-s3.jpg"},
-          { "number": 3, "title": "Tapeworm" ,"image": "series/am-horr-s3.jpg"},
-          { "number": 4, "title": "Organ" ,"image": "series/am-horr-s3.jpg"},
-          { "number": 5, "title": "Backrooms" , "image": "series/am-horr-s3.jpg"},
-          { "number": 6, "title": "Clone" , "image": "series/am-horr-s3.jpg"},
-          { "number": 7, "title": "X" , "image": "series/am-horr-s3.jpg"},
-          { "number": 8, "title": "Leprechaun" , "image": "series/am-horr-s3.jpg"},
-          { "number": 9, "title": "The Thing Under the Bed" , "image": "series/am-horr-s3.jpg"}
+          { "number": 1, "title": "Bestie", "rating": 6.8, "image": "series/am-horr-s3.jpg" },
+          { "number": 2, "title": "Daphne", "rating": 6.5, "image": "series/am-horr-s3.jpg"},
+          { "number": 3, "title": "Tapeworm", "rating": 6.1, "image": "series/am-horr-s3.jpg"},
+          { "number": 4, "title": "Organ", "rating": 5.9, "image": "series/am-horr-s3.jpg"},
+          { "number": 5, "title": "Backrooms", "rating": 6.6, "image": "series/am-horr-s3.jpg"},
+          { "number": 6, "title": "Clone", "rating": 6.2, "image": "series/am-horr-s3.jpg"},
+          { "number": 7, "title": "X", "rating": 6.0, "image": "series/am-horr-s3.jpg"},
+          { "number": 8, "title": "Leprechaun", "rating": 5.7, "image": "series/am-horr-s3.jpg"},
+          { "number": 9, "title": "The Thing Under the Bed", "rating": 6.4, "image": "series/am-horr-s3.jpg"}
         ]
       }
     ],
@@ -196,6 +196,122 @@
       {
         "title": "Caras conocidas",
         "text": "Varios actores de la serie matriz reaparecen interpretando tanto personajes clásicos como nuevos roles dentro del formato antológico."
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "title": "Chucky",
+    "originalTitle": "Chucky",
+    "tagline": "Un clásico del terror nunca muere.",
+    "year": 2021,
+    "endYear": 2024,
+    "status": "Finalizada",
+    "rating": 7.3,
+    "episodes": 24,
+    "episodeDuration": "40-47 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Comedia negra",
+      "Suspenso"
+    ],
+    "synopsis": "Un muñeco clásico de Chucky aparece en una venta de garaje suburbana, sumiendo a una idílica ciudad estadounidense en el caos a medida que una serie de horribles asesinatos comienzan a exponer las hipocresías y los secretos del pueblo.",
+    "image": "series/chucky.jpg",
+    "creators": ["Don Mancini"],
+    "writers": ["Don Mancini", "Kim Garland", "Sarah Acosta"],
+    "directors": ["Don Mancini", "Samir Rehem", "Dermott Downs"],
+    "music": "Joseph LoDuca",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["Syfy", "USA Network", "Star+ / Disney+"],
+    "productionCompanies": ["Universal Content Productions (UCP)", "David Kirschner Productions"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2021,
+        "trailerUrl": "https://www.youtube.com/watch?v=5BVC-zskczk",
+        "episodeDetails": [
+          { "number": 1, "title": "Death by Misadventure", "rating": 7.7, "image": "series/chuc-s1.jpg"},
+          { "number": 2, "title": "Give Me Something Good to Eat", "rating": 7.6, "image": "series/chuc-s1.jpg" },
+          { "number": 3, "title": "I Like to Be Hugged", "rating": 7.8, "image": "series/chuc-s1.jpg" },
+          { "number": 4, "title": "Just Let Go", "rating": 8.0, "image": "series/chuc-s1.jpg" },
+          { "number": 5, "title": "Little Little Lies", "rating": 8.1, "image": "series/chuc-s1.jpg" },
+          { "number": 6, "title": "Cape Queer", "rating": 8.2, "image": "series/chuc-s1.jpg" },
+          { "number": 7, "title": "Twice the Grief, Double the Loss", "rating": 8.3, "image": "series/chuc-s1.jpg" },
+          { "number": 8, "title": "An Affair to Dismember", "rating": 8.5, "image": "series/chuc-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=Qk3X_Ku8DfY",
+        "episodeDetails": [
+          { "number": 1, "title": "Halloween II", "rating": 7.6, "image": "series/chuc-s2.jpg" },
+          { "number": 2, "title": "The Sinners Are Much More Fun", "rating": 7.4, "image": "series/chuc-s2.jpg" },
+          { "number": 3, "title": "Hail Mary!", "rating": 7.9, "image": "series/chuc-s2.jpg" },
+          { "number": 4, "title": "Death on Denial", "rating": 8.1, "image": "series/chuc-s2.jpg" },
+          { "number": 5, "title": "Doll on Doll", "rating": 7.8, "image": "series/chuc-s2.jpg" },
+          { "number": 6, "title": "He is Risen Indeed", "rating": 7.7, "image": "series/chuc-s2.jpg" },
+          { "number": 7, "title": "Goin' to the Chapel", "rating": 8.0, "image": "series/chuc-s2.jpg" },
+          { "number": 8, "title": "Chucky Actual", "rating": 8.2, "image": "series/chuc-s2.jpg" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "year": 2023,
+        "trailerUrl": "https://www.youtube.com/watch?v=0g0OZc5-xoY",
+        "episodeDetails": [
+          { "number": 1, "title": "Murder at 1600", "rating": 7.8, "image": "series/chuc-s3.jpg" },
+          { "number": 2, "title": "Let the Right One In", "rating": 7.6, "image": "series/chuc-s3.jpg" },
+          { "number": 3, "title": "Jennifer's Body", "rating": 8.0, "image": "series/chuc-s3.jpg" },
+          { "number": 4, "title": "Dressed to Kill", "rating": 8.2, "image": "series/chuc-s3.jpg" },
+          { "number": 5, "title": "Death Becomes Her", "rating": 7.9, "image": "series/chuc-s3.jpg" },
+          { "number": 6, "title": "Panic Room", "rating": 8.1, "image": "series/chuc-s3.jpg" },
+          { "number": 7, "title": "There's Fate Worse Than Death", "rating": 8.3, "image": "series/chuc-s3.jpg" },
+          { "number": 8, "title": "Final Destination", "rating": 8.4, "image": "series/chuc-s3.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Zackary Arthur", "character": "Jake Wheeler" },
+      { "name": "Björgvin Arnarson", "character": "Devon Evans" },
+      { "name": "Alyvia Alyn Lind", "character": "Lexy Cross" },
+      { "name": "Brad Dourif", "character": "Voz de Chucky" },
+      { "name": "Jennifer Tilly", "character": "Tiffany Valentine / Ella misma" },
+      { "name": "Fiona Dourif", "character": "Nica Pierce" }
+    ],
+    "awards": ["Nominada a los Saturn Awards y Critics Choice Super Awards"],
+    "reviews": [
+      {
+        "author": "Crítica especial de terror",
+        "source": "Reseña de cine y TV",
+        "score": "8/10",
+        "text": "Logra adaptar con éxito el humor negro y el gore de la saga original de Chucky al formato televisivo moderno."
+      },
+      {
+        "author": "Fan de la saga",
+        "source": "Opinión de audiencia",
+        "score": "8.5/10",
+        "text": "Mantiene viva la esencia del personaje con la inigualable voz de Brad Dourif y el regreso del elenco clásico."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Continuidad directa",
+        "text": "La serie sirve como secuela directa de Cult of Chucky (2017), manteniendo la línea temporal oficial de la franquicia viva por décadas."
+      },
+      {
+        "title": "Creador original al mando",
+        "text": "Don Mancini, creador del personaje en 1988, escribió y dirigió gran parte de la serie para asegurar la esencia de la franquicia."
+      },
+      {
+        "title": "Reunión familiar",
+        "text": "Brad Dourif vuelve para dar voz al icónico muñeco, mientras que su hija en la vida real, Fiona Dourif, retoma su papel de Nica Pierce."
       }
     ]
   }
