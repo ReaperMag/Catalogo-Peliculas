@@ -204,5 +204,198 @@
       }
     ],
     "image": "actores/ms_MatthewMcConaughey.png"
-  }
+  },
+
+{
+  "id": "a3",
+  "name": "Sigourney Weaver",
+  "birthYear": 1949,
+  "birthDate": "8 de octubre de 1949",
+  "birthPlace": "Manhattan, Nueva York, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Sigourney Weaver es una actriz estadounidense reconocida por una extensa trayectoria en cine, teatro y televisión. Alcanzó reconocimiento internacional por interpretar a Ellen Ripley en la saga Alien, personaje que se convirtió en uno de los más representativos del cine de ciencia ficción. También ha participado en producciones como Avatar, Gorillas in the Mist, Ghostbusters y Galaxy Quest.",
+  "knownFor": [
+    "Alien",
+    "Aliens",
+    "Avatar",
+    "Gorillas in the Mist"
+  ],
+  "filmography": [
+    {
+      "year": 2022,
+      "title": "Avatar: The Way of Water",
+      "character": "Kiri",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2016,
+      "title": "A Monster Calls",
+      "character": "Grandma",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2009,
+      "title": "Avatar",
+      "character": "Dr. Grace Augustine",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 1999,
+      "title": "Galaxy Quest",
+      "character": "Gwen DeMarco",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 1997,
+      "title": "Alien: Resurrection",
+      "character": "Ripley",
+      "type": "Película",
+      "rating": 6.2
+    },
+    {
+      "year": 1995,
+      "title": "Copycat",
+      "character": "Helen Hudson",
+      "type": "Película",
+      "rating": 6.6
+    },
+    {
+      "year": 1992,
+      "title": "Alien 3",
+      "character": "Ripley",
+      "type": "Película",
+      "rating": 6.4
+    },
+    {
+      "year": 1988,
+      "title": "Gorillas in the Mist",
+      "character": "Dian Fossey",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 1986,
+      "title": "Aliens",
+      "character": "Ellen Ripley",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 1984,
+      "title": "Ghostbusters",
+      "character": "Dana Barrett",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 1979,
+      "title": "Alien",
+      "character": "Ellen Ripley",
+      "type": "Película",
+      "rating": 8.4
+    }
+  ],
+  "image": "actores/ms_SigourneyWeaver.png"
+},
+{
+  "id": "a4",
+  "name": "Amy Adams",
+  "birthYear": 1974,
+  "birthDate": "20 de agosto de 1974",
+  "birthPlace": "Vicenza, Veneto, Italia",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Amy Adams es una actriz estadounidense nacida en Italia. Ha desarrollado una carrera reconocida por su versatilidad en dramas, comedias, musicales y ciencia ficción. Entre sus interpretaciones más conocidas se encuentran Louise Banks en Arrival, Giselle en Enchanted, Charlene Fleming en The Fighter y Lois Lane en varias producciones de DC.",
+  "knownFor": [
+    "Arrival",
+    "Enchanted",
+    "The Fighter",
+    "The Master"
+  ],
+  "filmography": [
+    {
+      "year": 2021,
+      "title": "The Woman in the Window",
+      "character": "Anna Fox",
+      "type": "Película",
+      "rating": 5.7
+    },
+    {
+      "year": 2018,
+      "title": "Vice",
+      "character": "Lynne Cheney",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2016,
+      "title": "Arrival",
+      "character": "Louise Banks",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 2016,
+      "title": "Nocturnal Animals",
+      "character": "Susan Morrow",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2016,
+      "title": "Batman v Superman: Dawn of Justice",
+      "character": "Lois Lane",
+      "type": "Película",
+      "rating": 6.5
+    },
+    {
+      "year": 2014,
+      "title": "Big Eyes",
+      "character": "Margaret Keane",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2013,
+      "title": "American Hustle",
+      "character": "Sydney Prosser",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2013,
+      "title": "Man of Steel",
+      "character": "Lois Lane",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2012,
+      "title": "The Master",
+      "character": "Peggy Dodd",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2010,
+      "title": "The Fighter",
+      "character": "Charlene Fleming",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2007,
+      "title": "Enchanted",
+      "character": "Giselle",
+      "type": "Película",
+      "rating": 7.1
+    }
+  ],
+  "image": "actores/ms_AmyAdams.png"
+}
 ]
