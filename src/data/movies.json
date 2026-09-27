@@ -897,5 +897,100 @@
         "text": "Valoración pública de 7.7/10 en IMDb."
       }
     ]
+  },
+  {
+    "id": "y-donde-esta-el-fantasma",
+    "title": "¿Y dónde está el fantasma?",
+    "originalTitle": "A Haunted House",
+    "tagline": "Una casa encantada, una pareja aterrorizada y un caos paranormal.",
+    "year": 2013,
+    "rating": 5.1,
+    "metascore": 20,
+    "duration": "1h 26m",
+    "certification": "R",
+    "genres": [
+      "Comedia",
+      "Terror"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "synopsis": "Malcolm y Kisha se mudan a la casa de sus sueños, pero pronto descubren que una presencia demoníaca la habita. Cuando el espíritu comienza a poseer a Kisha, Malcolm recurre a un sacerdote, una médium y especialistas paranormales para intentar salvar su relación y sobrevivir a los fenómenos sobrenaturales.",
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak%3D/v3/t/assets/p9488398_p_v12_ay.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=daCqXHagaPY",
+    "viewCount": null,
+    "director": "Michael Tiddes",
+    "writers": [
+      "Marlon Wayans",
+      "Rick Alvarez"
+    ],
+    "cinematography": "Steve Gainer",
+    "editing": "Suzanne Hines",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "Open Road Films",
+      "IM Global",
+      "Endgame Entertainment"
+    ],
+    "boxOffice": "$60.2 millones mundial (aprox.); presupuesto: $2.5 millones",
+    "cast": [
+      {
+        "name": "Marlon Wayans",
+        "character": "Malcolm"
+      },
+      {
+        "name": "Essence Atkins",
+        "character": "Kisha"
+      },
+      {
+        "name": "Cedric the Entertainer",
+        "character": "Padre Williams"
+      },
+      {
+        "name": "David Koechner",
+        "character": "Dan"
+      },
+      {
+        "name": "Nick Swardson",
+        "character": "Chip"
+      },
+      {
+        "name": "Dave Sheridan",
+        "character": "Bob"
+      }
+    ],
+    "awards": [
+      "Ganadora del Golden Trailer Award 2013 al póster más atrevido (“Trashiest Poster”)",
+      "IMDb registra 1 victoria y 1 nominación"
+    ],
+    "trivia": [
+      {
+        "title": "Parodia sobrenatural",
+        "text": "La película parodia el estilo de metraje encontrado de cintas como Actividad paranormal."
+      },
+      {
+        "title": "El demonio",
+        "text": "La presencia sobrenatural termina poseyendo a Kisha mientras Malcolm busca ayuda."
+      },
+      {
+        "title": "Título original",
+        "text": "Su título original es A Haunted House; en Hispanoamérica se distribuyó como ¿Y dónde está el fantasma?"
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "20 / 100",
+        "text": "Metascore de 20/100 basado en 16 críticas profesionales."
+      },
+      {
+        "author": "Rotten Tomatoes",
+        "source": "Crítica y audiencia",
+        "score": "10% / 51%",
+        "text": "10% de valoración de la crítica y 51% del público en Rotten Tomatoes."
+      }
+    ]
   }
 ]
