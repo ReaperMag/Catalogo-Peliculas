@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useLayoutEffect, useState } from 'react'
 import './App.css'
 import { Footer } from './components/layout/Footer'
 import { Header } from './components/layout/Header'
@@ -16,6 +16,10 @@ function App() {
   const [selectedMovieId, setSelectedMovieId] = useState<string | null>(null)
   const [selectedSeriesId, setSelectedSeriesId] = useState<string | null>(null)
   const [selectedActorId, setSelectedActorId] = useState<string | null>(null)
+  useLayoutEffect(() => {
+    window.scrollTo(0, 0)
+  }, [activePage])
+
   const selectMovie = (id: string) => { setSelectedMovieId(id); setActivePage('detail') }
   const selectSeries = (id: string) => { setSelectedSeriesId(id); setActivePage('series') }
   const selectActor = (id: string) => { setSelectedActorId(id); setActivePage('actor') }

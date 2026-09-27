@@ -13,13 +13,6 @@ export function SeriesDetailPage({ seriesId, onNavigate }: SeriesDetailPageProps
     (total, season) => total + season.episodes,
     0,
   ) ?? item.episodes ?? 0
-  const episodeRatings = item.seasonDetails?.flatMap((season) =>
-    season.episodeDetails?.flatMap((episode) => episode.rating == null ? [] : [episode.rating]) ?? [],
-  ) ?? []
-  const averageEpisodeRating = episodeRatings.length
-    ? episodeRatings.reduce((total, rating) => total + rating, 0) / episodeRatings.length
-    : null
-
   return (
     <main className="cinema-detail">
       <section
@@ -43,7 +36,7 @@ export function SeriesDetailPage({ seriesId, onNavigate }: SeriesDetailPageProps
             <div className="cinema-detail__kicker">
               <span>SERIE</span>
               <span>• {item.year}{item.endYear ? `-${item.endYear}` : ''}</span>
-              <span>• {item.seasons} temporadas</span>
+              <span>• {item.seasons} {item.seasons === 1 ? 'temporada' : 'temporadas'}</span>
               {item.episodes != null && <span>• {item.episodes} episodios</span>}
               {item.certification && <span>• {item.certification}</span>}
               <span>• {item.genres.join(' / ')}</span>
@@ -116,9 +109,6 @@ export function SeriesDetailPage({ seriesId, onNavigate }: SeriesDetailPageProps
                   <h2>Guía de episodios</h2>
                   <p>
                     {episodeCount} episodios
-                    {averageEpisodeRating != null && (
-                      <> · Promedio: <strong>★ {averageEpisodeRating.toFixed(2)}</strong></>
-                    )}
                     {item.status && <> · {item.status}</>}
                   </p>
                 </div>
@@ -132,7 +122,6 @@ export function SeriesDetailPage({ seriesId, onNavigate }: SeriesDetailPageProps
                         <h3>Temporada {season.season}</h3>
                         <span>{season.episodes} episodios · {season.year}</span>
                       </div>
-                      {season.rating != null && <strong>★ {season.rating.toFixed(1)}</strong>}
                     </summary>
 
                     {(season.trailerUrl || (season.season === 1 ? item.trailerUrl : undefined)) && (

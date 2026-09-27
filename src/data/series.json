@@ -1,142 +1,595 @@
 [
   {
-    "id": "s1",
-    "title": "Dark",
-    "originalTitle": "Dark",
-    "tagline": "Todo está conectado.",
-    "year": 2017,
-    "endYear": 2020,
-    "status": "Finalizada",
-    "rating": 8.7,
-    "episodes": 26,
-    "episodeDuration": "45-57 min",
-    "certification": "16+",
-    "seasons": 3,
+    "id": "s20",
+    "title": "It: Bienvenidos a Derry",
+    "originalTitle": "It: Welcome to Derry",
+    "tagline": "El origen del mal regresa a Derry.",
+    "year": 2025,
+    "endYear": null,
+    "status": "Terminada",
+    "rating": 8.1,
+    "episodes": 8,
+    "episodeDuration": "55-65 min",
+    "certification": "18+",
+    "seasons": 1,
     "genres": [
-      "Ciencia ficción",
+      "Terror",
+      "Misterio",
       "Drama"
     ],
-    "synopsis": "La desaparición de dos niños revela secretos que conectan a cuatro familias de un pequeño pueblo.",
-    "image": "",
-    "trailerUrl": "https://www.youtube.com/watch?v=rrwycJ08PSA",
-    "creators": ["Baran bo Odar", "Jantje Friese"],
-    "writers": ["Jantje Friese"],
-    "directors": ["Baran bo Odar"],
-    "music": "Ben Frost",
-    "country": "Alemania",
-    "language": "Alemán",
-    "streamingPlatforms": ["Netflix"],
-    "productionCompanies": ["Wiedemann & Berg Television"],
+    "synopsis": "Ambientada en la década de 1960, la serie explora los eventos previos a las películas de IT, profundizando en la historia del pueblo de Derry y el despertar del terrorífico payaso Pennywise.",
+    "image": "series/it.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=oKa6u7LT0qE",
+    "creators": ["Andy Muschietti", "Barbara Muschietti", "Jason Fuchs"],
+    "writers": ["Jason Fuchs", "Brad Caleb Kane"],
+    "directors": ["Andy Muschietti"],
+    "music": "Benjamin Wallfisch",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["HBO / Max"],
+    "productionCompanies": ["Warner Bros. Television", "Double Dream", "Rideback", "Vertigo Entertainment"],
     "seasonDetails": [
       {
         "season": 1,
-        "episodes": 10,
-        "year": 2017,
+        "episodes": 8,
+        "year": 2025,
         "episodeDetails": [
-          { "number": 1, "title": "Secrets" },
-          { "number": 2, "title": "Lies" },
-          { "number": 3, "title": "Past and Present" },
-          { "number": 4, "title": "Double Lives" },
-          { "number": 5, "title": "Truths" },
-          { "number": 6, "title": "Sic Mundus Creatus Est" },
-          { "number": 7, "title": "Crossroads" },
-          { "number": 8, "title": "As You Sow, So You Reap" },
-          { "number": 9, "title": "Everything Is Now" },
-          { "number": 10, "title": "Alpha and Omega" }
+          { "number": 1, "title": "The Pilot", "rating": 8.4, "image": "series/it-ep.jpg"},
+          { "number": 2, "title": "The Thing in the Dark", "rating": 8.1, "image": "series/it-ep.jpg" },
+          { "number": 3, "title": "Now You See It", "rating": 7.9, "image": "series/it-ep.jpg"},
+          { "number": 4, "title": "The Great Swirling Apparatus of Our Planet's Function", "rating": 8.2, "image": "series/it-ep.jpg" },
+          { "number": 5, "title": "29 Neibolt Street", "rating": 8.6, "image": "series/it-ep.jpg"},
+          { "number": 6, "title": "In the Name of the Father", "rating": 8.0, "image": "series/it-ep.jpg"},
+          { "number": 7, "title": "The Black Spot", "rating": 8.5, "image": "series/it-ep.jpg"},
+          { "number": 8, "title": "Winter Fire", "rating": 8.8, "image": "series/it-ep.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Bill Skarsgård", "character": "Pennywise / Bob Gray" },
+      { "name": "Jovan Adepo", "character": "Leroy Hanlon" },
+      { "name": "Taylour Paige", "character": "Charlotte Hanlon" },
+      { "name": "Chris Chalk", "character": "Dick Hallorann" },
+      { "name": "James Remar", "character": "Francis Shaw" },
+      { "name": "Madeleine Stowe", "character": "Ingrid Kersh" }
+    ],
+    "awards": ["Nominada a producciones destacadas de terror en televisión"],
+    "reviews": [
+      {
+        "author": "Crítica de televisión",
+        "source": "Reseña de medios",
+        "score": "8.5/10",
+        "text": "Una expansión inquietante del universo de Stephen King que amplía de manera efectiva el trasfondo histórico de Pennywise."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "8/10",
+        "text": "Mantiene el nivel de producción de las películas y entrega momentos de tensión bien construidos."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "El regreso de Bill Skarsgård",
+        "text": "Bill Skarsgård vuelve a interpretar al icónico payaso Pennywise tras encarnarlo en las adaptaciones cinematográficas de 2017 y 2019."
+      },
+      {
+        "title": "Conexión con El Resplandor",
+        "text": "La serie incluye al personaje de Dick Hallorann en su juventud, conectando la historia con el universo compartido de Stephen King."
+      },
+      {
+        "title": "Liderada por los hermanos Muschietti",
+        "text": "Andy y Barbara Muschietti, directores del díptico cinematográfico de IT, regresan como productores ejecutivos y showrunners de la serie."
+      }
+    ]
+  },
+  {
+    "id": "s21",
+    "title": "American Horror Stories",
+    "originalTitle": "American Horror Stories",
+    "tagline": "Diferentes historias. Mismos pesadillas.",
+    "year": 2021,
+    "endYear": null,
+    "status": "En emisión",
+    "rating": 6.2,
+    "episodes": 28,
+    "episodeDuration": "38-48 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Suspenso"
+    ],
+    "synopsis": "Una serie antológica derivada de American Horror Story en la que cada episodio presenta una historia de terror diferente, explorando desde mitos urbanos y casas embrujadas hasta tecnología macabra.",
+    "image": "series/am-horr.png",
+    "creators": ["Ryan Murphy", "Brad Falchuk"],
+    "writers": ["Ryan Murphy", "Brad Falchuk", "Manny Coto"],
+    "directors": ["Loni Peristere", "Max Winkler", "Alexis Martin Woodall"],
+    "music": "Mac Quayle",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["FX on Hulu", "Disney+"],
+    "productionCompanies": ["20th Television", "Ryan Murphy Television"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 7,
+        "year": 2021,
+        "trailerUrl": "https://www.youtube.com/watch?v=nLJR2twdK00",
+        "episodeDetails": [
+          { "number": 1, "title": "Rubber(wo)Man: Part 1", "rating": 6.2, "image": "series/am-horr-s1.jpg" },
+          { "number": 2, "title": "Rubber(wo)Man: Part 2", "rating": 5.8, "image": "series/am-horr-s1.jpg"},
+          { "number": 3, "title": "Drive In", "rating": 6.4, "image": "series/am-horr-s1.jpg"},
+          { "number": 4, "title": "The Naughty List", "rating": 4.9, "image": "series/am-horr-s1.jpg"},
+          { "number": 5, "title": "BA'AL", "rating": 7.3, "image": "series/am-horr-s1.jpg"},
+          { "number": 6, "title": "Feral", "rating": 6.8, "image": "series/am-horr-s1.jpg"},
+          { "number": 7, "title": "Game Over", "rating": 5.1, "image": "series/am-horr-s1.jpg"}
         ]
       },
       {
         "season": 2,
         "episodes": 8,
-        "year": 2019,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=3RWYH6UZ5PQ",
         "episodeDetails": [
-          { "number": 1, "title": "Beginnings and Endings" },
-          { "number": 2, "title": "Dark Matter" },
-          { "number": 3, "title": "Ghosts" },
-          { "number": 4, "title": "The Travelers" },
-          { "number": 5, "title": "Lost and Found" },
-          { "number": 6, "title": "An Endless Cycle" },
-          { "number": 7, "title": "The White Devil" },
-          { "number": 8, "title": "Endings and Beginnings" }
+          { "number": 1, "title": "Dollhouse", "rating": 7.7, "image": "series/am-horr-s2.jpg" },
+          { "number": 2, "title": "Aura", "rating": 6.3, "image": "series/am-horr-s2.jpg"},
+          { "number": 3, "title": "Drive", "rating": 5.7, "image": "series/am-horr-s2.jpg"},
+          { "number": 4, "title": "Milkmaids", "rating": 5.6, "image": "series/am-horr-s2.jpg"},
+          { "number": 5, "title": "Bloody Mary", "rating": 6.9, "image": "series/am-horr-s2.jpg"},
+          { "number": 6, "title": "Facelift", "rating": 6.1, "image": "series/am-horr-s2.jpg"},
+          { "number": 7, "title": "Necro", "rating": 5.5, "image": "series/am-horr-s2.jpg"},
+          { "number": 8, "title": "Lake", "rating": 5.8, "image": "series/am-horr-s2.jpg"}
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 9,
+        "year": 2023,
+        "trailerUrl": "https://www.youtube.com/watch?v=yHvZZIgMDFA",
+        "episodeDetails": [
+          { "number": 1, "title": "Bestie", "rating": 6.8, "image": "series/am-horr-s3.jpg" },
+          { "number": 2, "title": "Daphne", "rating": 6.5, "image": "series/am-horr-s3.jpg"},
+          { "number": 3, "title": "Tapeworm", "rating": 6.1, "image": "series/am-horr-s3.jpg"},
+          { "number": 4, "title": "Organ", "rating": 5.9, "image": "series/am-horr-s3.jpg"},
+          { "number": 5, "title": "Backrooms", "rating": 6.6, "image": "series/am-horr-s3.jpg"},
+          { "number": 6, "title": "Clone", "rating": 6.2, "image": "series/am-horr-s3.jpg"},
+          { "number": 7, "title": "X", "rating": 6.0, "image": "series/am-horr-s3.jpg"},
+          { "number": 8, "title": "Leprechaun", "rating": 5.7, "image": "series/am-horr-s3.jpg"},
+          { "number": 9, "title": "The Thing Under the Bed", "rating": 6.4, "image": "series/am-horr-s3.jpg"}
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Sierra McCormick", "character": "Scarlett" },
+      { "name": "Matt Bomer", "character": "Michael" },
+      { "name": "Denis O'Hare", "character": "Spalding / Van Wirt" },
+      { "name": "Billie Lourd", "character": "Hannah" },
+      { "name": "Dylan McDermott", "character": "Dr. Ben Harmon" },
+      { "name": "Cody Fern", "character": "Stan Vogel" }
+    ],
+    "awards": ["Nominaciones a los Hollywood Critics Association TV Awards"],
+    "reviews": [
+      {
+        "author": "Crítico de TV",
+        "source": "Reseña de medios",
+        "score": "6.5/10",
+        "text": "Una propuesta entretenida para los fans del formato antológico que ofrece relatos rápidos de terror con altibajos según el episodio."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "6/10",
+        "text": "Funciona bien si buscas historias autoconclusivas sin necesidad de comprometerte con una temporada completa."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Spin-off directo",
+        "text": "Es una serie derivada de American Horror Story donde cada capítulo aborda un relato independiente en lugar de hacerlo por temporada."
+      },
+      {
+        "title": "Retorno a Murder House",
+        "text": "Los primeros dos episodios de la primera temporada regresan a la mítica casa de la primera temporada de la serie principal."
+      },
+      {
+        "title": "Caras conocidas",
+        "text": "Varios actores de la serie matriz reaparecen interpretando tanto personajes clásicos como nuevos roles dentro del formato antológico."
+      }
+    ]
+  },
+  {
+    "id": "s22",
+    "title": "Chucky",
+    "originalTitle": "Chucky",
+    "tagline": "Un clásico del terror nunca muere.",
+    "year": 2021,
+    "endYear": 2024,
+    "status": "Finalizada",
+    "rating": 7.3,
+    "episodes": 24,
+    "episodeDuration": "40-47 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Comedia negra",
+      "Suspenso"
+    ],
+    "synopsis": "Un muñeco clásico de Chucky aparece en una venta de garaje suburbana, sumiendo a una idílica ciudad estadounidense en el caos a medida que una serie de horribles asesinatos comienzan a exponer las hipocresías y los secretos del pueblo.",
+    "image": "series/chucky.jpg",
+    "creators": ["Don Mancini"],
+    "writers": ["Don Mancini", "Kim Garland", "Sarah Acosta"],
+    "directors": ["Don Mancini", "Samir Rehem", "Dermott Downs"],
+    "music": "Joseph LoDuca",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["Syfy", "USA Network", "Star+ / Disney+"],
+    "productionCompanies": ["Universal Content Productions (UCP)", "David Kirschner Productions"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2021,
+        "trailerUrl": "https://www.youtube.com/watch?v=5BVC-zskczk",
+        "episodeDetails": [
+          { "number": 1, "title": "Death by Misadventure", "rating": 7.7, "image": "series/chuc-s1.jpg"},
+          { "number": 2, "title": "Give Me Something Good to Eat", "rating": 7.6, "image": "series/chuc-s1.jpg" },
+          { "number": 3, "title": "I Like to Be Hugged", "rating": 7.8, "image": "series/chuc-s1.jpg" },
+          { "number": 4, "title": "Just Let Go", "rating": 8.0, "image": "series/chuc-s1.jpg" },
+          { "number": 5, "title": "Little Little Lies", "rating": 8.1, "image": "series/chuc-s1.jpg" },
+          { "number": 6, "title": "Cape Queer", "rating": 8.2, "image": "series/chuc-s1.jpg" },
+          { "number": 7, "title": "Twice the Grief, Double the Loss", "rating": 8.3, "image": "series/chuc-s1.jpg" },
+          { "number": 8, "title": "An Affair to Dismember", "rating": 8.5, "image": "series/chuc-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=Qk3X_Ku8DfY",
+        "episodeDetails": [
+          { "number": 1, "title": "Halloween II", "rating": 7.6, "image": "series/chuc-s2.jpg" },
+          { "number": 2, "title": "The Sinners Are Much More Fun", "rating": 7.4, "image": "series/chuc-s2.jpg" },
+          { "number": 3, "title": "Hail Mary!", "rating": 7.9, "image": "series/chuc-s2.jpg" },
+          { "number": 4, "title": "Death on Denial", "rating": 8.1, "image": "series/chuc-s2.jpg" },
+          { "number": 5, "title": "Doll on Doll", "rating": 7.8, "image": "series/chuc-s2.jpg" },
+          { "number": 6, "title": "He is Risen Indeed", "rating": 7.7, "image": "series/chuc-s2.jpg" },
+          { "number": 7, "title": "Goin' to the Chapel", "rating": 8.0, "image": "series/chuc-s2.jpg" },
+          { "number": 8, "title": "Chucky Actual", "rating": 8.2, "image": "series/chuc-s2.jpg" }
         ]
       },
       {
         "season": 3,
         "episodes": 8,
-        "year": 2020,
+        "year": 2023,
+        "trailerUrl": "https://www.youtube.com/watch?v=0g0OZc5-xoY",
         "episodeDetails": [
-          { "number": 1, "title": "Déjà-vu" },
-          { "number": 2, "title": "The Survivors" },
-          { "number": 3, "title": "Adam and Eva" },
-          { "number": 4, "title": "The Origin" },
-          { "number": 5, "title": "Life and Death" },
-          { "number": 6, "title": "Light and Shadow" },
-          { "number": 7, "title": "Between the Time" },
-          { "number": 8, "title": "Paradise" }
+          { "number": 1, "title": "Murder at 1600", "rating": 7.8, "image": "series/chuc-s3.jpg" },
+          { "number": 2, "title": "Let the Right One In", "rating": 7.6, "image": "series/chuc-s3.jpg" },
+          { "number": 3, "title": "Jennifer's Body", "rating": 8.0, "image": "series/chuc-s3.jpg" },
+          { "number": 4, "title": "Dressed to Kill", "rating": 8.2, "image": "series/chuc-s3.jpg" },
+          { "number": 5, "title": "Death Becomes Her", "rating": 7.9, "image": "series/chuc-s3.jpg" },
+          { "number": 6, "title": "Panic Room", "rating": 8.1, "image": "series/chuc-s3.jpg" },
+          { "number": 7, "title": "There's Fate Worse Than Death", "rating": 8.3, "image": "series/chuc-s3.jpg" },
+          { "number": 8, "title": "Final Destination", "rating": 8.4, "image": "series/chuc-s3.jpg" }
         ]
       }
     ],
     "cast": [
-      { "name": "Louis Hofmann", "character": "Jonas Kahnwald" },
-      { "name": "Lisa Vicari", "character": "Martha Nielsen" },
-      { "name": "Oliver Masucci", "character": "Ulrich Nielsen" },
-      { "name": "Karoline Eichhorn", "character": "Charlotte Doppler" },
-      { "name": "Jördis Triebel", "character": "Katharina Nielsen" },
-      { "name": "Maja Schöne", "character": "Hannah Kahnwald" }
+      { "name": "Zackary Arthur", "character": "Jake Wheeler" },
+      { "name": "Björgvin Arnarson", "character": "Devon Evans" },
+      { "name": "Alyvia Alyn Lind", "character": "Lexy Cross" },
+      { "name": "Brad Dourif", "character": "Voz de Chucky" },
+      { "name": "Jennifer Tilly", "character": "Tiffany Valentine / Ella misma" },
+      { "name": "Fiona Dourif", "character": "Nica Pierce" }
     ],
-    "awards": ["Ganadora del Grimme-Preis 2018 en la categoría de ficción"],
+    "awards": ["Nominada a los Saturn Awards y Critics Choice Super Awards"],
     "reviews": [
       {
-        "author": "Usuario de ejemplo",
-        "source": "Opinión de muestra",
-        "score": "9/10",
-        "text": "La atmósfera y el misterio mantienen el interés, y la historia recompensa prestar atención a los detalles."
+        "author": "Crítica especial de terror",
+        "source": "Reseña de cine y TV",
+        "score": "8/10",
+        "text": "Logra adaptar con éxito el humor negro y el gore de la saga original de Chucky al formato televisivo moderno."
       },
       {
-        "author": "Usuario de ejemplo",
-        "source": "Opinión de muestra",
-        "score": "8/10",
-        "text": "Una propuesta de ciencia ficción ambiciosa, con personajes y relaciones que se desarrollan a lo largo de sus temporadas."
+        "author": "Fan de la saga",
+        "source": "Opinión de audiencia",
+        "score": "8.5/10",
+        "text": "Mantiene viva la esencia del personaje con la inigualable voz de Brad Dourif y el regreso del elenco clásico."
       }
     ],
     "trivia": [
       {
-        "title": "Un pueblo ficticio",
-        "text": "Winden, el escenario central de la historia, es un pueblo ficticio creado para la serie."
+        "title": "Continuidad directa",
+        "text": "La serie sirve como secuela directa de Cult of Chucky (2017), manteniendo la línea temporal oficial de la franquicia viva por décadas."
       },
       {
-        "title": "El cierre de la historia",
-        "text": "La tercera temporada se estrenó el 27 de junio de 2020, fecha que también tiene importancia dentro de la trama."
+        "title": "Creador original al mando",
+        "text": "Don Mancini, creador del personaje en 1988, escribió y dirigió gran parte de la serie para asegurar la esencia de la franquicia."
       },
       {
-        "title": "Reparto a través de distintas épocas",
-        "text": "Varios personajes aparecen en diferentes edades, interpretados por distintos actores a lo largo de la serie."
+        "title": "Reunión familiar",
+        "text": "Brad Dourif vuelve para dar voz al icónico muñeco, mientras que su hija en la vida real, Fiona Dourif, retoma su papel de Nica Pierce."
       }
     ]
   },
   {
-    "id": "s2",
-    "title": "The Bear",
-    "year": 2022,
-    "rating": 8.5,
-    "seasons": 3,
+    "id": "s23",
+    "title": "Stranger Things",
+    "originalTitle": "Stranger Things",
+    "tagline": "Un lado oscuro acecha bajo la superficie.",
+    "year": 2016,
+    "endYear": 2025,
+    "status": "Finalizada",
+    "rating": 8.7,
+    "episodes": 42,
+    "episodeDuration": "42-150 min",
+    "certification": "16+",
+    "seasons": 5,
     "genres": [
-      "Drama",
-      "Comedia"
+      "Ciencia ficción",
+      "Terror",
+      "Misterio",
+      "Drama"
     ],
-    "synopsis": "Un joven chef vuelve a Chicago para hacerse cargo del restaurante familiar.",
-    "image": ""
+    "synopsis": "A principios de los años ochenta, en el ficticio pueblo de Hawkins, Indiana, la misteriosa desaparición de un niño desvela un enigma que involucra experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+    "image": "series/strang.jpg",
+    "creators": ["Matt Duffer", "Ross Duffer"],
+    "writers": ["Matt Duffer", "Ross Duffer", "Kate Trefry", "Paul Dichter"],
+    "directors": ["Matt Duffer", "Ross Duffer", "Shawn Levy", "Nimród Antal"],
+    "music": "Kyle Dixon, Michael Stein",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["Netflix"],
+    "productionCompanies": ["Monkey Massacre Productions", "21 Laps Entertainment"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2016,
+        "trailerUrl": "https://www.youtube.com/watch?v=mnd7sFt5c3A",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: The Vanishing of Will Byers", "rating": 8.5 , "image": "series/strg-s1.jpg" },
+          { "number": 2, "title": "Chapter Two: The Weirdo on Maple Street", "rating": 8.4, "image": "series/strg-s1.jpg"  },
+          { "number": 3, "title": "Chapter Three: Holly, Jolly", "rating": 8.8, "image": "series/strg-s1.jpg" },
+          { "number": 4, "title": "Chapter Four: The Body", "rating": 8.9, "image": "series/strg-s1.jpg" },
+          { "number": 5, "title": "Chapter Five: The Flea and the Acrobat", "rating": 8.7, "image": "series/strg-s1.jpg" },
+          { "number": 6, "title": "Chapter Six: The Monster", "rating": 8.8, "image": "series/strg-s1.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Bathtub", "rating": 9.0, "image": "series/strg-s1.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Upside Down", "rating": 9.3, "image": "series/strg-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 9,
+        "year": 2017,
+        "trailerUrl": "https://www.youtube.com/watch?v=R1ZXOOLMJ8s",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: MADMAX", "rating": 8.2, "image": "series/strg-s2.jpg"  },
+          { "number": 2, "title": "Chapter Two: Trick or Treat, Freak", "rating": 8.3, "image": "series/strg-s2.jpg" },
+          { "number": 3, "title": "Chapter Three: The Pollywog", "rating": 8.2, "image": "series/strg-s2.jpg" },
+          { "number": 4, "title": "Chapter Four: Will the Wise", "rating": 8.5, "image": "series/strg-s2.jpg" },
+          { "number": 5, "title": "Chapter Five: Dig Dug", "rating": 8.7, "image": "series/strg-s2.jpg" },
+          { "number": 6, "title": "Chapter Six: The Spy", "rating": 9.1, "image": "series/strg-s2.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Lost Sister", "rating": 6.1, "image": "series/strg-s2.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Mind Flayer", "rating": 9.2, "image": "series/strg-s2.jpg" },
+          { "number": 9, "title": "Chapter Nine: The Gate", "rating": 9.3, "image": "series/strg-s2.jpg" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "year": 2019,
+        "trailerUrl": "https://www.youtube.com/watch?v=y7nmoLQSGnk",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: Suzie, Do You Copy?", "rating": 8.0, "image": "series/strg-s3.jpg" },
+          { "number": 2, "title": "Chapter Two: The Mall Rats", "rating": 8.0, "image": "series/strg-s3.jpg" },
+          { "number": 3, "title": "Chapter Three: The Case of the Missing Lifeguard", "rating": 8.2, "image": "series/strg-s3.jpg" },
+          { "number": 4, "title": "Chapter Four: The Sauna Test", "rating": 8.9, "image": "series/strg-s3.jpg" },
+          { "number": 5, "title": "Chapter Five: The Flayed", "rating": 8.6, "image": "series/strg-s3.jpg" },
+          { "number": 6, "title": "Chapter Six: E Pluribus Unum", "rating": 8.6, "image": "series/strg-s3.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Bite", "rating": 8.8, "image": "series/strg-s3.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Battle of Starcourt", "rating": 9.2, "image": "series/strg-s3.jpg" }
+        ]
+      },
+      {
+        "season": 4,
+        "episodes": 9,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=32qjg3lg7gA",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: The Hellfire Club", "rating": 8.4, "image": "series/strg-s4.jpg" },
+          { "number": 2, "title": "Chapter Two: Vecna's Curse", "rating": 8.3, "image": "series/strg-s4.jpg" },
+          { "number": 3, "title": "Chapter Three: The Monster and the Superhero", "rating": 8.4, "image": "series/strg-s4.jpg" },
+          { "number": 4, "title": "Chapter Four: Dear Billy", "rating": 9.6, "image": "series/strg-s4.jpg" },
+          { "number": 5, "title": "Chapter Five: The Nina Project", "rating": 8.5, "image": "series/strg-s4.jpg" },
+          { "number": 6, "title": "Chapter Six: The Dive", "rating": 8.8, "image": "series/strg-s4.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Massacre at Hawkins Lab", "rating": 9.5, "image": "series/strg-s4.jpg" },
+          { "number": 8, "title": "Chapter Eight: Papa", "rating": 8.9, "image": "series/strg-s4.jpg" },
+          { "number": 9, "title": "Chapter Nine: The Piggyback", "rating": 9.2, "image": "series/strg-s4.jpg" }
+        ]
+      },
+      {
+        "season": 5,
+        "episodes": 8,
+        "year": 2025,
+        "trailerUrl": "https://www.youtube.com/watch?v=Zf03hjU1MWA",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: The Crawl", "rating": 8.8, "image": "series/strg-s5.jpg" },
+          { "number": 2, "title": "Chapter Two: The Vanishing of...", "rating": 8.6, "image": "series/strg-s5.jpg" },
+          { "number": 3, "title": "Chapter Three: The Turnbow Trap", "rating": 8.7, "image": "series/strg-s5.jpg" },
+          { "number": 4, "title": "Chapter Four: Sorcerer", "rating": 8.9, "image": "series/strg-s5.jpg" },
+          { "number": 5, "title": "Chapter Five: Shock Jock", "rating": 8.8, "image": "series/strg-s5.jpg" },
+          { "number": 6, "title": "Chapter Six: Escape from Camazotz", "rating": 9.1, "image": "series/strg-s5.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Bridge", "rating": 9.3, "image": "series/strg-s5.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Rightside Up", "rating": 9.5, "image": "series/strg-s5.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven / Once" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" },
+      { "name": "David Harbour", "character": "Jim Hopper" },
+      { "name": "Gaten Matarazzo", "character": "Dustin Henderson" },
+      { "name": "Caleb McLaughlin", "character": "Lucas Sinclair" },
+      { "name": "Noah Schnapp", "character": "Will Byers" },
+      { "name": "Sadie Sink", "character": "Max Mayfield" },
+      { "name": "Joe Keery", "character": "Steve Harrington" }
+    ],
+    "awards": ["Ganadora de 12 premios Primetime Emmy y nominada a los Golden Globes"],
+    "reviews": [
+      {
+        "author": "Crítica especializada",
+        "source": "Reseña de medios",
+        "score": "9.5/10",
+        "text": "Un tributo extraordinario al cine fantástico de los ochenta con un desarrollo de personajes impecable y efectos visuales de primer nivel."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "9/10",
+        "text": "Una de las series más icónicas de la televisión moderna; logra mantener la emoción y el suspenso a lo largo de todas sus temporadas."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Inspiración en el proyecto Montauk",
+        "text": "El concepto original de la serie se basó en supuestos experimentos secretos del gobierno estadounidense en Montauk, Nueva York."
+      },
+      {
+        "title": "Audiciones infantiles masivas",
+        "text": "Los hermanos Duffer audicionaron a más de 1200 niños antes de seleccionar al elenco principal de amigos."
+      },
+      {
+        "title": "Banda sonora en sintetizador",
+        "text": "La memorable música synthwave fue compuesta por Kyle Dixon y Michael Stein, miembros de la banda electrónica SURVIVE."
+      }
+    ]
   },
   {
-  "id": "s3",
-  "title": "Nombre de la serie",
-  "year": 2024,
-  "rating": 8.6,
-  "seasons": 2,
-  "genres": ["Drama", "Suspenso"],
-  "synopsis": "Resumen de la serie.",
-  "image": "series/it.jpg"
-},
+    "id": "s24",
+    "title": "Penny Dreadful",
+    "originalTitle": "Penny Dreadful",
+    "tagline": "Hay cosas terribles dentro de todos nosotros.",
+    "year": 2014,
+    "endYear": 2016,
+    "status": "Finalizada",
+    "rating": 8.2,
+    "episodes": 27,
+    "episodeDuration": "47-60 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Gótico",
+      "Misterio",
+      "Drama"
+    ],
+    "synopsis": "En el Londres victoriano del siglo XIX, figuras icónicas de la literatura gótica como el Dr. Frankenstein, Dorian Gray y los personajes de Drácula se entrelazan en una oscura red sobrenatural liderada por la enigmática Vanessa Ives.",
+    "image": "series/penny.jpg",
+    "creators": ["John Logan"],
+    "writers": ["John Logan", "Andrew Hinderaker", "Krysty Wilson-Cairns"],
+    "directors": ["J.A. Bayona", "Dearbhla Walsh", "Coky Giedroyc", "Damon Thomas"],
+    "music": "Abel Korzeniowski",
+    "country": "Estados Unidos / Reino Unido",
+    "language": "Inglés",
+    "streamingPlatforms": ["Showtime", "Paramount+", "Prime Video"],
+    "productionCompanies": ["Desert Wolf Productions", "Neal Street Productions"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2014,
+        "trailerUrl": "https://www.youtube.com/watch?v=YFXHfEqMcis",
+        "episodeDetails": [
+          { "number": 1, "title": "Night Work", "rating": 8.0 , "image": "series/pnyDR-s1.jpg" },
+          { "number": 2, "title": "Séance", "rating": 8.3, "image": "series/pnyDR-s1.jpg" },
+          { "number": 3, "title": "Resurrection", "rating": 8.2, "image": "series/pnyDR-s1.jpg" },
+          { "number": 4, "title": "Demimonde", "rating": 8.1, "image": "series/pnyDR-s1.jpg" },
+          { "number": 5, "title": "Closer Than Sisters", "rating": 8.9, "image": "series/pnyDR-s1.jpg" },
+          { "number": 6, "title": "What Death Can Join Together", "rating": 8.4, "image": "series/pnyDR-s1.jpg" },
+          { "number": 7, "title": "Possession", "rating": 8.8, "image": "series/pnyDR-s1.jpg" },
+          { "number": 8, "title": "Grand Guignol", "rating": 8.5, "image": "series/pnyDR-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 10,
+        "year": 2015,
+        "trailerUrl": "https://www.youtube.com/watch?v=Wfhik-kUBGQ",
+        "episodeDetails": [
+          { "number": 1, "title": "Fresh Hell", "rating": 8.3, "image": "series/pnyDR-s2.jpg" },
+          { "number": 2, "title": "Verbis Diablo", "rating": 8.4, "image": "series/pnyDR-s2.jpg" },
+          { "number": 3, "title": "The Nightcomers", "rating": 9.1, "image": "series/pnyDR-s2.jpg" },
+          { "number": 4, "title": "Evil Spirits in Heavenly Places", "rating": 8.3, "image": "series/pnyDR-s2.jpg" },
+          { "number": 5, "title": "Above the Vaulted Sky", "rating": 8.2, "image": "series/pnyDR-s2.jpg" },
+          { "number": 6, "title": "Glorious Horrors", "rating": 8.5, "image": "series/pnyDR-s2.jpg" },
+          { "number": 7, "title": "Little Scorpion", "rating": 8.8, "image": "series/pnyDR-s2.jpg" },
+          { "number": 8, "title": "Memento Mori", "rating": 8.7, "image": "series/pnyDR-s2.jpg" },
+          { "number": 9,"title": "And Hell Itself My Only Foe", "rating": 8.9, "image": "series/pnyDR-s2.jpg" },
+          { "number": 10,"title": "And They Were Enemies","rating": 8.8,"image": "series/pnyDR-s2.jpg" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 9,
+        "year": 2016,
+        "trailerUrl": "https://www.youtube.com/watch?v=WiurpmS4spI",
+        "episodeDetails": [
+          { "number": 1, "title": "The Day Tennyson Died", "rating": 8.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 2, "title": "Predators Far and Near", "rating": 8.1, "image": "series/pnyDR-s3.jpg" },
+          { "number": 3, "title": "Good and Evil Braided Be", "rating": 8.3, "image": "series/pnyDR-s3.jpg" },
+          { "number": 4, "title": "A Blade of Grass", "rating": 9.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 5, "title": "This World Is Our Hell", "rating": 8.0, "image": "series/pnyDR-s3.jpg" },
+          { "number": 6, "title": "No Beast So Fierce", "rating": 8.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 7, "title": "Ebb Tide", "rating": 8.5, "image": "series/pnyDR-s3.jpg" },
+          { "number": 8, "title": "Perpetual Night", "rating": 8.3, "image": "series/pnyDR-s3.jpg" },
+          { "number": 9, "title": "The Blessed Dark", "rating": 7.8, "image": "series/pnyDR-s3.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Eva Green", "character": "Vanessa Ives" },
+      { "name": "Josh Hartnett", "character": "Ethan Chandler" },
+      { "name": "Timothy Dalton", "character": "Sir Malcolm Murray" },
+      { "name": "Harry Treadaway", "character": "Dr. Victor Frankenstein" },
+      { "name": "Reeve Carney", "character": "Dorian Gray" },
+      { "name": "Billie Piper", "character": "Brona Croft / Lily" },
+      { "name": "Rory Kinnear", "character": "La Criatura / John Clare" }
+    ],
+    "awards": ["Ganadora de 3 premios BAFTA TV Craft y múltiples nominaciones a los Premios Emmy"],
+    "reviews": [
+      {
+        "author": "Crítica de televisión",
+        "source": "Reseña especializada",
+        "score": "9/10",
+        "text": "Una obra maestra del terror gótico televisivo impulsada por una actuación inolvidable y magistral de Eva Green."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "8.5/10",
+        "text": "Destaca por su prosa elegante, ambientación impecable y una banda sonora poética que complementa a la perfección la atmósfera del Londres victoriano."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Origen del título",
+        "text": "El término 'Penny Dreadful' hace referencia a los folletines de ficción barata y terrorífica que se vendían por un penique en el Reino Unido del siglo XIX."
+      },
+      {
+        "title": "Dirección inicial de J.A. Bayona",
+        "text": "El célebre director español J.A. Bayona dirigió los primeros dos episodios de la serie, estableciendo la estética y el tono visual macabro."
+      },
+      {
+        "title": "Composición de Abel Korzeniowski",
+        "text": "La aclamada banda sonora fue compuesta por Abel Korzeniowski, otorgándole un tono melancólico y trágico a la narrativa."
+      }
+    ]
+  },
 {
   "id": "s4",
   "title": "The L Word",
