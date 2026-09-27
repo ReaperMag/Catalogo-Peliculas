@@ -13,6 +13,7 @@ import { TedTemplate } from './pages/TedTemplate'
 import { DeadpoolWolverineTemplate } from './pages/DeadpoolWolverineTemplate'
 import { QuePasoAyerTemplate } from './pages/QuePasoAyerTemplate'
 import { YDondeEstaElFantasmaTemplate } from './pages/YDondeEstaElFantasmaTemplate'
+import { NosotrosLosNoblesTemplate } from './pages/NosotrosLosNoblesTemplate'
 import { SeriesDetailPage } from './pages/SeriesDetailPage'
 import type { PageKey } from './types/movie'
 
@@ -54,12 +55,13 @@ function App() {
   const showingDeadpoolWolverineTemplate = activePage === 'detail' && selectedMovieId === 'deadpool-wolverine'
   const showingQuePasoAyerTemplate = activePage === 'detail' && selectedMovieId === 'que-paso-ayer'
   const showingYDondeEstaElFantasmaTemplate = activePage === 'detail' && selectedMovieId === 'y-donde-esta-el-fantasma'
-  const showingCustomTemplate = showingSchoolTemplate || showingTedTemplate || showingDeadpoolWolverineTemplate || showingQuePasoAyerTemplate || showingYDondeEstaElFantasmaTemplate
+  const showingNosotrosLosNoblesTemplate = activePage === 'detail' && selectedMovieId === 'nosotros-los-nobles'
+  const showingCustomTemplate = showingSchoolTemplate || showingTedTemplate || showingDeadpoolWolverineTemplate || showingQuePasoAyerTemplate || showingYDondeEstaElFantasmaTemplate || showingNosotrosLosNoblesTemplate
 
   return (
     <MoviesProvider>
       <div className={showingCustomTemplate ? 'app-shell app-shell--template' : activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
-        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : showingTedTemplate ? <TedTemplate onNavigate={navigateFromSchoolTemplate} /> : showingDeadpoolWolverineTemplate ? <DeadpoolWolverineTemplate onNavigate={navigateFromSchoolTemplate} /> : showingQuePasoAyerTemplate ? <QuePasoAyerTemplate onNavigate={navigateFromSchoolTemplate} /> : showingYDondeEstaElFantasmaTemplate ? <YDondeEstaElFantasmaTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
+        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : showingTedTemplate ? <TedTemplate onNavigate={navigateFromSchoolTemplate} /> : showingDeadpoolWolverineTemplate ? <DeadpoolWolverineTemplate onNavigate={navigateFromSchoolTemplate} /> : showingQuePasoAyerTemplate ? <QuePasoAyerTemplate onNavigate={navigateFromSchoolTemplate} /> : showingYDondeEstaElFantasmaTemplate ? <YDondeEstaElFantasmaTemplate onNavigate={navigateFromSchoolTemplate} /> : showingNosotrosLosNoblesTemplate ? <NosotrosLosNoblesTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
           <Header activePage={activePage} onNavigate={navigate} />
           {activePage === 'home' && <HomePage onNavigate={navigate} onSelectCategory={selectCategory} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
           {activePage === 'movies' && <MoviesPage selectedCategory={selectedCategory} onSelectMovie={selectMovie} />}

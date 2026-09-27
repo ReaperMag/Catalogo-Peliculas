@@ -992,5 +992,99 @@
         "text": "10% de valoración de la crítica y 51% del público en Rotten Tomatoes."
       }
     ]
+  },
+  {
+    "id": "nosotros-los-nobles",
+    "title": "Nosotros los Nobles",
+    "originalTitle": "The Noble Family",
+    "tagline": "A falta de plata, buena es la familia.",
+    "year": 2013,
+    "rating": 7.3,
+    "duration": "1h 48m",
+    "certification": "PG-13",
+    "genres": [
+      "Comedia"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "synopsis": "Germán Noble, un empresario adinerado, descubre que sus tres hijos viven entre lujos y sin responsabilidades. Para darles una lección, finge que la familia perdió su fortuna y los obliga a dejar su vida privilegiada para empezar de nuevo, trabajar y aprender a valerse por sí mismos.",
+    "image": "https://image.tmdb.org/t/p/w780/teZ9hSuObnkBxDA7FMontxm3Jzd.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=a-8NQwMwVOg",
+    "viewCount": null,
+    "director": "Gary (Gaz) Alazraki",
+    "writers": [
+      "Gary Alazraki",
+      "Adrián Zurita",
+      "Patricio Saiz"
+    ],
+    "music": "Benjamín Shwartz",
+    "cinematography": "José Casillas",
+    "editing": "Jorge García",
+    "country": "México",
+    "language": "Español",
+    "productionCompanies": [
+      "Alazraki Films",
+      "Warner Bros."
+    ],
+    "boxOffice": "$26.4 millones mundial (aprox.)",
+    "cast": [
+      {
+        "name": "Gonzalo Vega",
+        "character": "Germán Noble"
+      },
+      {
+        "name": "Luis Gerardo Méndez",
+        "character": "Javi Noble"
+      },
+      {
+        "name": "Karla Souza",
+        "character": "Bárbara Noble"
+      },
+      {
+        "name": "Juan Pablo Gil",
+        "character": "Charlie / Cha Noble"
+      },
+      {
+        "name": "Ianis Guerrero",
+        "character": "Lucho"
+      },
+      {
+        "name": "Karla Sofía Gascón",
+        "character": "Peter Pintado"
+      }
+    ],
+    "awards": [
+      "Ganadora del Premio CANACINE a Mejor Película Mexicana de 2013",
+      "La ficha de IMDb registra 5 premios ganados y 11 nominaciones"
+    ],
+    "trivia": [
+      {
+        "title": "Una lección de vida",
+        "text": "Germán finge que su empresa quebró para que sus hijos dejen de depender de su fortuna y aprendan a trabajar."
+      },
+      {
+        "title": "Inspiración clásica",
+        "text": "La historia retoma la premisa de la comedia mexicana El gran calavera, dirigida por Luis Buñuel en 1949."
+      },
+      {
+        "title": "Éxito de taquilla",
+        "text": "Fue uno de los grandes éxitos comerciales del cine mexicano en 2013 y superó los siete millones de espectadores en México."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rotten Tomatoes",
+        "source": "Crítica agregada",
+        "score": "88%",
+        "text": "88% de aprobación de la crítica basado en 8 reseñas."
+      },
+      {
+        "author": "IMDb",
+        "source": "Valoración del público",
+        "score": "7.3 / 10",
+        "text": "Valoración de usuarios de 7.3/10 en IMDb."
+      }
+    ]
   }
 ]
