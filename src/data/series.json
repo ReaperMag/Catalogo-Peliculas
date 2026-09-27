@@ -1390,5 +1390,208 @@
       "text": "La serie cuenta con tres temporadas publicadas en Netflix."
     }
   ]
+},
+{
+  "id": "s8",
+  "title": "Veinticinco, Veintiuno",
+  "originalTitle": "Twenty Five Twenty One",
+  "tagline": "A los veinticinco y veintiuno, se enamoraron.",
+  "year": 2022,
+  "endYear": 2022,
+  "status": "Finalizada",
+  "rating": 8.5,
+  "episodes": 16,
+  "episodeDuration": "70-80 min",
+  "certification": "TV-14",
+  "seasons": 1,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Deporte"
+  ],
+
+  "synopsis": "Durante la crisis financiera de finales de los años noventa en Corea del Sur, Na Hee-do lucha por mantener vivo su sueño de convertirse en esgrimista profesional, mientras Baek Yi-jin intenta reconstruir su vida después de que su familia pierde todo. A medida que crecen y enfrentan nuevas dificultades, su amistad evoluciona hacia una relación que marcará sus vidas.",
+
+  "image": "series/twenty-five-twenty-one.jpg",
+
+  "trailerUrl": "https://youtu.be/V9NLRnpaxeo?si=sTFBYR0lQE_zOtN8",
+
+  "creators": [
+    "Jung Ji-hyun",
+    "Kwon Do-eun"
+  ],
+
+  "writers": [
+    "Kwon Do-eun"
+  ],
+
+  "directors": [
+    "Jung Ji-hyun",
+    "Kim Seung-ho"
+  ],
+
+  "music": "Lim Ha-young",
+
+  "country": "Corea del Sur",
+  "language": "Coreano",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "Studio Dragon",
+    "Hwa&Dam Pictures"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 16,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Episode 1",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Episode 2",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Episode 3",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Episode 4",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Episode 5",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Episode 6",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Episode 7",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Episode 8",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Episode 9",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Episode 10",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Episode 11",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Episode 12",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Episode 13",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 14,
+          "title": "Episode 14",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 15,
+          "title": "Episode 15",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 16,
+          "title": "Episode 16",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Kim Tae-ri",
+      "character": "Na Hee-do"
+    },
+    {
+      "name": "Nam Joo-hyuk",
+      "character": "Baek Yi-jin"
+    },
+    {
+      "name": "Kim Ji-yeon",
+      "character": "Ko Yu-rim"
+    },
+    {
+      "name": "Choi Hyun-wook",
+      "character": "Moon Ji-woong"
+    },
+    {
+      "name": "Lee Ju-myoung",
+      "character": "Ji Seung-wan"
+    }
+  ],
+
+  "awards": [
+    "Reconocida por sus actuaciones y por su historia de crecimiento juvenil",
+    "Ganadora y nominada en diversos premios de televisión surcoreanos"
+  ],
+
+  "reviews": [
+    {
+      "author": "Nicole S.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "La combinación de romance, amistad y crecimiento personal hace que la historia sea muy emotiva y fácil de recordar."
+    },
+    {
+      "author": "María J.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Me gustó mucho cómo muestra los sueños y dificultades de los personajes sin reducir toda la historia únicamente al romance."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Ambientada durante la crisis financiera",
+      "text": "Parte de la historia comienza durante la crisis financiera asiática de finales de los años noventa y muestra cómo afecta los sueños de los protagonistas."
+    },
+    {
+      "title": "Preparación para la esgrima",
+      "text": "Kim Tae-ri y Kim Ji-yeon recibieron entrenamiento de esgrima para interpretar a sus personajes."
+    },
+    {
+      "title": "Producción de Studio Dragon",
+      "text": "La serie fue producida por Studio Dragon y Hwa&Dam Pictures para tvN."
+    }
+  ]
 }
 ]
