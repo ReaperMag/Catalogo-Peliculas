@@ -11,6 +11,7 @@ import { SearchPage } from './pages/SearchPage'
 import { SchoolOfRockTemplate } from './pages/SchoolOfRockTemplate'
 import { TedTemplate } from './pages/TedTemplate'
 import { DeadpoolWolverineTemplate } from './pages/DeadpoolWolverineTemplate'
+import { QuePasoAyerTemplate } from './pages/QuePasoAyerTemplate'
 import { SeriesDetailPage } from './pages/SeriesDetailPage'
 import type { PageKey } from './types/movie'
 
@@ -50,12 +51,13 @@ function App() {
   const showingSchoolTemplate = activePage === 'detail' && selectedMovieId === 'school-of-rock'
   const showingTedTemplate = activePage === 'detail' && selectedMovieId === 'ted'
   const showingDeadpoolWolverineTemplate = activePage === 'detail' && selectedMovieId === 'deadpool-wolverine'
-  const showingCustomTemplate = showingSchoolTemplate || showingTedTemplate || showingDeadpoolWolverineTemplate
+  const showingQuePasoAyerTemplate = activePage === 'detail' && selectedMovieId === 'que-paso-ayer'
+  const showingCustomTemplate = showingSchoolTemplate || showingTedTemplate || showingDeadpoolWolverineTemplate || showingQuePasoAyerTemplate
 
   return (
     <MoviesProvider>
       <div className={showingCustomTemplate ? 'app-shell app-shell--template' : activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
-        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : showingTedTemplate ? <TedTemplate onNavigate={navigateFromSchoolTemplate} /> : showingDeadpoolWolverineTemplate ? <DeadpoolWolverineTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
+        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : showingTedTemplate ? <TedTemplate onNavigate={navigateFromSchoolTemplate} /> : showingDeadpoolWolverineTemplate ? <DeadpoolWolverineTemplate onNavigate={navigateFromSchoolTemplate} /> : showingQuePasoAyerTemplate ? <QuePasoAyerTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
           <Header activePage={activePage} onNavigate={navigate} />
           {activePage === 'home' && <HomePage onNavigate={navigate} onSelectCategory={selectCategory} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
           {activePage === 'movies' && <MoviesPage selectedCategory={selectedCategory} onSelectMovie={selectMovie} />}

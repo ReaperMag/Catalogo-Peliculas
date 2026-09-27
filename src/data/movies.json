@@ -800,5 +800,102 @@
         "text": "Una aventura de acción y comedia que reúne a Deadpool y Wolverine en una misión a través de realidades."
       }
     ]
+  },
+  {
+    "id": "que-paso-ayer",
+    "title": "¿Qué pasó ayer?",
+    "originalTitle": "The Hangover",
+    "tagline": "Algunos no saben cómo manejar Las Vegas.",
+    "year": 2009,
+    "rating": 7.7,
+    "metascore": 73,
+    "duration": "1h 40m",
+    "certification": "R",
+    "genres": [
+      "Comedia",
+      "Crimen"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "synopsis": "Tras una despedida de soltero en Las Vegas, Phil, Stu y Alan despiertan sin recordar lo ocurrido y descubren que Doug, el novio, ha desaparecido. Con la boda a pocas horas, los tres amigos reconstruyen la noche siguiendo pistas cada vez más absurdas para encontrarlo y llevarlo a tiempo al altar.",
+    "image": "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=jj6wcUes1no",
+    "viewCount": null,
+    "director": "Todd Phillips",
+    "writers": [
+      "Jon Lucas",
+      "Scott Moore"
+    ],
+    "music": "Christophe Beck",
+    "cinematography": "Lawrence Sher",
+    "editing": "Debra Neil-Fisher",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "Warner Bros. Pictures",
+      "Legendary Pictures",
+      "Green Hat Films"
+    ],
+    "boxOffice": "$469.3 millones mundial",
+    "cast": [
+      {
+        "name": "Bradley Cooper",
+        "character": "Phil Wenneck"
+      },
+      {
+        "name": "Ed Helms",
+        "character": "Stu Price"
+      },
+      {
+        "name": "Zach Galifianakis",
+        "character": "Alan Garner"
+      },
+      {
+        "name": "Justin Bartha",
+        "character": "Doug Billings"
+      },
+      {
+        "name": "Heather Graham",
+        "character": "Jade"
+      },
+      {
+        "name": "Ken Jeong",
+        "character": "Sr. Chow"
+      }
+    ],
+    "awards": [
+      "Ganadora del Globo de Oro a Mejor Película — Comedia o Musical",
+      "Zach Galifianakis ganó el MTV Movie Award a Mejor interpretación cómica",
+      "Ken Jeong ganó el MTV Movie Award a Mejor momento WTF"
+    ],
+    "trivia": [
+      {
+        "title": "La despedida de soltero",
+        "text": "La trama sigue a Phil, Stu y Alan mientras intentan recordar qué ocurrió durante la noche anterior y encontrar a Doug antes de su boda."
+      },
+      {
+        "title": "Alan Garner",
+        "text": "Zach Galifianakis interpreta a Alan, el futuro cuñado de Doug que acompaña al grupo en Las Vegas."
+      },
+      {
+        "title": "Reconocimiento internacional",
+        "text": "La película ganó el Globo de Oro de 2010 a Mejor Película — Comedia o Musical."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "73 / 100",
+        "text": "Metascore de 73/100 basado en 31 críticas profesionales."
+      },
+      {
+        "author": "IMDb",
+        "source": "Valoración del público",
+        "score": "7.7 / 10",
+        "text": "Valoración pública de 7.7/10 en IMDb."
+      }
+    ]
   }
 ]
