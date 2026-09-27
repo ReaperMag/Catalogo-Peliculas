@@ -2,15 +2,117 @@
   {
     "id": "s1",
     "title": "Dark",
+    "originalTitle": "Dark",
+    "tagline": "Todo está conectado.",
     "year": 2017,
+    "endYear": 2020,
+    "status": "Finalizada",
     "rating": 8.7,
+    "episodes": 26,
+    "episodeDuration": "45-57 min",
+    "certification": "16+",
     "seasons": 3,
     "genres": [
       "Ciencia ficción",
       "Drama"
     ],
     "synopsis": "La desaparición de dos niños revela secretos que conectan a cuatro familias de un pequeño pueblo.",
-    "image": ""
+    "image": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=rrwycJ08PSA",
+    "creators": ["Baran bo Odar", "Jantje Friese"],
+    "writers": ["Jantje Friese"],
+    "directors": ["Baran bo Odar"],
+    "music": "Ben Frost",
+    "country": "Alemania",
+    "language": "Alemán",
+    "streamingPlatforms": ["Netflix"],
+    "productionCompanies": ["Wiedemann & Berg Television"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 10,
+        "year": 2017,
+        "episodeDetails": [
+          { "number": 1, "title": "Secrets" },
+          { "number": 2, "title": "Lies" },
+          { "number": 3, "title": "Past and Present" },
+          { "number": 4, "title": "Double Lives" },
+          { "number": 5, "title": "Truths" },
+          { "number": 6, "title": "Sic Mundus Creatus Est" },
+          { "number": 7, "title": "Crossroads" },
+          { "number": 8, "title": "As You Sow, So You Reap" },
+          { "number": 9, "title": "Everything Is Now" },
+          { "number": 10, "title": "Alpha and Omega" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "year": 2019,
+        "episodeDetails": [
+          { "number": 1, "title": "Beginnings and Endings" },
+          { "number": 2, "title": "Dark Matter" },
+          { "number": 3, "title": "Ghosts" },
+          { "number": 4, "title": "The Travelers" },
+          { "number": 5, "title": "Lost and Found" },
+          { "number": 6, "title": "An Endless Cycle" },
+          { "number": 7, "title": "The White Devil" },
+          { "number": 8, "title": "Endings and Beginnings" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "year": 2020,
+        "episodeDetails": [
+          { "number": 1, "title": "Déjà-vu" },
+          { "number": 2, "title": "The Survivors" },
+          { "number": 3, "title": "Adam and Eva" },
+          { "number": 4, "title": "The Origin" },
+          { "number": 5, "title": "Life and Death" },
+          { "number": 6, "title": "Light and Shadow" },
+          { "number": 7, "title": "Between the Time" },
+          { "number": 8, "title": "Paradise" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Louis Hofmann", "character": "Jonas Kahnwald" },
+      { "name": "Lisa Vicari", "character": "Martha Nielsen" },
+      { "name": "Oliver Masucci", "character": "Ulrich Nielsen" },
+      { "name": "Karoline Eichhorn", "character": "Charlotte Doppler" },
+      { "name": "Jördis Triebel", "character": "Katharina Nielsen" },
+      { "name": "Maja Schöne", "character": "Hannah Kahnwald" }
+    ],
+    "awards": ["Ganadora del Grimme-Preis 2018 en la categoría de ficción"],
+    "reviews": [
+      {
+        "author": "Usuario de ejemplo",
+        "source": "Opinión de muestra",
+        "score": "9/10",
+        "text": "La atmósfera y el misterio mantienen el interés, y la historia recompensa prestar atención a los detalles."
+      },
+      {
+        "author": "Usuario de ejemplo",
+        "source": "Opinión de muestra",
+        "score": "8/10",
+        "text": "Una propuesta de ciencia ficción ambiciosa, con personajes y relaciones que se desarrollan a lo largo de sus temporadas."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Un pueblo ficticio",
+        "text": "Winden, el escenario central de la historia, es un pueblo ficticio creado para la serie."
+      },
+      {
+        "title": "El cierre de la historia",
+        "text": "La tercera temporada se estrenó el 27 de junio de 2020, fecha que también tiene importancia dentro de la trama."
+      },
+      {
+        "title": "Reparto a través de distintas épocas",
+        "text": "Varios personajes aparecen en diferentes edades, interpretados por distintos actores a lo largo de la serie."
+      }
+    ]
   },
   {
     "id": "s2",
@@ -24,5 +126,15 @@
     ],
     "synopsis": "Un joven chef vuelve a Chicago para hacerse cargo del restaurante familiar.",
     "image": ""
-  }
+  },
+  {
+  "id": "s3",
+  "title": "Nombre de la serie",
+  "year": 2024,
+  "rating": 8.6,
+  "seasons": 2,
+  "genres": ["Drama", "Suspenso"],
+  "synopsis": "Resumen de la serie.",
+  "image": "series/it.jpg"
+}
 ]

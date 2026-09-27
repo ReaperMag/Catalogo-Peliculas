@@ -1,6 +1,7 @@
 import { ActorCarousel } from '../components/actors/ActorCarousel'
 import { useRef } from 'react'
 import { FeaturedMovieCarousel } from '../components/molecules/FeaturedMovieCarousel'
+import { PopularSeriesCarousel } from '../components/molecules/PopularSeriesCarousel'
 import { SeriesCard } from '../components/molecules/SeriesCard'
 import { useMovies } from '../contexts/MoviesContext'
 import categoriesData from '../data/categories.json'
@@ -57,6 +58,7 @@ const scrollMoviesRight = () => {
               Talento que marca tendencia
             </span>
 
+      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><PopularSeriesCarousel onSelectSeries={onSelectSeries} series={series} /></section>
             <h2>Actores en tendencia</h2>
           </div>
 
