@@ -397,5 +397,204 @@
     }
   ],
   "image": "actores/ms_AmyAdams.png"
+},
+{
+  "id": "a5",
+  "name": "Leonardo DiCaprio",
+  "birthYear": 1974,
+  "birthDate": "11 de noviembre de 1974",
+  "birthPlace": "Hollywood, Los Ángeles, California, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actor y productor",
+  "biography": "Leonardo DiCaprio es un actor y productor estadounidense que inició su carrera en televisión y posteriormente alcanzó reconocimiento internacional durante la década de 1990. Tras protagonizar Romeo + Juliet y Titanic, consolidó su carrera como protagonista de grandes producciones y dramas dirigidos por cineastas como Martin Scorsese y Christopher Nolan.",
+  "knownFor": [
+    "Titanic",
+    "Inception",
+    "The Wolf of Wall Street",
+    "The Revenant"
+  ],
+  "filmography": [
+    {
+      "year": 2023,
+      "title": "Killers of the Flower Moon",
+      "character": "Ernest Burkhart",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2021,
+      "title": "Don't Look Up",
+      "character": "Dr. Randall Mindy",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2019,
+      "title": "Once Upon a Time... in Hollywood",
+      "character": "Rick Dalton",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2015,
+      "title": "The Revenant",
+      "character": "Hugh Glass",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2013,
+      "title": "The Wolf of Wall Street",
+      "character": "Jordan Belfort",
+      "type": "Película",
+      "rating": 8.2
+    },
+    {
+      "year": 2010,
+      "title": "Inception",
+      "character": "Dom Cobb",
+      "type": "Película",
+      "rating": 8.8
+    },
+    {
+      "year": 2010,
+      "title": "Shutter Island",
+      "character": "Teddy Daniels",
+      "type": "Película",
+      "rating": 8.2
+    },
+    {
+      "year": 2008,
+      "title": "Revolutionary Road",
+      "character": "Frank Wheeler",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2006,
+      "title": "The Departed",
+      "character": "Billy Costigan",
+      "type": "Película",
+      "rating": 8.5
+    },
+    {
+      "year": 2004,
+      "title": "The Aviator",
+      "character": "Howard Hughes",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2002,
+      "title": "Catch Me If You Can",
+      "character": "Frank Abagnale Jr.",
+      "type": "Película",
+      "rating": 8.1
+    },
+    {
+      "year": 1997,
+      "title": "Titanic",
+      "character": "Jack Dawson",
+      "type": "Película",
+      "rating": 8.0
+    }
+  ],
+  "image": "actores/ms_LeonardoDiCaprio.png"
+},
+{
+  "id": "a6",
+  "name": "Kate Winslet",
+  "birthYear": 1975,
+  "birthDate": "5 de octubre de 1975",
+  "birthPlace": "Reading, Berkshire, Inglaterra, Reino Unido",
+  "nationality": "Británica",
+  "occupation": "Actriz y productora",
+  "biography": "Kate Winslet es una actriz y productora británica reconocida por una extensa trayectoria en cine y televisión. Alcanzó fama internacional interpretando a Rose DeWitt Bukater en Titanic y posteriormente desarrolló numerosos papeles dramáticos en producciones como Eternal Sunshine of the Spotless Mind, Revolutionary Road y The Reader.",
+  "knownFor": [
+    "Titanic",
+    "Eternal Sunshine of the Spotless Mind",
+    "Revolutionary Road",
+    "The Reader"
+  ],
+  "filmography": [
+    {
+      "year": 2022,
+      "title": "Avatar: The Way of Water",
+      "character": "Ronal",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2021,
+      "title": "Mare of Easttown",
+      "character": "Mare Sheehan",
+      "type": "Miniserie",
+      "rating": 8.4
+    },
+    {
+      "year": 2015,
+      "title": "Steve Jobs",
+      "character": "Joanna Hoffman",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2011,
+      "title": "Contagion",
+      "character": "Dr. Erin Mears",
+      "type": "Película",
+      "rating": 6.8
+    },
+    {
+      "year": 2008,
+      "title": "The Reader",
+      "character": "Hanna Schmitz",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2008,
+      "title": "Revolutionary Road",
+      "character": "April Wheeler",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2006,
+      "title": "The Holiday",
+      "character": "Iris Simpkins",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2004,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "character": "Clementine Kruczynski",
+      "type": "Película",
+      "rating": 8.3
+    },
+    {
+      "year": 2000,
+      "title": "Quills",
+      "character": "Madeleine LeClerc",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 1997,
+      "title": "Titanic",
+      "character": "Rose DeWitt Bukater",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 1995,
+      "title": "Sense and Sensibility",
+      "character": "Marianne Dashwood",
+      "type": "Película",
+      "rating": 7.7
+    }
+  ],
+  "image": "actores/ms_KateWinslet.png"
 }
 ]
