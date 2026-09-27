@@ -1,6 +1,6 @@
 [
   {
-    "id": "s1",
+    "id": "s20",
     "title": "It: Bienvenidos a Derry",
     "originalTitle": "It: Welcome to Derry",
     "tagline": "El origen del mal regresa a Derry.",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": "s2",
+    "id": "s21",
     "title": "American Horror Stories",
     "originalTitle": "American Horror Stories",
     "tagline": "Diferentes historias. Mismos pesadillas.",
@@ -200,7 +200,7 @@
     ]
   },
   {
-    "id": "s3",
+    "id": "s22",
     "title": "Chucky",
     "originalTitle": "Chucky",
     "tagline": "Un clásico del terror nunca muere.",
@@ -316,7 +316,7 @@
     ]
   },
   {
-    "id": "s4",
+    "id": "s23",
     "title": "Stranger Things",
     "originalTitle": "Stranger Things",
     "tagline": "Un lado oscuro acecha bajo la superficie.",
@@ -466,6 +466,127 @@
       {
         "title": "Banda sonora en sintetizador",
         "text": "La memorable música synthwave fue compuesta por Kyle Dixon y Michael Stein, miembros de la banda electrónica SURVIVE."
+      }
+    ]
+  },
+  {
+    "id": "s24",
+    "title": "Penny Dreadful",
+    "originalTitle": "Penny Dreadful",
+    "tagline": "Hay cosas terribles dentro de todos nosotros.",
+    "year": 2014,
+    "endYear": 2016,
+    "status": "Finalizada",
+    "rating": 8.2,
+    "episodes": 27,
+    "episodeDuration": "47-60 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Gótico",
+      "Misterio",
+      "Drama"
+    ],
+    "synopsis": "En el Londres victoriano del siglo XIX, figuras icónicas de la literatura gótica como el Dr. Frankenstein, Dorian Gray y los personajes de Drácula se entrelazan en una oscura red sobrenatural liderada por la enigmática Vanessa Ives.",
+    "image": "series/penny.jpg",
+    "creators": ["John Logan"],
+    "writers": ["John Logan", "Andrew Hinderaker", "Krysty Wilson-Cairns"],
+    "directors": ["J.A. Bayona", "Dearbhla Walsh", "Coky Giedroyc", "Damon Thomas"],
+    "music": "Abel Korzeniowski",
+    "country": "Estados Unidos / Reino Unido",
+    "language": "Inglés",
+    "streamingPlatforms": ["Showtime", "Paramount+", "Prime Video"],
+    "productionCompanies": ["Desert Wolf Productions", "Neal Street Productions"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2014,
+        "trailerUrl": "https://www.youtube.com/watch?v=YFXHfEqMcis",
+        "episodeDetails": [
+          { "number": 1, "title": "Night Work", "rating": 8.0 , "image": "series/pnyDR-s1.jpg" },
+          { "number": 2, "title": "Séance", "rating": 8.3, "image": "series/pnyDR-s1.jpg" },
+          { "number": 3, "title": "Resurrection", "rating": 8.2, "image": "series/pnyDR-s1.jpg" },
+          { "number": 4, "title": "Demimonde", "rating": 8.1, "image": "series/pnyDR-s1.jpg" },
+          { "number": 5, "title": "Closer Than Sisters", "rating": 8.9, "image": "series/pnyDR-s1.jpg" },
+          { "number": 6, "title": "What Death Can Join Together", "rating": 8.4, "image": "series/pnyDR-s1.jpg" },
+          { "number": 7, "title": "Possession", "rating": 8.8, "image": "series/pnyDR-s1.jpg" },
+          { "number": 8, "title": "Grand Guignol", "rating": 8.5, "image": "series/pnyDR-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 10,
+        "year": 2015,
+        "trailerUrl": "https://www.youtube.com/watch?v=Wfhik-kUBGQ",
+        "episodeDetails": [
+          { "number": 1, "title": "Fresh Hell", "rating": 8.3, "image": "series/pnyDR-s2.jpg" },
+          { "number": 2, "title": "Verbis Diablo", "rating": 8.4, "image": "series/pnyDR-s2.jpg" },
+          { "number": 3, "title": "The Nightcomers", "rating": 9.1, "image": "series/pnyDR-s2.jpg" },
+          { "number": 4, "title": "Evil Spirits in Heavenly Places", "rating": 8.3, "image": "series/pnyDR-s2.jpg" },
+          { "number": 5, "title": "Above the Vaulted Sky", "rating": 8.2, "image": "series/pnyDR-s2.jpg" },
+          { "number": 6, "title": "Glorious Horrors", "rating": 8.5, "image": "series/pnyDR-s2.jpg" },
+          { "number": 7, "title": "Little Scorpion", "rating": 8.8, "image": "series/pnyDR-s2.jpg" },
+          { "number": 8, "title": "Memento Mori", "rating": 8.7, "image": "series/pnyDR-s2.jpg" },
+          { "number": 9,"title": "And Hell Itself My Only Foe", "rating": 8.9, "image": "series/pnyDR-s2.jpg" },
+          { "number": 10,"title": "And They Were Enemies","rating": 8.8,"image": "series/pnyDR-s2.jpg" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 9,
+        "year": 2016,
+        "trailerUrl": "https://www.youtube.com/watch?v=WiurpmS4spI",
+        "episodeDetails": [
+          { "number": 1, "title": "The Day Tennyson Died", "rating": 8.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 2, "title": "Predators Far and Near", "rating": 8.1, "image": "series/pnyDR-s3.jpg" },
+          { "number": 3, "title": "Good and Evil Braided Be", "rating": 8.3, "image": "series/pnyDR-s3.jpg" },
+          { "number": 4, "title": "A Blade of Grass", "rating": 9.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 5, "title": "This World Is Our Hell", "rating": 8.0, "image": "series/pnyDR-s3.jpg" },
+          { "number": 6, "title": "No Beast So Fierce", "rating": 8.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 7, "title": "Ebb Tide", "rating": 8.5, "image": "series/pnyDR-s3.jpg" },
+          { "number": 8, "title": "Perpetual Night", "rating": 8.3, "image": "series/pnyDR-s3.jpg" },
+          { "number": 9, "title": "The Blessed Dark", "rating": 7.8, "image": "series/pnyDR-s3.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Eva Green", "character": "Vanessa Ives" },
+      { "name": "Josh Hartnett", "character": "Ethan Chandler" },
+      { "name": "Timothy Dalton", "character": "Sir Malcolm Murray" },
+      { "name": "Harry Treadaway", "character": "Dr. Victor Frankenstein" },
+      { "name": "Reeve Carney", "character": "Dorian Gray" },
+      { "name": "Billie Piper", "character": "Brona Croft / Lily" },
+      { "name": "Rory Kinnear", "character": "La Criatura / John Clare" }
+    ],
+    "awards": ["Ganadora de 3 premios BAFTA TV Craft y múltiples nominaciones a los Premios Emmy"],
+    "reviews": [
+      {
+        "author": "Crítica de televisión",
+        "source": "Reseña especializada",
+        "score": "9/10",
+        "text": "Una obra maestra del terror gótico televisivo impulsada por una actuación inolvidable y magistral de Eva Green."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "8.5/10",
+        "text": "Destaca por su prosa elegante, ambientación impecable y una banda sonora poética que complementa a la perfección la atmósfera del Londres victoriano."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Origen del título",
+        "text": "El término 'Penny Dreadful' hace referencia a los folletines de ficción barata y terrorífica que se vendían por un penique en el Reino Unido del siglo XIX."
+      },
+      {
+        "title": "Dirección inicial de J.A. Bayona",
+        "text": "El célebre director español J.A. Bayona dirigió los primeros dos episodios de la serie, estableciendo la estética y el tono visual macabro."
+      },
+      {
+        "title": "Composición de Abel Korzeniowski",
+        "text": "La aclamada banda sonora fue compuesta por Abel Korzeniowski, otorgándole un tono melancólico y trágico a la narrativa."
       }
     ]
   }
