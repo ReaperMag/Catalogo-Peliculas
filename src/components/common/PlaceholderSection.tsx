@@ -8,7 +8,7 @@ export function PlaceholderSection({ title, description, slots }: PlaceholderSec
   return (
     <section className="placeholder-section">
       <div>
-        <span className="eyebrow">Pendiente</span>
+        <span className="eyebrow">Información</span>
         <h2>{title}</h2>
         <p>{description}</p>
       </div>

@@ -6,6 +6,7 @@ const imageModules = import.meta.glob('../assets/images/**/*.{png,jpg,jpeg,webp,
 
 export function getMediaImage(imagePath: string) {
   if (!imagePath) return ''
+  if (/^https?:\/\//i.test(imagePath)) return imagePath
 
   const normalizedPath = imagePath.replaceAll('\\', '/').replace(/^\/+/, '')
   return imageModules[`../assets/images/${normalizedPath}`] ?? ''

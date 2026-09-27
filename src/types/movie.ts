@@ -28,6 +28,8 @@ export type Movie = {
   certification?: string
 
   genres: string[]
+  /** Categorías personales en las que se incluye esta película. */
+  collections?: string[]
   synopsis: string
 
   image: string

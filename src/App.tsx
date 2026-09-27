@@ -8,6 +8,7 @@ import { HomePage } from './pages/HomePage'
 import { MovieDetailPage } from './pages/MovieDetailPage'
 import { MoviesPage } from './pages/MoviesPage'
 import { SearchPage } from './pages/SearchPage'
+import { SchoolOfRockTemplate } from './pages/SchoolOfRockTemplate'
 import { SeriesDetailPage } from './pages/SeriesDetailPage'
 import type { PageKey } from './types/movie'
 
@@ -16,21 +17,49 @@ function App() {
   const [selectedMovieId, setSelectedMovieId] = useState<string | null>(null)
   const [selectedSeriesId, setSelectedSeriesId] = useState<string | null>(null)
   const [selectedActorId, setSelectedActorId] = useState<string | null>(null)
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+  const navigate = (page: PageKey) => {
+    if (page === 'movies') setSelectedCategory(null)
+    setActivePage(page)
+  }
+  const selectCategory = (category: string) => {
+    setSelectedCategory(category)
+    setActivePage('movies')
+  }
   const selectMovie = (id: string) => { setSelectedMovieId(id); setActivePage('detail') }
   const selectSeries = (id: string) => { setSelectedSeriesId(id); setActivePage('series') }
   const selectActor = (id: string) => { setSelectedActorId(id); setActivePage('actor') }
+  const navigateFromSchoolTemplate = (destination: 'inicio' | 'peliculas' | 'series' | 'celebridades') => {
+    if (destination === 'peliculas') {
+      setSelectedCategory(null)
+      setActivePage('movies')
+      return
+    }
+
+    setActivePage('home')
+    const targetId = destination === 'series' ? 'home-series' : destination === 'celebridades' ? 'home-actors' : null
+    window.requestAnimationFrame(() => {
+      window.requestAnimationFrame(() => {
+        if (targetId) document.getElementById(targetId)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        else window.scrollTo({ top: 0, behavior: 'smooth' })
+      })
+    })
+  }
+  const showingSchoolTemplate = activePage === 'detail' && selectedMovieId === 'school-of-rock'
 
   return (
     <MoviesProvider>
-      <div className={activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
-        <Header activePage={activePage} onNavigate={setActivePage} />
-        {activePage === 'home' && <HomePage onNavigate={setActivePage} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
-        {activePage === 'movies' && <MoviesPage onSelectMovie={selectMovie} />}
-        {activePage === 'search' && <SearchPage onSelectMovie={selectMovie} />}
-        {activePage === 'detail' && <MovieDetailPage movieId={selectedMovieId} onNavigate={setActivePage} />}
-        {activePage === 'series' && <SeriesDetailPage seriesId={selectedSeriesId} onNavigate={setActivePage} />}
-        {activePage === 'actor' && <ActorDetailPage actorId={selectedActorId} onNavigate={setActivePage} />}
-        <Footer />
+      <div className={showingSchoolTemplate ? 'app-shell app-shell--template' : activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
+        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
+          <Header activePage={activePage} onNavigate={navigate} />
+          {activePage === 'home' && <HomePage onNavigate={navigate} onSelectCategory={selectCategory} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
+          {activePage === 'movies' && <MoviesPage selectedCategory={selectedCategory} onSelectMovie={selectMovie} />}
+          {activePage === 'search' && <SearchPage onSelectMovie={selectMovie} />}
+          {activePage === 'detail' && <MovieDetailPage movieId={selectedMovieId} onBack={() => setActivePage('movies')} />}
+          {activePage === 'series' && <SeriesDetailPage seriesId={selectedSeriesId} onNavigate={navigate} />}
+          {activePage === 'actor' && <ActorDetailPage actorId={selectedActorId} onNavigate={navigate} />}
+          <Footer />
+        </>}
       </div>
     </MoviesProvider>
   )

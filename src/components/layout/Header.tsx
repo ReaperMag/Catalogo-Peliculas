@@ -2,7 +2,7 @@ import type { PageKey } from '../../types/movie'
 
 const navItems: Array<{ label: string; page: PageKey }> = [
   { label: 'Inicio', page: 'home' },
-  { label: 'Peliculas', page: 'movies' },
+  { label: 'Películas', page: 'movies' },
   { label: 'Buscar', page: 'search' },
 ]
 

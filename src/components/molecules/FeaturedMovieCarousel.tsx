@@ -41,7 +41,6 @@ export function FeaturedMovieCarousel({ movies, onNavigate, onSelectMovie }: Fea
     <section aria-label="Películas destacadas" aria-roledescription="carrusel" className="home-carousel" onBlurCapture={handleBlur} onFocusCapture={() => setIsFocused(true)} onMouseEnter={() => setIsHovered(true)} onMouseLeave={() => setIsHovered(false)}>
       <div className="home-carousel__art" aria-hidden="true">
         {imageUrl && <img alt="" src={imageUrl} />}
-        <span>{movie.title.slice(0, 1)}</span>
       </div>
       <div className="home-carousel__shade" aria-hidden="true" />
       <div aria-live="polite" className="home-carousel__content" key={movie.id} role="group" aria-roledescription="diapositiva">

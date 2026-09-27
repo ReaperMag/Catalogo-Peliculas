@@ -11,6 +11,7 @@ import './TopMoviesSection.css' // Leidy
 
 type HomePageProps = {
   onNavigate: (page: PageKey) => void
+  onSelectCategory: (category: string) => void
   onSelectMovie: (movieId: string) => void
   onSelectSeries: (seriesId: string) => void
   onSelectActor: (actorId: string) => void
@@ -26,7 +27,7 @@ function HomeMovieCard({ movie, onSelectMovie }: { movie: Movie; onSelectMovie: 
   )
 }
 
-export function HomePage({ onNavigate, onSelectMovie, onSelectSeries, onSelectActor }: HomePageProps) {
+export function HomePage({ onNavigate, onSelectCategory, onSelectMovie, onSelectSeries, onSelectActor }: HomePageProps) {
   const { actors, movies, series, topMovies } = useMovies() // Leidy
   const moviesCarouselRef = useRef<HTMLDivElement>(null)
 
@@ -58,7 +59,6 @@ const scrollMoviesRight = () => {
               Talento que marca tendencia
             </span>
 
-      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><PopularSeriesCarousel onSelectSeries={onSelectSeries} series={series} /></section>
             <h2>Actores en tendencia</h2>
           </div>
 
@@ -72,7 +72,7 @@ const scrollMoviesRight = () => {
           onSelectActor={onSelectActor}
         />
       </section>
-      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><div className="home-series-grid">{series.map((item) => <SeriesCard key={item.id} onViewSeries={onSelectSeries} series={item} />)}</div></section>
+      <section className="home-section" id="home-series"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><PopularSeriesCarousel onSelectSeries={onSelectSeries} series={series} /></section>
 
       <section className="home-section">
   <div className="home-section__heading">
@@ -129,8 +129,7 @@ const scrollMoviesRight = () => {
 </section>
 
       <section className="home-section home-section--views"><div className="home-section__heading"><div><span className="home-eyebrow">Solo información</span><h2>Top 10 películas más vistas</h2><p>Ranking de las películas con más visualizaciones en CineBase.</p></div><span className="home-section__index">03</span></div><ol className="home-view-list">{mostViewedMovies.map((movie, index) => <li key={movie.id}><span className="home-view-list__rank">{String(index + 1).padStart(2, '0')}</span><div className="top-movies__info">{getMediaImage(movie.image) && <img alt={movie.title} className="top-movies__thumb" src={getMediaImage(movie.image)} />}<div className="top-movies__text"><strong>{movie.title}</strong><small>{movie.year} · {movie.genres.join(' · ')}</small></div></div><span className="home-view-list__count">{movie.viewCount == null ? 'Vistas sin registrar' : `${movie.viewCount.toLocaleString('es-ES')} vistas`}</span></li>)}</ol></section>
-0
-      <section className="home-section home-section--categories"><div className="home-section__heading"><div><span className="home-eyebrow">Encuentra tu próxima historia</span><h2>Categorías</h2></div></div><div className="home-category-grid">{(categoriesData as string[]).map((category, index) => <article className={`home-category home-category--${index + 1}`} key={category}><span className="home-category__number">0{index + 1}</span><strong>{category}</strong><span className="home-category__arrow" aria-hidden="true">✦</span></article>)}</div></section>
+      <section className="home-section home-section--categories"><div className="home-section__heading"><div><span className="home-eyebrow">Encuentra tu próxima historia</span><h2>Categorías</h2></div></div><div className="home-category-grid">{(categoriesData as string[]).map((category, index) => <button className={`home-category home-category--${index + 1}`} key={category} onClick={() => onSelectCategory(category)} type="button" aria-label={`Ver películas de ${category}`}><span className="home-category__number">0{index + 1}</span><strong>{category}</strong><span className="home-category__arrow" aria-hidden="true">✦</span></button>)}</div></section>
     </main>
   )
 }

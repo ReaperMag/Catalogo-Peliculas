@@ -151,6 +151,7 @@
       "text": "Una comedia romántica centrada en el descubrimiento personal, el amor inesperado y las decisiones emocionales que surgen después de un encuentro fortuito."
     }
   ]
+
 },
 {
   "id": "m5",
@@ -590,6 +591,51 @@
       "text": "Una historia romántica intensa y emotiva sobre el paso del tiempo, la memoria y un amor que persiste a pesar de los obstáculos."
     }
   ]
-}
-  
+},
+{
+    "id": "school-of-rock",
+    "title": "School of Rock",
+    "originalTitle": "School of Rock",
+    "tagline": "No hay forma de que puedas parar el rock.",
+    "year": 2003,
+    "rating": 7.2,
+    "metascore": 82,
+    "duration": "1h 49m",
+    "certification": "PG-13",
+    "genres": ["Comedia", "Música", "Familia"],
+    "collections": ["Comedia"],
+    "trailerUrl": "https://youtu.be/KdzWQT0wLCY",
+    "synopsis": "Tras ser despedido de su banda y ante la amenaza del desalojo, Dewey Finn se hace pasar por su compañero de piso para trabajar como maestro sustituto en la escuela Horace Green. Al descubrir el talento musical de sus alumnos, transforma la clase en una banda de rock para competir en la Batalla de las Bandas y enseñarles a confiar en sí mismos.",
+    "image": "https://moviesmoviesmovies.co.uk/cdn/shop/files/IMG_0007_BM15970.jpg?v=1736249007&width=1946",
+    "viewCount": null,
+    "director": "Richard Linklater",
+    "writers": ["Mike White"],
+    "music": "Craig Wedren",
+    "cinematography": "Rogier Stoffers",
+    "editing": "Sandra Adair",
+    "country": "Estados Unidos / Alemania",
+    "language": "Inglés",
+    "productionCompanies": ["Paramount Pictures", "Scott Rudin Productions"],
+    "boxOffice": "$131.3 millones",
+    "cast": [
+      {"name": "Jack Black", "character": "Dewey Finn"},
+      {"name": "Joan Cusack", "character": "Rosalie Mullins"},
+      {"name": "Mike White", "character": "Ned Schneebly"},
+      {"name": "Sarah Silverman", "character": "Patty Di Marco"},
+      {"name": "Miranda Cosgrove", "character": "Summer Hathaway"},
+      {"name": "Joey Gaydos Jr.", "character": "Zack Mooneyham"}
+    ],
+    "awards": [
+      "Nominación al Globo de Oro a Mejor Actor en Comedia o Musical para Jack Black",
+      "Ganadora del MTV Movie Award a Mejor Actuación Cómica para Jack Black"
+    ],
+    "trivia": [
+      {"title": "Niños músicos", "text": "Los niños de la banda escolar interpretan sus propios instrumentos en la película."},
+      {"title": "El permiso de Led Zeppelin", "text": "Jack Black grabó un video para pedir a Led Zeppelin autorización para usar “Immigrant Song”."},
+      {"title": "Adaptación musical", "text": "La película inspiró un musical de Broadway producido por Andrew Lloyd Webber."}
+    ],
+    "reviews": [
+      {"author": "CineBase", "source": "Ficha informativa", "score": "7.2 / 10", "text": "Una comedia musical enérgica y entrañable, impulsada por la actuación de Jack Black y el entusiasmo de su joven banda."}
+    ]
+  }
 ]

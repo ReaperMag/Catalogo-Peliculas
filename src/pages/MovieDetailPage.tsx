@@ -1,21 +1,22 @@
-import { Button } from '../components/common/Button'
 import { useMovies } from '../contexts/MoviesContext'
+import { Button } from '../components/common/Button'
 import { getMediaImage } from '../lib/mediaImages'
-import type { PageKey } from '../types/movie'
-
 type MovieDetailPageProps = {
   movieId: string | null
-  onNavigate: (page: PageKey) => void
+  onBack: () => void
 }
 
 export function MovieDetailPage({
   movieId,
-  onNavigate,
+  onBack,
 }: MovieDetailPageProps) {
   const { movies } = useMovies()
 
-  const movie =
-    movies.find((item) => item.id === movieId) ?? movies[0]
+  const movie = movies.find((item) => item.id === movieId) ?? movies[0]
+
+  if (!movie) {
+    return <main className="cinema-detail"><p className="cinema-detail__empty">No hay películas en el catálogo.</p></main>
+  }
 
   const imageUrl = getMediaImage(movie.image)
 
@@ -24,14 +25,7 @@ export function MovieDetailPage({
     <main className="cinema-detail">
 
       {/* ENCABEZADO PRINCIPAL */}
-      <section
-        className="cinema-detail__hero"
-        style={
-        imageUrl
-        ? { backgroundImage: `url(${imageUrl})` }
-        : undefined
-    }
->
+      <section className="cinema-detail__hero">
         <div className="cinema-detail__overlay" />
 
         <div className="cinema-detail__hero-content">
@@ -278,7 +272,7 @@ export function MovieDetailPage({
 
       <div className="cinema-detail__back">
         <Button
-          onClick={() => onNavigate('movies')}
+          onClick={onBack}
           variant="secondary"
         >
           ← Volver al catálogo
