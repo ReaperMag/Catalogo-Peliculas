@@ -1,0 +1,298 @@
+.actor-detail-page {
+  width: min(1180px, calc(100% - 40px));
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 48px 0;
+}
+
+.actor-detail {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 42px;
+
+  padding: 28px;
+
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 12px;
+
+  background: #151a20;
+}
+
+.actor-detail__portrait {
+  display: grid;
+  height: 410px;
+  overflow: hidden;
+  place-items: center;
+
+  border-radius: 9px;
+
+  background:
+    radial-gradient(
+      circle at 50% 25%,
+      rgba(245, 197, 24, 0.22),
+      transparent 42%
+    ),
+    linear-gradient(145deg, #34302a, #1b232b);
+}
+
+.actor-detail__portrait img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+  object-position: center top;
+}
+
+.actor-detail__portrait > span {
+  color: rgba(255, 229, 160, 0.75);
+  font-family: "Space Grotesk", var(--font-sans);
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.actor-detail__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.actor-detail__eyebrow {
+  margin-bottom: 8px;
+  color: #f5c518;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.actor-detail__content h1 {
+  margin: 0;
+  color: #f2f3f5;
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  line-height: 1.05;
+}
+
+.actor-detail__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.actor-detail__meta span {
+  padding: 7px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+  background: #1b2128;
+  color: #aeb4bf;
+  font-size: 0.78rem;
+}
+
+.actor-detail__section {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.actor-detail__section h2 {
+  margin-bottom: 10px;
+  color: #f2f3f5;
+  font-size: 1rem;
+}
+
+.actor-detail__section p {
+  max-width: 720px;
+  margin: 0;
+  color: #aeb4bf;
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.actor-detail__known-for {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.actor-detail__known-for span {
+  padding: 8px 11px;
+  border: 1px solid rgba(245, 197, 24, 0.22);
+  border-radius: 7px;
+  background: rgba(245, 197, 24, 0.06);
+  color: #e2e4e8;
+  font-size: 0.78rem;
+}
+
+.actor-detail__actions {
+  margin-top: 34px;
+}
+
+.actor-detail-empty {
+  display: grid;
+  min-height: 55vh;
+  place-items: center;
+  text-align: center;
+}
+
+.actor-detail-empty h1 {
+  color: #f2f3f5;
+}
+
+@media (max-width: 820px) {
+  .actor-detail-page {
+    padding: 32px 20px;
+  }
+
+  .actor-detail {
+    grid-template-columns: 1fr;
+    gap: 26px;
+    padding: 20px;
+  }
+
+  .actor-detail__portrait,
+  .actor-detail__portrait img {
+    min-height: 380px;
+  }
+}
+.actor-filmography {
+  width: 100%;
+  margin-top: 32px;
+  padding: 28px;
+
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 12px;
+
+  background: #151a20;
+}
+
+.actor-filmography__table {
+  width: 100%;
+  overflow: hidden;
+
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 10px;
+
+  background: #151a20;
+}
+
+.actor-filmography__header,
+.actor-filmography__row {
+  display: grid;
+  grid-template-columns:
+    90px
+    minmax(300px, 1fr)
+    130px
+    110px;
+
+  gap: 20px;
+  align-items: center;
+}
+
+.actor-filmography__header {
+  padding: 12px 16px;
+
+  background: #242a31;
+
+  color: #c5c8ce;
+
+  font-size: 0.65rem;
+  font-weight: 700;
+
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.actor-filmography__row {
+  min-height: 72px;
+  padding: 14px 16px;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.actor-filmography__year {
+  color: #f2f3f5;
+
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.actor-filmography__work {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.actor-filmography__work strong {
+  color: #f2f3f5;
+  font-size: 0.86rem;
+}
+
+.actor-filmography__work span {
+  color: #aeb4bf;
+  font-size: 0.72rem;
+}
+
+.actor-filmography__type {
+  justify-self: start;
+
+  padding: 4px 7px;
+
+  border-radius: 4px;
+
+  background: #343a42;
+
+  color: #d5d8dc;
+
+  font-size: 0.65rem;
+  font-weight: 600;
+}
+
+.actor-filmography__rating {
+  justify-self: start;
+
+  padding: 5px 8px;
+
+  border-radius: 5px;
+
+  background: #0d1115;
+
+  color: #f5c518;
+
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+@media (max-width: 720px) {
+  .actor-filmography__table {
+    overflow-x: auto;
+  }
+
+  .actor-filmography__header,
+  .actor-filmography__row {
+    min-width: 650px;
+  }
+}
+.actor-filmography > h2 {
+  position: relative;
+
+  margin: 0 0 20px;
+  padding-left: 14px;
+
+  color: #f2f3f5;
+
+  font-size: 1.2rem;
+}
+
+.actor-filmography > h2::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+
+  width: 4px;
+
+  border-radius: 999px;
+
+  background: #f5c518;
+
+  content: "";
+}

@@ -1,5 +1,5 @@
+import { ActorCarousel } from '../components/actors/ActorCarousel'
 import { useRef } from 'react'
-import { ActorCard } from '../components/molecules/ActorCard'
 import { FeaturedMovieCarousel } from '../components/molecules/FeaturedMovieCarousel'
 import { SeriesCard } from '../components/molecules/SeriesCard'
 import { useMovies } from '../contexts/MoviesContext'
@@ -50,8 +50,26 @@ const scrollMoviesRight = () => {
 
       {series[0] && <section className="home-section home-section--featured-series"><div className="home-section__heading"><div><span className="home-eyebrow">Recomendación CineBase</span><h2>Serie destacada del mes</h2></div><span className="home-section__index">01</span></div><SeriesCard featured onViewSeries={onSelectSeries} series={series[0]} /></section>}
 
-      <section className="home-section" id="home-actors"><div className="home-section__heading"><div><span className="home-eyebrow">Talento que marca tendencia</span><h2>Actores en tendencia</h2></div><button className="home-section__link" onClick={() => document.getElementById('home-actors')?.scrollIntoView({ behavior: 'smooth' })} type="button">Explorar talento <span aria-hidden="true">→</span></button></div><div className="home-actor-grid">{actors.map((actor) => <ActorCard actor={actor} key={actor.id} onViewProfile={onSelectActor} />)}</div></section>
+      <section className="home-section" id="home-actors">
+        <div className="home-section__heading">
+          <div>
+            <span className="home-eyebrow">
+              Talento que marca tendencia
+            </span>
 
+            <h2>Actores en tendencia</h2>
+          </div>
+
+          <span className="home-section__index">
+            02
+          </span>
+        </div>
+
+        <ActorCarousel
+          actors={actors}
+          onSelectActor={onSelectActor}
+        />
+      </section>
       <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><div className="home-series-grid">{series.map((item) => <SeriesCard key={item.id} onViewSeries={onSelectSeries} series={item} />)}</div></section>
 
       <section className="home-section">
