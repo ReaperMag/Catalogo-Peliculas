@@ -589,5 +589,1462 @@
         "text": "La aclamada banda sonora fue compuesta por Abel Korzeniowski, otorgándole un tono melancólico y trágico a la narrativa."
       }
     ]
+  },
+{
+  "id": "s4",
+  "title": "The L Word",
+  "originalTitle": "The L Word",
+  "tagline": "Same Sex. Different City.",
+  "year": 2004,
+  "endYear": 2009,
+  "status": "Finalizada",
+  "rating": 7.7,
+  "episodes": 71,
+  "episodeDuration": "45-60 min",
+  "certification": "TV-MA",
+  "seasons": 6,
+
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+
+  "synopsis": "La serie sigue la vida personal, profesional y sentimental de un grupo de mujeres lesbianas y bisexuales que viven en Los Ángeles, explorando sus relaciones, amistades, conflictos y experiencias a lo largo de varios años.",
+
+  "image": "series/the-l-word.png",
+
+  "trailerUrl": "https://youtu.be/eozHBSyq68E?si=53-4pjILcmZUuhrL",
+
+  "creators": [
+    "Ilene Chaiken",
+    "Michele Abbott",
+    "Kathy Greenberg"
+  ],
+
+  "writers": [
+    "Ilene Chaiken"
+  ],
+
+  "directors": [
+    "Rose Troche",
+    "Angela Robinson",
+    "Ernest R. Dickerson"
+  ],
+
+  "music": "Elizabeth Ziff",
+
+  "country": "Estados Unidos / Canadá",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Paramount+"
+  ],
+
+  "productionCompanies": [
+    "Showtime Networks",
+    "MGM Television"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 14,
+      "year": 2004,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Pilot Part 1",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Pilot Part 2",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Let's Do It",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Longing",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lies, Lies, Lies",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lawfully",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Losing It",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "L'Ennui",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Listen Up",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Luck, Next Time",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Liberally",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Looking Back",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Locked Up",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 14,
+          "title": "Limb from Limb",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 2,
+      "episodes": 13,
+      "year": 2005,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Life, Loss, Leaving",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Lap Dance",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Loneliest Number",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Lynch Pin",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Labyrinth",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lagrimas de Oro",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Luminous",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Loyal",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Late, Later, Latent",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Land Ahoy",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Loud & Proud",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "L'Chaim",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Lacuna",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 3,
+      "episodes": 12,
+      "year": 2006,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Labia Majora",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Lost Weekend",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lobsters",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Light My Fire",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lifeline",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lifesize",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lone Star",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Latecomer",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Lead, Follow, or Get Out of the Way",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Losing the Light",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Last Dance",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Left Hand of the Goddess",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 4,
+      "episodes": 12,
+      "year": 2007,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Legend in the Making",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Livin' La Vida Loca",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lassoed",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Layup",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lez Girls",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Luck Be a Lady",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lesson Number One",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Lexington and Concord",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Lacy Lilting Lyrics",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Little Boy Blue",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Literary License to Kill",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Long Time Coming",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 5,
+      "episodes": 12,
+      "year": 2008,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "LGB Tease",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Look Out, Here They Come!",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lady of the Lake",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Let's Get This Party Started",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lookin' at You, Kid",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lights! Camera! Action!",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lesbians Gone Wild",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Lay Down the Law",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Liquid Heat",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Lifecycle",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Lunar Cycle",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Loyal and True",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 6,
+      "episodes": 8,
+      "year": 2009,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Long Night's Journey Into Day",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Least Likely",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "LMFAO",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Leaving Los Angeles",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Litmus Test",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lactose Intolerant",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Last Couple Standing",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Last Word",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Jennifer Beals",
+      "character": "Bette Porter"
+    },
+    {
+      "name": "Laurel Holloman",
+      "character": "Tina Kennard"
+    },
+    {
+      "name": "Mia Kirshner",
+      "character": "Jenny Schecter"
+    },
+    {
+      "name": "Katherine Moennig",
+      "character": "Shane McCutcheon"
+    },
+    {
+      "name": "Leisha Hailey",
+      "character": "Alice Pieszecki"
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Kit Porter"
+    }
+  ],
+
+  "awards": [
+    "Nominada a un Primetime Emmy",
+    "5 premios ganados y 24 nominaciones registradas en IMDb"
+  ],
+
+"reviews": [
+  {
+    "author": "Sofía M.",
+    "source": "Opinión de la comunidad",
+    "score": "8/10",
+    "text": "Una serie centrada en relaciones, amistad y conflictos personales, con un reparto coral que evoluciona a lo largo de sus seis temporadas."
+  },
+  {
+    "author": "Camila R.",
+    "source": "Opinión de la comunidad",
+    "score": "9/10",
+    "text": "Su grupo de personajes y sus historias conectadas hicieron de la serie una producción muy reconocible dentro del drama romántico televisivo."
   }
+],
+
+  "trivia": [
+    {
+      "title": "Los títulos de los episodios",
+      "text": "Exceptuando el piloto, los títulos de los episodios comienzan con la letra L."
+    },
+    {
+      "title": "Producción estadounidense y canadiense",
+      "text": "La serie fue una coproducción de Estados Unidos y Canadá y tuvo parte importante de su producción en Vancouver."
+    },
+    {
+      "title": "Una continuación años después",
+      "text": "La franquicia continuó posteriormente con The L Word: Generation Q, ambientada años después de la serie original."
+    }
+  ]
+},
+{
+  "id": "s5",
+  "title": "Sterling Point",
+  "originalTitle": "Sterling Point",
+  "tagline": "Una isla. Un secreto. Un verano que lo cambia todo.",
+  "year": 2026,
+  "status": "En emisión",
+  "rating": 7.4,
+  "episodes": 8,
+  "episodeDuration": "50-55 min",
+  "certification": "16+",
+  "seasons": 1,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+
+  "synopsis": "Annie Jacobson, una joven de 17 años criada en Nueva York, descubre que ella y su hermano gemelo han heredado una isla en Canadá de un abuelo con el que nunca tuvieron relación. Al viajar hasta Sterling Point para investigar, Annie se ve envuelta en secretos familiares, nuevas amistades y romances inesperados.",
+
+  "image": "series/sterling-point.jpg",
+
+  "trailerUrl": "https://youtu.be/Azy6TIHNYnE?si=dqGoU0EM6In1oeRT",
+
+  "creators": [
+    "Megan Park"
+  ],
+
+  "writers": [
+    "Megan Park"
+  ],
+
+  "directors": [
+    "Megan Park",
+    "Aurora Guerrero",
+    "Andrew Ahn"
+  ],
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Prime Video"
+  ],
+
+  "productionCompanies": [
+    "Fake Empire",
+    "LuckyChap",
+    "Amazon MGM Studios"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2026,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Pero me acabo de tomar un Ambien",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Ella da vibes de soltera y bisexual",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Mi fobia debilita a los lobos",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Llevame a los acantilados",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Tampoco soy una chica de shots",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Sigo sangrando",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Talves sea caballa",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Soy la niña",
+          "image": "series/sterling-point-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Ella Rubin",
+      "character": "Annie Jacobson"
+    },
+    {
+      "name": "Amélie Hoeferle",
+      "character": "Ramona"
+    },
+    {
+      "name": "Jacob Whiteduck-Lavoie",
+      "character": "Ellis"
+    },
+    {
+      "name": "Keen Ruffalo",
+      "character": "Connor"
+    },
+    {
+      "name": "Bo Bragason",
+      "character": "Oona"
+    },
+    {
+      "name": "Jay Duplass",
+      "character": "Padre de Annie"
+    }
+  ],
+
+  "awards": [],
+
+  "reviews": [
+    {
+      "author": "Daniela P.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "La ambientación en la isla y el misterio familiar hacen que la historia tenga algo más que un romance juvenil tradicional."
+    },
+    {
+      "author": "Lucía G.",
+      "source": "Opinión de la comunidad",
+      "score": "7/10",
+      "text": "Tiene una mezcla entretenida de romance, drama adolescente y secretos familiares, con personajes que van construyendo sus relaciones poco a poco."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Una historia original",
+      "text": "Sterling Point es una historia original y no está basada en una novela previa."
+    },
+    {
+      "title": "La isla como centro de la historia",
+      "text": "Sterling Point es una pequeña isla situada en la región de Muskoka, Canadá, y funciona como el escenario principal de la serie."
+    },
+    {
+      "title": "Producción de LuckyChap",
+      "text": "La serie cuenta entre sus productoras con LuckyChap, compañía asociada a Margot Robbie."
+    }
+  ]
+},
+{
+  "id": "s6",
+  "title": "Bridgerton",
+  "originalTitle": "Bridgerton",
+  "tagline": "El amor nunca sigue las reglas.",
+  "year": 2020,
+  "status": "En emisión",
+  "rating": 7.5,
+  "episodes": 32,
+  "episodeDuration": "50-75 min",
+  "certification": "TV-MA",
+  "seasons": 4,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Época"
+  ],
+
+  "synopsis": "En la alta sociedad londinense de la época de la Regencia, los ocho hermanos de la familia Bridgerton buscan el amor y la felicidad mientras enfrentan las exigencias sociales, los escándalos y los secretos que Lady Whistledown revela a través de su popular columna de chismes.",
+
+  "image": "series/bridgerton.jpg",
+
+  "trailerUrl": "https://youtu.be/5cOfyLkQRGk?si=AzLi4WlUJZ1Dd0B0",
+
+  "creators": [
+    "Chris Van Dusen"
+  ],
+
+  "writers": [
+    "Chris Van Dusen",
+    "Jess Brownell"
+  ],
+
+  "directors": [
+    "Tom Verica",
+    "Tricia Brock",
+    "Julie Anne Robinson",
+    "Andrew Ahn",
+    "Anya Adams"
+  ],
+
+  "music": "Kris Bowers",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "Shondaland",
+    "CVD Productions"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2020,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Diamond of the First Water",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Shock and Delight",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Art of the Swoon",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "An Affair of Honor",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "The Duke and I",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Swish",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Oceans Apart",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "After the Rain",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 2,
+      "episodes": 8,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Capital R Rake",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Off to the Races",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "A Bee in Your Bonnet",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Victory",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "An Unthinkable Fate",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "The Choice",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Harmony",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "The Viscount Who Loved Me",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 3,
+      "episodes": 8,
+      "year": 2024,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Out of the Shadows",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "How Bright the Moon",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Forces of Nature",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Old Friends",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Tick Tock",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Romancing Mister Bridgerton",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Joining of Hands",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Into the Light",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 4,
+      "episodes": 8,
+      "year": 2026,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "The Waltz",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Time Transfixed",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "The Field Next to the Other Road",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "An Offer from a Gentleman",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Yes or No",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "The Passing Winter",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "The Beyond",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Dance in the Country",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Nicola Coughlan",
+      "character": "Penelope Featherington"
+    },
+    {
+      "name": "Jonathan Bailey",
+      "character": "Anthony Bridgerton"
+    },
+    {
+      "name": "Simone Ashley",
+      "character": "Kate Sharma"
+    },
+    {
+      "name": "Luke Newton",
+      "character": "Colin Bridgerton"
+    },
+    {
+      "name": "Luke Thompson",
+      "character": "Benedict Bridgerton"
+    },
+    {
+      "name": "Claudia Jessie",
+      "character": "Eloise Bridgerton"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de múltiples premios Primetime Emmy",
+    "Reconocida con numerosas nominaciones por actuación, vestuario, música y producción"
+  ],
+
+  "reviews": [
+    {
+      "author": "Valentina C.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Me gusta que cada temporada desarrolle un romance diferente sin abandonar las historias de los demás miembros de la familia Bridgerton."
+    },
+    {
+      "author": "Gabriela T.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "La ambientación, el vestuario y la música hacen que el drama romántico tenga una identidad muy reconocible y entretenida."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en novelas",
+      "text": "La serie está basada en la saga de novelas románticas Bridgerton escrita por Julia Quinn."
+    },
+    {
+      "title": "Un romance principal por temporada",
+      "text": "Cada temporada centra buena parte de su historia en la relación romántica de uno de los hermanos Bridgerton."
+    },
+    {
+      "title": "Música contemporánea con estilo clásico",
+      "text": "La serie se caracteriza por utilizar versiones instrumentales de canciones modernas durante bailes y escenas de la alta sociedad."
+    }
+  ]
+},
+{
+  "id": "s7",
+  "title": "Heartstopper",
+  "originalTitle": "Heartstopper",
+  "tagline": "El amor puede llegar cuando menos lo esperas.",
+  "year": 2022,
+  "endYear": 2024,
+  "status": "Finalizada",
+  "rating": 8.5,
+  "episodes": 24,
+  "episodeDuration": "26-33 min",
+  "certification": "TV-14",
+  "seasons": 3,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+
+  "synopsis": "Charlie Spring y Nick Nelson descubren que su amistad puede convertirse en algo más mientras atraviesan el amor, la identidad, la amistad y los cambios propios de la adolescencia junto a su grupo de amigos.",
+
+  "image": "series/heartstopper.jpg",
+
+  "trailerUrl": "https://youtu.be/YtJ9uwqY1M4?si=AP4MjK_zHTgccXa1",
+
+  "creators": [
+    "Alice Oseman"
+  ],
+
+  "writers": [
+    "Alice Oseman"
+  ],
+
+  "directors": [
+    "Euros Lyn",
+    "Andy Newbery"
+  ],
+
+  "music": "Adiescar Chase",
+
+  "country": "Reino Unido",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "See-Saw Films",
+    "Netflix"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Meet",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Crush",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Kiss",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Secret",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Friend",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Girls",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Bully",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Boyfriend",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": 8,
+      "year": 2023,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Out",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Family",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Promise",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Challenge",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Heat",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Truth / Dare",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Sorry",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Perfect",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": 8,
+      "year": 2024,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Love",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Home",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Talk",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Journey",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Winter",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Body",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Together",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Apart",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Joe Locke",
+      "character": "Charlie Spring"
+    },
+    {
+      "name": "Kit Connor",
+      "character": "Nick Nelson"
+    },
+    {
+      "name": "William Gao",
+      "character": "Tao Xu"
+    },
+    {
+      "name": "Yasmin Finney",
+      "character": "Elle Argent"
+    },
+    {
+      "name": "Corinna Brown",
+      "character": "Tara Jones"
+    },
+    {
+      "name": "Kizzy Edgell",
+      "character": "Darcy Olsson"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de premios Children's & Family Emmy",
+    "Reconocida por su representación LGBTQ+ y su impacto en el público juvenil"
+  ],
+
+  "reviews": [
+    {
+      "author": "Andrea L.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Es una serie muy cálida y sensible, con una historia romántica juvenil que se siente cercana y honesta."
+    },
+    {
+      "author": "Paula V.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "Además del romance principal, destaca por la amistad del grupo y por tratar temas emocionales con mucha delicadeza."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en una novela gráfica",
+      "text": "La serie adapta la popular novela gráfica Heartstopper creada por Alice Oseman."
+    },
+    {
+      "title": "Alice Oseman escribió la adaptación",
+      "text": "La propia autora de la obra original estuvo a cargo de la escritura de la serie."
+    },
+    {
+      "title": "Tres temporadas estrenadas",
+      "text": "La serie cuenta con tres temporadas publicadas en Netflix."
+    }
+  ]
+},
+{
+  "id": "s8",
+  "title": "Veinticinco, Veintiuno",
+  "originalTitle": "Twenty Five Twenty One",
+  "tagline": "A los veinticinco y veintiuno, se enamoraron.",
+  "year": 2022,
+  "endYear": 2022,
+  "status": "Finalizada",
+  "rating": 8.5,
+  "episodes": 16,
+  "episodeDuration": "70-80 min",
+  "certification": "TV-14",
+  "seasons": 1,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Deporte"
+  ],
+
+  "synopsis": "Durante la crisis financiera de finales de los años noventa en Corea del Sur, Na Hee-do lucha por mantener vivo su sueño de convertirse en esgrimista profesional, mientras Baek Yi-jin intenta reconstruir su vida después de que su familia pierde todo. A medida que crecen y enfrentan nuevas dificultades, su amistad evoluciona hacia una relación que marcará sus vidas.",
+
+  "image": "series/twenty-five-twenty-one.jpg",
+
+  "trailerUrl": "https://youtu.be/V9NLRnpaxeo?si=sTFBYR0lQE_zOtN8",
+
+  "creators": [
+    "Jung Ji-hyun",
+    "Kwon Do-eun"
+  ],
+
+  "writers": [
+    "Kwon Do-eun"
+  ],
+
+  "directors": [
+    "Jung Ji-hyun",
+    "Kim Seung-ho"
+  ],
+
+  "music": "Lim Ha-young",
+
+  "country": "Corea del Sur",
+  "language": "Coreano",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "Studio Dragon",
+    "Hwa&Dam Pictures"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 16,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Episode 1",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Episode 2",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Episode 3",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Episode 4",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Episode 5",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Episode 6",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Episode 7",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Episode 8",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Episode 9",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Episode 10",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Episode 11",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Episode 12",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Episode 13",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 14,
+          "title": "Episode 14",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 15,
+          "title": "Episode 15",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 16,
+          "title": "Episode 16",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Kim Tae-ri",
+      "character": "Na Hee-do"
+    },
+    {
+      "name": "Nam Joo-hyuk",
+      "character": "Baek Yi-jin"
+    },
+    {
+      "name": "Kim Ji-yeon",
+      "character": "Ko Yu-rim"
+    },
+    {
+      "name": "Choi Hyun-wook",
+      "character": "Moon Ji-woong"
+    },
+    {
+      "name": "Lee Ju-myoung",
+      "character": "Ji Seung-wan"
+    }
+  ],
+
+  "awards": [
+    "Reconocida por sus actuaciones y por su historia de crecimiento juvenil",
+    "Ganadora y nominada en diversos premios de televisión surcoreanos"
+  ],
+
+  "reviews": [
+    {
+      "author": "Nicole S.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "La combinación de romance, amistad y crecimiento personal hace que la historia sea muy emotiva y fácil de recordar."
+    },
+    {
+      "author": "María J.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Me gustó mucho cómo muestra los sueños y dificultades de los personajes sin reducir toda la historia únicamente al romance."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Ambientada durante la crisis financiera",
+      "text": "Parte de la historia comienza durante la crisis financiera asiática de finales de los años noventa y muestra cómo afecta los sueños de los protagonistas."
+    },
+    {
+      "title": "Preparación para la esgrima",
+      "text": "Kim Tae-ri y Kim Ji-yeon recibieron entrenamiento de esgrima para interpretar a sus personajes."
+    },
+    {
+      "title": "Producción de Studio Dragon",
+      "text": "La serie fue producida por Studio Dragon y Hwa&Dam Pictures para tvN."
+    }
+  ]
+}
 ]
