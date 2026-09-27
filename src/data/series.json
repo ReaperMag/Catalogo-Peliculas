@@ -658,5 +658,166 @@
       "text": "La franquicia continuó posteriormente con The L Word: Generation Q, ambientada años después de la serie original."
     }
   ]
+},
+{
+  "id": "s5",
+  "title": "Sterling Point",
+  "originalTitle": "Sterling Point",
+  "tagline": "Una isla. Un secreto. Un verano que lo cambia todo.",
+  "year": 2026,
+  "status": "En emisión",
+  "rating": 7.4,
+  "episodes": 8,
+  "episodeDuration": "50-55 min",
+  "certification": "16+",
+  "seasons": 1,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+
+  "synopsis": "Annie Jacobson, una joven de 17 años criada en Nueva York, descubre que ella y su hermano gemelo han heredado una isla en Canadá de un abuelo con el que nunca tuvieron relación. Al viajar hasta Sterling Point para investigar, Annie se ve envuelta en secretos familiares, nuevas amistades y romances inesperados.",
+
+  "image": "series/sterling-point.jpg",
+
+  "trailerUrl": "https://youtu.be/Azy6TIHNYnE?si=dqGoU0EM6In1oeRT",
+
+  "creators": [
+    "Megan Park"
+  ],
+
+  "writers": [
+    "Megan Park"
+  ],
+
+  "directors": [
+    "Megan Park",
+    "Aurora Guerrero",
+    "Andrew Ahn"
+  ],
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Prime Video"
+  ],
+
+  "productionCompanies": [
+    "Fake Empire",
+    "LuckyChap",
+    "Amazon MGM Studios"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2026,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Pero me acabo de tomar un Ambien",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Ella da vibes de soltera y bisexual",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Mi fobia debilita a los lobos",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Llevame a los acantilados",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Tampoco soy una chica de shots",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Sigo sangrando",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Talves sea caballa",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Soy la niña",
+          "image": "series/sterling-point-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Ella Rubin",
+      "character": "Annie Jacobson"
+    },
+    {
+      "name": "Amélie Hoeferle",
+      "character": "Ramona"
+    },
+    {
+      "name": "Jacob Whiteduck-Lavoie",
+      "character": "Ellis"
+    },
+    {
+      "name": "Keen Ruffalo",
+      "character": "Connor"
+    },
+    {
+      "name": "Bo Bragason",
+      "character": "Oona"
+    },
+    {
+      "name": "Jay Duplass",
+      "character": "Padre de Annie"
+    }
+  ],
+
+  "awards": [],
+
+  "reviews": [
+    {
+      "author": "Daniela P.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "La ambientación en la isla y el misterio familiar hacen que la historia tenga algo más que un romance juvenil tradicional."
+    },
+    {
+      "author": "Lucía G.",
+      "source": "Opinión de la comunidad",
+      "score": "7/10",
+      "text": "Tiene una mezcla entretenida de romance, drama adolescente y secretos familiares, con personajes que van construyendo sus relaciones poco a poco."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Una historia original",
+      "text": "Sterling Point es una historia original y no está basada en una novela previa."
+    },
+    {
+      "title": "La isla como centro de la historia",
+      "text": "Sterling Point es una pequeña isla situada en la región de Muskoka, Canadá, y funciona como el escenario principal de la serie."
+    },
+    {
+      "title": "Producción de LuckyChap",
+      "text": "La serie cuenta entre sus productoras con LuckyChap, compañía asociada a Margot Robbie."
+    }
+  ]
 }
 ]
