@@ -44,554 +44,477 @@
     "viewCount": null
   },
   {
-  "id": "m4",
-  "title": "Rosas Rojas",
-  "originalTitle": "Imagine Me & You",
-  "tagline": "Ahi va la novia.",
-  "year": 2005,
-  "rating": 6.8,
-  "metascore": 49,
-  "duration": "1h 30m",
-  "certification": "R",
-
-  "genres": [
-    "Romance",
-    "Comedia",
-    "Drama"
-  ],
-
-  "synopsis": "Rachel está a punto de comenzar su vida matrimonial con Heck cuando conoce a Luce, la florista encargada de su boda. La conexión entre ambas es inmediata y, a medida que su amistad crece, Rachel comienza a cuestionar los sentimientos que creía tener claros y debe decidir qué quiere realmente para su vida.",
-
-  "image": "peliculas/imagine-me-and-you.jpg",
-
-  "trailerUrl": "https://youtu.be/X-EEMiSmnNw?si=9c8EzkyXIDoOo4Q3",
-  "viewCount": null,
-
-  "director": "Ol Parker",
-
-  "writers": [
-    "Ol Parker"
-  ],
-
-  "music": "Alex Heffes",
-  "cinematography": "Ben Davis",
-  "editing": "Alex Mackie",
-
-  "country": "Reino Unido / Alemania",
-  "language": "Inglés",
-
-  "productionCompanies": [
-    "BBC Films",
-    "Ealing Studios",
-    "Focus Features",
-    "Cougar Films",
-    "Fragile Films"
-  ],
-
-  "boxOffice": "$2.64 millones mundial",
-
-  "cast": [
-    {
-      "name": "Piper Perabo",
-      "character": "Rachel"
-    },
-    {
-      "name": "Lena Headey",
-      "character": "Luce"
-    },
-    {
-      "name": "Matthew Goode",
-      "character": "Heck"
-    },
-    {
-      "name": "Celia Imrie",
-      "character": "Tessa"
-    },
-    {
-      "name": "Anthony Head",
-      "character": "Ned"
-    },
-    {
-      "name": "Darren Boyd",
-      "character": "Cooper"
-    }
-  ],
-
-  "awards": [
-    "1 nominación total",
-    "Nominada a los GLAAD Media Awards"
-  ],
-
-  "trivia": [
-    {
-      "title": "Título inspirado en una canción",
-      "text": "El título Imagine Me & You proviene de una línea de la canción Happy Together de The Turtles."
-    },
-    {
-      "title": "Título original del proyecto",
-      "text": "Ol Parker explicó que inicialmente la película iba a llamarse Click, pero el nombre fue cambiado antes de su estreno."
-    },
-    {
-      "title": "Rodaje y producción británica",
-      "text": "La película fue desarrollada como una coproducción principalmente británica y alemana con participación de BBC Films, Ealing Studios y Focus Features."
-    }
-  ],
-
-  "reviews": [
-    {
-      "author": "Metacritic",
-      "source": "Crítica agregada",
-      "score": "49 / 100",
-      "text": "La recepción crítica agregada fue mixta, aunque varias reseñas destacaron el encanto del reparto y algunos de sus diálogos."
-    },
-    {
-      "author": "CineBase",
-      "source": "Ficha informativa",
-      "score": "6.8 / 10",
-      "text": "Una comedia romántica centrada en el descubrimiento personal, el amor inesperado y las decisiones emocionales que surgen después de un encuentro fortuito."
-    }
-  ]
-
-},
-{
-  "id": "m5",
-  "title": "Cuestión de tiempo",
-  "originalTitle": "About Time",
-  "tagline": "Una nueva comedia sobre el amor y valorar el tiempo.",
-  "year": 2013,
-  "rating": 7.8,
-  "metascore": 55,
-  "duration": "2h 3m",
-  "certification": "R",
-
-  "genres": [
-    "Romance",
-    "Comedia",
-    "Drama",
-    "Fantasía"
-  ],
-
-  "synopsis": "A los 21 años, Tim descubre que los hombres de su familia pueden viajar en el tiempo. Aunque no puede cambiar la historia, decide utilizar esta habilidad para mejorar su vida y encontrar el amor. Cuando conoce a Mary, comprende que incluso viajar al pasado no puede evitar todos los problemas y pérdidas de la vida cotidiana.",
-
-  "image": "peliculas/cuestion-de-tiempo.jpg",
-
-  "trailerUrl": "https://youtu.be/hGehr1xjnDA?si=cipee2hy1zyvkGtE",
-
-  "viewCount": null,
-
-  "director": "Richard Curtis",
-
-  "writers": [
-    "Richard Curtis"
-  ],
-
-  "music": "Nick Laird-Clowes",
-  "cinematography": "John Guleserian",
-  "editing": "Mark Day",
-
-  "country": "Reino Unido / Estados Unidos",
-  "language": "Inglés",
-
-  "productionCompanies": [
-    "Working Title Films",
-    "Relativity Media"
-  ],
-
-  "boxOffice": "$87.1 millones mundial",
-
-  "cast": [
-    {
-      "name": "Domhnall Gleeson",
-      "character": "Tim Lake"
-    },
-    {
-      "name": "Rachel McAdams",
-      "character": "Mary"
-    },
-    {
-      "name": "Bill Nighy",
-      "character": "James Lake"
-    },
-    {
-      "name": "Lydia Wilson",
-      "character": "Kit Kat"
-    },
-    {
-      "name": "Lindsay Duncan",
-      "character": "Mary Lake"
-    },
-    {
-      "name": "Tom Hollander",
-      "character": "Harry"
-    }
-  ],
-
-  "awards": [
-    "3 premios y 9 nominaciones",
-    "Nominada en los Saturn Awards",
-    "Ganadora en los Golden Trailer Awards"
-  ],
-
-  "trivia": [
-    {
-      "title": "Richard Curtis volvió a dirigir",
-      "text": "La película fue escrita y dirigida por Richard Curtis, conocido también por historias románticas como Love Actually y Notting Hill."
-    },
-    {
-      "title": "El viaje en el tiempo no es el centro",
-      "text": "Aunque la historia utiliza viajes en el tiempo, el argumento se enfoca principalmente en las relaciones, la familia y la forma de valorar la vida cotidiana."
-    },
-    {
-      "title": "Producción británica",
-      "text": "La película fue producida principalmente por Working Title Films y distribuida internacionalmente por Universal Pictures."
-    }
-  ],
-
-  "reviews": [
-    {
-      "author": "Metacritic",
-      "source": "Crítica agregada",
-      "score": "55 / 100",
-      "text": "La recepción crítica fue mixta o favorable, destacando especialmente el tono emotivo de la historia y las actuaciones del reparto."
-    },
-    {
-      "author": "CineBase",
-      "source": "Ficha informativa",
-      "score": "7.8 / 10",
-      "text": "Una historia romántica que utiliza los viajes en el tiempo para explorar el amor, la familia y la importancia de disfrutar los momentos cotidianos."
-    }
-  ]
-},
-{
-  "id": "m6",
-  "title": "Si yo tuviera 30",
-  "originalTitle": "13 Going on 30",
-  "tagline": "Para algunas, los 30 son los nuevos 13.",
-  "year": 2004,
-  "rating": 6.3,
-  "metascore": 57,
-  "duration": "1h 38m",
-  "certification": "PG-13",
-
-  "genres": [
-    "Romance",
-    "Comedia",
-    "Fantasía"
-  ],
-
-  "synopsis": "Jenna Rink, una adolescente de trece años, desea desesperadamente ser adulta. Después de una fiesta de cumpleaños desastrosa, despierta de manera inexplicable con treinta años y descubre que tiene la vida que siempre quiso. Sin embargo, mientras intenta comprender en quién se ha convertido, comienza a valorar las amistades, decisiones y sentimientos que dejó atrás.",
-
-  "image": "peliculas/si-yo-tuviera-30.png",
-
-  "trailerUrl": "https://youtu.be/Zk07Lkpfn-M?si=FbS99fm0L-ZCsYFH",
-
-  "viewCount": null,
-
-  "director": "Gary Winick",
-
-  "writers": [
-    "Josh Goldsmith",
-    "Cathy Yuspa"
-  ],
-
-  "music": "Theodore Shapiro",
-  "cinematography": "Don Burgess",
-  "editing": "Susan Littenberg",
-
-  "country": "Estados Unidos",
-  "language": "Inglés",
-
-  "productionCompanies": [
-    "Revolution Studios",
-    "Columbia Pictures"
-  ],
-
-  "boxOffice": "$96.5 millones mundial",
-
-  "cast": [
-    {
-      "name": "Jennifer Garner",
-      "character": "Jenna Rink"
-    },
-    {
-      "name": "Mark Ruffalo",
-      "character": "Matt Flamhaff"
-    },
-    {
-      "name": "Judy Greer",
-      "character": "Lucy Wyman"
-    },
-    {
-      "name": "Andy Serkis",
-      "character": "Richard Kneeland"
-    },
-    {
-      "name": "Kathy Baker",
-      "character": "Beverly Rink"
-    },
-    {
-      "name": "Christa B. Allen",
-      "character": "Jenna Rink joven"
-    }
-  ],
-
-  "awards": [
-    "Ganadora de varios premios juveniles y nominaciones por sus actuaciones",
-    "Reconocida como una de las comedias románticas más recordadas de los años 2000"
-  ],
-
-  "trivia": [
-    {
-      "title": "Una escena muy recordada",
-      "text": "La secuencia de baile con Thriller de Michael Jackson se convirtió en una de las escenas más reconocibles de la película."
-    },
-    {
-      "title": "Jennifer Garner y Christa B. Allen",
-      "text": "Christa B. Allen interpreta a Jenna adolescente y años después volvería a interpretar una versión joven de un personaje de Jennifer Garner."
-    },
-    {
-      "title": "Ambientación en Nueva York",
-      "text": "Gran parte de la historia transcurre en el mundo editorial y de revistas de moda de Nueva York."
-    }
-  ],
-
-  "reviews": [
-    {
-      "author": "Metacritic",
-      "source": "Crítica agregada",
-      "score": "57 / 100",
-      "text": "La recepción crítica fue mixta o favorable, con elogios frecuentes a la actuación carismática de Jennifer Garner."
-    },
-    {
-      "author": "CineBase",
-      "source": "Ficha informativa",
-      "score": "6.3 / 10",
-      "text": "Una comedia romántica ligera que combina fantasía, nostalgia y crecimiento personal alrededor del deseo de crecer demasiado rápido."
-    }
-  ]
-},
-{
-  "id": "m7",
-  "title": "Ella es el hombre",
-  "originalTitle": "She's the Man",
-  "tagline": "Todos tienen un secreto.",
-  "year": 2006,
-  "rating": 6.4,
-  "metascore": 45,
-  "duration": "1h 45m",
-  "certification": "PG-13",
-
-  "genres": [
-    "Romance",
-    "Comedia",
-    "Deporte"
-  ],
-
-  "synopsis": "Viola Hastings quiere demostrar que puede jugar fútbol tan bien como los chicos. Cuando su hermano gemelo Sebastian se ausenta de su nuevo internado, Viola decide hacerse pasar por él y ocupar su lugar en el equipo masculino. La situación se complica cuando comienza a enamorarse de su compañero de habitación, Duke, mientras Olivia se interesa por Sebastian sin saber que en realidad es Viola.",
-
-  "image": "peliculas/ella-es-el-hombre.jpg",
-
-  "trailerUrl": "https://youtu.be/9oDZXr1sZrs?si=fTWethlhB9fvu006",
-
-  "viewCount": null,
-
-  "director": "Andy Fickman",
-
-  "writers": [
-    "Ewan Leslie",
-    "Karen McCullah",
-    "Kirsten Smith"
-  ],
-
-  "basedOn": "Twelfth Night de William Shakespeare",
-
-  "music": "Nathan Wang",
-  "cinematography": "Greg Gardiner",
-  "editing": "Michael Jablow",
-
-  "country": "Estados Unidos",
-  "language": "Inglés",
-
-  "productionCompanies": [
-    "DreamWorks Pictures",
-    "Lakeshore Entertainment",
-    "The Donners' Company"
-  ],
-
-  "boxOffice": "$57.2 millones mundial",
-
-  "cast": [
-    {
-      "name": "Amanda Bynes",
-      "character": "Viola Hastings"
-    },
-    {
-      "name": "Channing Tatum",
-      "character": "Duke Orsino"
-    },
-    {
-      "name": "Laura Ramsey",
-      "character": "Olivia Lennox"
-    },
-    {
-      "name": "James Kirk",
-      "character": "Sebastian Hastings"
-    },
-    {
-      "name": "Robert Hoffman",
-      "character": "Justin Drayton"
-    },
-    {
-      "name": "Alex Breckenridge",
-      "character": "Monique Valentine"
-    }
-  ],
-
-  "awards": [
-    "Varias nominaciones en premios juveniles por su reparto y comedia",
-    "Amanda Bynes recibió reconocimiento por su interpretación cómica"
-  ],
-
-  "trivia": [
-    {
-      "title": "Inspirada en Shakespeare",
-      "text": "La historia es una adaptación moderna de la obra Twelfth Night de William Shakespeare."
-    },
-    {
-      "title": "Amanda Bynes aprendió fútbol",
-      "text": "Durante la producción, Amanda Bynes tuvo que entrenar fútbol para interpretar a Viola y realizó buena parte de las escenas deportivas."
-    },
-    {
-      "title": "Rodaje en Canadá",
-      "text": "Aunque la historia se desarrolla en Estados Unidos, varias escenas fueron filmadas en Columbia Británica, Canadá."
-    }
-  ],
-
-  "reviews": [
-    {
-      "author": "Metacritic",
-      "source": "Crítica agregada",
-      "score": "45 / 100",
-      "text": "La recepción crítica fue mixta, aunque varias reseñas destacaron la energía y el desempeño cómico de Amanda Bynes."
-    },
-    {
-      "author": "CineBase",
-      "source": "Ficha informativa",
-      "score": "6.4 / 10",
-      "text": "Una comedia romántica juvenil que combina romance, fútbol y una identidad equivocada inspirada en Shakespeare."
-    }
-  ]
-},
-{
-  "id": "m8",
-  "title": "Diario de una pasión",
-  "originalTitle": "The Notebook",
-  "tagline": "Detrás de cada gran amor hay una gran historia.",
-  "year": 2004,
-  "rating": 7.8,
-  "metascore": 53,
-  "duration": "2h 3m",
-  "certification": "PG-13",
-
-  "genres": [
-    "Romance",
-    "Drama"
-  ],
-
-  "synopsis": "En la década de 1940, Noah Calhoun y Allie Hamilton viven un intenso romance de verano que se ve interrumpido por las diferencias sociales y las decisiones familiares. Años después, sus caminos vuelven a cruzarse y ambos deberán enfrentar los sentimientos que aún conservan, mientras una historia de amor es recordada a través de un viejo cuaderno.",
-
-  "image": "peliculas/diario-de-una-pasion.jpg",
-
-  "trailerUrl": "https://youtu.be/DqJbx39Cs2k?si=yEc_ETW_7AMtauSS",
-
-  "viewCount": null,
-
-  "director": "Nick Cassavetes",
-
-  "writers": [
-    "Jeremy Leven",
-    "Jan Sardi"
-  ],
-
-  "basedOn": "The Notebook de Nicholas Sparks",
-
-  "music": "Aaron Zigman",
-  "cinematography": "Robert Fraisse",
-  "editing": "Alan Heim",
-
-  "country": "Estados Unidos",
-  "language": "Inglés",
-
-  "productionCompanies": [
-    "New Line Cinema",
-    "Gran Via Productions",
-    "Avery Pix"
-  ],
-
-  "boxOffice": "$118.2 millones mundial",
-
-  "cast": [
-    {
-      "name": "Ryan Gosling",
-      "character": "Noah Calhoun"
-    },
-    {
-      "name": "Rachel McAdams",
-      "character": "Allie Hamilton"
-    },
-    {
-      "name": "James Garner",
-      "character": "Duke"
-    },
-    {
-      "name": "Gena Rowlands",
-      "character": "Allie mayor"
-    },
-    {
-      "name": "Joan Allen",
-      "character": "Anne Hamilton"
-    },
-    {
-      "name": "Sam Shepard",
-      "character": "Frank Calhoun"
-    }
-  ],
-
-  "awards": [
-    "Ganadora del MTV Movie Award a Mejor Beso",
-    "Reconocida como una de las películas románticas más populares de los años 2000"
-  ],
-
-  "trivia": [
-    {
-      "title": "Basada en una novela",
-      "text": "La película está basada en la novela The Notebook de Nicholas Sparks, uno de los autores más conocidos del género romántico."
-    },
-    {
-      "title": "Ryan Gosling fue elegido por su perfil diferente",
-      "text": "Nick Cassavetes comentó que eligió a Ryan Gosling porque quería un protagonista que no tuviera el aspecto típico de estrella romántica."
-    },
-    {
-      "title": "Una pareja muy recordada",
-      "text": "La química entre Ryan Gosling y Rachel McAdams convirtió a la película en una de las historias de amor más recordadas del cine romántico contemporáneo."
-    }
-  ],
-
-  "reviews": [
-    {
-      "author": "Metacritic",
-      "source": "Crítica agregada",
-      "score": "53 / 100",
-      "text": "La recepción crítica fue mixta, aunque con el tiempo la película ganó gran popularidad entre el público y se convirtió en un referente del romance moderno."
-    },
-    {
-      "author": "CineBase",
-      "source": "Ficha informativa",
-      "score": "7.8 / 10",
-      "text": "Una historia romántica intensa y emotiva sobre el paso del tiempo, la memoria y un amor que persiste a pesar de los obstáculos."
-    }
-  ]
-},
+    "id": "m4",
+    "title": "Rosas Rojas",
+    "originalTitle": "Imagine Me & You",
+    "tagline": "Ahi va la novia.",
+    "year": 2005,
+    "rating": 6.8,
+    "metascore": 49,
+    "duration": "1h 30m",
+    "certification": "R",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "synopsis": "Rachel está a punto de comenzar su vida matrimonial con Heck cuando conoce a Luce, la florista encargada de su boda. La conexión entre ambas es inmediata y, a medida que su amistad crece, Rachel comienza a cuestionar los sentimientos que creía tener claros y debe decidir qué quiere realmente para su vida.",
+    "image": "peliculas/imagine-me-and-you.jpg",
+    "trailerUrl": "https://youtu.be/X-EEMiSmnNw?si=9c8EzkyXIDoOo4Q3",
+    "viewCount": null,
+    "director": "Ol Parker",
+    "writers": [
+      "Ol Parker"
+    ],
+    "music": "Alex Heffes",
+    "cinematography": "Ben Davis",
+    "editing": "Alex Mackie",
+    "country": "Reino Unido / Alemania",
+    "language": "Inglés",
+    "productionCompanies": [
+      "BBC Films",
+      "Ealing Studios",
+      "Focus Features",
+      "Cougar Films",
+      "Fragile Films"
+    ],
+    "boxOffice": "$2.64 millones mundial",
+    "cast": [
+      {
+        "name": "Piper Perabo",
+        "character": "Rachel"
+      },
+      {
+        "name": "Lena Headey",
+        "character": "Luce"
+      },
+      {
+        "name": "Matthew Goode",
+        "character": "Heck"
+      },
+      {
+        "name": "Celia Imrie",
+        "character": "Tessa"
+      },
+      {
+        "name": "Anthony Head",
+        "character": "Ned"
+      },
+      {
+        "name": "Darren Boyd",
+        "character": "Cooper"
+      }
+    ],
+    "awards": [
+      "1 nominación total",
+      "Nominada a los GLAAD Media Awards"
+    ],
+    "trivia": [
+      {
+        "title": "Título inspirado en una canción",
+        "text": "El título Imagine Me & You proviene de una línea de la canción Happy Together de The Turtles."
+      },
+      {
+        "title": "Título original del proyecto",
+        "text": "Ol Parker explicó que inicialmente la película iba a llamarse Click, pero el nombre fue cambiado antes de su estreno."
+      },
+      {
+        "title": "Rodaje y producción británica",
+        "text": "La película fue desarrollada como una coproducción principalmente británica y alemana con participación de BBC Films, Ealing Studios y Focus Features."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "49 / 100",
+        "text": "La recepción crítica agregada fue mixta, aunque varias reseñas destacaron el encanto del reparto y algunos de sus diálogos."
+      },
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "6.8 / 10",
+        "text": "Una comedia romántica centrada en el descubrimiento personal, el amor inesperado y las decisiones emocionales que surgen después de un encuentro fortuito."
+      }
+    ]
+  },
+  {
+    "id": "m5",
+    "title": "Cuestión de tiempo",
+    "originalTitle": "About Time",
+    "tagline": "Una nueva comedia sobre el amor y valorar el tiempo.",
+    "year": 2013,
+    "rating": 7.8,
+    "metascore": 55,
+    "duration": "2h 3m",
+    "certification": "R",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Drama",
+      "Fantasía"
+    ],
+    "synopsis": "A los 21 años, Tim descubre que los hombres de su familia pueden viajar en el tiempo. Aunque no puede cambiar la historia, decide utilizar esta habilidad para mejorar su vida y encontrar el amor. Cuando conoce a Mary, comprende que incluso viajar al pasado no puede evitar todos los problemas y pérdidas de la vida cotidiana.",
+    "image": "peliculas/cuestion-de-tiempo.jpg",
+    "trailerUrl": "https://youtu.be/hGehr1xjnDA?si=cipee2hy1zyvkGtE",
+    "viewCount": null,
+    "director": "Richard Curtis",
+    "writers": [
+      "Richard Curtis"
+    ],
+    "music": "Nick Laird-Clowes",
+    "cinematography": "John Guleserian",
+    "editing": "Mark Day",
+    "country": "Reino Unido / Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "Working Title Films",
+      "Relativity Media"
+    ],
+    "boxOffice": "$87.1 millones mundial",
+    "cast": [
+      {
+        "name": "Domhnall Gleeson",
+        "character": "Tim Lake"
+      },
+      {
+        "name": "Rachel McAdams",
+        "character": "Mary"
+      },
+      {
+        "name": "Bill Nighy",
+        "character": "James Lake"
+      },
+      {
+        "name": "Lydia Wilson",
+        "character": "Kit Kat"
+      },
+      {
+        "name": "Lindsay Duncan",
+        "character": "Mary Lake"
+      },
+      {
+        "name": "Tom Hollander",
+        "character": "Harry"
+      }
+    ],
+    "awards": [
+      "3 premios y 9 nominaciones",
+      "Nominada en los Saturn Awards",
+      "Ganadora en los Golden Trailer Awards"
+    ],
+    "trivia": [
+      {
+        "title": "Richard Curtis volvió a dirigir",
+        "text": "La película fue escrita y dirigida por Richard Curtis, conocido también por historias románticas como Love Actually y Notting Hill."
+      },
+      {
+        "title": "El viaje en el tiempo no es el centro",
+        "text": "Aunque la historia utiliza viajes en el tiempo, el argumento se enfoca principalmente en las relaciones, la familia y la forma de valorar la vida cotidiana."
+      },
+      {
+        "title": "Producción británica",
+        "text": "La película fue producida principalmente por Working Title Films y distribuida internacionalmente por Universal Pictures."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "55 / 100",
+        "text": "La recepción crítica fue mixta o favorable, destacando especialmente el tono emotivo de la historia y las actuaciones del reparto."
+      },
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "7.8 / 10",
+        "text": "Una historia romántica que utiliza los viajes en el tiempo para explorar el amor, la familia y la importancia de disfrutar los momentos cotidianos."
+      }
+    ]
+  },
+  {
+    "id": "m6",
+    "title": "Si yo tuviera 30",
+    "originalTitle": "13 Going on 30",
+    "tagline": "Para algunas, los 30 son los nuevos 13.",
+    "year": 2004,
+    "rating": 6.3,
+    "metascore": 57,
+    "duration": "1h 38m",
+    "certification": "PG-13",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Fantasía"
+    ],
+    "synopsis": "Jenna Rink, una adolescente de trece años, desea desesperadamente ser adulta. Después de una fiesta de cumpleaños desastrosa, despierta de manera inexplicable con treinta años y descubre que tiene la vida que siempre quiso. Sin embargo, mientras intenta comprender en quién se ha convertido, comienza a valorar las amistades, decisiones y sentimientos que dejó atrás.",
+    "image": "peliculas/si-yo-tuviera-30.png",
+    "trailerUrl": "https://youtu.be/Zk07Lkpfn-M?si=FbS99fm0L-ZCsYFH",
+    "viewCount": null,
+    "director": "Gary Winick",
+    "writers": [
+      "Josh Goldsmith",
+      "Cathy Yuspa"
+    ],
+    "music": "Theodore Shapiro",
+    "cinematography": "Don Burgess",
+    "editing": "Susan Littenberg",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "Revolution Studios",
+      "Columbia Pictures"
+    ],
+    "boxOffice": "$96.5 millones mundial",
+    "cast": [
+      {
+        "name": "Jennifer Garner",
+        "character": "Jenna Rink"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Matt Flamhaff"
+      },
+      {
+        "name": "Judy Greer",
+        "character": "Lucy Wyman"
+      },
+      {
+        "name": "Andy Serkis",
+        "character": "Richard Kneeland"
+      },
+      {
+        "name": "Kathy Baker",
+        "character": "Beverly Rink"
+      },
+      {
+        "name": "Christa B. Allen",
+        "character": "Jenna Rink joven"
+      }
+    ],
+    "awards": [
+      "Ganadora de varios premios juveniles y nominaciones por sus actuaciones",
+      "Reconocida como una de las comedias románticas más recordadas de los años 2000"
+    ],
+    "trivia": [
+      {
+        "title": "Una escena muy recordada",
+        "text": "La secuencia de baile con Thriller de Michael Jackson se convirtió en una de las escenas más reconocibles de la película."
+      },
+      {
+        "title": "Jennifer Garner y Christa B. Allen",
+        "text": "Christa B. Allen interpreta a Jenna adolescente y años después volvería a interpretar una versión joven de un personaje de Jennifer Garner."
+      },
+      {
+        "title": "Ambientación en Nueva York",
+        "text": "Gran parte de la historia transcurre en el mundo editorial y de revistas de moda de Nueva York."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "57 / 100",
+        "text": "La recepción crítica fue mixta o favorable, con elogios frecuentes a la actuación carismática de Jennifer Garner."
+      },
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "6.3 / 10",
+        "text": "Una comedia romántica ligera que combina fantasía, nostalgia y crecimiento personal alrededor del deseo de crecer demasiado rápido."
+      }
+    ]
+  },
+  {
+    "id": "m7",
+    "title": "Ella es el hombre",
+    "originalTitle": "She's the Man",
+    "tagline": "Todos tienen un secreto.",
+    "year": 2006,
+    "rating": 6.4,
+    "metascore": 45,
+    "duration": "1h 45m",
+    "certification": "PG-13",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Deporte"
+    ],
+    "synopsis": "Viola Hastings quiere demostrar que puede jugar fútbol tan bien como los chicos. Cuando su hermano gemelo Sebastian se ausenta de su nuevo internado, Viola decide hacerse pasar por él y ocupar su lugar en el equipo masculino. La situación se complica cuando comienza a enamorarse de su compañero de habitación, Duke, mientras Olivia se interesa por Sebastian sin saber que en realidad es Viola.",
+    "image": "peliculas/ella-es-el-hombre.jpg",
+    "trailerUrl": "https://youtu.be/9oDZXr1sZrs?si=fTWethlhB9fvu006",
+    "viewCount": null,
+    "director": "Andy Fickman",
+    "writers": [
+      "Ewan Leslie",
+      "Karen McCullah",
+      "Kirsten Smith"
+    ],
+    "basedOn": "Twelfth Night de William Shakespeare",
+    "music": "Nathan Wang",
+    "cinematography": "Greg Gardiner",
+    "editing": "Michael Jablow",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "DreamWorks Pictures",
+      "Lakeshore Entertainment",
+      "The Donners' Company"
+    ],
+    "boxOffice": "$57.2 millones mundial",
+    "cast": [
+      {
+        "name": "Amanda Bynes",
+        "character": "Viola Hastings"
+      },
+      {
+        "name": "Channing Tatum",
+        "character": "Duke Orsino"
+      },
+      {
+        "name": "Laura Ramsey",
+        "character": "Olivia Lennox"
+      },
+      {
+        "name": "James Kirk",
+        "character": "Sebastian Hastings"
+      },
+      {
+        "name": "Robert Hoffman",
+        "character": "Justin Drayton"
+      },
+      {
+        "name": "Alex Breckenridge",
+        "character": "Monique Valentine"
+      }
+    ],
+    "awards": [
+      "Varias nominaciones en premios juveniles por su reparto y comedia",
+      "Amanda Bynes recibió reconocimiento por su interpretación cómica"
+    ],
+    "trivia": [
+      {
+        "title": "Inspirada en Shakespeare",
+        "text": "La historia es una adaptación moderna de la obra Twelfth Night de William Shakespeare."
+      },
+      {
+        "title": "Amanda Bynes aprendió fútbol",
+        "text": "Durante la producción, Amanda Bynes tuvo que entrenar fútbol para interpretar a Viola y realizó buena parte de las escenas deportivas."
+      },
+      {
+        "title": "Rodaje en Canadá",
+        "text": "Aunque la historia se desarrolla en Estados Unidos, varias escenas fueron filmadas en Columbia Británica, Canadá."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "45 / 100",
+        "text": "La recepción crítica fue mixta, aunque varias reseñas destacaron la energía y el desempeño cómico de Amanda Bynes."
+      },
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "6.4 / 10",
+        "text": "Una comedia romántica juvenil que combina romance, fútbol y una identidad equivocada inspirada en Shakespeare."
+      }
+    ]
+  },
+  {
+    "id": "m8",
+    "title": "Diario de una pasión",
+    "originalTitle": "The Notebook",
+    "tagline": "Detrás de cada gran amor hay una gran historia.",
+    "year": 2004,
+    "rating": 7.8,
+    "metascore": 53,
+    "duration": "2h 3m",
+    "certification": "PG-13",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "synopsis": "En la década de 1940, Noah Calhoun y Allie Hamilton viven un intenso romance de verano que se ve interrumpido por las diferencias sociales y las decisiones familiares. Años después, sus caminos vuelven a cruzarse y ambos deberán enfrentar los sentimientos que aún conservan, mientras una historia de amor es recordada a través de un viejo cuaderno.",
+    "image": "peliculas/diario-de-una-pasion.jpg",
+    "trailerUrl": "https://youtu.be/DqJbx39Cs2k?si=yEc_ETW_7AMtauSS",
+    "viewCount": null,
+    "director": "Nick Cassavetes",
+    "writers": [
+      "Jeremy Leven",
+      "Jan Sardi"
+    ],
+    "basedOn": "The Notebook de Nicholas Sparks",
+    "music": "Aaron Zigman",
+    "cinematography": "Robert Fraisse",
+    "editing": "Alan Heim",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "New Line Cinema",
+      "Gran Via Productions",
+      "Avery Pix"
+    ],
+    "boxOffice": "$118.2 millones mundial",
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Noah Calhoun"
+      },
+      {
+        "name": "Rachel McAdams",
+        "character": "Allie Hamilton"
+      },
+      {
+        "name": "James Garner",
+        "character": "Duke"
+      },
+      {
+        "name": "Gena Rowlands",
+        "character": "Allie mayor"
+      },
+      {
+        "name": "Joan Allen",
+        "character": "Anne Hamilton"
+      },
+      {
+        "name": "Sam Shepard",
+        "character": "Frank Calhoun"
+      }
+    ],
+    "awards": [
+      "Ganadora del MTV Movie Award a Mejor Beso",
+      "Reconocida como una de las películas románticas más populares de los años 2000"
+    ],
+    "trivia": [
+      {
+        "title": "Basada en una novela",
+        "text": "La película está basada en la novela The Notebook de Nicholas Sparks, uno de los autores más conocidos del género romántico."
+      },
+      {
+        "title": "Ryan Gosling fue elegido por su perfil diferente",
+        "text": "Nick Cassavetes comentó que eligió a Ryan Gosling porque quería un protagonista que no tuviera el aspecto típico de estrella romántica."
+      },
+      {
+        "title": "Una pareja muy recordada",
+        "text": "La química entre Ryan Gosling y Rachel McAdams convirtió a la película en una de las historias de amor más recordadas del cine romántico contemporáneo."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "53 / 100",
+        "text": "La recepción crítica fue mixta, aunque con el tiempo la película ganó gran popularidad entre el público y se convirtió en un referente del romance moderno."
+      },
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "7.8 / 10",
+        "text": "Una historia romántica intensa y emotiva sobre el paso del tiempo, la memoria y un amor que persiste a pesar de los obstáculos."
+      }
+    ]
+  },
   {
     "id": "school-of-rock",
     "title": "School of Rock",
@@ -602,40 +525,83 @@
     "metascore": 82,
     "duration": "1h 49m",
     "certification": "PG-13",
-    "genres": ["Comedia", "Música", "Familia"],
-    "collections": ["Comedia"],
+    "genres": [
+      "Comedia",
+      "Música",
+      "Familia"
+    ],
+    "collections": [
+      "Comedia"
+    ],
     "trailerUrl": "https://youtu.be/KdzWQT0wLCY",
     "synopsis": "Tras ser despedido de su banda y ante la amenaza del desalojo, Dewey Finn se hace pasar por su compañero de piso para trabajar como maestro sustituto en la escuela Horace Green. Al descubrir el talento musical de sus alumnos, transforma la clase en una banda de rock para competir en la Batalla de las Bandas y enseñarles a confiar en sí mismos.",
     "image": "https://moviesmoviesmovies.co.uk/cdn/shop/files/IMG_0007_BM15970.jpg?v=1736249007&width=1946",
     "viewCount": null,
     "director": "Richard Linklater",
-    "writers": ["Mike White"],
+    "writers": [
+      "Mike White"
+    ],
     "music": "Craig Wedren",
     "cinematography": "Rogier Stoffers",
     "editing": "Sandra Adair",
     "country": "Estados Unidos / Alemania",
     "language": "Inglés",
-    "productionCompanies": ["Paramount Pictures", "Scott Rudin Productions"],
+    "productionCompanies": [
+      "Paramount Pictures",
+      "Scott Rudin Productions"
+    ],
     "boxOffice": "$131.3 millones",
     "cast": [
-      {"name": "Jack Black", "character": "Dewey Finn"},
-      {"name": "Joan Cusack", "character": "Rosalie Mullins"},
-      {"name": "Mike White", "character": "Ned Schneebly"},
-      {"name": "Sarah Silverman", "character": "Patty Di Marco"},
-      {"name": "Miranda Cosgrove", "character": "Summer Hathaway"},
-      {"name": "Joey Gaydos Jr.", "character": "Zack Mooneyham"}
+      {
+        "name": "Jack Black",
+        "character": "Dewey Finn"
+      },
+      {
+        "name": "Joan Cusack",
+        "character": "Rosalie Mullins"
+      },
+      {
+        "name": "Mike White",
+        "character": "Ned Schneebly"
+      },
+      {
+        "name": "Sarah Silverman",
+        "character": "Patty Di Marco"
+      },
+      {
+        "name": "Miranda Cosgrove",
+        "character": "Summer Hathaway"
+      },
+      {
+        "name": "Joey Gaydos Jr.",
+        "character": "Zack Mooneyham"
+      }
     ],
     "awards": [
       "Nominación al Globo de Oro a Mejor Actor en Comedia o Musical para Jack Black",
       "Ganadora del MTV Movie Award a Mejor Actuación Cómica para Jack Black"
     ],
     "trivia": [
-      {"title": "Niños músicos", "text": "Los niños de la banda escolar interpretan sus propios instrumentos en la película."},
-      {"title": "El permiso de Led Zeppelin", "text": "Jack Black grabó un video para pedir a Led Zeppelin autorización para usar “Immigrant Song”."},
-      {"title": "Adaptación musical", "text": "La película inspiró un musical de Broadway producido por Andrew Lloyd Webber."}
+      {
+        "title": "Niños músicos",
+        "text": "Los niños de la banda escolar interpretan sus propios instrumentos en la película."
+      },
+      {
+        "title": "El permiso de Led Zeppelin",
+        "text": "Jack Black grabó un video para pedir a Led Zeppelin autorización para usar “Immigrant Song”."
+      },
+      {
+        "title": "Adaptación musical",
+        "text": "La película inspiró un musical de Broadway producido por Andrew Lloyd Webber."
+      }
     ],
     "reviews": [
-      {"author": "CineBase", "source": "Ficha informativa", "score": "7.2 / 10", "text": "Una comedia musical enérgica y entrañable, impulsada por la actuación de Jack Black y el entusiasmo de su joven banda."}
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "7.2 / 10",
+        "text": "Una comedia musical enérgica y entrañable, impulsada por la actuación de Jack Black y el entusiasmo de su joven banda."
+      }
     ]
   },
   {
@@ -648,40 +614,191 @@
     "metascore": 62,
     "duration": "1h 47m",
     "certification": "R",
-    "genres": ["Comedia", "Fantasía"],
-    "collections": ["Comedia"],
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ],
+    "collections": [
+      "Comedia"
+    ],
     "trailerUrl": "https://www.youtube.com/watch?v=1xSYmg_kpMY",
     "synopsis": "Cuando era niño, John deseó que su oso de peluche cobrara vida y se convirtiera en su mejor amigo. Años después, Ted sigue a su lado, pero su inseparable amistad complica la relación de John con Lori y lo obliga a decidir qué lugar ocupa cada uno en su vida.",
     "image": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blt52344fb5c7488ee0/691c852eac93e37944afe791/Ted_Rated_Poster_2000x3000_uaa.jpg?width=1000",
     "viewCount": null,
     "director": "Seth MacFarlane",
-    "writers": ["Seth MacFarlane", "Alec Sulkin", "Wellesley Wild"],
+    "writers": [
+      "Seth MacFarlane",
+      "Alec Sulkin",
+      "Wellesley Wild"
+    ],
     "music": "Walter Murphy",
     "cinematography": "Michael Barrett",
     "editing": "Jeff Freeman",
     "country": "Estados Unidos",
     "language": "Inglés",
-    "productionCompanies": ["Media Rights Capital", "Fuzzy Door Productions", "Bluegrass Films"],
+    "productionCompanies": [
+      "Media Rights Capital",
+      "Fuzzy Door Productions",
+      "Bluegrass Films"
+    ],
     "boxOffice": "$549.4 millones mundial",
     "cast": [
-      {"name": "Mark Wahlberg", "character": "John Bennett"},
-      {"name": "Mila Kunis", "character": "Lori Collins"},
-      {"name": "Seth MacFarlane", "character": "Ted (voz y captura de movimiento)"},
-      {"name": "Joel McHale", "character": "Rex"},
-      {"name": "Giovanni Ribisi", "character": "Donny"},
-      {"name": "Norah Jones", "character": "Ella misma"}
+      {
+        "name": "Mark Wahlberg",
+        "character": "John Bennett"
+      },
+      {
+        "name": "Mila Kunis",
+        "character": "Lori Collins"
+      },
+      {
+        "name": "Seth MacFarlane",
+        "character": "Ted (voz y captura de movimiento)"
+      },
+      {
+        "name": "Joel McHale",
+        "character": "Rex"
+      },
+      {
+        "name": "Giovanni Ribisi",
+        "character": "Donny"
+      },
+      {
+        "name": "Norah Jones",
+        "character": "Ella misma"
+      }
     ],
     "awards": [
       "Nominada al Óscar a Mejor Canción Original por “Everybody Needs a Best Friend”"
     ],
     "trivia": [
-      {"title": "Debut como director de cine", "text": "Ted fue el primer largometraje de acción real dirigido por Seth MacFarlane, conocido por crear Padre de familia."},
-      {"title": "Un oso creado digitalmente", "text": "Ted se integró en las escenas mediante animación por computadora y captura de movimiento."},
-      {"title": "Reconocimiento musical", "text": "La canción original “Everybody Needs a Best Friend” recibió una nominación al Óscar."}
+      {
+        "title": "Debut como director de cine",
+        "text": "Ted fue el primer largometraje de acción real dirigido por Seth MacFarlane, conocido por crear Padre de familia."
+      },
+      {
+        "title": "Un oso creado digitalmente",
+        "text": "Ted se integró en las escenas mediante animación por computadora y captura de movimiento."
+      },
+      {
+        "title": "Reconocimiento musical",
+        "text": "La canción original “Everybody Needs a Best Friend” recibió una nominación al Óscar."
+      }
     ],
     "reviews": [
-      {"author": "Metacritic", "source": "Crítica agregada", "score": "62 / 100", "text": "La película obtuvo un Metascore de 62, basado en 37 críticas profesionales."},
-      {"author": "CineBase", "source": "Ficha informativa", "score": "6.9 / 10", "text": "Una comedia fantástica sobre una amistad poco convencional que pone a prueba la vida adulta y la relación de pareja de John."}
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "62 / 100",
+        "text": "La película obtuvo un Metascore de 62, basado en 37 críticas profesionales."
+      },
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "6.9 / 10",
+        "text": "Una comedia fantástica sobre una amistad poco convencional que pone a prueba la vida adulta y la relación de pareja de John."
+      }
+    ]
+  },
+  {
+    "id": "deadpool-wolverine",
+    "title": "Deadpool & Wolverine",
+    "originalTitle": "Deadpool & Wolverine",
+    "tagline": "Dos tipos duros. Un equipo imposible.",
+    "year": 2024,
+    "rating": 7.5,
+    "metascore": 56,
+    "duration": "2h 8m",
+    "certification": "R",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Ciencia ficción"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "trailerUrl": "https://www.youtube.com/watch?v=73_1biulkYk",
+    "synopsis": "Wade Wilson ha dejado atrás su vida como Deadpool cuando la Autoridad de Variación Temporal lo recluta para una misión que amenaza su universo. Para salvarlo, debe convencer a un Wolverine de otra realidad, marcado por sus propias pérdidas, de luchar a su lado.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/d_w_swords_1sheet_uke_a8f8c688.jpeg?region=0%2C0%2C743%2C1100",
+    "viewCount": null,
+    "director": "Shawn Levy",
+    "writers": [
+      "Ryan Reynolds",
+      "Rhett Reese",
+      "Paul Wernick",
+      "Zeb Wells",
+      "Shawn Levy"
+    ],
+    "music": "Rob Simonsen",
+    "cinematography": "George Richmond",
+    "editing": "Dean Zimmerman y Shane Reid",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "Marvel Studios",
+      "Maximum Effort",
+      "21 Laps Entertainment"
+    ],
+    "boxOffice": "$1,338 millones mundial",
+    "cast": [
+      {
+        "name": "Ryan Reynolds",
+        "character": "Wade Wilson / Deadpool"
+      },
+      {
+        "name": "Hugh Jackman",
+        "character": "Logan / Wolverine"
+      },
+      {
+        "name": "Emma Corrin",
+        "character": "Cassandra Nova"
+      },
+      {
+        "name": "Morena Baccarin",
+        "character": "Vanessa Carlysle"
+      },
+      {
+        "name": "Matthew Macfadyen",
+        "character": "Mr. Paradox"
+      },
+      {
+        "name": "Leslie Uggams",
+        "character": "Blind Al"
+      }
+    ],
+    "awards": [
+      "Ganadora del Saturn Award a Mejor Película de Acción / Aventura",
+      "Hugh Jackman ganó el Saturn Award a Mejor Actor de Reparto",
+      "Ganadora del Saturn Award a Mejor Montaje"
+    ],
+    "trivia": [
+      {
+        "title": "Una banda sonora muy reconocible",
+        "text": "La secuencia inicial utiliza “Bye Bye Bye” de *NSYNC, y la película también incorpora “Like a Prayer” de Madonna."
+      },
+      {
+        "title": "Regreso de Hugh Jackman",
+        "text": "Hugh Jackman volvió a interpretar a Wolverine después de Logan (2017), donde había dado por concluido el papel."
+      },
+      {
+        "title": "Récord en taquilla",
+        "text": "La película superó los 1.338 millones de dólares en la taquilla mundial."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "56 / 100",
+        "text": "Metascore basado en 58 críticas profesionales."
+      },
+      {
+        "author": "CineBase",
+        "source": "Ficha informativa",
+        "score": "7.5 / 10",
+        "text": "Una aventura de acción y comedia que reúne a Deadpool y Wolverine en una misión a través de realidades."
+      }
     ]
   }
 ]
