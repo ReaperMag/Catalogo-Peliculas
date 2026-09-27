@@ -136,5 +136,527 @@
   "genres": ["Drama", "Suspenso"],
   "synopsis": "Resumen de la serie.",
   "image": "series/it.jpg"
+},
+{
+  "id": "s4",
+  "title": "The L Word",
+  "originalTitle": "The L Word",
+  "tagline": "Same Sex. Different City.",
+  "year": 2004,
+  "endYear": 2009,
+  "status": "Finalizada",
+  "rating": 7.7,
+  "episodes": 71,
+  "episodeDuration": "45-60 min",
+  "certification": "TV-MA",
+  "seasons": 6,
+
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+
+  "synopsis": "La serie sigue la vida personal, profesional y sentimental de un grupo de mujeres lesbianas y bisexuales que viven en Los Ángeles, explorando sus relaciones, amistades, conflictos y experiencias a lo largo de varios años.",
+
+  "image": "series/the-l-word.png",
+
+  "trailerUrl": "https://youtu.be/eozHBSyq68E?si=53-4pjILcmZUuhrL",
+
+  "creators": [
+    "Ilene Chaiken",
+    "Michele Abbott",
+    "Kathy Greenberg"
+  ],
+
+  "writers": [
+    "Ilene Chaiken"
+  ],
+
+  "directors": [
+    "Rose Troche",
+    "Angela Robinson",
+    "Ernest R. Dickerson"
+  ],
+
+  "music": "Elizabeth Ziff",
+
+  "country": "Estados Unidos / Canadá",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Paramount+"
+  ],
+
+  "productionCompanies": [
+    "Showtime Networks",
+    "MGM Television"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 14,
+      "year": 2004,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Pilot Part 1",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Pilot Part 2",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Let's Do It",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Longing",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lies, Lies, Lies",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lawfully",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Losing It",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "L'Ennui",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Listen Up",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Luck, Next Time",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Liberally",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Looking Back",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Locked Up",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 14,
+          "title": "Limb from Limb",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 2,
+      "episodes": 13,
+      "year": 2005,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Life, Loss, Leaving",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Lap Dance",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Loneliest Number",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Lynch Pin",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Labyrinth",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lagrimas de Oro",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Luminous",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Loyal",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Late, Later, Latent",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Land Ahoy",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Loud & Proud",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "L'Chaim",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Lacuna",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 3,
+      "episodes": 12,
+      "year": 2006,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Labia Majora",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Lost Weekend",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lobsters",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Light My Fire",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lifeline",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lifesize",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lone Star",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Latecomer",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Lead, Follow, or Get Out of the Way",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Losing the Light",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Last Dance",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Left Hand of the Goddess",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 4,
+      "episodes": 12,
+      "year": 2007,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Legend in the Making",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Livin' La Vida Loca",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lassoed",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Layup",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lez Girls",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Luck Be a Lady",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lesson Number One",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Lexington and Concord",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Lacy Lilting Lyrics",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Little Boy Blue",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Literary License to Kill",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Long Time Coming",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 5,
+      "episodes": 12,
+      "year": 2008,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "LGB Tease",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Look Out, Here They Come!",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lady of the Lake",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Let's Get This Party Started",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lookin' at You, Kid",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lights! Camera! Action!",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lesbians Gone Wild",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Lay Down the Law",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Liquid Heat",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Lifecycle",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Lunar Cycle",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Loyal and True",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 6,
+      "episodes": 8,
+      "year": 2009,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Long Night's Journey Into Day",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Least Likely",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "LMFAO",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Leaving Los Angeles",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Litmus Test",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lactose Intolerant",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Last Couple Standing",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Last Word",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Jennifer Beals",
+      "character": "Bette Porter"
+    },
+    {
+      "name": "Laurel Holloman",
+      "character": "Tina Kennard"
+    },
+    {
+      "name": "Mia Kirshner",
+      "character": "Jenny Schecter"
+    },
+    {
+      "name": "Katherine Moennig",
+      "character": "Shane McCutcheon"
+    },
+    {
+      "name": "Leisha Hailey",
+      "character": "Alice Pieszecki"
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Kit Porter"
+    }
+  ],
+
+  "awards": [
+    "Nominada a un Primetime Emmy",
+    "5 premios ganados y 24 nominaciones registradas en IMDb"
+  ],
+
+"reviews": [
+  {
+    "author": "Sofía M.",
+    "source": "Opinión de la comunidad",
+    "score": "8/10",
+    "text": "Una serie centrada en relaciones, amistad y conflictos personales, con un reparto coral que evoluciona a lo largo de sus seis temporadas."
+  },
+  {
+    "author": "Camila R.",
+    "source": "Opinión de la comunidad",
+    "score": "9/10",
+    "text": "Su grupo de personajes y sus historias conectadas hicieron de la serie una producción muy reconocible dentro del drama romántico televisivo."
+  }
+],
+
+  "trivia": [
+    {
+      "title": "Los títulos de los episodios",
+      "text": "Exceptuando el piloto, los títulos de los episodios comienzan con la letra L."
+    },
+    {
+      "title": "Producción estadounidense y canadiense",
+      "text": "La serie fue una coproducción de Estados Unidos y Canadá y tuvo parte importante de su producción en Vancouver."
+    },
+    {
+      "title": "Una continuación años después",
+      "text": "La franquicia continuó posteriormente con The L Word: Generation Q, ambientada años después de la serie original."
+    }
+  ]
 }
 ]
