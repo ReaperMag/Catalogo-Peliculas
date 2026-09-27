@@ -596,5 +596,197 @@
     }
   ],
   "image": "actores/ms_KateWinslet.png"
+},
+{
+  "id": "a7",
+  "name": "Scarlett Johansson",
+  "birthYear": 1984,
+  "birthDate": "22 de noviembre de 1984",
+  "birthPlace": "Manhattan, Nueva York, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Scarlett Johansson es una actriz y productora estadounidense que comenzó su carrera desde una edad temprana. Ha participado en dramas, películas de ciencia ficción, comedias y grandes producciones de acción. Alcanzó especial reconocimiento internacional por interpretar a Natasha Romanoff, también conocida como Black Widow, dentro del Universo Cinematográfico de Marvel.",
+  "knownFor": [
+    "Black Widow",
+    "Lost in Translation",
+    "Marriage Story",
+    "The Avengers"
+  ],
+  "filmography": [
+    {
+      "year": 2021,
+      "title": "Black Widow",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 6.7
+    },
+    {
+      "year": 2019,
+      "title": "Marriage Story",
+      "character": "Nicole Barber",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 2019,
+      "title": "Avengers: Endgame",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2018,
+      "title": "Avengers: Infinity War",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2016,
+      "title": "Captain America: Civil War",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2014,
+      "title": "Lucy",
+      "character": "Lucy",
+      "type": "Película",
+      "rating": 6.4
+    },
+    {
+      "year": 2013,
+      "title": "Her",
+      "character": "Samantha",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2012,
+      "title": "The Avengers",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2010,
+      "title": "Iron Man 2",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 6.9
+    },
+    {
+      "year": 2008,
+      "title": "Vicky Cristina Barcelona",
+      "character": "Cristina",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2003,
+      "title": "Lost in Translation",
+      "character": "Charlotte",
+      "type": "Película",
+      "rating": 7.7
+    }
+  ],
+  "image": "actores/ms_ScarlettJohansson.png"
+},
+{
+  "id": "a8",
+  "name": "Chris Evans",
+  "birthYear": 1981,
+  "birthDate": "13 de junio de 1981",
+  "birthPlace": "Boston, Massachusetts, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actor, productor y director",
+  "biography": "Chris Evans es un actor, productor y director estadounidense. Comenzó su carrera en televisión y cine a comienzos de los años 2000 y posteriormente alcanzó reconocimiento internacional interpretando a Steve Rogers, también conocido como Captain America, dentro del Universo Cinematográfico de Marvel.",
+  "knownFor": [
+    "Captain America: The First Avenger",
+    "The Avengers",
+    "Avengers: Endgame",
+    "Knives Out"
+  ],
+  "filmography": [
+    {
+      "year": 2022,
+      "title": "The Gray Man",
+      "character": "Lloyd Hansen",
+      "type": "Película",
+      "rating": 6.5
+    },
+    {
+      "year": 2019,
+      "title": "Knives Out",
+      "character": "Ransom Drysdale",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 2019,
+      "title": "Avengers: Endgame",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2018,
+      "title": "Avengers: Infinity War",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2016,
+      "title": "Captain America: Civil War",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2014,
+      "title": "Captain America: The Winter Soldier",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2013,
+      "title": "Snowpiercer",
+      "character": "Curtis",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2012,
+      "title": "The Avengers",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2011,
+      "title": "Captain America: The First Avenger",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 6.9
+    },
+    {
+      "year": 2010,
+      "title": "Scott Pilgrim vs. the World",
+      "character": "Lucas Lee",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2005,
+      "title": "Fantastic Four",
+      "character": "Johnny Storm / Human Torch",
+      "type": "Película",
+      "rating": 5.7
+    }
+  ],
+  "image": "actores/ms_ChrisEvans.png"
 }
 ]
