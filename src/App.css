@@ -136,6 +136,20 @@
 .home-series-grid .home-series-card__body h3 { font-size: 1.06rem; }
 .home-series-grid .home-series-card__body .button { min-height: 38px; padding: 8px 12px; font-size: 0.78rem; }
 
+.home-movie-carousel, .home-series-carousel { display: flex; min-width: 0; align-items: center; gap: 12px; }
+.home-carousel-button { display: grid; flex: 0 0 38px; width: 38px; height: 38px; place-items: center; border: 1px solid rgba(255, 255, 255, 0.16); border-radius: 50%; color: #f2f3f5; background: #191f25; font-size: 1.5rem; line-height: 1; }
+.home-carousel-button:hover { border-color: #f5c518; color: #f5c518; }
+.home-movie-carousel__track, .home-series-carousel__track { display: flex; flex: 1; min-width: 0; gap: 16px; overflow-x: auto; overscroll-behavior-inline: contain; padding: 2px 2px 14px; scrollbar-width: thin; scrollbar-color: #555 #171b20; scroll-snap-type: x mandatory; }
+.home-movie-carousel__item, .home-series-carousel__item { flex: 0 0 clamp(250px, 29vw, 390px); min-width: 0; scroll-snap-align: start; }
+.home-movie-carousel__item > .home-movie-card, .home-series-carousel__item > .home-series-card { height: 100%; }
+.home-series-carousel__item .home-series-card { border-radius: 8px; }
+.home-series-carousel__item .home-series-card__art { min-height: 0; aspect-ratio: 1.58; }
+.home-series-carousel__item .home-series-card__body { align-content: start; gap: 7px; min-height: 138px; padding: 14px 15px; }
+.home-series-carousel__item .home-series-card__body h3 { font-size: 0.98rem; }
+.home-series-carousel__item .home-series-card__body .home-card-kicker { font-size: 0.62rem; }
+.home-series-carousel__item .home-series-card__body .home-series-card__plain-genres { color: #aeb4bf; font-size: 0.7rem; }
+.home-series-carousel__item .home-series-card__body .button { min-height: 38px; margin-top: 3px; padding: 7px 10px; border-color: rgba(255,255,255,.14); color: #f5c518; background: #20252b; font-size: 0.78rem; }
+
 .home-actor-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(215px, 1fr)); gap: 14px; }
 .home-actor-card { overflow: hidden; display: grid; grid-template-columns: 92px minmax(0, 1fr); align-items: center; gap: 13px; padding: 12px; border: 1px solid rgba(255, 255, 255, 0.07); border-radius: 9px; background: #151a20; }
 .home-actor-card__portrait { position: relative; display: grid; min-height: 116px; overflow: hidden; place-items: center; border-radius: 6px; background: radial-gradient(circle at 50% 32%, rgba(245, 197, 24, 0.22), transparent 45%), linear-gradient(145deg, #34302a, #1b232b); }
@@ -206,6 +220,11 @@
   .home-series-grid .home-series-card__art { min-height: 180px; }
   .home-series-grid .home-series-card__body { padding: 12px; }
   .home-series-grid .home-series-card__body p { display: none; }
+  .home-movie-carousel, .home-series-carousel { gap: 7px; }
+  .home-carousel-button { flex-basis: 32px; width: 32px; height: 32px; font-size: 1.3rem; }
+  .home-movie-carousel__track, .home-series-carousel__track { gap: 10px; }
+  .home-movie-carousel__item, .home-series-carousel__item { flex-basis: min(82vw, 390px); }
+  .home-series-carousel__item .home-series-card__body { min-height: 132px; padding: 12px; }
   .home-actor-grid { grid-template-columns: 1fr; }
   .home-movie-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   .home-movie-card__art { min-height: 190px; }

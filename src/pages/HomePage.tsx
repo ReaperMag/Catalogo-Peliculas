@@ -1,5 +1,6 @@
 import { ActorCard } from '../components/molecules/ActorCard'
 import { FeaturedMovieCarousel } from '../components/molecules/FeaturedMovieCarousel'
+import { PopularSeriesCarousel } from '../components/molecules/PopularSeriesCarousel'
 import { SeriesCard } from '../components/molecules/SeriesCard'
 import { useMovies } from '../contexts/MoviesContext'
 import categoriesData from '../data/categories.json'
@@ -35,7 +36,7 @@ export function HomePage({ onNavigate, onSelectMovie, onSelectSeries, onSelectAc
 
       <section className="home-section" id="home-actors"><div className="home-section__heading"><div><span className="home-eyebrow">Talento que marca tendencia</span><h2>Actores en tendencia</h2></div><button className="home-section__link" onClick={() => document.getElementById('home-actors')?.scrollIntoView({ behavior: 'smooth' })} type="button">Explorar talento <span aria-hidden="true">→</span></button></div><div className="home-actor-grid">{actors.map((actor) => <ActorCard actor={actor} key={actor.id} onViewProfile={onSelectActor} />)}</div></section>
 
-      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><div className="home-series-grid">{series.map((item) => <SeriesCard key={item.id} onViewSeries={onSelectSeries} series={item} />)}</div></section>
+      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><PopularSeriesCarousel onSelectSeries={onSelectSeries} series={series} /></section>
 
       <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">En la gran pantalla</span><h2>Películas populares</h2></div><button className="home-section__link" onClick={() => onNavigate('movies')} type="button">Ver catálogo <span aria-hidden="true">→</span></button></div><div className="home-movie-grid">{movies.map((movie) => <HomeMovieCard key={movie.id} movie={movie} onSelectMovie={onSelectMovie} />)}</div></section>
 
