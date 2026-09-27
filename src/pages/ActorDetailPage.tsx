@@ -1,12 +1,118 @@
 import { Button } from '../components/common/Button'
 import { useMovies } from '../contexts/MoviesContext'
+import { getMediaImage } from '../lib/mediaImages'
 import type { PageKey } from '../types/movie'
+import '../styles/actors/ActorDetailPage.css'
 
-type ActorDetailPageProps = { actorId: string | null; onNavigate: (page: PageKey) => void }
+type ActorDetailPageProps = {
+  actorId: string | null
+  onNavigate: (page: PageKey) => void
+}
 
-export function ActorDetailPage({ actorId, onNavigate }: ActorDetailPageProps) {
+export function ActorDetailPage({
+  actorId,
+  onNavigate,
+}: ActorDetailPageProps) {
   const { actors } = useMovies()
-  const actor = actors.find((entry) => entry.id === actorId) ?? actors[0]
 
-  return <main className="detail-page"><section><span className="eyebrow">Plantilla de actor</span><h1>{actor.name}</h1><div className="detail-meta"><span>{actor.nationality}</span><span>Nacimiento: {actor.birthYear}</span></div><p>{actor.biography}</p><h2>Conocido por</h2><div className="genre-list">{actor.knownFor.map((title) => <span key={title}>{title}</span>)}</div><Button onClick={() => onNavigate('home')} variant="secondary">Volver al inicio</Button></section></main>
+  const actor =
+    actors.find((entry) => entry.id === actorId) ?? actors[0]
+
+  if (!actor) {
+    return (
+      <main className="actor-detail-page">
+        <section className="actor-detail-empty">
+          <h1>Actor no encontrado</h1>
+
+          <Button
+            onClick={() => onNavigate('home')}
+            variant="secondary"
+          >
+            Volver al inicio
+          </Button>
+        </section>
+      </main>
+    )
+  }
+
+  const imageUrl = getMediaImage(actor.image)
+
+  const initials = actor.name
+    .split(' ')
+    .map((part) => part[0])
+    .slice(0, 2)
+    .join('')
+
+  return (
+    <main className="actor-detail-page">
+      <section className="actor-detail">
+        <div className="actor-detail__portrait">
+          {imageUrl ? (
+            <img
+              src={imageUrl}
+              alt={actor.name}
+            />
+          ) : (
+            <span aria-hidden="true">
+              {initials}
+            </span>
+          )}
+        </div>
+
+        <div className="actor-detail__content">
+          <span className="actor-detail__eyebrow">
+            Perfil del actor
+          </span>
+
+          <h1>{actor.name}</h1>
+
+          <div className="actor-detail__meta">
+            <span>{actor.nationality}</span>
+
+            {actor.occupation && (
+              <span>{actor.occupation}</span>
+            )}
+
+            <span>
+              Nacimiento: {actor.birthYear}
+            </span>
+
+            {actor.birthDate && (
+              <span>{actor.birthDate}</span>
+            )}
+
+            {actor.birthPlace && (
+              <span>{actor.birthPlace}</span>
+            )}
+          </div>
+
+          <div className="actor-detail__section">
+            <h2>Biografía</h2>
+            <p>{actor.biography}</p>
+          </div>
+
+          <div className="actor-detail__section">
+            <h2>Conocido por</h2>
+
+            <div className="actor-detail__known-for">
+              {actor.knownFor.map((title) => (
+                <span key={title}>
+                  {title}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <div className="actor-detail__actions">
+            <Button
+              onClick={() => onNavigate('home')}
+              variant="secondary"
+            >
+              Volver al inicio
+            </Button>
+          </div>
+        </div>
+      </section>
+    </main>
+  )
 }
