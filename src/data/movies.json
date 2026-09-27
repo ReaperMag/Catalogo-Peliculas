@@ -1182,5 +1182,101 @@
         "text": "Metascore de 84/100 basado en 34 críticas profesionales."
       }
     ]
+  },
+  {
+    "id": "no-se-aceptan-devoluciones",
+    "title": "No se aceptan devoluciones",
+    "originalTitle": "Instructions Not Included",
+    "tagline": "Eres lo mejor que no quería que me pasara.",
+    "year": 2013,
+    "rating": 7.5,
+    "metascore": 55,
+    "duration": "1h 55m",
+    "certification": "PG-13",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "synopsis": "Valentín, un soltero despreocupado de Acapulco, recibe inesperadamente a Maggie, una bebé que una antigua conquista deja en su puerta. Cuando viaja a Los Ángeles para encontrar a la madre, termina criando a la niña durante seis años y trabajando como doble de acción. Su nueva vida cambia cuando Julie regresa y amenaza el vínculo que ambos construyeron.",
+    "image": "https://image.tmdb.org/t/p/w780/tQmpURwEbQbo5jMZs0voy6xY06F.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=AsFKCiKUm_Q",
+    "viewCount": null,
+    "director": "Eugenio Derbez",
+    "writers": [
+      "Guillermo Ríos",
+      "Leticia López Margalli",
+      "Eugenio Derbez"
+    ],
+    "music": "Carlo Siliotto",
+    "cinematography": "Martín Boege, Andrés León Becker",
+    "editing": "Eugenio Derbez, Santiago Pérez Rocha",
+    "country": "México",
+    "language": "Español",
+    "productionCompanies": [
+      "Alebrije Cine y Video",
+      "Fulano, Mengano y Asociados"
+    ],
+    "boxOffice": "$100.5 millones mundial (aprox.); presupuesto: $5 millones",
+    "cast": [
+      {
+        "name": "Eugenio Derbez",
+        "character": "Valentín Bravo"
+      },
+      {
+        "name": "Loreto Peralta",
+        "character": "Maggie Bravo"
+      },
+      {
+        "name": "Jessica Lindsey",
+        "character": "Julie"
+      },
+      {
+        "name": "Daniel Raymont",
+        "character": "Frank Ryan"
+      },
+      {
+        "name": "Hugo Stiglitz",
+        "character": "Johnny Bravo"
+      },
+      {
+        "name": "Alessandra Rosaldo",
+        "character": "Renee"
+      }
+    ],
+    "awards": [
+      "Ganadora de cuatro premios CANACINE, incluido Película Mexicana Más Taquillera de 2013",
+      "Loreto Peralta recibió reconocimientos por su actuación infantil"
+    ],
+    "trivia": [
+      {
+        "title": "Rodaje en tres ciudades",
+        "text": "La historia y el rodaje conectan Acapulco, Ciudad de México y Los Ángeles."
+      },
+      {
+        "title": "Debut como director",
+        "text": "Esta película marcó el debut de Eugenio Derbez como director de largometrajes."
+      },
+      {
+        "title": "Récord de taquilla",
+        "text": "Fue un gran éxito internacional y superó los 100 millones de dólares de recaudación mundial."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rotten Tomatoes",
+        "source": "Crítica y audiencia",
+        "score": "63% / 89%",
+        "text": "63% de aprobación de la crítica y 89% del público."
+      },
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "55 / 100",
+        "text": "Metascore de 55/100."
+      }
+    ]
   }
 ]
