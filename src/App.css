@@ -136,16 +136,6 @@
 .home-series-grid .home-series-card__body h3 { font-size: 1.06rem; }
 .home-series-grid .home-series-card__body .button { min-height: 38px; padding: 8px 12px; font-size: 0.78rem; }
 
-.home-actor-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(215px, 1fr)); gap: 14px; }
-.home-actor-card { overflow: hidden; display: grid; grid-template-columns: 92px minmax(0, 1fr); align-items: center; gap: 13px; padding: 12px; border: 1px solid rgba(255, 255, 255, 0.07); border-radius: 9px; background: #151a20; }
-.home-actor-card__portrait { position: relative; display: grid; min-height: 116px; overflow: hidden; place-items: center; border-radius: 6px; background: radial-gradient(circle at 50% 32%, rgba(245, 197, 24, 0.22), transparent 45%), linear-gradient(145deg, #34302a, #1b232b); }
-.home-actor-card__portrait > span { color: rgba(255, 229, 160, 0.75); font-family: "Space Grotesk", var(--font-sans); font-size: 1.7rem; font-weight: 700; }
-.home-actor-card__body { display: grid; justify-items: start; gap: 5px; min-width: 0; }
-.home-actor-card__body .home-card-kicker { font-size: 0.56rem; }
-.home-actor-card__body h3 { color: #f2f3f5; font-size: 0.9rem; line-height: 1.25; }
-.home-actor-card__body p { color: #aeb4bf; font-size: 0.69rem; }
-.home-actor-card__body .button { min-height: 32px; margin-top: 4px; padding: 6px 9px; font-size: 0.68rem; }
-
 .home-movie-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(195px, 1fr)); gap: 16px; }
 .home-movie-card { overflow: hidden; border: 1px solid rgba(255, 255, 255, 0.07); border-radius: 9px; background: #151a20; transition: transform 160ms ease, border-color 160ms ease; }
 .home-movie-card:hover { transform: translateY(-3px); border-color: rgba(245, 197, 24, 0.32); }
