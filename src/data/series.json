@@ -82,5 +82,121 @@
         "text": "Andy y Barbara Muschietti, directores del díptico cinematográfico de IT, regresan como productores ejecutivos y showrunners de la serie."
       }
     ]
+  },
+  {
+    "id": "s2",
+    "title": "American Horror Stories",
+    "originalTitle": "American Horror Stories",
+    "tagline": "Diferentes historias. Mismos pesadillas.",
+    "year": 2021,
+    "endYear": null,
+    "status": "En emisión",
+    "rating": 6.2,
+    "episodes": 28,
+    "episodeDuration": "38-48 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Suspenso"
+    ],
+    "synopsis": "Una serie antológica derivada de American Horror Story en la que cada episodio presenta una historia de terror diferente, explorando desde mitos urbanos y casas embrujadas hasta tecnología macabra.",
+    "image": "series/am-horr.png",
+    "creators": ["Ryan Murphy", "Brad Falchuk"],
+    "writers": ["Ryan Murphy", "Brad Falchuk", "Manny Coto"],
+    "directors": ["Loni Peristere", "Max Winkler", "Alexis Martin Woodall"],
+    "music": "Mac Quayle",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["FX on Hulu", "Disney+"],
+    "productionCompanies": ["20th Television", "Ryan Murphy Television"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 7,
+        "year": 2021,
+        "trailerUrl": "https://www.youtube.com/watch?v=nLJR2twdK00",
+        "episodeDetails": [
+          { "number": 1, "title": "Rubber(wo)Man: Part 1","image": "series/am-horr-s1.jpg" },
+          { "number": 2, "title": "Rubber(wo)Man: Part 2" ,"image": "series/am-horr-s1.jpg"},
+          { "number": 3, "title": "Drive In" , "image": "series/am-horr-s1.jpg"},
+          { "number": 4, "title": "The Naughty List" , "image": "series/am-horr-s1.jpg"},
+          { "number": 5, "title": "BA'AL" , "image": "series/am-horr-s1.jpg"},
+          { "number": 6, "title": "Feral" , "image": "series/am-horr-s1.jpg"},
+          { "number": 7, "title": "Game Over" , "image": "series/am-horr-s1.jpg"}
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=3RWYH6UZ5PQ",
+        "episodeDetails": [
+          { "number": 1, "title": "Dollhouse","image": "series/am-horr-s2.jpg" },
+          { "number": 2, "title": "Aura" ,"image": "series/am-horr-s2.jpg"},
+          { "number": 3, "title": "Drive" ,"image": "series/am-horr-s2.jpg"},
+          { "number": 4, "title": "Milkmaids" ,"image": "series/am-horr-s2.jpg"},
+          { "number": 5, "title": "Bloody Mary" ,"image": "series/am-horr-s2.jpg"},
+          { "number": 6, "title": "Facelift" ,"image": "series/am-horr-s2.jpg"},
+          { "number": 7, "title": "Necro" ,"image": "series/am-horr-s2.jpg"},
+          { "number": 8, "title": "Lake" ,"image": "series/am-horr-s2.jpg"}
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 9,
+        "year": 2023,
+        "trailerUrl": "https://www.youtube.com/watch?v=yHvZZIgMDFA",
+        "episodeDetails": [
+          { "number": 1, "title": "Bestie","image": "series/am-horr-s3.jpg" },
+          { "number": 2, "title": "Daphne" ,"image": "series/am-horr-s3.jpg"},
+          { "number": 3, "title": "Tapeworm" ,"image": "series/am-horr-s3.jpg"},
+          { "number": 4, "title": "Organ" ,"image": "series/am-horr-s3.jpg"},
+          { "number": 5, "title": "Backrooms" , "image": "series/am-horr-s3.jpg"},
+          { "number": 6, "title": "Clone" , "image": "series/am-horr-s3.jpg"},
+          { "number": 7, "title": "X" , "image": "series/am-horr-s3.jpg"},
+          { "number": 8, "title": "Leprechaun" , "image": "series/am-horr-s3.jpg"},
+          { "number": 9, "title": "The Thing Under the Bed" , "image": "series/am-horr-s3.jpg"}
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Sierra McCormick", "character": "Scarlett" },
+      { "name": "Matt Bomer", "character": "Michael" },
+      { "name": "Denis O'Hare", "character": "Spalding / Van Wirt" },
+      { "name": "Billie Lourd", "character": "Hannah" },
+      { "name": "Dylan McDermott", "character": "Dr. Ben Harmon" },
+      { "name": "Cody Fern", "character": "Stan Vogel" }
+    ],
+    "awards": ["Nominaciones a los Hollywood Critics Association TV Awards"],
+    "reviews": [
+      {
+        "author": "Crítico de TV",
+        "source": "Reseña de medios",
+        "score": "6.5/10",
+        "text": "Una propuesta entretenida para los fans del formato antológico que ofrece relatos rápidos de terror con altibajos según el episodio."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "6/10",
+        "text": "Funciona bien si buscas historias autoconclusivas sin necesidad de comprometerte con una temporada completa."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Spin-off directo",
+        "text": "Es una serie derivada de American Horror Story donde cada capítulo aborda un relato independiente en lugar de hacerlo por temporada."
+      },
+      {
+        "title": "Retorno a Murder House",
+        "text": "Los primeros dos episodios de la primera temporada regresan a la mítica casa de la primera temporada de la serie principal."
+      },
+      {
+        "title": "Caras conocidas",
+        "text": "Varios actores de la serie matriz reaparecen interpretando tanto personajes clásicos como nuevos roles dentro del formato antológico."
+      }
+    ]
   }
 ]
