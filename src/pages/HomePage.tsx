@@ -17,6 +17,8 @@ type HomePageProps = {
   onSelectActor: (actorId: string) => void
 }
 
+const featuredCarouselMovieIdsToKeep = new Set(['school-of-rock'])
+
 function HomeMovieCard({ movie, onSelectMovie }: { movie: Movie; onSelectMovie: (movieId: string) => void }) {
   const imageUrl = getMediaImage(movie.image)
   return (
@@ -29,6 +31,7 @@ function HomeMovieCard({ movie, onSelectMovie }: { movie: Movie; onSelectMovie: 
 
 export function HomePage({ onNavigate, onSelectCategory, onSelectMovie, onSelectSeries, onSelectActor }: HomePageProps) {
   const { actors, movies, series, topMovies } = useMovies() // Leidy
+  const featuredMovies = movies.filter((movie) => !movie.collections?.includes('Comedia') || featuredCarouselMovieIdsToKeep.has(movie.id))
   const moviesCarouselRef = useRef<HTMLDivElement>(null)
 
 const scrollMoviesLeft = () => {
@@ -48,7 +51,7 @@ const scrollMoviesRight = () => {
 
   return (
     <main className="home-page">
-      <FeaturedMovieCarousel movies={movies} onNavigate={onNavigate} onSelectMovie={onSelectMovie} />
+      <FeaturedMovieCarousel movies={featuredMovies} onNavigate={onNavigate} onSelectMovie={onSelectMovie} />
 
       {series[0] && <section className="home-section home-section--featured-series"><div className="home-section__heading"><div><span className="home-eyebrow">Recomendación CineBase</span><h2>Serie destacada del mes</h2></div><span className="home-section__index">01</span></div><SeriesCard featured onViewSeries={onSelectSeries} series={series[0]} /></section>}
 

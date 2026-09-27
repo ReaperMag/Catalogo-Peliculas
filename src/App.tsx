@@ -16,6 +16,8 @@ import { YDondeEstaElFantasmaTemplate } from './pages/YDondeEstaElFantasmaTempla
 import { NosotrosLosNoblesTemplate } from './pages/NosotrosLosNoblesTemplate'
 import { ShrekTemplate } from './pages/ShrekTemplate'
 import { NoSeAceptanDevolucionesTemplate } from './pages/NoSeAceptanDevolucionesTemplate'
+import { BuenosVecinosTemplate } from './pages/BuenosVecinosTemplate'
+import { SonComoNinosTemplate } from './pages/SonComoNinosTemplate'
 import { SeriesDetailPage } from './pages/SeriesDetailPage'
 import type { PageKey } from './types/movie'
 
@@ -60,12 +62,14 @@ function App() {
   const showingNosotrosLosNoblesTemplate = activePage === 'detail' && selectedMovieId === 'nosotros-los-nobles'
   const showingShrekTemplate = activePage === 'detail' && selectedMovieId === 'shrek'
   const showingNoSeAceptanDevolucionesTemplate = activePage === 'detail' && selectedMovieId === 'no-se-aceptan-devoluciones'
-  const showingCustomTemplate = showingSchoolTemplate || showingTedTemplate || showingDeadpoolWolverineTemplate || showingQuePasoAyerTemplate || showingYDondeEstaElFantasmaTemplate || showingNosotrosLosNoblesTemplate || showingShrekTemplate || showingNoSeAceptanDevolucionesTemplate
+  const showingBuenosVecinosTemplate = activePage === 'detail' && selectedMovieId === 'buenos-vecinos'
+  const showingSonComoNinosTemplate = activePage === 'detail' && selectedMovieId === 'son-como-ninos'
+  const showingCustomTemplate = showingSchoolTemplate || showingTedTemplate || showingDeadpoolWolverineTemplate || showingQuePasoAyerTemplate || showingYDondeEstaElFantasmaTemplate || showingNosotrosLosNoblesTemplate || showingShrekTemplate || showingNoSeAceptanDevolucionesTemplate || showingBuenosVecinosTemplate || showingSonComoNinosTemplate
 
   return (
     <MoviesProvider>
       <div className={showingCustomTemplate ? 'app-shell app-shell--template' : activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
-        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : showingTedTemplate ? <TedTemplate onNavigate={navigateFromSchoolTemplate} /> : showingDeadpoolWolverineTemplate ? <DeadpoolWolverineTemplate onNavigate={navigateFromSchoolTemplate} /> : showingQuePasoAyerTemplate ? <QuePasoAyerTemplate onNavigate={navigateFromSchoolTemplate} /> : showingYDondeEstaElFantasmaTemplate ? <YDondeEstaElFantasmaTemplate onNavigate={navigateFromSchoolTemplate} /> : showingNosotrosLosNoblesTemplate ? <NosotrosLosNoblesTemplate onNavigate={navigateFromSchoolTemplate} /> : showingShrekTemplate ? <ShrekTemplate onNavigate={navigateFromSchoolTemplate} /> : showingNoSeAceptanDevolucionesTemplate ? <NoSeAceptanDevolucionesTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
+        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : showingTedTemplate ? <TedTemplate onNavigate={navigateFromSchoolTemplate} /> : showingDeadpoolWolverineTemplate ? <DeadpoolWolverineTemplate onNavigate={navigateFromSchoolTemplate} /> : showingQuePasoAyerTemplate ? <QuePasoAyerTemplate onNavigate={navigateFromSchoolTemplate} /> : showingYDondeEstaElFantasmaTemplate ? <YDondeEstaElFantasmaTemplate onNavigate={navigateFromSchoolTemplate} /> : showingNosotrosLosNoblesTemplate ? <NosotrosLosNoblesTemplate onNavigate={navigateFromSchoolTemplate} /> : showingShrekTemplate ? <ShrekTemplate onNavigate={navigateFromSchoolTemplate} /> : showingNoSeAceptanDevolucionesTemplate ? <NoSeAceptanDevolucionesTemplate onNavigate={navigateFromSchoolTemplate} /> : showingBuenosVecinosTemplate ? <BuenosVecinosTemplate onNavigate={navigateFromSchoolTemplate} /> : showingSonComoNinosTemplate ? <SonComoNinosTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
           <Header activePage={activePage} onNavigate={navigate} />
           {activePage === 'home' && <HomePage onNavigate={navigate} onSelectCategory={selectCategory} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
           {activePage === 'movies' && <MoviesPage selectedCategory={selectedCategory} onSelectMovie={selectMovie} />}

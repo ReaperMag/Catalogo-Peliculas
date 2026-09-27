@@ -1278,5 +1278,197 @@
         "text": "Metascore de 55/100."
       }
     ]
+  },
+  {
+    "id": "buenos-vecinos",
+    "title": "Buenos vecinos",
+    "originalTitle": "Neighbors",
+    "tagline": "Familia contra fraternidad.",
+    "year": 2014,
+    "rating": 6.3,
+    "metascore": 68,
+    "duration": "1h 37m",
+    "certification": "R",
+    "genres": [
+      "Comedia"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "synopsis": "Mac y Kelly Radner intentan adaptarse a la vida como padres de una bebé, pero su tranquilidad termina cuando una fraternidad universitaria se instala en la casa de al lado. Al principio buscan llevarse bien con el grupo y su carismático líder, Teddy; sin embargo, las fiestas y el ruido los empujan a una guerra de bromas y estrategias para recuperar la paz del vecindario.",
+    "image": "https://image.tmdb.org/t/p/w500/i4XNSun7PHrbNNlTGbb4iGGtW6s.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=KrAf5ALLxGI",
+    "viewCount": null,
+    "director": "Nicholas Stoller",
+    "writers": [
+      "Andrew Jay Cohen",
+      "Brendan O’Brien"
+    ],
+    "music": "Michael Andrews",
+    "cinematography": "Brandon Trost",
+    "editing": "Zene Baker",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "Point Grey Pictures",
+      "Good Universe",
+      "Universal Pictures"
+    ],
+    "boxOffice": "$270.9 millones mundial; presupuesto: $18 millones",
+    "cast": [
+      {
+        "name": "Seth Rogen",
+        "character": "Mac Radner"
+      },
+      {
+        "name": "Rose Byrne",
+        "character": "Kelly Radner"
+      },
+      {
+        "name": "Zac Efron",
+        "character": "Teddy Sanders"
+      },
+      {
+        "name": "Dave Franco",
+        "character": "Pete"
+      },
+      {
+        "name": "Christopher Mintz-Plasse",
+        "character": "Scoonie"
+      },
+      {
+        "name": "Ike Barinholtz",
+        "character": "Jimmy"
+      }
+    ],
+    "awards": [
+      "Ganadora del MTV Movie Award a Mejor Dúo en Pantalla — Zac Efron y Dave Franco",
+      "Nominada al MTV Movie Award a Mejor Beso — Rose Byrne y Halston Sage",
+      "Reconocida con premios y nominaciones en los MTV Movie Awards y Golden Trailer Awards"
+    ],
+    "trivia": [
+      {
+        "title": "Delta Psi Beta",
+        "text": "La fraternidad universitaria ficticia que se muda junto a Mac y Kelly se llama Delta Psi Beta."
+      },
+      {
+        "title": "Familia contra fraternidad",
+        "text": "La historia contrapone las responsabilidades de una pareja con una bebé y la vida de fiesta de un grupo universitario."
+      },
+      {
+        "title": "Elenco coral",
+        "text": "Además de Seth Rogen, Rose Byrne y Zac Efron, aparecen Dave Franco, Christopher Mintz-Plasse y Lisa Kudrow."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rotten Tomatoes",
+        "source": "Crítica y audiencia",
+        "score": "72% / 63%",
+        "text": "72% de aprobación de la crítica y 63% del público."
+      },
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "68 / 100",
+        "text": "Metascore de 68/100, basado en 45 críticas."
+      }
+    ]
+  },
+  {
+    "id": "son-como-ninos",
+    "title": "Son como niños",
+    "originalTitle": "Grown Ups",
+    "tagline": "Crecer no significa madurar.",
+    "year": 2010,
+    "rating": 6.0,
+    "metascore": 30,
+    "duration": "1h 42m",
+    "certification": "PG-13",
+    "genres": [
+      "Comedia"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "synopsis": "Cinco amigos de la infancia se reencuentran tras la muerte de su antiguo entrenador de básquetbol y pasan el fin de semana del 4 de julio junto al lago con sus parejas e hijos. Entre juegos, recuerdos y bromas, descubren que hacerse mayores no significa dejar de ser niños.",
+    "image": "https://image.tmdb.org/t/p/w500/r1mDA1SLjw2yiYhhLiAjrd2Pt1l.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=e01NVCveGkg",
+    "viewCount": null,
+    "director": "Dennis Dugan",
+    "writers": [
+      "Adam Sandler",
+      "Fred Wolf"
+    ],
+    "music": "Rupert Gregson-Williams",
+    "cinematography": "Theo van de Sande",
+    "editing": "Tom Costain",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "Columbia Pictures",
+      "Happy Madison Productions",
+      "Relativity Media"
+    ],
+    "boxOffice": "$271.4 millones mundial; presupuesto: $80 millones",
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Lenny Feder"
+      },
+      {
+        "name": "Kevin James",
+        "character": "Eric Lamonsoff"
+      },
+      {
+        "name": "Chris Rock",
+        "character": "Kurt McKenzie"
+      },
+      {
+        "name": "David Spade",
+        "character": "Marcus Higgins"
+      },
+      {
+        "name": "Rob Schneider",
+        "character": "Rob Hilliard"
+      },
+      {
+        "name": "Salma Hayek",
+        "character": "Roxanne Chase-Feder"
+      }
+    ],
+    "awards": [
+      "Ganadora del MTV Movie Award a Mejor frase de una película — Alexys Nycole Sanchez",
+      "Nominada a los Teen Choice Awards de 2010",
+      "Registra tres premios y cuatro nominaciones en IMDb"
+    ],
+    "trivia": [
+      {
+        "title": "Reencuentro junto al lago",
+        "text": "Los cinco amigos vuelven al lugar donde celebraron su campeonato escolar de básquetbol."
+      },
+      {
+        "title": "Una reunión familiar",
+        "text": "Los protagonistas viajan con sus parejas e hijos para pasar juntos el fin de semana del 4 de julio."
+      },
+      {
+        "title": "Premio a una frase",
+        "text": "Alexys Nycole Sanchez ganó el MTV Movie Award por la frase “I want to get chocolate wasted”."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rotten Tomatoes",
+        "source": "Crítica y audiencia",
+        "score": "10% / 62%",
+        "text": "10% de aprobación de la crítica y 62% del público."
+      },
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "30 / 100",
+        "text": "Metascore de 30/100, basado en 32 críticas."
+      }
+    ]
   }
 ]
