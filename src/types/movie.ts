@@ -31,7 +31,15 @@ export type Actor = {
   occupation?: string
   biography: string
   knownFor: string[]
+  filmography?: ActorWork[]
   image: string
+}
+export type ActorWork = {
+  year: number
+  title: string
+  character: string
+  type: 'Película' | 'Serie' | 'Miniserie'
+  rating?: number
 }
 
 export type PageKey = 'home' | 'movies' | 'search' | 'detail' | 'series' | 'actor'
