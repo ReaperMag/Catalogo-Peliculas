@@ -260,6 +260,114 @@
       "text": "Una historia romántica que utiliza los viajes en el tiempo para explorar el amor, la familia y la importancia de disfrutar los momentos cotidianos."
     }
   ]
+},
+{
+  "id": "m6",
+  "title": "Si yo tuviera 30",
+  "originalTitle": "13 Going on 30",
+  "tagline": "Para algunas, los 30 son los nuevos 13.",
+  "year": 2004,
+  "rating": 6.3,
+  "metascore": 57,
+  "duration": "1h 38m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+
+  "synopsis": "Jenna Rink, una adolescente de trece años, desea desesperadamente ser adulta. Después de una fiesta de cumpleaños desastrosa, despierta de manera inexplicable con treinta años y descubre que tiene la vida que siempre quiso. Sin embargo, mientras intenta comprender en quién se ha convertido, comienza a valorar las amistades, decisiones y sentimientos que dejó atrás.",
+
+  "image": "peliculas/si-yo-tuviera-30.png",
+
+  "trailerUrl": "",
+
+  "viewCount": null,
+
+  "director": "Gary Winick",
+
+  "writers": [
+    "Josh Goldsmith",
+    "Cathy Yuspa"
+  ],
+
+  "music": "Theodore Shapiro",
+  "cinematography": "Don Burgess",
+  "editing": "Susan Littenberg",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Revolution Studios",
+    "Columbia Pictures"
+  ],
+
+  "boxOffice": "$96.5 millones mundial",
+
+  "cast": [
+    {
+      "name": "Jennifer Garner",
+      "character": "Jenna Rink"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "Matt Flamhaff"
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Lucy Wyman"
+    },
+    {
+      "name": "Andy Serkis",
+      "character": "Richard Kneeland"
+    },
+    {
+      "name": "Kathy Baker",
+      "character": "Beverly Rink"
+    },
+    {
+      "name": "Christa B. Allen",
+      "character": "Jenna Rink joven"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de varios premios juveniles y nominaciones por sus actuaciones",
+    "Reconocida como una de las comedias románticas más recordadas de los años 2000"
+  ],
+
+  "trivia": [
+    {
+      "title": "Una escena muy recordada",
+      "text": "La secuencia de baile con Thriller de Michael Jackson se convirtió en una de las escenas más reconocibles de la película."
+    },
+    {
+      "title": "Jennifer Garner y Christa B. Allen",
+      "text": "Christa B. Allen interpreta a Jenna adolescente y años después volvería a interpretar una versión joven de un personaje de Jennifer Garner."
+    },
+    {
+      "title": "Ambientación en Nueva York",
+      "text": "Gran parte de la historia transcurre en el mundo editorial y de revistas de moda de Nueva York."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "57 / 100",
+      "text": "La recepción crítica fue mixta o favorable, con elogios frecuentes a la actuación carismática de Jennifer Garner."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.3 / 10",
+      "text": "Una comedia romántica ligera que combina fantasía, nostalgia y crecimiento personal alrededor del deseo de crecer demasiado rápido."
+    }
+  ]
 }
   
 ]
