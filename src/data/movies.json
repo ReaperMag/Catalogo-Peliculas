@@ -42,5 +42,115 @@
     "synopsis": "A masked vigilante faces a chaotic criminal mastermind who pushes Gotham to its limits.",
     "image": "",
     "viewCount": null
-  }
+  },
+  {
+  "id": "m4",
+  "title": "Rosas Rojas",
+  "originalTitle": "Imagine Me & You",
+  "tagline": "Ahi va la novia.",
+  "year": 2005,
+  "rating": 6.8,
+  "metascore": 49,
+  "duration": "1h 30m",
+  "certification": "R",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+
+  "synopsis": "Rachel está a punto de comenzar su vida matrimonial con Heck cuando conoce a Luce, la florista encargada de su boda. La conexión entre ambas es inmediata y, a medida que su amistad crece, Rachel comienza a cuestionar los sentimientos que creía tener claros y debe decidir qué quiere realmente para su vida.",
+
+  "image": "peliculas/imagine-me-and-you.jpg",
+
+  "trailerUrl": "https://youtu.be/X-EEMiSmnNw?si=9c8EzkyXIDoOo4Q3",
+  "viewCount": null,
+
+  "director": "Ol Parker",
+
+  "writers": [
+    "Ol Parker"
+  ],
+
+  "music": "Alex Heffes",
+  "cinematography": "Ben Davis",
+  "editing": "Alex Mackie",
+
+  "country": "Reino Unido / Alemania",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "BBC Films",
+    "Ealing Studios",
+    "Focus Features",
+    "Cougar Films",
+    "Fragile Films"
+  ],
+
+  "boxOffice": "$2.64 millones mundial",
+
+  "cast": [
+    {
+      "name": "Piper Perabo",
+      "character": "Rachel"
+    },
+    {
+      "name": "Lena Headey",
+      "character": "Luce"
+    },
+    {
+      "name": "Matthew Goode",
+      "character": "Heck"
+    },
+    {
+      "name": "Celia Imrie",
+      "character": "Tessa"
+    },
+    {
+      "name": "Anthony Head",
+      "character": "Ned"
+    },
+    {
+      "name": "Darren Boyd",
+      "character": "Cooper"
+    }
+  ],
+
+  "awards": [
+    "1 nominación total",
+    "Nominada a los GLAAD Media Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Título inspirado en una canción",
+      "text": "El título Imagine Me & You proviene de una línea de la canción Happy Together de The Turtles."
+    },
+    {
+      "title": "Título original del proyecto",
+      "text": "Ol Parker explicó que inicialmente la película iba a llamarse Click, pero el nombre fue cambiado antes de su estreno."
+    },
+    {
+      "title": "Rodaje y producción británica",
+      "text": "La película fue desarrollada como una coproducción principalmente británica y alemana con participación de BBC Films, Ealing Studios y Focus Features."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "49 / 100",
+      "text": "La recepción crítica agregada fue mixta, aunque varias reseñas destacaron el encanto del reparto y algunos de sus diálogos."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.8 / 10",
+      "text": "Una comedia romántica centrada en el descubrimiento personal, el amor inesperado y las decisiones emocionales que surgen después de un encuentro fortuito."
+    }
+  ]
+}
+  
 ]
