@@ -151,6 +151,115 @@
       "text": "Una comedia romántica centrada en el descubrimiento personal, el amor inesperado y las decisiones emocionales que surgen después de un encuentro fortuito."
     }
   ]
+},
+{
+  "id": "m5",
+  "title": "Cuestión de tiempo",
+  "originalTitle": "About Time",
+  "tagline": "Una nueva comedia sobre el amor y valorar el tiempo.",
+  "year": 2013,
+  "rating": 7.8,
+  "metascore": 55,
+  "duration": "2h 3m",
+  "certification": "R",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Fantasía"
+  ],
+
+  "synopsis": "A los 21 años, Tim descubre que los hombres de su familia pueden viajar en el tiempo. Aunque no puede cambiar la historia, decide utilizar esta habilidad para mejorar su vida y encontrar el amor. Cuando conoce a Mary, comprende que incluso viajar al pasado no puede evitar todos los problemas y pérdidas de la vida cotidiana.",
+
+  "image": "peliculas/cuestion-de-tiempo.jpg",
+
+  "trailerUrl": "https://youtu.be/hGehr1xjnDA?si=cipee2hy1zyvkGtE",
+
+  "viewCount": null,
+
+  "director": "Richard Curtis",
+
+  "writers": [
+    "Richard Curtis"
+  ],
+
+  "music": "Nick Laird-Clowes",
+  "cinematography": "John Guleserian",
+  "editing": "Mark Day",
+
+  "country": "Reino Unido / Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Working Title Films",
+    "Relativity Media"
+  ],
+
+  "boxOffice": "$87.1 millones mundial",
+
+  "cast": [
+    {
+      "name": "Domhnall Gleeson",
+      "character": "Tim Lake"
+    },
+    {
+      "name": "Rachel McAdams",
+      "character": "Mary"
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "James Lake"
+    },
+    {
+      "name": "Lydia Wilson",
+      "character": "Kit Kat"
+    },
+    {
+      "name": "Lindsay Duncan",
+      "character": "Mary Lake"
+    },
+    {
+      "name": "Tom Hollander",
+      "character": "Harry"
+    }
+  ],
+
+  "awards": [
+    "3 premios y 9 nominaciones",
+    "Nominada en los Saturn Awards",
+    "Ganadora en los Golden Trailer Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Richard Curtis volvió a dirigir",
+      "text": "La película fue escrita y dirigida por Richard Curtis, conocido también por historias románticas como Love Actually y Notting Hill."
+    },
+    {
+      "title": "El viaje en el tiempo no es el centro",
+      "text": "Aunque la historia utiliza viajes en el tiempo, el argumento se enfoca principalmente en las relaciones, la familia y la forma de valorar la vida cotidiana."
+    },
+    {
+      "title": "Producción británica",
+      "text": "La película fue producida principalmente por Working Title Films y distribuida internacionalmente por Universal Pictures."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "55 / 100",
+      "text": "La recepción crítica fue mixta o favorable, destacando especialmente el tono emotivo de la historia y las actuaciones del reparto."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.8 / 10",
+      "text": "Una historia romántica que utiliza los viajes en el tiempo para explorar el amor, la familia y la importancia de disfrutar los momentos cotidianos."
+    }
+  ]
 }
   
 ]
