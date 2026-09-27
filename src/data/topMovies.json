@@ -1,0 +1,12 @@
+[
+  { "id": "t1", "title": "Avatar", "year": 2009, "rating": 7.9, "duration": "2h 42m", "genres": ["Action", "Adventure", "Sci-Fi"], "synopsis": "", "image": "", "viewCount": 9850000 },
+  { "id": "t2", "title": "Avengers: Endgame", "year": 2019, "rating": 8.4, "duration": "3h 1m", "genres": ["Action", "Adventure", "Sci-Fi"], "synopsis": "", "image": "", "viewCount": 9420000 },
+  { "id": "t3", "title": "Titanic", "year": 1997, "rating": 7.9, "duration": "3h 14m", "genres": ["Drama", "Romance"], "synopsis": "", "image": "", "viewCount": 8970000 },
+  { "id": "t4", "title": "Spider-Man: No Way Home", "year": 2021, "rating": 8.2, "duration": "2h 28m", "genres": ["Action", "Adventure", "Fantasy"], "synopsis": "", "image": "", "viewCount": 8310000 },
+  { "id": "t5", "title": "The Lion King", "year": 1994, "rating": 8.5, "duration": "1h 28m", "genres": ["Animation", "Adventure", "Drama"], "synopsis": "", "image": "", "viewCount": 7760000 },
+  { "id": "t6", "title": "Inception", "year": 2010, "rating": 8.8, "duration": "2h 28m", "genres": ["Action", "Sci-Fi", "Thriller"], "synopsis": "", "image": "", "viewCount": 7240000 },
+  { "id": "t7", "title": "Frozen", "year": 2013, "rating": 7.4, "duration": "1h 42m", "genres": ["Animation", "Adventure", "Comedy"], "synopsis": "", "image": "", "viewCount": 6890000 },
+  { "id": "t8", "title": "Jurassic Park", "year": 1993, "rating": 8.2, "duration": "2h 7m", "genres": ["Adventure", "Sci-Fi", "Thriller"], "synopsis": "", "image": "", "viewCount": 6350000 },
+  { "id": "t9", "title": "Oppenheimer", "year": 2023, "rating": 8.3, "duration": "3h 0m", "genres": ["Biography", "Drama", "History"], "synopsis": "", "image": "", "viewCount": 5920000 },
+  { "id": "t10", "title": "Toy Story", "year": 1995, "rating": 8.3, "duration": "1h 21m", "genres": ["Animation", "Adventure", "Comedy"], "synopsis": "", "image": "", "viewCount": 5480000 }
+]
