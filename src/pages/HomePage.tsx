@@ -51,19 +51,28 @@ const scrollMoviesRight = () => {
 
       {series[0] && <section className="home-section home-section--featured-series"><div className="home-section__heading"><div><span className="home-eyebrow">Recomendación CineBase</span><h2>Serie destacada del mes</h2></div><span className="home-section__index">01</span></div><SeriesCard featured onViewSeries={onSelectSeries} series={series[0]} /></section>}
 
+      <section className="home-section">
+        <div className="home-section__heading">
+          <div>
+            <span className="home-eyebrow">Historias para seguir</span>
+            <h2>Series populares</h2>
+          </div>
+          <span className="home-section__index">02</span>
+        </div>
+        <PopularSeriesCarousel onSelectSeries={onSelectSeries} series={series} />
+      </section>
+
       <section className="home-section" id="home-actors">
         <div className="home-section__heading">
           <div>
             <span className="home-eyebrow">
               Talento que marca tendencia
             </span>
-
-      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><PopularSeriesCarousel onSelectSeries={onSelectSeries} series={series} /></section>
             <h2>Actores en tendencia</h2>
           </div>
 
           <span className="home-section__index">
-            02
+            03
           </span>
         </div>
 
@@ -72,7 +81,6 @@ const scrollMoviesRight = () => {
           onSelectActor={onSelectActor}
         />
       </section>
-      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><div className="home-series-grid">{series.map((item) => <SeriesCard key={item.id} onViewSeries={onSelectSeries} series={item} />)}</div></section>
 
       <section className="home-section">
   <div className="home-section__heading">

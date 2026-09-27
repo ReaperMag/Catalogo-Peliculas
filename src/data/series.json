@@ -1,140 +1,86 @@
 [
   {
     "id": "s1",
-    "title": "Dark",
-    "originalTitle": "Dark",
-    "tagline": "Todo está conectado.",
-    "year": 2017,
-    "endYear": 2020,
-    "status": "Finalizada",
-    "rating": 8.7,
-    "episodes": 26,
-    "episodeDuration": "45-57 min",
-    "certification": "16+",
-    "seasons": 3,
+    "title": "It: Bienvenidos a Derry",
+    "originalTitle": "It: Welcome to Derry",
+    "tagline": "El origen del mal regresa a Derry.",
+    "year": 2025,
+    "endYear": null,
+    "status": "Terminada",
+    "rating": 8.1,
+    "episodes": 8,
+    "episodeDuration": "55-65 min",
+    "certification": "18+",
+    "seasons": 1,
     "genres": [
-      "Ciencia ficción",
+      "Terror",
+      "Misterio",
       "Drama"
     ],
-    "synopsis": "La desaparición de dos niños revela secretos que conectan a cuatro familias de un pequeño pueblo.",
-    "image": "",
-    "trailerUrl": "https://www.youtube.com/watch?v=rrwycJ08PSA",
-    "creators": ["Baran bo Odar", "Jantje Friese"],
-    "writers": ["Jantje Friese"],
-    "directors": ["Baran bo Odar"],
-    "music": "Ben Frost",
-    "country": "Alemania",
-    "language": "Alemán",
-    "streamingPlatforms": ["Netflix"],
-    "productionCompanies": ["Wiedemann & Berg Television"],
+    "synopsis": "Ambientada en la década de 1960, la serie explora los eventos previos a las películas de IT, profundizando en la historia del pueblo de Derry y el despertar del terrorífico payaso Pennywise.",
+    "image": "series/it.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=oKa6u7LT0qE",
+    "creators": ["Andy Muschietti", "Barbara Muschietti", "Jason Fuchs"],
+    "writers": ["Jason Fuchs", "Brad Caleb Kane"],
+    "directors": ["Andy Muschietti"],
+    "music": "Benjamin Wallfisch",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["HBO / Max"],
+    "productionCompanies": ["Warner Bros. Television", "Double Dream", "Rideback", "Vertigo Entertainment"],
     "seasonDetails": [
       {
         "season": 1,
-        "episodes": 10,
-        "year": 2017,
-        "episodeDetails": [
-          { "number": 1, "title": "Secrets" },
-          { "number": 2, "title": "Lies" },
-          { "number": 3, "title": "Past and Present" },
-          { "number": 4, "title": "Double Lives" },
-          { "number": 5, "title": "Truths" },
-          { "number": 6, "title": "Sic Mundus Creatus Est" },
-          { "number": 7, "title": "Crossroads" },
-          { "number": 8, "title": "As You Sow, So You Reap" },
-          { "number": 9, "title": "Everything Is Now" },
-          { "number": 10, "title": "Alpha and Omega" }
-        ]
-      },
-      {
-        "season": 2,
         "episodes": 8,
-        "year": 2019,
+        "year": 2025,
         "episodeDetails": [
-          { "number": 1, "title": "Beginnings and Endings" },
-          { "number": 2, "title": "Dark Matter" },
-          { "number": 3, "title": "Ghosts" },
-          { "number": 4, "title": "The Travelers" },
-          { "number": 5, "title": "Lost and Found" },
-          { "number": 6, "title": "An Endless Cycle" },
-          { "number": 7, "title": "The White Devil" },
-          { "number": 8, "title": "Endings and Beginnings" }
-        ]
-      },
-      {
-        "season": 3,
-        "episodes": 8,
-        "year": 2020,
-        "episodeDetails": [
-          { "number": 1, "title": "Déjà-vu" },
-          { "number": 2, "title": "The Survivors" },
-          { "number": 3, "title": "Adam and Eva" },
-          { "number": 4, "title": "The Origin" },
-          { "number": 5, "title": "Life and Death" },
-          { "number": 6, "title": "Light and Shadow" },
-          { "number": 7, "title": "Between the Time" },
-          { "number": 8, "title": "Paradise" }
+          { "number": 1, "title": "The Pilot","image": "series/it-ep.jpg"},
+          { "number": 2, "title": "The Thing in the Dark","image": "series/it-ep.jpg" },
+          { "number": 3, "title": "Now You See It" ,"image": "series/it-ep.jpg"},
+          { "number": 4, "title": "The Great Swirling Apparatus of Our Planet's Function","image": "series/it-ep.jpg" },
+          { "number": 5, "title": "29 Neibolt Street" ,"image": "series/it-ep.jpg"},
+          { "number": 6, "title": "In the Name of the Father" ,"image": "series/it-ep.jpg"},
+          { "number": 7, "title": "The Black Spot" ,"image": "series/it-ep.jpg"},
+          { "number": 8, "title": "Winter Fire","image": "series/it-ep.jpg" }
         ]
       }
     ],
     "cast": [
-      { "name": "Louis Hofmann", "character": "Jonas Kahnwald" },
-      { "name": "Lisa Vicari", "character": "Martha Nielsen" },
-      { "name": "Oliver Masucci", "character": "Ulrich Nielsen" },
-      { "name": "Karoline Eichhorn", "character": "Charlotte Doppler" },
-      { "name": "Jördis Triebel", "character": "Katharina Nielsen" },
-      { "name": "Maja Schöne", "character": "Hannah Kahnwald" }
+      { "name": "Bill Skarsgård", "character": "Pennywise / Bob Gray" },
+      { "name": "Jovan Adepo", "character": "Leroy Hanlon" },
+      { "name": "Taylour Paige", "character": "Charlotte Hanlon" },
+      { "name": "Chris Chalk", "character": "Dick Hallorann" },
+      { "name": "James Remar", "character": "Francis Shaw" },
+      { "name": "Madeleine Stowe", "character": "Ingrid Kersh" }
     ],
-    "awards": ["Ganadora del Grimme-Preis 2018 en la categoría de ficción"],
+    "awards": ["Nominada a producciones destacadas de terror en televisión"],
     "reviews": [
       {
-        "author": "Usuario de ejemplo",
-        "source": "Opinión de muestra",
-        "score": "9/10",
-        "text": "La atmósfera y el misterio mantienen el interés, y la historia recompensa prestar atención a los detalles."
+        "author": "Crítica de televisión",
+        "source": "Reseña de medios",
+        "score": "8.5/10",
+        "text": "Una expansión inquietante del universo de Stephen King que amplía de manera efectiva el trasfondo histórico de Pennywise."
       },
       {
-        "author": "Usuario de ejemplo",
-        "source": "Opinión de muestra",
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
         "score": "8/10",
-        "text": "Una propuesta de ciencia ficción ambiciosa, con personajes y relaciones que se desarrollan a lo largo de sus temporadas."
+        "text": "Mantiene el nivel de producción de las películas y entrega momentos de tensión bien construidos."
       }
     ],
     "trivia": [
       {
-        "title": "Un pueblo ficticio",
-        "text": "Winden, el escenario central de la historia, es un pueblo ficticio creado para la serie."
+        "title": "El regreso de Bill Skarsgård",
+        "text": "Bill Skarsgård vuelve a interpretar al icónico payaso Pennywise tras encarnarlo en las adaptaciones cinematográficas de 2017 y 2019."
       },
       {
-        "title": "El cierre de la historia",
-        "text": "La tercera temporada se estrenó el 27 de junio de 2020, fecha que también tiene importancia dentro de la trama."
+        "title": "Conexión con El Resplandor",
+        "text": "La serie incluye al personaje de Dick Hallorann en su juventud, conectando la historia con el universo compartido de Stephen King."
       },
       {
-        "title": "Reparto a través de distintas épocas",
-        "text": "Varios personajes aparecen en diferentes edades, interpretados por distintos actores a lo largo de la serie."
+        "title": "Liderada por los hermanos Muschietti",
+        "text": "Andy y Barbara Muschietti, directores del díptico cinematográfico de IT, regresan como productores ejecutivos y showrunners de la serie."
       }
     ]
-  },
-  {
-    "id": "s2",
-    "title": "The Bear",
-    "year": 2022,
-    "rating": 8.5,
-    "seasons": 3,
-    "genres": [
-      "Drama",
-      "Comedia"
-    ],
-    "synopsis": "Un joven chef vuelve a Chicago para hacerse cargo del restaurante familiar.",
-    "image": ""
-  },
-  {
-  "id": "s3",
-  "title": "Nombre de la serie",
-  "year": 2024,
-  "rating": 8.6,
-  "seasons": 2,
-  "genres": ["Drama", "Suspenso"],
-  "synopsis": "Resumen de la serie.",
-  "image": "series/it.jpg"
-}
+  }
 ]

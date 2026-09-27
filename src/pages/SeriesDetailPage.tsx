@@ -43,7 +43,7 @@ export function SeriesDetailPage({ seriesId, onNavigate }: SeriesDetailPageProps
             <div className="cinema-detail__kicker">
               <span>SERIE</span>
               <span>• {item.year}{item.endYear ? `-${item.endYear}` : ''}</span>
-              <span>• {item.seasons} temporadas</span>
+              <span>• {item.seasons} {item.seasons === 1 ? 'temporada' : 'temporadas'}</span>
               {item.episodes != null && <span>• {item.episodes} episodios</span>}
               {item.certification && <span>• {item.certification}</span>}
               <span>• {item.genres.join(' / ')}</span>
