@@ -52,15 +52,59 @@ export type Movie = {
   trivia?: MovieTrivia[]
   reviews?: MovieReview[]
 }
+
+export type SeriesEpisode = {
+  number: number
+  title: string
+  image?: string
+  rating?: number
+  synopsis?: string
+  duration?: string
+  airDate?: string
+  director?: string
+  location?: string
+}
+
+export type SeriesSeason = {
+  season: number
+  episodes: number
+  year: number
+  rating?: number
+  trailerUrl?: string
+  episodeDetails?: SeriesEpisode[]
+}
+
 export type Series = {
   id: string
   title: string
+  originalTitle?: string
+  tagline?: string
   year: number
+  endYear?: number
+  status?: string
   rating: number
+  metascore?: number
   seasons: number
+  episodes?: number
+  episodeDuration?: string
+  certification?: string
   genres: string[]
   synopsis: string
   image: string
+  trailerUrl?: string
+  creators?: string[]
+  writers?: string[]
+  directors?: string[]
+  music?: string
+  country?: string
+  language?: string
+  streamingPlatforms?: string[]
+  productionCompanies?: string[]
+  seasonDetails?: SeriesSeason[]
+  cast?: MovieCast[]
+  awards?: string[]
+  trivia?: MovieTrivia[]
+  reviews?: MovieReview[]
 }
 
 export type Actor = {
