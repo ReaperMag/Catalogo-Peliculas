@@ -1131,5 +1131,264 @@
       "text": "La serie se caracteriza por utilizar versiones instrumentales de canciones modernas durante bailes y escenas de la alta sociedad."
     }
   ]
+},
+{
+  "id": "s7",
+  "title": "Heartstopper",
+  "originalTitle": "Heartstopper",
+  "tagline": "El amor puede llegar cuando menos lo esperas.",
+  "year": 2022,
+  "endYear": 2024,
+  "status": "Finalizada",
+  "rating": 8.5,
+  "episodes": 24,
+  "episodeDuration": "26-33 min",
+  "certification": "TV-14",
+  "seasons": 3,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+
+  "synopsis": "Charlie Spring y Nick Nelson descubren que su amistad puede convertirse en algo más mientras atraviesan el amor, la identidad, la amistad y los cambios propios de la adolescencia junto a su grupo de amigos.",
+
+  "image": "series/heartstopper.jpg",
+
+  "trailerUrl": "https://youtu.be/YtJ9uwqY1M4?si=AP4MjK_zHTgccXa1",
+
+  "creators": [
+    "Alice Oseman"
+  ],
+
+  "writers": [
+    "Alice Oseman"
+  ],
+
+  "directors": [
+    "Euros Lyn",
+    "Andy Newbery"
+  ],
+
+  "music": "Adiescar Chase",
+
+  "country": "Reino Unido",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "See-Saw Films",
+    "Netflix"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Meet",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Crush",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Kiss",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Secret",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Friend",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Girls",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Bully",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Boyfriend",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": 8,
+      "year": 2023,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Out",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Family",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Promise",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Challenge",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Heat",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Truth / Dare",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Sorry",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Perfect",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": 8,
+      "year": 2024,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Love",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Home",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Talk",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Journey",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Winter",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Body",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Together",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Apart",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Joe Locke",
+      "character": "Charlie Spring"
+    },
+    {
+      "name": "Kit Connor",
+      "character": "Nick Nelson"
+    },
+    {
+      "name": "William Gao",
+      "character": "Tao Xu"
+    },
+    {
+      "name": "Yasmin Finney",
+      "character": "Elle Argent"
+    },
+    {
+      "name": "Corinna Brown",
+      "character": "Tara Jones"
+    },
+    {
+      "name": "Kizzy Edgell",
+      "character": "Darcy Olsson"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de premios Children's & Family Emmy",
+    "Reconocida por su representación LGBTQ+ y su impacto en el público juvenil"
+  ],
+
+  "reviews": [
+    {
+      "author": "Andrea L.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Es una serie muy cálida y sensible, con una historia romántica juvenil que se siente cercana y honesta."
+    },
+    {
+      "author": "Paula V.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "Además del romance principal, destaca por la amistad del grupo y por tratar temas emocionales con mucha delicadeza."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en una novela gráfica",
+      "text": "La serie adapta la popular novela gráfica Heartstopper creada por Alice Oseman."
+    },
+    {
+      "title": "Alice Oseman escribió la adaptación",
+      "text": "La propia autora de la obra original estuvo a cargo de la escritura de la serie."
+    },
+    {
+      "title": "Tres temporadas estrenadas",
+      "text": "La serie cuenta con tres temporadas publicadas en Netflix."
+    }
+  ]
 }
 ]
