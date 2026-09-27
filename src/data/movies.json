@@ -480,6 +480,116 @@
       "text": "Una comedia romántica juvenil que combina romance, fútbol y una identidad equivocada inspirada en Shakespeare."
     }
   ]
+},
+{
+  "id": "m8",
+  "title": "Diario de una pasión",
+  "originalTitle": "The Notebook",
+  "tagline": "Detrás de cada gran amor hay una gran historia.",
+  "year": 2004,
+  "rating": 7.8,
+  "metascore": 53,
+  "duration": "2h 3m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+
+  "synopsis": "En la década de 1940, Noah Calhoun y Allie Hamilton viven un intenso romance de verano que se ve interrumpido por las diferencias sociales y las decisiones familiares. Años después, sus caminos vuelven a cruzarse y ambos deberán enfrentar los sentimientos que aún conservan, mientras una historia de amor es recordada a través de un viejo cuaderno.",
+
+  "image": "peliculas/diario-de-una-pasion.jpg",
+
+  "trailerUrl": "https://youtu.be/DqJbx39Cs2k?si=yEc_ETW_7AMtauSS",
+
+  "viewCount": null,
+
+  "director": "Nick Cassavetes",
+
+  "writers": [
+    "Jeremy Leven",
+    "Jan Sardi"
+  ],
+
+  "basedOn": "The Notebook de Nicholas Sparks",
+
+  "music": "Aaron Zigman",
+  "cinematography": "Robert Fraisse",
+  "editing": "Alan Heim",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "New Line Cinema",
+    "Gran Via Productions",
+    "Avery Pix"
+  ],
+
+  "boxOffice": "$118.2 millones mundial",
+
+  "cast": [
+    {
+      "name": "Ryan Gosling",
+      "character": "Noah Calhoun"
+    },
+    {
+      "name": "Rachel McAdams",
+      "character": "Allie Hamilton"
+    },
+    {
+      "name": "James Garner",
+      "character": "Duke"
+    },
+    {
+      "name": "Gena Rowlands",
+      "character": "Allie mayor"
+    },
+    {
+      "name": "Joan Allen",
+      "character": "Anne Hamilton"
+    },
+    {
+      "name": "Sam Shepard",
+      "character": "Frank Calhoun"
+    }
+  ],
+
+  "awards": [
+    "Ganadora del MTV Movie Award a Mejor Beso",
+    "Reconocida como una de las películas románticas más populares de los años 2000"
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en una novela",
+      "text": "La película está basada en la novela The Notebook de Nicholas Sparks, uno de los autores más conocidos del género romántico."
+    },
+    {
+      "title": "Ryan Gosling fue elegido por su perfil diferente",
+      "text": "Nick Cassavetes comentó que eligió a Ryan Gosling porque quería un protagonista que no tuviera el aspecto típico de estrella romántica."
+    },
+    {
+      "title": "Una pareja muy recordada",
+      "text": "La química entre Ryan Gosling y Rachel McAdams convirtió a la película en una de las historias de amor más recordadas del cine romántico contemporáneo."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "53 / 100",
+      "text": "La recepción crítica fue mixta, aunque con el tiempo la película ganó gran popularidad entre el público y se convirtió en un referente del romance moderno."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.8 / 10",
+      "text": "Una historia romántica intensa y emotiva sobre el paso del tiempo, la memoria y un amor que persiste a pesar de los obstáculos."
+    }
+  ]
 }
   
 ]
