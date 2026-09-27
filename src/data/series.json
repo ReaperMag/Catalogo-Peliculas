@@ -819,5 +819,317 @@
       "text": "La serie cuenta entre sus productoras con LuckyChap, compañía asociada a Margot Robbie."
     }
   ]
+},
+{
+  "id": "s6",
+  "title": "Bridgerton",
+  "originalTitle": "Bridgerton",
+  "tagline": "El amor nunca sigue las reglas.",
+  "year": 2020,
+  "status": "En emisión",
+  "rating": 7.5,
+  "episodes": 32,
+  "episodeDuration": "50-75 min",
+  "certification": "TV-MA",
+  "seasons": 4,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Época"
+  ],
+
+  "synopsis": "En la alta sociedad londinense de la época de la Regencia, los ocho hermanos de la familia Bridgerton buscan el amor y la felicidad mientras enfrentan las exigencias sociales, los escándalos y los secretos que Lady Whistledown revela a través de su popular columna de chismes.",
+
+  "image": "series/bridgerton.jpg",
+
+  "trailerUrl": "https://youtu.be/5cOfyLkQRGk?si=AzLi4WlUJZ1Dd0B0",
+
+  "creators": [
+    "Chris Van Dusen"
+  ],
+
+  "writers": [
+    "Chris Van Dusen",
+    "Jess Brownell"
+  ],
+
+  "directors": [
+    "Tom Verica",
+    "Tricia Brock",
+    "Julie Anne Robinson",
+    "Andrew Ahn",
+    "Anya Adams"
+  ],
+
+  "music": "Kris Bowers",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "Shondaland",
+    "CVD Productions"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2020,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Diamond of the First Water",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Shock and Delight",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Art of the Swoon",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "An Affair of Honor",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "The Duke and I",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Swish",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Oceans Apart",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "After the Rain",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 2,
+      "episodes": 8,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Capital R Rake",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Off to the Races",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "A Bee in Your Bonnet",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Victory",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "An Unthinkable Fate",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "The Choice",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Harmony",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "The Viscount Who Loved Me",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 3,
+      "episodes": 8,
+      "year": 2024,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Out of the Shadows",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "How Bright the Moon",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Forces of Nature",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Old Friends",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Tick Tock",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Romancing Mister Bridgerton",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Joining of Hands",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Into the Light",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 4,
+      "episodes": 8,
+      "year": 2026,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "The Waltz",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Time Transfixed",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "The Field Next to the Other Road",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "An Offer from a Gentleman",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Yes or No",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "The Passing Winter",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "The Beyond",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Dance in the Country",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Nicola Coughlan",
+      "character": "Penelope Featherington"
+    },
+    {
+      "name": "Jonathan Bailey",
+      "character": "Anthony Bridgerton"
+    },
+    {
+      "name": "Simone Ashley",
+      "character": "Kate Sharma"
+    },
+    {
+      "name": "Luke Newton",
+      "character": "Colin Bridgerton"
+    },
+    {
+      "name": "Luke Thompson",
+      "character": "Benedict Bridgerton"
+    },
+    {
+      "name": "Claudia Jessie",
+      "character": "Eloise Bridgerton"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de múltiples premios Primetime Emmy",
+    "Reconocida con numerosas nominaciones por actuación, vestuario, música y producción"
+  ],
+
+  "reviews": [
+    {
+      "author": "Valentina C.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Me gusta que cada temporada desarrolle un romance diferente sin abandonar las historias de los demás miembros de la familia Bridgerton."
+    },
+    {
+      "author": "Gabriela T.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "La ambientación, el vestuario y la música hacen que el drama romántico tenga una identidad muy reconocible y entretenida."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en novelas",
+      "text": "La serie está basada en la saga de novelas románticas Bridgerton escrita por Julia Quinn."
+    },
+    {
+      "title": "Un romance principal por temporada",
+      "text": "Cada temporada centra buena parte de su historia en la relación romántica de uno de los hermanos Bridgerton."
+    },
+    {
+      "title": "Música contemporánea con estilo clásico",
+      "text": "La serie se caracteriza por utilizar versiones instrumentales de canciones modernas durante bailes y escenas de la alta sociedad."
+    }
+  ]
 }
 ]
