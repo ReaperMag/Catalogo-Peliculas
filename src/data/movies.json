@@ -282,7 +282,7 @@
 
   "image": "peliculas/si-yo-tuviera-30.png",
 
-  "trailerUrl": "",
+  "trailerUrl": "https://youtu.be/Zk07Lkpfn-M?si=FbS99fm0L-ZCsYFH",
 
   "viewCount": null,
 
@@ -366,6 +366,118 @@
       "source": "Ficha informativa",
       "score": "6.3 / 10",
       "text": "Una comedia romántica ligera que combina fantasía, nostalgia y crecimiento personal alrededor del deseo de crecer demasiado rápido."
+    }
+  ]
+},
+{
+  "id": "m7",
+  "title": "Ella es el hombre",
+  "originalTitle": "She's the Man",
+  "tagline": "Todos tienen un secreto.",
+  "year": 2006,
+  "rating": 6.4,
+  "metascore": 45,
+  "duration": "1h 45m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Deporte"
+  ],
+
+  "synopsis": "Viola Hastings quiere demostrar que puede jugar fútbol tan bien como los chicos. Cuando su hermano gemelo Sebastian se ausenta de su nuevo internado, Viola decide hacerse pasar por él y ocupar su lugar en el equipo masculino. La situación se complica cuando comienza a enamorarse de su compañero de habitación, Duke, mientras Olivia se interesa por Sebastian sin saber que en realidad es Viola.",
+
+  "image": "peliculas/ella-es-el-hombre.jpg",
+
+  "trailerUrl": "https://youtu.be/9oDZXr1sZrs?si=fTWethlhB9fvu006",
+
+  "viewCount": null,
+
+  "director": "Andy Fickman",
+
+  "writers": [
+    "Ewan Leslie",
+    "Karen McCullah",
+    "Kirsten Smith"
+  ],
+
+  "basedOn": "Twelfth Night de William Shakespeare",
+
+  "music": "Nathan Wang",
+  "cinematography": "Greg Gardiner",
+  "editing": "Michael Jablow",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "DreamWorks Pictures",
+    "Lakeshore Entertainment",
+    "The Donners' Company"
+  ],
+
+  "boxOffice": "$57.2 millones mundial",
+
+  "cast": [
+    {
+      "name": "Amanda Bynes",
+      "character": "Viola Hastings"
+    },
+    {
+      "name": "Channing Tatum",
+      "character": "Duke Orsino"
+    },
+    {
+      "name": "Laura Ramsey",
+      "character": "Olivia Lennox"
+    },
+    {
+      "name": "James Kirk",
+      "character": "Sebastian Hastings"
+    },
+    {
+      "name": "Robert Hoffman",
+      "character": "Justin Drayton"
+    },
+    {
+      "name": "Alex Breckenridge",
+      "character": "Monique Valentine"
+    }
+  ],
+
+  "awards": [
+    "Varias nominaciones en premios juveniles por su reparto y comedia",
+    "Amanda Bynes recibió reconocimiento por su interpretación cómica"
+  ],
+
+  "trivia": [
+    {
+      "title": "Inspirada en Shakespeare",
+      "text": "La historia es una adaptación moderna de la obra Twelfth Night de William Shakespeare."
+    },
+    {
+      "title": "Amanda Bynes aprendió fútbol",
+      "text": "Durante la producción, Amanda Bynes tuvo que entrenar fútbol para interpretar a Viola y realizó buena parte de las escenas deportivas."
+    },
+    {
+      "title": "Rodaje en Canadá",
+      "text": "Aunque la historia se desarrolla en Estados Unidos, varias escenas fueron filmadas en Columbia Británica, Canadá."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "45 / 100",
+      "text": "La recepción crítica fue mixta, aunque varias reseñas destacaron la energía y el desempeño cómico de Amanda Bynes."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.4 / 10",
+      "text": "Una comedia romántica juvenil que combina romance, fútbol y una identidad equivocada inspirada en Shakespeare."
     }
   ]
 }
