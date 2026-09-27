@@ -53,7 +53,6 @@
 .movie-poster-card__year { position: absolute; right: 10px; bottom: 10px; padding: 3px 10px; border-radius: 999px; color: #fff; background: #25b840; font-size: 0.85rem; font-weight: 700; }
 .movie-poster-card__title { color: #f0f1f3; font-size: 1rem; line-height: 1.45; }
 .app-shell--template { position: relative; left: 50%; width: 100%; max-width: none; margin: 0; padding: 0; transform: translateX(-50%); }
-.school-of-rock-frame { display: block; width: 100%; max-width: 100%; min-height: 100vh; border: 0; background: #0a0e13; }
 .movie-card__body { display: grid; gap: 12px; padding: 18px; }
 .movie-card__body p { color: var(--color-muted); font-size: 0.95rem; }
 .movie-card__body strong { color: var(--color-accent); }
