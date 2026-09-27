@@ -592,7 +592,7 @@
     }
   ]
 },
-{
+  {
     "id": "school-of-rock",
     "title": "School of Rock",
     "originalTitle": "School of Rock",
@@ -636,6 +636,52 @@
     ],
     "reviews": [
       {"author": "CineBase", "source": "Ficha informativa", "score": "7.2 / 10", "text": "Una comedia musical enérgica y entrañable, impulsada por la actuación de Jack Black y el entusiasmo de su joven banda."}
+    ]
+  },
+  {
+    "id": "ted",
+    "title": "Ted",
+    "originalTitle": "Ted",
+    "tagline": "Una amistad de toda la vida... literalmente.",
+    "year": 2012,
+    "rating": 6.9,
+    "metascore": 62,
+    "duration": "1h 47m",
+    "certification": "R",
+    "genres": ["Comedia", "Fantasía"],
+    "collections": ["Comedia"],
+    "trailerUrl": "https://www.youtube.com/watch?v=1xSYmg_kpMY",
+    "synopsis": "Cuando era niño, John deseó que su oso de peluche cobrara vida y se convirtiera en su mejor amigo. Años después, Ted sigue a su lado, pero su inseparable amistad complica la relación de John con Lori y lo obliga a decidir qué lugar ocupa cada uno en su vida.",
+    "image": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blt52344fb5c7488ee0/691c852eac93e37944afe791/Ted_Rated_Poster_2000x3000_uaa.jpg?width=1000",
+    "viewCount": null,
+    "director": "Seth MacFarlane",
+    "writers": ["Seth MacFarlane", "Alec Sulkin", "Wellesley Wild"],
+    "music": "Walter Murphy",
+    "cinematography": "Michael Barrett",
+    "editing": "Jeff Freeman",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": ["Media Rights Capital", "Fuzzy Door Productions", "Bluegrass Films"],
+    "boxOffice": "$549.4 millones mundial",
+    "cast": [
+      {"name": "Mark Wahlberg", "character": "John Bennett"},
+      {"name": "Mila Kunis", "character": "Lori Collins"},
+      {"name": "Seth MacFarlane", "character": "Ted (voz y captura de movimiento)"},
+      {"name": "Joel McHale", "character": "Rex"},
+      {"name": "Giovanni Ribisi", "character": "Donny"},
+      {"name": "Norah Jones", "character": "Ella misma"}
+    ],
+    "awards": [
+      "Nominada al Óscar a Mejor Canción Original por “Everybody Needs a Best Friend”"
+    ],
+    "trivia": [
+      {"title": "Debut como director de cine", "text": "Ted fue el primer largometraje de acción real dirigido por Seth MacFarlane, conocido por crear Padre de familia."},
+      {"title": "Un oso creado digitalmente", "text": "Ted se integró en las escenas mediante animación por computadora y captura de movimiento."},
+      {"title": "Reconocimiento musical", "text": "La canción original “Everybody Needs a Best Friend” recibió una nominación al Óscar."}
+    ],
+    "reviews": [
+      {"author": "Metacritic", "source": "Crítica agregada", "score": "62 / 100", "text": "La película obtuvo un Metascore de 62, basado en 37 críticas profesionales."},
+      {"author": "CineBase", "source": "Ficha informativa", "score": "6.9 / 10", "text": "Una comedia fantástica sobre una amistad poco convencional que pone a prueba la vida adulta y la relación de pareja de John."}
     ]
   }
 ]

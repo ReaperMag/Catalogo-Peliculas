@@ -9,6 +9,7 @@ import { MovieDetailPage } from './pages/MovieDetailPage'
 import { MoviesPage } from './pages/MoviesPage'
 import { SearchPage } from './pages/SearchPage'
 import { SchoolOfRockTemplate } from './pages/SchoolOfRockTemplate'
+import { TedTemplate } from './pages/TedTemplate'
 import { SeriesDetailPage } from './pages/SeriesDetailPage'
 import type { PageKey } from './types/movie'
 
@@ -46,11 +47,13 @@ function App() {
     })
   }
   const showingSchoolTemplate = activePage === 'detail' && selectedMovieId === 'school-of-rock'
+  const showingTedTemplate = activePage === 'detail' && selectedMovieId === 'ted'
+  const showingCustomTemplate = showingSchoolTemplate || showingTedTemplate
 
   return (
     <MoviesProvider>
-      <div className={showingSchoolTemplate ? 'app-shell app-shell--template' : activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
-        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
+      <div className={showingCustomTemplate ? 'app-shell app-shell--template' : activePage === 'home' ? 'app-shell app-shell--home' : 'app-shell'}>
+        {showingSchoolTemplate ? <SchoolOfRockTemplate onNavigate={navigateFromSchoolTemplate} /> : showingTedTemplate ? <TedTemplate onNavigate={navigateFromSchoolTemplate} /> : <>
           <Header activePage={activePage} onNavigate={navigate} />
           {activePage === 'home' && <HomePage onNavigate={navigate} onSelectCategory={selectCategory} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} />}
           {activePage === 'movies' && <MoviesPage selectedCategory={selectedCategory} onSelectMovie={selectMovie} />}
