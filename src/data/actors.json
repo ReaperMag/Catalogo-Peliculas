@@ -788,5 +788,183 @@
     }
   ],
   "image": "actores/ms_ChrisEvans.png"
+},
+{
+  "id": "a9",
+  "name": "Emma Stone",
+  "birthYear": 1988,
+  "birthDate": "6 de noviembre de 1988",
+  "birthPlace": "Scottsdale, Arizona, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Emma Stone es una actriz y productora estadounidense. Comenzó su carrera profesional en televisión y alcanzó reconocimiento cinematográfico con producciones de comedia y drama. Su interpretación de Olive en Easy A consolidó su carrera como protagonista y posteriormente participó en películas como The Help, La La Land y Poor Things.",
+  "knownFor": [
+    "La La Land",
+    "Easy A",
+    "The Help",
+    "Poor Things"
+  ],
+  "filmography": [
+    {
+      "year": 2023,
+      "title": "Poor Things",
+      "character": "Bella Baxter",
+      "type": "Película",
+      "rating": 7.7
+    },
+    {
+      "year": 2021,
+      "title": "Cruella",
+      "character": "Estella / Cruella",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2018,
+      "title": "The Favourite",
+      "character": "Abigail",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2016,
+      "title": "La La Land",
+      "character": "Mia",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2014,
+      "title": "Birdman",
+      "character": "Sam",
+      "type": "Película",
+      "rating": 7.7
+    },
+    {
+      "year": 2011,
+      "title": "The Help",
+      "character": "Skeeter Phelan",
+      "type": "Película",
+      "rating": 8.1
+    },
+    {
+      "year": 2011,
+      "title": "Crazy, Stupid, Love.",
+      "character": "Hannah",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2010,
+      "title": "Easy A",
+      "character": "Olive",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2009,
+      "title": "Zombieland",
+      "character": "Wichita",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2007,
+      "title": "Superbad",
+      "character": "Jules",
+      "type": "Película",
+      "rating": 7.6
+    }
+  ],
+  "image": "actores/ms_EmmaStone.png"
+},
+{
+  "id": "a10",
+  "name": "Ryan Gosling",
+  "birthYear": 1980,
+  "birthDate": "12 de noviembre de 1980",
+  "birthPlace": "London, Ontario, Canadá",
+  "nationality": "Canadiense",
+  "occupation": "Actor y productor",
+  "biography": "Ryan Gosling es un actor y productor canadiense que comenzó su carrera como intérprete infantil y posteriormente se consolidó en el cine. Ha trabajado en dramas, romances, musicales, thrillers y producciones de ciencia ficción. Entre sus trabajos más reconocidos se encuentran Drive, Blue Valentine, La La Land y Blade Runner 2049.",
+  "knownFor": [
+    "La La Land",
+    "Drive",
+    "Blue Valentine",
+    "Blade Runner 2049"
+  ],
+  "filmography": [
+    {
+      "year": 2023,
+      "title": "Barbie",
+      "character": "Ken",
+      "type": "Película",
+      "rating": 6.8
+    },
+    {
+      "year": 2022,
+      "title": "The Gray Man",
+      "character": "Six",
+      "type": "Película",
+      "rating": 6.5
+    },
+    {
+      "year": 2018,
+      "title": "First Man",
+      "character": "Neil Armstrong",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2017,
+      "title": "Blade Runner 2049",
+      "character": "K",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2016,
+      "title": "La La Land",
+      "character": "Sebastian",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2015,
+      "title": "The Big Short",
+      "character": "Jared Vennett",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2011,
+      "title": "Drive",
+      "character": "Driver",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2011,
+      "title": "Crazy, Stupid, Love.",
+      "character": "Jacob Palmer",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2010,
+      "title": "Blue Valentine",
+      "character": "Dean",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2004,
+      "title": "The Notebook",
+      "character": "Noah Calhoun",
+      "type": "Película",
+      "rating": 7.8
+    }
+  ],
+  "image": "actores/ms_RyanGosling.png"
 }
 ]
