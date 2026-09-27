@@ -1,10 +1,12 @@
 import { ActorCarousel } from '../components/actors/ActorCarousel'
+import { useRef } from 'react'
 import { FeaturedMovieCarousel } from '../components/molecules/FeaturedMovieCarousel'
 import { SeriesCard } from '../components/molecules/SeriesCard'
 import { useMovies } from '../contexts/MoviesContext'
 import categoriesData from '../data/categories.json'
 import { getMediaImage } from '../lib/mediaImages'
 import type { Movie, PageKey } from '../types/movie'
+import './TopMoviesSection.css' // Leidy
 
 type HomePageProps = {
   onNavigate: (page: PageKey) => void
@@ -24,8 +26,23 @@ function HomeMovieCard({ movie, onSelectMovie }: { movie: Movie; onSelectMovie: 
 }
 
 export function HomePage({ onNavigate, onSelectMovie, onSelectSeries, onSelectActor }: HomePageProps) {
-  const { actors, movies, series } = useMovies()
-  const mostViewedMovies = [...movies].sort((first, second) => (second.viewCount ?? -1) - (first.viewCount ?? -1)).slice(0, 10)
+  const { actors, movies, series, topMovies } = useMovies() // Leidy
+  const moviesCarouselRef = useRef<HTMLDivElement>(null)
+
+const scrollMoviesLeft = () => {
+  moviesCarouselRef.current?.scrollBy({
+    left: -420,
+    behavior: 'smooth',
+  })
+}
+
+const scrollMoviesRight = () => {
+  moviesCarouselRef.current?.scrollBy({
+    left: 420,
+    behavior: 'smooth',
+  })
+}
+  const mostViewedMovies = [...topMovies].sort((first, second) => (second.viewCount ?? -1) - (first.viewCount ?? -1)).slice(0, 10) // Leidy
 
   return (
     <main className="home-page">
@@ -55,10 +72,62 @@ export function HomePage({ onNavigate, onSelectMovie, onSelectSeries, onSelectAc
       </section>
       <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">Historias para seguir</span><h2>Series populares</h2></div><span className="home-section__index">02</span></div><div className="home-series-grid">{series.map((item) => <SeriesCard key={item.id} onViewSeries={onSelectSeries} series={item} />)}</div></section>
 
-      <section className="home-section"><div className="home-section__heading"><div><span className="home-eyebrow">En la gran pantalla</span><h2>Películas populares</h2></div><button className="home-section__link" onClick={() => onNavigate('movies')} type="button">Ver catálogo <span aria-hidden="true">→</span></button></div><div className="home-movie-grid">{movies.map((movie) => <HomeMovieCard key={movie.id} movie={movie} onSelectMovie={onSelectMovie} />)}</div></section>
+      <section className="home-section">
+  <div className="home-section__heading">
+    <div>
+      <span className="home-eyebrow">En la gran pantalla</span>
+      <h2>Películas populares</h2>
+    </div>
 
-      <section className="home-section home-section--views"><div className="home-section__heading"><div><span className="home-eyebrow">Solo información</span><h2>Top 10 películas más vistas</h2><p>Las visualizaciones aparecerán cuando agreguemos esos datos al catálogo.</p></div><span className="home-section__index">03</span></div><ol className="home-view-list">{mostViewedMovies.map((movie, index) => <li key={movie.id}><span className="home-view-list__rank">{String(index + 1).padStart(2, '0')}</span><div><strong>{movie.title}</strong><small>{movie.year} · {movie.genres.join(' · ')}</small></div><span className="home-view-list__count">{movie.viewCount == null ? 'Vistas sin registrar' : `${movie.viewCount.toLocaleString('es-ES')} vistas`}</span></li>)}</ol></section>
+    <button
+      className="home-section__link"
+      onClick={() => onNavigate('movies')}
+      type="button"
+    >
+      Ver catálogo <span aria-hidden="true">→</span>
+    </button>
+  </div>
 
+  <div className="home-movie-carousel">
+    <button
+      className="home-carousel-button"
+      onClick={scrollMoviesLeft}
+      type="button"
+      aria-label="Películas anteriores"
+    >
+      ‹
+    </button>
+
+    <div
+      className="home-movie-carousel__track"
+      ref={moviesCarouselRef}
+    >
+      {movies.map((movie) => (
+        <div
+          className="home-movie-carousel__item"
+          key={movie.id}
+        >
+          <HomeMovieCard
+            movie={movie}
+            onSelectMovie={onSelectMovie}
+          />
+        </div>
+      ))}
+    </div>
+
+    <button
+      className="home-carousel-button"
+      onClick={scrollMoviesRight}
+      type="button"
+      aria-label="Películas siguientes"
+    >
+      ›
+    </button>
+  </div>
+</section>
+
+      <section className="home-section home-section--views"><div className="home-section__heading"><div><span className="home-eyebrow">Solo información</span><h2>Top 10 películas más vistas</h2><p>Ranking de las películas con más visualizaciones en CineBase.</p></div><span className="home-section__index">03</span></div><ol className="home-view-list">{mostViewedMovies.map((movie, index) => <li key={movie.id}><span className="home-view-list__rank">{String(index + 1).padStart(2, '0')}</span><div className="top-movies__info">{getMediaImage(movie.image) && <img alt={movie.title} className="top-movies__thumb" src={getMediaImage(movie.image)} />}<div className="top-movies__text"><strong>{movie.title}</strong><small>{movie.year} · {movie.genres.join(' · ')}</small></div></div><span className="home-view-list__count">{movie.viewCount == null ? 'Vistas sin registrar' : `${movie.viewCount.toLocaleString('es-ES')} vistas`}</span></li>)}</ol></section>
+0
       <section className="home-section home-section--categories"><div className="home-section__heading"><div><span className="home-eyebrow">Encuentra tu próxima historia</span><h2>Categorías</h2></div></div><div className="home-category-grid">{(categoriesData as string[]).map((category, index) => <article className={`home-category home-category--${index + 1}`} key={category}><span className="home-category__number">0{index + 1}</span><strong>{category}</strong><span className="home-category__arrow" aria-hidden="true">✦</span></article>)}</div></section>
     </main>
   )
