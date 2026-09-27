@@ -1086,5 +1086,101 @@
         "text": "Valoración de usuarios de 7.3/10 en IMDb."
       }
     ]
+  },
+  {
+    "id": "shrek",
+    "title": "Shrek",
+    "year": 2001,
+    "rating": 7.9,
+    "metascore": 84,
+    "duration": "1h 30m",
+    "certification": "PG",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Aventura",
+      "Fantasía"
+    ],
+    "collections": [
+      "Comedia"
+    ],
+    "synopsis": "Shrek, un ogro que disfruta de su tranquilidad en el pantano, ve su hogar invadido por personajes de cuentos desterrados por Lord Farquaad. Para recuperar su terreno, acepta rescatar a la princesa Fiona y llevarla con el gobernante. En el camino, acompañado por el parlanchín Burro, descubre que Fiona guarda un secreto y que los cuentos de hadas no siempre terminan como se espera.",
+    "image": "https://image.tmdb.org/t/p/w780/5G1RjHMSt7nYONqCqSwFlP87Ckk.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=ezdEomjFw4Q",
+    "viewCount": null,
+    "director": "Andrew Adamson, Vicky Jenson",
+    "writers": [
+      "Ted Elliott",
+      "Terry Rossio",
+      "Joe Stillman",
+      "Roger S. H. Schulman"
+    ],
+    "music": "Harry Gregson-Williams, John Powell",
+    "editing": "Sim Evan-Jones",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "productionCompanies": [
+      "DreamWorks Animation",
+      "Pacific Data Images"
+    ],
+    "boxOffice": "$484.9 millones mundial (aprox.); presupuesto: $60 millones",
+    "cast": [
+      {
+        "name": "Mike Myers",
+        "character": "Shrek"
+      },
+      {
+        "name": "Eddie Murphy",
+        "character": "Burro"
+      },
+      {
+        "name": "Cameron Diaz",
+        "character": "Princesa Fiona"
+      },
+      {
+        "name": "John Lithgow",
+        "character": "Lord Farquaad"
+      },
+      {
+        "name": "Vincent Cassel",
+        "character": "Monsieur Hood"
+      },
+      {
+        "name": "Conrad Vernon",
+        "character": "Jengibre"
+      }
+    ],
+    "awards": [
+      "Ganadora del Óscar a Mejor Película Animada (2002)",
+      "Ganadora del BAFTA a Mejor Guion Adaptado (2002)"
+    ],
+    "trivia": [
+      {
+        "title": "Un Óscar histórico",
+        "text": "Shrek ganó el primer Óscar a Mejor Película Animada, en la ceremonia de 2002."
+      },
+      {
+        "title": "Basada en un libro",
+        "text": "El personaje se inspira en el libro infantil Shrek!, publicado por William Steig en 1990."
+      },
+      {
+        "title": "Cuentos al revés",
+        "text": "La película juega con los tópicos de los cuentos clásicos y los convierte en parte de su humor."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Rotten Tomatoes",
+        "source": "Crítica agregada",
+        "score": "89% / 90%",
+        "text": "89% de aprobación de la crítica y 90% del público en Rotten Tomatoes."
+      },
+      {
+        "author": "Metacritic",
+        "source": "Crítica agregada",
+        "score": "84 / 100",
+        "text": "Metascore de 84/100 basado en 34 críticas profesionales."
+      }
+    ]
   }
 ]
