@@ -590,6 +590,114 @@
       "text": "Una historia romántica intensa y emotiva sobre el paso del tiempo, la memoria y un amor que persiste a pesar de los obstáculos."
     }
   ]
+},
+{
+  "id": "m51",
+  "title": "El Conjuro",
+  "originalTitle": "The Conjuring",
+  "tagline": "Basada en los archivos de casos reales de Ed y Lorraine Warren.",
+  "year": 2013,
+  "rating": 7.5,
+  "metascore": 68,
+  "duration": "1h 52m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Suspenso"
+  ],
+
+  "synopsis": "A principios de los años 70, los investigadores paranormales de renombre mundial Ed y Lorraine Warren son llamados para ayudar a la familia Perron, que experimenta sucesos aterradores y oscuros en su granja aislada en Rhode Island. Al enfrentarse a una poderosa entidad demoníaca, los Warren se ven envueltos en el caso más peligroso de sus carreras.",
+
+  "image": "peliculas/conjuro.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+  "viewCount": null,
+
+  "director": "James Wan",
+
+  "writers": [
+    "Chad Hayes",
+    "Carey W. Hayes"
+  ],
+
+  "music": "Joseph Bishara",
+  "cinematography": "John R. Leonetti",
+  "editing": "Kirk M. Morri",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "New Line Cinema",
+    "The Safran Company",
+    "Evergreen Media Group"
+  ],
+
+  "boxOffice": "$319.5 millones mundial",
+
+  "cast": [
+    {
+      "name": "Vera Farmiga",
+      "character": "Lorraine Warren"
+    },
+    {
+      "name": "Patrick Wilson",
+      "character": "Ed Warren"
+    },
+    {
+      "name": "Lili Taylor",
+      "character": "Carolyn Perron"
+    },
+    {
+      "name": "Ron Livingston",
+      "character": "Roger Perron"
+    },
+    {
+      "name": "Shanley Caswell",
+      "character": "Andrea Perron"
+    },
+    {
+      "name": "Hayley McFarland",
+      "character": "Nancy Perron"
+    }
+  ],
+
+  "awards": [
+    "15 victorias y 22 nominaciones totales",
+    "Ganadora del Saturn Award a Mejor Película de Terror"
+  ],
+
+  "trivia": [
+    {
+      "title": "Inspirada en hechos reales",
+      "text": "La película se basa en las experiencias reales registradas por los demonólogos Ed y Lorraine Warren durante su investigación en la residencia Perron en 1971."
+    },
+    {
+      "title": "Asesoría de la verdadera Lorraine Warren",
+      "text": "Lorraine Warren actuó como consultora en la producción y realizó una breve aparición cameo en el auditorio donde Ed imparte una conferencia."
+    },
+    {
+      "title": "Universo cinematográfico masivo",
+      "text": "El enorme éxito comercial de la película dio origen a un universo compartido que incluye secuelas y spin-offs centrados en Annabelle y La Monja."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "68 / 100",
+      "text": "La crítica destacó la dirección atmosférica de James Wan y la capacidad de revitalizar los tropos clásicos del cine de casas embrujadas con sustos genuinos."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.5 / 10",
+      "text": "Una de las películas de terror más aclamadas de la década que sentó las bases para una franquicia taquillera basada en expedientes paranormales."
+    }
+  ]
 }
   
 ]
