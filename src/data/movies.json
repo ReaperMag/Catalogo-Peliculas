@@ -1022,6 +1022,116 @@
       "text": "Un clásico atemporal del terror psicológico y religioso que destaca por actuaciones excepcionales y efectos prácticos perturbadores."
     }
   ]
+},
+{
+  "id": "m59",
+  "title": "The Backrooms",
+  "originalTitle": "The Backrooms",
+  "tagline": "Si no tienes cuidado y te sales de la realidad en los lugares equivocados...",
+  "year": 2026,
+  "rating": 7.3,
+  "metascore": 72,
+  "duration": "1h 45m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Ciencia ficción",
+    "Suspenso"
+  ],
+
+  "synopsis": "Cuando un joven cae accidentalmente a través de los límites de la realidad física, se encuentra atrapado en un laberinto infinito de habitaciones de oficina vacías, moqueta húmeda y luces fluorescentes zumbantes. A medida que explora las interminables salas amarillas, descubre que no está completamente solo en este plano liminal.",
+
+  "image": "peliculas/backrooms.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=0HjdiohVOik",
+  "viewCount": null,
+
+  "director": "Kane Parsons",
+
+  "writers": [
+    "Will Soodik",
+    "Kane Parsons"
+  ],
+
+  "music": "Kane Parsons, Edo Van Breemen",
+  "cinematography": "Kane Parsons",
+  "editing": "Kane Parsons",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "A24",
+    "Atomic Monster",
+    "Chernin Entertainment",
+    "21 Laps Entertainment"
+  ],
+
+  "boxOffice": "$382 millones mundial",
+
+  "cast": [
+    {
+      "name": "Chiwetel Ejiofor",
+      "character": "Dr. Mark Thorne"
+    },
+    {
+      "name": "Renate Reinsve",
+      "character": "Elena"
+    },
+    {
+      "name": "Mark Duplass",
+      "character": "Investigador ASYNC"
+    },
+    {
+      "name": "Avan Jogia",
+      "character": "Técnico de laboratorio"
+    },
+    {
+      "name": "Finn Bennett",
+      "character": "Sujeto de prueba"
+    },
+    {
+      "name": "Lukita Maxwell",
+      "character": "Operadora"
+    }
+  ],
+
+  "awards": [
+    "3 victorias y 8 nominaciones totales",
+    "Película revelación en festivales de cine de género"
+  ],
+
+  "trivia": [
+    {
+      "title": "Director de 20 años",
+      "text": "El creador original de la serie en YouTube, Kane Parsons (Kane Pixels), fue contratado por A24 para dirigir el largometraje cuando tenía solo 17 años, convirtiéndose en el director más joven en la historia del estudio."
+    },
+    {
+      "title": "Origen en el creepypasta de internet",
+      "text": "La premisa se basa en una célebre leyenda urbana de internet sobre 'no-clipping' fuera de la realidad hacia dimensiones infinitas de espacios liminales."
+    },
+    {
+      "title": "Respaldado por gigantes del terror",
+      "text": "La producción contó con el apoyo de James Wan (creador de El Conjuro) y Shawn Levy (productor de Stranger Things) a través de sus respectivas productoras."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "72 / 100",
+      "text": "Elogiada por adaptar con éxito la atmósfera opresiva y el terror liminal de los cortometrajes de YouTube a una narrativa cinematográfica envolvente."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.3 / 10",
+      "text": "Una experiencia inquietante que transforma la monotonía arquitectónica y la soledad en un relato de ciencia ficción y suspenso altamente efectivo."
+    }
+  ]
 }
   
 ]
