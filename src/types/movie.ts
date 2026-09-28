@@ -128,4 +128,4 @@ export type ActorWork = {
   rating?: number
 }
 
-export type PageKey = 'home' | 'movies' | 'search' | 'detail' | 'series' | 'actor'
+export type PageKey = 'home' | 'movies' | 'search' | 'detail' | 'series' | 'actor' | 'category' //Leidy: agrego category
