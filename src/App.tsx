@@ -1,6 +1,5 @@
 import { useLayoutEffect, useState } from 'react'
 import './App.css'
-import { Footer } from './components/layout/Footer'
 import { Header } from './components/layout/Header'
 import { MoviesProvider } from './contexts/MoviesContext'
 import { ActorDetailPage } from './pages/ActorDetailPage'
@@ -38,7 +37,7 @@ function App() {
         {activePage === 'series' && <SeriesDetailPage seriesId={selectedSeriesId} onNavigate={setActivePage} />}
         {activePage === 'actor' && <ActorDetailPage actorId={selectedActorId} onNavigate={setActivePage} />}
         {activePage === 'category' && <CategoryPage category={selectedCategory} onNavigate={setActivePage} onSelectMovie={selectMovie} onSelectSeries={selectSeries} />} {/* Leidy */}
-        <Footer />
+        
       </div>
     </MoviesProvider>
   )
