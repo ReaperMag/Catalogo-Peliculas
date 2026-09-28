@@ -855,6 +855,94 @@
       "text": "La película está basada en la novela Schindler's Ark de Thomas Keneally, inspirada en la historia real de Oskar Schindler."
     }
   ]
+},
+{
+  "id": "ms-p4",
+  "title": "Doce hombres sin piedad",
+  "originalTitle": "12 Angry Men",
+  "tagline": "La vida de un hombre está en sus manos.",
+  "year": 1957,
+  "rating": 9.0,
+  "metascore": 97,
+  "duration": "1h 36m",
+  "certification": "Approved",
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "Doce miembros de un jurado deben decidir el destino de un joven acusado de asesinar a su padre. Aunque al principio casi todos consideran que el caso está resuelto, uno de los jurados plantea dudas razonables sobre las pruebas. A partir de ese momento, la deliberación se convierte en un intenso enfrentamiento de argumentos, prejuicios y convicciones personales.",
+  "image": "peliculas/ms_12AngryMen.png",
+  "director": "Sidney Lumet",
+  "writers": [
+    "Reginald Rose"
+  ],
+  "cast": [
+    {
+      "name": "Henry Fonda",
+      "character": "Juror 8"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "character": "Juror 3"
+    },
+    {
+      "name": "Ed Begley",
+      "character": "Juror 10"
+    },
+    {
+      "name": "E. G. Marshall",
+      "character": "Juror 4"
+    },
+    {
+      "name": "Jack Klugman",
+      "character": "Juror 5"
+    },
+    {
+      "name": "Martin Balsam",
+      "character": "Juror 1"
+    },
+    {
+      "name": "John Fiedler",
+      "character": "Juror 2"
+    }
+  ],
+  "music": "Kenyon Hopkins",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Orion-Nova Productions"
+  ],
+  "awards": [
+    "Nominada a 3 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Un drama judicial construido casi por completo a partir del diálogo y la confrontación moral entre los miembros del jurado."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es especialmente valorada por su tensión, sus actuaciones y la manera en que explora el prejuicio, la duda razonable y la responsabilidad individual."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Un espacio casi único",
+      "text": "La mayor parte de la película transcurre dentro de una sala de deliberaciones, lo que refuerza la sensación de encierro y tensión."
+    },
+    {
+      "title": "Debut cinematográfico de Sidney Lumet",
+      "text": "12 Angry Men fue el primer largometraje dirigido por Sidney Lumet."
+    },
+    {
+      "title": "Origen televisivo",
+      "text": "La historia fue escrita originalmente por Reginald Rose como un drama televisivo antes de ser adaptada al cine."
+    }
+  ]
 }
   
 ]
