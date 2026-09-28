@@ -768,6 +768,93 @@
       "text": "Aunque su desempeño inicial en taquilla fue moderado, la película ganó una enorme popularidad posteriormente gracias al video doméstico, la televisión y el reconocimiento del público."
     }
   ]
+},
+{
+  "id": "ms-p3",
+  "title": "La lista de Schindler",
+  "originalTitle": "Schindler's List",
+  "tagline": "Quien salva una vida, salva al mundo entero.",
+  "year": 1993,
+  "rating": 9.0,
+  "metascore": 95,
+  "duration": "3h 15m",
+  "certification": "R",
+  "genres": [
+    "Drama",
+    "Historia",
+    "Biografía"
+  ],
+  "synopsis": "Durante la Segunda Guerra Mundial, el empresario alemán Oskar Schindler llega a Cracovia con la intención de enriquecerse aprovechando la guerra. Con el tiempo, presencia la persecución y el exterminio de la población judía y utiliza su fábrica, su influencia y su fortuna para proteger a más de mil personas de la deportación y la muerte.",
+  "image": "peliculas/ms_SchindlersList.png",
+  "director": "Steven Spielberg",
+  "writers": [
+    "Steven Zaillian",
+    "Thomas Keneally"
+  ],
+  "cast": [
+    {
+      "name": "Liam Neeson",
+      "character": "Oskar Schindler"
+    },
+    {
+      "name": "Ben Kingsley",
+      "character": "Itzhak Stern"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "character": "Amon Göth"
+    },
+    {
+      "name": "Caroline Goodall",
+      "character": "Emilie Schindler"
+    },
+    {
+      "name": "Jonathan Sagall",
+      "character": "Poldek Pfefferberg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "character": "Helen Hirsch"
+    }
+  ],
+  "music": "John Williams",
+  "country": "Estados Unidos",
+  "language": "Inglés / Alemán / Polaco / Hebreo",
+  "productionCompanies": [
+    "Universal Pictures",
+    "Amblin Entertainment"
+  ],
+  "awards": [
+    "Ganadora de 7 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Un drama histórico de gran impacto emocional que aborda el Holocausto desde la transformación moral de Oskar Schindler y la experiencia de las personas perseguidas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es ampliamente reconocida por sus actuaciones, su fotografía en blanco y negro y la forma sobria y dura en que representa uno de los episodios más trágicos del siglo XX."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Fotografía en blanco y negro",
+      "text": "La mayor parte de la película fue rodada en blanco y negro para reforzar su apariencia documental y su vínculo visual con imágenes históricas de la época."
+    },
+    {
+      "title": "La niña del abrigo rojo",
+      "text": "Uno de los pocos usos destacados del color es el abrigo rojo de una niña durante la liquidación del gueto de Cracovia."
+    },
+    {
+      "title": "Basada en hechos reales",
+      "text": "La película está basada en la novela Schindler's Ark de Thomas Keneally, inspirada en la historia real de Oskar Schindler."
+    }
+  ]
 }
   
 ]
