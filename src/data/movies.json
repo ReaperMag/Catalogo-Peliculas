@@ -943,6 +943,94 @@
       "text": "La historia fue escrita originalmente por Reginald Rose como un drama televisivo antes de ser adaptada al cine."
     }
   ]
+},
+{
+  "id": "ms-p5",
+  "title": "Testigo de cargo",
+  "originalTitle": "Witness for the Prosecution",
+  "tagline": "El juicio ha comenzado. Nada es lo que parece.",
+  "year": 1957,
+  "rating": 8.4,
+  "metascore": 76,
+  "duration": "1h 56m",
+  "certification": "Approved",
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "synopsis": "El veterano abogado Sir Wilfrid Robarts acepta defender a Leonard Vole, un hombre acusado de asesinar a una viuda adinerada. El caso se complica cuando la esposa del acusado decide declarar como testigo de la acusación, dando paso a una serie de revelaciones, contradicciones y giros inesperados dentro y fuera de la sala del tribunal.",
+  "image": "peliculas/ms_WitnessForTheProsecution.png",
+  "director": "Billy Wilder",
+  "writers": [
+    "Billy Wilder",
+    "Harry Kurnitz",
+    "Agatha Christie"
+  ],
+  "cast": [
+    {
+      "name": "Tyrone Power",
+      "character": "Leonard Vole"
+    },
+    {
+      "name": "Marlene Dietrich",
+      "character": "Christine Vole"
+    },
+    {
+      "name": "Charles Laughton",
+      "character": "Sir Wilfrid Robarts"
+    },
+    {
+      "name": "Elsa Lanchester",
+      "character": "Miss Plimsoll"
+    },
+    {
+      "name": "John Williams",
+      "character": "Brogan-Moore"
+    },
+    {
+      "name": "Henry Daniell",
+      "character": "Mayhew"
+    }
+  ],
+  "music": "Matty Malneck",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Edward Small Productions",
+    "United Artists"
+  ],
+  "awards": [
+    "Nominada a 6 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Actor para Charles Laughton."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama judicial de ritmo preciso que combina misterio, ironía y giros narrativos construidos alrededor del testimonio y la credibilidad de sus personajes."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "8.4/10",
+      "text": "Destaca por las actuaciones de Charles Laughton y Marlene Dietrich y por un desenlace diseñado para sorprender al espectador."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Agatha Christie",
+      "text": "La película adapta la obra teatral Witness for the Prosecution, escrita por Agatha Christie."
+    },
+    {
+      "title": "Dirección de Billy Wilder",
+      "text": "Billy Wilder dirigió y coescribió la adaptación cinematográfica, combinando drama judicial con misterio."
+    },
+    {
+      "title": "Final protegido",
+      "text": "Durante su promoción se pidió al público que no revelara el desenlace de la película para preservar el efecto de sus giros narrativos."
+    }
+  ]
 }
   
 ]
