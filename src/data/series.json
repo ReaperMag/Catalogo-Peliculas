@@ -2346,5 +2346,150 @@
       "text": "La quinta temporada consta de 16 episodios y fue emitida en dos bloques de ocho episodios entre 2012 y 2013."
     }
   ]
+},
+{
+  "id": "ms-s3",
+  "title": "The Wire",
+  "originalTitle": "The Wire",
+  "tagline": "Todo está conectado.",
+  "year": 2002,
+  "endYear": 2008,
+  "status": "Finalizada",
+  "rating": 9.3,
+  "episodes": 60,
+  "episodeDuration": "55-60 min",
+  "certification": "18+",
+  "seasons": 5,
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Thriller"
+  ],
+  "synopsis": "Ambientada en Baltimore, la serie examina el narcotráfico y las investigaciones policiales desde múltiples perspectivas. A lo largo de sus temporadas amplía su mirada hacia los puertos, la política, el sistema educativo y los medios de comunicación, mostrando cómo distintas instituciones de la ciudad se relacionan y afectan entre sí.",
+  "image": "series/ms_TheWire.png",
+  "creators": [
+    "David Simon"
+  ],
+  "writers": [
+    "David Simon",
+    "Ed Burns",
+    "George Pelecanos",
+    "Richard Price",
+    "Dennis Lehane"
+  ],
+  "directors": [
+    "Clark Johnson",
+    "Joe Chappelle",
+    "Ernest Dickerson",
+    "Agnieszka Holland"
+  ],
+  "music": "Blake Leyh",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "Blown Deadline Productions",
+    "HBO"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 13,
+      "year": 2002,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 12,
+      "year": 2003,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 12,
+      "year": 2004,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 13,
+      "year": 2006,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 10,
+      "year": 2008,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dominic West",
+      "character": "Jimmy McNulty"
+    },
+    {
+      "name": "Lance Reddick",
+      "character": "Cedric Daniels"
+    },
+    {
+      "name": "Sonja Sohn",
+      "character": "Kima Greggs"
+    },
+    {
+      "name": "Wendell Pierce",
+      "character": "Bunk Moreland"
+    },
+    {
+      "name": "Clarke Peters",
+      "character": "Lester Freamon"
+    },
+    {
+      "name": "Idris Elba",
+      "character": "Stringer Bell"
+    },
+    {
+      "name": "Michael K. Williams",
+      "character": "Omar Little"
+    }
+  ],
+  "awards": [
+    "Nominada a 2 premios Primetime Emmy y ganadora de numerosos reconocimientos de la crítica."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9.5/10",
+      "text": "Un drama criminal de estructura coral que analiza con profundidad la relación entre crimen, policía, política y otras instituciones urbanas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.3/10",
+      "text": "Es especialmente valorada por su realismo, sus personajes complejos y la manera en que cada temporada amplía el retrato social de Baltimore."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Una institución por temporada",
+      "text": "Cada temporada amplía el foco narrativo hacia una institución distinta de Baltimore, incluyendo el narcotráfico, los puertos, la política, las escuelas y los medios de comunicación."
+    },
+    {
+      "title": "Experiencia real",
+      "text": "David Simon trabajó como periodista en Baltimore y Ed Burns fue detective de homicidios y profesor, experiencias que influyeron en el enfoque realista de la serie."
+    },
+    {
+      "title": "Tema de apertura",
+      "text": "La canción de apertura es 'Way Down in the Hole', escrita por Tom Waits, pero interpretada por distintos artistas a lo largo de las temporadas."
+    }
+  ]
 }
 ]
