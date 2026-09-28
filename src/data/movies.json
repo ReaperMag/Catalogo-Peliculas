@@ -698,6 +698,116 @@
       "text": "Una de las películas de terror más aclamadas de la década que sentó las bases para una franquicia taquillera basada en expedientes paranormales."
     }
   ]
+},
+{
+  "id": "m56",
+  "title": "Halloween",
+  "originalTitle": "Halloween",
+  "tagline": "El mal vuelve a casa.",
+  "year": 2018,
+  "rating": 6.5,
+  "metascore": 67,
+  "duration": "1h 46m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Slasher",
+    "Suspenso"
+  ],
+
+  "synopsis": "Cuarenta años después de escapar por poco del ataque de Michael Myers en la noche de Halloween, Laurie Strode se enfrenta de nuevo al enmascarado Asesino de Haddonfield. Preparada tras décadas de trauma y aislamiento, Laurie intentará proteger a su hija y a su nieta en la confrontación final.",
+
+  "image": "peliculas/halloween.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=ek1ePFp-nBI",
+  "viewCount": null,
+
+  "director": "David Gordon Green",
+
+  "writers": [
+    "David Gordon Green",
+    "Danny McBride",
+    "Jeff Fradley"
+  ],
+
+  "music": "John Carpenter, Cody Carpenter, Daniel Davies",
+  "cinematography": "Michael Simmonds",
+  "editing": "Tim Alverson",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Blumhouse Productions",
+    "Miramax",
+    "Rough House Pictures",
+    "Trancas International Films"
+  ],
+
+  "boxOffice": "$255.6 millones mundial",
+
+  "cast": [
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Laurie Strode"
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Karen Nelson"
+    },
+    {
+      "name": "Andi Matichak",
+      "character": "Allyson Nelson"
+    },
+    {
+      "name": "Nick Castle / James Jude Courtney",
+      "character": "Michael Myers / The Shape"
+    },
+    {
+      "name": "Haluk Bilginer",
+      "character": "Dr. Ranbir Sartain"
+    },
+    {
+      "name": "Will Patton",
+      "character": "Oficial Frank Hawkins"
+    }
+  ],
+
+  "awards": [
+    "4 victorias y 19 nominaciones totales",
+    "Ganadora de Mejor Película de Terror en los Fright Meter Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Secuela directa ignorando secuelas anteriores",
+      "text": "La película ignora todas las secuelas lanzadas desde 1981, sirviendo como continuación directa de la película original de John Carpenter de 1978."
+    },
+    {
+      "title": "Retorno de John Carpenter",
+      "text": "John Carpenter regresó a la franquicia como productor ejecutivo y compositor de la banda sonora por primera vez desde Halloween III en 1982."
+    },
+    {
+      "title": "El regreso de Nick Castle",
+      "text": "Nick Castle, quien interpretó originalmente a 'The Shape' en la cinta de 1978, volvió para realizar algunas escenas seleccionadas y aportar los respiraciones características del personaje."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "67 / 100",
+      "text": "La crítica respaldó el regreso de Jamie Lee Curtis y la dirección de David Gordon Green, destacando el equilibrio entre el homenaje nostálgico y la violencia del slasher moderno."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.5 / 10",
+      "text": "Un reinicio efectivo que revitaliza al villano icónico Michael Myers mientras explora el trauma generacional de la familia Strode."
+    }
+  ]
 }
   
 ]
