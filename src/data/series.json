@@ -2194,5 +2194,157 @@
       "text": "La sexta temporada tuvo 21 episodios emitidos en dos partes entre 2006 y 2007."
     }
   ]
+},
+{
+  "id": "ms-s2",
+  "title": "Breaking Bad",
+  "originalTitle": "Breaking Bad",
+  "tagline": "Todo hombre tiene un punto de quiebre.",
+  "year": 2008,
+  "endYear": 2013,
+  "status": "Finalizada",
+  "rating": 9.5,
+  "episodes": 62,
+  "episodeDuration": "43-60 min",
+  "certification": "18+",
+  "seasons": 5,
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Thriller"
+  ],
+  "synopsis": "Walter White, un profesor de química de Albuquerque, descubre que padece cáncer de pulmón. Preocupado por el futuro económico de su familia, comienza a fabricar metanfetamina junto con su antiguo alumno Jesse Pinkman. Lo que inicia como una decisión desesperada termina transformándolo progresivamente en una poderosa y peligrosa figura del narcotráfico.",
+  "image": "series/ms_BreakingBad.png",
+  "creators": [
+    "Vince Gilligan"
+  ],
+  "writers": [
+    "Vince Gilligan",
+    "Peter Gould",
+    "George Mastras",
+    "Sam Catlin",
+    "Moira Walley-Beckett",
+    "Thomas Schnauz"
+  ],
+  "directors": [
+    "Vince Gilligan",
+    "Michelle MacLaren",
+    "Adam Bernstein",
+    "Rian Johnson",
+    "Colin Bucksey"
+  ],
+  "music": "Dave Porter",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+  "productionCompanies": [
+    "High Bridge Productions",
+    "Gran Via Productions",
+    "Sony Pictures Television"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 7,
+      "year": 2008,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 13,
+      "year": 2009,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 13,
+      "year": 2010,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 13,
+      "year": 2011,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 16,
+      "year": 2012,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bryan Cranston",
+      "character": "Walter White"
+    },
+    {
+      "name": "Aaron Paul",
+      "character": "Jesse Pinkman"
+    },
+    {
+      "name": "Anna Gunn",
+      "character": "Skyler White"
+    },
+    {
+      "name": "Dean Norris",
+      "character": "Hank Schrader"
+    },
+    {
+      "name": "Betsy Brandt",
+      "character": "Marie Schrader"
+    },
+    {
+      "name": "RJ Mitte",
+      "character": "Walter White Jr."
+    },
+    {
+      "name": "Bob Odenkirk",
+      "character": "Saul Goodman"
+    },
+    {
+      "name": "Giancarlo Esposito",
+      "character": "Gustavo Fring"
+    }
+  ],
+  "awards": [
+    "Ganadora de 16 premios Primetime Emmy, incluidos reconocimientos a mejor serie dramática y múltiples premios de interpretación para Bryan Cranston y Aaron Paul."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "La serie construye una transformación progresiva de su protagonista mediante una narrativa criminal cada vez más intensa y consecuencias que afectan a todos los personajes."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.5/10",
+      "text": "Destaca por la evolución de Walter White, la relación con Jesse Pinkman, su fotografía y una tensión que aumenta notablemente durante sus últimas temporadas."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "El alter ego Heisenberg",
+      "text": "Walter White utiliza el nombre Heisenberg como identidad dentro del mundo del narcotráfico, en referencia al físico alemán Werner Heisenberg."
+    },
+    {
+      "title": "Albuquerque",
+      "text": "La serie está ambientada y fue filmada principalmente en Albuquerque, Nuevo México, convirtiendo numerosas localizaciones reales de la ciudad en lugares reconocibles para los seguidores."
+    },
+    {
+      "title": "Última temporada dividida",
+      "text": "La quinta temporada consta de 16 episodios y fue emitida en dos bloques de ocho episodios entre 2012 y 2013."
+    }
+  ]
 }
 ]
