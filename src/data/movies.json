@@ -1130,6 +1130,443 @@
       "source": "Ficha informativa",
       "score": "7.3 / 10",
       "text": "Una experiencia inquietante que transforma la monotonía arquitectónica y la soledad en un relato de ciencia ficción y suspenso altamente efectivo."
+  "id": "ms-p1",
+  "title": "El padrino. Parte II",
+  "originalTitle": "The Godfather Part II",
+  "tagline": "Toda familia tiene sus secretos.",
+  "year": 1974,
+  "rating": 9.0,
+  "metascore": 90,
+  "duration": "3h 22m",
+  "certification": "R",
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "La historia continúa la vida de Michael Corleone mientras consolida y expande el poder de la familia Corleone, al mismo tiempo que se muestra, en paralelo, el ascenso de su padre Vito Corleone desde su juventud en Sicilia hasta convertirse en una figura central del crimen organizado en Nueva York.",
+  "image": "peliculas/ms_TheGodfatherPartII.png",
+  "director": "Francis Ford Coppola",
+  "writers": [
+    "Francis Ford Coppola",
+    "Mario Puzo"
+  ],
+  "cast": [
+    {
+      "name": "Al Pacino",
+      "character": "Michael Corleone"
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Vito Corleone"
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Tom Hagen"
+    },
+    {
+      "name": "Diane Keaton",
+      "character": "Kay Adams-Corleone"
+    },
+    {
+      "name": "John Cazale",
+      "character": "Fredo Corleone"
+    },
+    {
+      "name": "Talia Shire",
+      "character": "Connie Corleone"
+    },
+    {
+      "name": "Lee Strasberg",
+      "character": "Hyman Roth"
+    }
+  ],
+  "music": "Nino Rota y Carmine Coppola",
+  "country": "Estados Unidos",
+  "language": "Inglés / Italiano / Español",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company"
+  ],
+  "awards": [
+    "Ganadora de 6 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Actor de Reparto para Robert De Niro."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Una continuación ambiciosa que expande la historia de la familia Corleone mediante dos líneas temporales conectadas por el poder, la familia y la pérdida."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es ampliamente valorada por sus actuaciones, su estructura narrativa y la evolución de Michael Corleone."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Robert De Niro como Vito Corleone",
+      "text": "Robert De Niro interpreta a la versión joven de Vito Corleone y ganó el Óscar a Mejor Actor de Reparto por su actuación."
+    },
+    {
+      "title": "Dos líneas temporales",
+      "text": "La película alterna entre la consolidación del poder de Michael Corleone y la juventud de Vito Corleone."
+    },
+    {
+      "title": "Ganadora del Óscar a Mejor Película",
+      "text": "Fue la primera secuela en ganar el premio Óscar a Mejor Película."
+    }
+  ]
+},
+{
+  "id": "ms-p2",
+  "title": "Cadena perpetua",
+  "originalTitle": "The Shawshank Redemption",
+  "tagline": "El miedo puede mantenerte prisionero. La esperanza puede liberarte.",
+  "year": 1994,
+  "rating": 9.3,
+  "metascore": 82,
+  "duration": "2h 22m",
+  "certification": "R",
+  "genres": [
+    "Drama"
+  ],
+  "synopsis": "Andy Dufresne, un banquero condenado a cadena perpetua por el asesinato de su esposa y el amante de ella, es enviado a la prisión de Shawshank. Allí entabla una profunda amistad con Ellis 'Red' Redding y aprende a sobrevivir en un entorno marcado por la violencia, la corrupción y la pérdida de libertad, aferrándose a la esperanza como forma de resistencia.",
+  "image": "peliculas/ms_TheShawshankRedemption.png",
+  "director": "Frank Darabont",
+  "writers": [
+    "Frank Darabont",
+    "Stephen King"
+  ],
+  "cast": [
+    {
+      "name": "Tim Robbins",
+      "character": "Andy Dufresne"
+    },
+    {
+      "name": "Morgan Freeman",
+      "character": "Ellis Boyd 'Red' Redding"
+    },
+    {
+      "name": "Bob Gunton",
+      "character": "Samuel Norton"
+    },
+    {
+      "name": "William Sadler",
+      "character": "Heywood"
+    },
+    {
+      "name": "Clancy Brown",
+      "character": "Byron Hadley"
+    },
+    {
+      "name": "Gil Bellows",
+      "character": "Tommy Williams"
+    },
+    {
+      "name": "James Whitmore",
+      "character": "Brooks Hatlen"
+    }
+  ],
+  "music": "Thomas Newman",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "awards": [
+    "Nominada a 7 premios Óscar, incluyendo Mejor Película, Mejor Actor para Morgan Freeman y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama carcelario centrado en la amistad, la dignidad y la capacidad de mantener la esperanza incluso en condiciones extremas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.3/10",
+      "text": "Es especialmente apreciada por la relación entre Andy y Red, su desarrollo emocional y un desenlace que refuerza el tema de la esperanza."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Stephen King",
+      "text": "La película adapta la novela corta 'Rita Hayworth and Shawshank Redemption', incluida en la colección Different Seasons de Stephen King."
+    },
+    {
+      "title": "Narración de Morgan Freeman",
+      "text": "Morgan Freeman interpreta a Red y también proporciona la narración que acompaña gran parte de la historia."
+    },
+    {
+      "title": "Reconocimiento con el tiempo",
+      "text": "Aunque su desempeño inicial en taquilla fue moderado, la película ganó una enorme popularidad posteriormente gracias al video doméstico, la televisión y el reconocimiento del público."
+    }
+  ]
+},
+{
+  "id": "ms-p3",
+  "title": "La lista de Schindler",
+  "originalTitle": "Schindler's List",
+  "tagline": "Quien salva una vida, salva al mundo entero.",
+  "year": 1993,
+  "rating": 9.0,
+  "metascore": 95,
+  "duration": "3h 15m",
+  "certification": "R",
+  "genres": [
+    "Drama",
+    "Historia",
+    "Biografía"
+  ],
+  "synopsis": "Durante la Segunda Guerra Mundial, el empresario alemán Oskar Schindler llega a Cracovia con la intención de enriquecerse aprovechando la guerra. Con el tiempo, presencia la persecución y el exterminio de la población judía y utiliza su fábrica, su influencia y su fortuna para proteger a más de mil personas de la deportación y la muerte.",
+  "image": "peliculas/ms_SchindlersList.png",
+  "director": "Steven Spielberg",
+  "writers": [
+    "Steven Zaillian",
+    "Thomas Keneally"
+  ],
+  "cast": [
+    {
+      "name": "Liam Neeson",
+      "character": "Oskar Schindler"
+    },
+    {
+      "name": "Ben Kingsley",
+      "character": "Itzhak Stern"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "character": "Amon Göth"
+    },
+    {
+      "name": "Caroline Goodall",
+      "character": "Emilie Schindler"
+    },
+    {
+      "name": "Jonathan Sagall",
+      "character": "Poldek Pfefferberg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "character": "Helen Hirsch"
+    }
+  ],
+  "music": "John Williams",
+  "country": "Estados Unidos",
+  "language": "Inglés / Alemán / Polaco / Hebreo",
+  "productionCompanies": [
+    "Universal Pictures",
+    "Amblin Entertainment"
+  ],
+  "awards": [
+    "Ganadora de 7 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Un drama histórico de gran impacto emocional que aborda el Holocausto desde la transformación moral de Oskar Schindler y la experiencia de las personas perseguidas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es ampliamente reconocida por sus actuaciones, su fotografía en blanco y negro y la forma sobria y dura en que representa uno de los episodios más trágicos del siglo XX."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Fotografía en blanco y negro",
+      "text": "La mayor parte de la película fue rodada en blanco y negro para reforzar su apariencia documental y su vínculo visual con imágenes históricas de la época."
+    },
+    {
+      "title": "La niña del abrigo rojo",
+      "text": "Uno de los pocos usos destacados del color es el abrigo rojo de una niña durante la liquidación del gueto de Cracovia."
+    },
+    {
+      "title": "Basada en hechos reales",
+      "text": "La película está basada en la novela Schindler's Ark de Thomas Keneally, inspirada en la historia real de Oskar Schindler."
+    }
+  ]
+},
+{
+  "id": "ms-p4",
+  "title": "Doce hombres sin piedad",
+  "originalTitle": "12 Angry Men",
+  "tagline": "La vida de un hombre está en sus manos.",
+  "year": 1957,
+  "rating": 9.0,
+  "metascore": 97,
+  "duration": "1h 36m",
+  "certification": "Approved",
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "Doce miembros de un jurado deben decidir el destino de un joven acusado de asesinar a su padre. Aunque al principio casi todos consideran que el caso está resuelto, uno de los jurados plantea dudas razonables sobre las pruebas. A partir de ese momento, la deliberación se convierte en un intenso enfrentamiento de argumentos, prejuicios y convicciones personales.",
+  "image": "peliculas/ms_12AngryMen.png",
+  "director": "Sidney Lumet",
+  "writers": [
+    "Reginald Rose"
+  ],
+  "cast": [
+    {
+      "name": "Henry Fonda",
+      "character": "Juror 8"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "character": "Juror 3"
+    },
+    {
+      "name": "Ed Begley",
+      "character": "Juror 10"
+    },
+    {
+      "name": "E. G. Marshall",
+      "character": "Juror 4"
+    },
+    {
+      "name": "Jack Klugman",
+      "character": "Juror 5"
+    },
+    {
+      "name": "Martin Balsam",
+      "character": "Juror 1"
+    },
+    {
+      "name": "John Fiedler",
+      "character": "Juror 2"
+    }
+  ],
+  "music": "Kenyon Hopkins",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Orion-Nova Productions"
+  ],
+  "awards": [
+    "Nominada a 3 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Un drama judicial construido casi por completo a partir del diálogo y la confrontación moral entre los miembros del jurado."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es especialmente valorada por su tensión, sus actuaciones y la manera en que explora el prejuicio, la duda razonable y la responsabilidad individual."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Un espacio casi único",
+      "text": "La mayor parte de la película transcurre dentro de una sala de deliberaciones, lo que refuerza la sensación de encierro y tensión."
+    },
+    {
+      "title": "Debut cinematográfico de Sidney Lumet",
+      "text": "12 Angry Men fue el primer largometraje dirigido por Sidney Lumet."
+    },
+    {
+      "title": "Origen televisivo",
+      "text": "La historia fue escrita originalmente por Reginald Rose como un drama televisivo antes de ser adaptada al cine."
+    }
+  ]
+},
+{
+  "id": "ms-p5",
+  "title": "Testigo de cargo",
+  "originalTitle": "Witness for the Prosecution",
+  "tagline": "El juicio ha comenzado. Nada es lo que parece.",
+  "year": 1957,
+  "rating": 8.4,
+  "metascore": 76,
+  "duration": "1h 56m",
+  "certification": "Approved",
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "synopsis": "El veterano abogado Sir Wilfrid Robarts acepta defender a Leonard Vole, un hombre acusado de asesinar a una viuda adinerada. El caso se complica cuando la esposa del acusado decide declarar como testigo de la acusación, dando paso a una serie de revelaciones, contradicciones y giros inesperados dentro y fuera de la sala del tribunal.",
+  "image": "peliculas/ms_WitnessForTheProsecution.png",
+  "director": "Billy Wilder",
+  "writers": [
+    "Billy Wilder",
+    "Harry Kurnitz",
+    "Agatha Christie"
+  ],
+  "cast": [
+    {
+      "name": "Tyrone Power",
+      "character": "Leonard Vole"
+    },
+    {
+      "name": "Marlene Dietrich",
+      "character": "Christine Vole"
+    },
+    {
+      "name": "Charles Laughton",
+      "character": "Sir Wilfrid Robarts"
+    },
+    {
+      "name": "Elsa Lanchester",
+      "character": "Miss Plimsoll"
+    },
+    {
+      "name": "John Williams",
+      "character": "Brogan-Moore"
+    },
+    {
+      "name": "Henry Daniell",
+      "character": "Mayhew"
+    }
+  ],
+  "music": "Matty Malneck",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Edward Small Productions",
+    "United Artists"
+  ],
+  "awards": [
+    "Nominada a 6 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Actor para Charles Laughton."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama judicial de ritmo preciso que combina misterio, ironía y giros narrativos construidos alrededor del testimonio y la credibilidad de sus personajes."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "8.4/10",
+      "text": "Destaca por las actuaciones de Charles Laughton y Marlene Dietrich y por un desenlace diseñado para sorprender al espectador."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Agatha Christie",
+      "text": "La película adapta la obra teatral Witness for the Prosecution, escrita por Agatha Christie."
+    },
+    {
+      "title": "Dirección de Billy Wilder",
+      "text": "Billy Wilder dirigió y coescribió la adaptación cinematográfica, combinando drama judicial con misterio."
+    },
+    {
+      "title": "Final protegido",
+      "text": "Durante su promoción se pidió al público que no revelara el desenlace de la película para preservar el efecto de sus giros narrativos."
     }
   ]
 }
