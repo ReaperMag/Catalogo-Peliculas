@@ -590,6 +590,96 @@
       "text": "Una historia romántica intensa y emotiva sobre el paso del tiempo, la memoria y un amor que persiste a pesar de los obstáculos."
     }
   ]
+},
+{
+  "id": "ms-p1",
+  "title": "El padrino. Parte II",
+  "originalTitle": "The Godfather Part II",
+  "tagline": "Toda familia tiene sus secretos.",
+  "year": 1974,
+  "rating": 9.0,
+  "metascore": 90,
+  "duration": "3h 22m",
+  "certification": "R",
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "La historia continúa la vida de Michael Corleone mientras consolida y expande el poder de la familia Corleone, al mismo tiempo que se muestra, en paralelo, el ascenso de su padre Vito Corleone desde su juventud en Sicilia hasta convertirse en una figura central del crimen organizado en Nueva York.",
+  "image": "peliculas/ms_TheGodfatherPartII.png",
+  "director": "Francis Ford Coppola",
+  "writers": [
+    "Francis Ford Coppola",
+    "Mario Puzo"
+  ],
+  "cast": [
+    {
+      "name": "Al Pacino",
+      "character": "Michael Corleone"
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Vito Corleone"
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Tom Hagen"
+    },
+    {
+      "name": "Diane Keaton",
+      "character": "Kay Adams-Corleone"
+    },
+    {
+      "name": "John Cazale",
+      "character": "Fredo Corleone"
+    },
+    {
+      "name": "Talia Shire",
+      "character": "Connie Corleone"
+    },
+    {
+      "name": "Lee Strasberg",
+      "character": "Hyman Roth"
+    }
+  ],
+  "music": "Nino Rota y Carmine Coppola",
+  "country": "Estados Unidos",
+  "language": "Inglés / Italiano / Español",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company"
+  ],
+  "awards": [
+    "Ganadora de 6 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Actor de Reparto para Robert De Niro."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Una continuación ambiciosa que expande la historia de la familia Corleone mediante dos líneas temporales conectadas por el poder, la familia y la pérdida."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es ampliamente valorada por sus actuaciones, su estructura narrativa y la evolución de Michael Corleone."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Robert De Niro como Vito Corleone",
+      "text": "Robert De Niro interpreta a la versión joven de Vito Corleone y ganó el Óscar a Mejor Actor de Reparto por su actuación."
+    },
+    {
+      "title": "Dos líneas temporales",
+      "text": "La película alterna entre la consolidación del poder de Michael Corleone y la juventud de Vito Corleone."
+    },
+    {
+      "title": "Ganadora del Óscar a Mejor Película",
+      "text": "Fue la primera secuela en ganar el premio Óscar a Mejor Película."
+    }
+  ]
 }
   
 ]
