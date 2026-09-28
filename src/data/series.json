@@ -2491,5 +2491,179 @@
       "text": "La canción de apertura es 'Way Down in the Hole', escrita por Tom Waits, pero interpretada por distintos artistas a lo largo de las temporadas."
     }
   ]
+},
+{
+  "id": "ms-s4",
+  "title": "Juego de Tronos",
+  "originalTitle": "Game of Thrones",
+  "tagline": "Cuando juegas al juego de tronos, ganas o mueres.",
+  "year": 2011,
+  "endYear": 2019,
+  "status": "Finalizada",
+  "rating": 9.2,
+  "episodes": 73,
+  "episodeDuration": "50-82 min",
+  "certification": "18+",
+  "seasons": 8,
+  "genres": [
+    "Drama",
+    "Fantasía",
+    "Aventura"
+  ],
+  "synopsis": "En los continentes ficticios de Poniente y Essos, diversas casas nobles compiten por el control del Trono de Hierro mientras antiguas amenazas resurgen más allá del Muro. La serie combina luchas dinásticas, intrigas políticas, guerras, alianzas y elementos sobrenaturales.",
+  "image": "series/ms_GameOfThrones.png",
+  "creators": [
+    "David Benioff",
+    "D. B. Weiss"
+  ],
+  "writers": [
+    "David Benioff",
+    "D. B. Weiss",
+    "George R. R. Martin",
+    "Bryan Cogman",
+    "Dave Hill"
+  ],
+  "directors": [
+    "David Nutter",
+    "Miguel Sapochnik",
+    "Alan Taylor",
+    "Mark Mylod",
+    "Jeremy Podeswa"
+  ],
+  "music": "Ramin Djawadi",
+  "country": "Estados Unidos / Reino Unido",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "HBO Entertainment",
+    "Television 360",
+    "Grok! Studio",
+    "Generator Entertainment"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 10,
+      "year": 2011,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 10,
+      "year": 2012,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 10,
+      "year": 2013,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 10,
+      "year": 2014,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 10,
+      "year": 2015,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 6,
+      "episodes": 10,
+      "year": 2016,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 7,
+      "episodes": 7,
+      "year": 2017,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 8,
+      "episodes": 6,
+      "year": 2019,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emilia Clarke",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "name": "Kit Harington",
+      "character": "Jon Snow"
+    },
+    {
+      "name": "Peter Dinklage",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "name": "Lena Headey",
+      "character": "Cersei Lannister"
+    },
+    {
+      "name": "Nikolaj Coster-Waldau",
+      "character": "Jaime Lannister"
+    },
+    {
+      "name": "Sophie Turner",
+      "character": "Sansa Stark"
+    },
+    {
+      "name": "Maisie Williams",
+      "character": "Arya Stark"
+    },
+    {
+      "name": "Sean Bean",
+      "character": "Eddard Stark"
+    }
+  ],
+  "awards": [
+    "Ganadora de numerosos premios Primetime Emmy y reconocida como una de las producciones televisivas más premiadas de su época."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Una superproducción de fantasía y drama político caracterizada por sus conflictos dinásticos, su gran escala visual y un amplio reparto coral."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.2/10",
+      "text": "Destaca especialmente por sus personajes, sus giros narrativos y episodios de gran impacto, aunque su temporada final generó una recepción más dividida."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Canción de hielo y fuego",
+      "text": "La serie está basada en la saga literaria 'A Song of Ice and Fire' de George R. R. Martin."
+    },
+    {
+      "title": "Rodaje internacional",
+      "text": "La producción utilizó localizaciones en varios países, entre ellos Irlanda del Norte, Croacia, España, Islandia y Malta."
+    },
+    {
+      "title": "Episodios de gran valoración",
+      "text": "Episodios como 'Battle of the Bastards', 'The Winds of Winter' y 'The Rains of Castamere' figuran entre los capítulos mejor valorados de la serie."
+    }
+  ]
 }
 ]
