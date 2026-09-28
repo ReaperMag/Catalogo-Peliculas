@@ -2665,5 +2665,147 @@
       "text": "Episodios como 'Battle of the Bastards', 'The Winds of Winter' y 'The Rains of Castamere' figuran entre los capítulos mejor valorados de la serie."
     }
   ]
+},
+{
+  "id": "ms-s5",
+  "title": "Succession",
+  "originalTitle": "Succession",
+  "tagline": "Cada familia tiene su propia versión de una guerra civil.",
+  "year": 2018,
+  "endYear": 2023,
+  "status": "Finalizada",
+  "rating": 8.8,
+  "episodes": 39,
+  "episodeDuration": "56-75 min",
+  "certification": "18+",
+  "seasons": 4,
+  "genres": [
+    "Drama",
+    "Comedia negra",
+    "Sátira"
+  ],
+  "synopsis": "La familia Roy controla Waystar Royco, uno de los conglomerados de medios y entretenimiento más poderosos del mundo. Cuando la salud y el futuro empresarial del patriarca Logan Roy se vuelven inciertos, sus hijos comienzan una intensa lucha por el control de la compañía, marcada por rivalidades familiares, traiciones, alianzas y ambición.",
+  "image": "series/ms_Succession.png",
+  "creators": [
+    "Jesse Armstrong"
+  ],
+  "writers": [
+    "Jesse Armstrong",
+    "Lucy Prebble",
+    "Georgia Pritchett",
+    "Tony Roche",
+    "Will Tracy",
+    "Susan Soon He Stanton"
+  ],
+  "directors": [
+    "Mark Mylod",
+    "Andrij Parekh",
+    "Adam McKay",
+    "Matt Shakman",
+    "Cathy Yan"
+  ],
+  "music": "Nicholas Britell",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "Gary Sanchez Productions",
+    "Project Zeus",
+    "Hyperobject Industries",
+    "HBO Entertainment"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 10,
+      "year": 2018,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 10,
+      "year": 2019,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 9,
+      "year": 2021,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 10,
+      "year": 2023,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brian Cox",
+      "character": "Logan Roy"
+    },
+    {
+      "name": "Jeremy Strong",
+      "character": "Kendall Roy"
+    },
+    {
+      "name": "Sarah Snook",
+      "character": "Siobhan 'Shiv' Roy"
+    },
+    {
+      "name": "Kieran Culkin",
+      "character": "Roman Roy"
+    },
+    {
+      "name": "Alan Ruck",
+      "character": "Connor Roy"
+    },
+    {
+      "name": "Matthew Macfadyen",
+      "character": "Tom Wambsgans"
+    },
+    {
+      "name": "Nicholas Braun",
+      "character": "Greg Hirsch"
+    }
+  ],
+  "awards": [
+    "Ganadora de 19 premios Primetime Emmy y numerosos reconocimientos de la crítica y de asociaciones de guionistas y televisión."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama corporativo y familiar que combina rivalidad, poder, sátira y conflictos emocionales dentro de una de las familias más influyentes del mundo empresarial ficticio."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "8.8/10",
+      "text": "Es especialmente valorada por sus diálogos, actuaciones y la tensión constante entre los miembros de la familia Roy."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Waystar Royco",
+      "text": "La empresa ficticia Waystar Royco funciona como el centro de la disputa familiar y combina negocios de medios, entretenimiento, parques y noticias."
+    },
+    {
+      "title": "Música de Nicholas Britell",
+      "text": "Nicholas Britell compuso la banda sonora de la serie, incluido su reconocible tema principal."
+    },
+    {
+      "title": "Final planificado",
+      "text": "La cuarta temporada fue concebida como la temporada final de la serie y cerró el conflicto por el control de Waystar Royco."
+    }
+  ]
 }
 ]
