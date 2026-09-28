@@ -808,6 +808,114 @@
       "text": "Un reinicio efectivo que revitaliza al villano icónico Michael Myers mientras explora el trauma generacional de la familia Strode."
     }
   ]
+},
+{
+  "id": "m57",
+  "title": "Háblame",
+  "originalTitle": "Talk to Me",
+  "tagline": "Abre la puerta al otro lado. Solo mantén el contacto 90 segundos.",
+  "year": 2022,
+  "rating": 7.1,
+  "metascore": 76,
+  "duration": "1h 35m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Suspenso"
+  ],
+
+  "synopsis": "Un grupo de amigos descubre cómo invocar espíritus utilizando una mano embalsamada misteriosa. Lo que comienza como un emocionante juego de fiesta donde experimentan breves posesiones se vuelve aterrador cuando una de las sesiones rompe la regla de los 90 segundos y desata fuerzas sobrenaturales devastadoras.",
+
+  "image": "peliculas/talk2me.png",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=aLAKJu9aJys",
+  "viewCount": null,
+
+  "director": "Danny Philippou, Michael Philippou",
+
+  "writers": [
+    "Danny Philippou",
+    "Bill Hinzman"
+  ],
+
+  "music": "Cornel Wilczek",
+  "cinematography": "Aaron McLisky",
+  "editing": "Geoff Lamb",
+
+  "country": "Australia",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Causeway Films",
+    "Bankside Films",
+    "A24"
+  ],
+
+  "boxOffice": "$92.1 millones mundial",
+
+  "cast": [
+    {
+      "name": "Sophie Wilde",
+      "character": "Mia"
+    },
+    {
+      "name": "Alexandra Jensen",
+      "character": "Jade"
+    },
+    {
+      "name": "Joe Bird",
+      "character": "Riley"
+    },
+    {
+      "name": "Otis Dhanji",
+      "character": "Daniel"
+    },
+    {
+      "name": "Miranda Otto",
+      "character": "Sue"
+    },
+    {
+      "name": "Zoe Terakes",
+      "character": "Hayley"
+    }
+  ],
+
+  "awards": [
+    "18 victorias y 38 nominaciones totales",
+    "Ganadora de Mejor Película en los AACTA Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Debut de YouTubers australianos",
+      "text": "La película fue dirigida por los hermanos gemelos Danny y Michael Philippou, conocidos popularmente por su canal de YouTube RackaRacka."
+    },
+    {
+      "title": "Éxito masivo para A24",
+      "text": "Tras su estreno en el Festival de Cine de Sundance, A24 adquirió los derechos de distribución y la convirtió en una de sus películas de terror más taquilleras."
+    },
+    {
+      "title": "Regla inspirada en adicciones",
+      "text": "Los directores concibieron el concepto del límite de los 90 segundos y la adicción al ritual como una metáfora visual del abuso de sustancias entre jóvenes."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "76 / 100",
+      "text": "Aclamada por la crítica por su premisa aterradora, una dirección visceral y la destacada interpretación protagonista de Sophie Wilde."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.1 / 10",
+      "text": "Un soplo de aire fresco para el género sobrenatural que combina la presión social de la era moderna con posesiones oscuras e impactantes."
+    }
+  ]
 }
   
 ]
