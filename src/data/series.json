@@ -2046,5 +2046,153 @@
       "text": "La serie fue producida por Studio Dragon y Hwa&Dam Pictures para tvN."
     }
   ]
+},
+{
+  "id": "ms-s1",
+  "title": "Los Soprano",
+  "originalTitle": "The Sopranos",
+  "tagline": "La familia. El crimen. La terapia.",
+  "year": 1999,
+  "endYear": 2007,
+  "status": "Finalizada",
+  "rating": 9.2,
+  "episodes": 86,
+  "episodeDuration": "50-60 min",
+  "certification": "18+",
+  "seasons": 6,
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "Tony Soprano, un jefe de la mafia de Nueva Jersey, intenta equilibrar las exigencias de su organización criminal con su vida familiar mientras acude a terapia para tratar ataques de pánico y otros conflictos personales.",
+  "image": "series/ms_TheSopranos.png",
+  "creators": [
+    "David Chase"
+  ],
+  "writers": [
+    "David Chase",
+    "Terence Winter",
+    "Robin Green",
+    "Mitchell Burgess",
+    "Matthew Weiner"
+  ],
+  "directors": [
+    "Tim Van Patten",
+    "Alan Taylor",
+    "John Patterson",
+    "Steve Buscemi"
+  ],
+  "music": "Música licenciada; tema principal 'Woke Up This Morning' de Alabama 3",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "Chase Films",
+    "Brad Grey Television",
+    "HBO"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 13,
+      "year": 1999,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 13,
+      "year": 2000,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 13,
+      "year": 2001,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 13,
+      "year": 2002,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 13,
+      "year": 2004,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 6,
+      "episodes": 21,
+      "year": 2006,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Gandolfini",
+      "character": "Tony Soprano"
+    },
+    {
+      "name": "Edie Falco",
+      "character": "Carmela Soprano"
+    },
+    {
+      "name": "Lorraine Bracco",
+      "character": "Dra. Jennifer Melfi"
+    },
+    {
+      "name": "Michael Imperioli",
+      "character": "Christopher Moltisanti"
+    },
+    {
+      "name": "Dominic Chianese",
+      "character": "Corrado 'Junior' Soprano"
+    },
+    {
+      "name": "Steven Van Zandt",
+      "character": "Silvio Dante"
+    }
+  ],
+  "awards": [
+    "Ganadora de 21 premios Primetime Emmy y numerosos reconocimientos adicionales."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9.5/10",
+      "text": "Drama criminal centrado tanto en la violencia del mundo mafioso como en las contradicciones familiares y psicológicas de su protagonista."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.2/10",
+      "text": "Su construcción de personajes, diálogos y evolución de Tony Soprano la han convertido en una referencia de la televisión dramática."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Terapia como eje narrativo",
+      "text": "Las sesiones de Tony con la doctora Jennifer Melfi permiten explorar su vida criminal desde una perspectiva psicológica."
+    },
+    {
+      "title": "Nueva Jersey",
+      "text": "La historia se desarrolla principalmente en Nueva Jersey y utiliza numerosas localizaciones reales del estado."
+    },
+    {
+      "title": "Temporada final extendida",
+      "text": "La sexta temporada tuvo 21 episodios emitidos en dos partes entre 2006 y 2007."
+    }
+  ]
 }
 ]
