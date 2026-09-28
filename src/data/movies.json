@@ -680,6 +680,94 @@
       "text": "Fue la primera secuela en ganar el premio Óscar a Mejor Película."
     }
   ]
+},
+{
+  "id": "ms-p2",
+  "title": "Cadena perpetua",
+  "originalTitle": "The Shawshank Redemption",
+  "tagline": "El miedo puede mantenerte prisionero. La esperanza puede liberarte.",
+  "year": 1994,
+  "rating": 9.3,
+  "metascore": 82,
+  "duration": "2h 22m",
+  "certification": "R",
+  "genres": [
+    "Drama"
+  ],
+  "synopsis": "Andy Dufresne, un banquero condenado a cadena perpetua por el asesinato de su esposa y el amante de ella, es enviado a la prisión de Shawshank. Allí entabla una profunda amistad con Ellis 'Red' Redding y aprende a sobrevivir en un entorno marcado por la violencia, la corrupción y la pérdida de libertad, aferrándose a la esperanza como forma de resistencia.",
+  "image": "peliculas/ms_TheShawshankRedemption.png",
+  "director": "Frank Darabont",
+  "writers": [
+    "Frank Darabont",
+    "Stephen King"
+  ],
+  "cast": [
+    {
+      "name": "Tim Robbins",
+      "character": "Andy Dufresne"
+    },
+    {
+      "name": "Morgan Freeman",
+      "character": "Ellis Boyd 'Red' Redding"
+    },
+    {
+      "name": "Bob Gunton",
+      "character": "Samuel Norton"
+    },
+    {
+      "name": "William Sadler",
+      "character": "Heywood"
+    },
+    {
+      "name": "Clancy Brown",
+      "character": "Byron Hadley"
+    },
+    {
+      "name": "Gil Bellows",
+      "character": "Tommy Williams"
+    },
+    {
+      "name": "James Whitmore",
+      "character": "Brooks Hatlen"
+    }
+  ],
+  "music": "Thomas Newman",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "awards": [
+    "Nominada a 7 premios Óscar, incluyendo Mejor Película, Mejor Actor para Morgan Freeman y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama carcelario centrado en la amistad, la dignidad y la capacidad de mantener la esperanza incluso en condiciones extremas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.3/10",
+      "text": "Es especialmente apreciada por la relación entre Andy y Red, su desarrollo emocional y un desenlace que refuerza el tema de la esperanza."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Stephen King",
+      "text": "La película adapta la novela corta 'Rita Hayworth and Shawshank Redemption', incluida en la colección Different Seasons de Stephen King."
+    },
+    {
+      "title": "Narración de Morgan Freeman",
+      "text": "Morgan Freeman interpreta a Red y también proporciona la narración que acompaña gran parte de la historia."
+    },
+    {
+      "title": "Reconocimiento con el tiempo",
+      "text": "Aunque su desempeño inicial en taquilla fue moderado, la película ganó una enorme popularidad posteriormente gracias al video doméstico, la televisión y el reconocimiento del público."
+    }
+  ]
 }
   
 ]
