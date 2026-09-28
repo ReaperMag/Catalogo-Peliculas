@@ -916,6 +916,112 @@
       "text": "Un soplo de aire fresco para el género sobrenatural que combina la presión social de la era moderna con posesiones oscuras e impactantes."
     }
   ]
+},
+{
+  "id": "m58",
+  "title": "El Exorcista",
+  "originalTitle": "The Exorcist",
+  "tagline": "Algo aterrador le está ocurriendo a la pequeña Regan.",
+  "year": 1973,
+  "rating": 8.1,
+  "metascore": 81,
+  "duration": "2h 02m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Drama"
+  ],
+
+  "synopsis": "Cuando una niña de doce años es poseída por una entidad misteriosa, su desesperada madre recurre a la ayuda de dos sacerdotes para intentar salvarla mediante un peligroso ritual de exorcismo.",
+
+  "image": "peliculas/exor.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=7iCJssW8XiI",
+  "viewCount": null,
+
+  "director": "William Friedkin",
+
+  "writers": [
+    "William Peter Blatty"
+  ],
+
+  "music": "Mike Oldfield, Jack Nitzsche",
+  "cinematography": "Owen Roizman",
+  "editing": "Norman Gay, Evan A. Lottman",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Warner Bros.",
+    "Hoya Productions"
+  ],
+
+  "boxOffice": "$441.3 millones mundial",
+
+  "cast": [
+    {
+      "name": "Ellen Burstyn",
+      "character": "Chris MacNeil"
+    },
+    {
+      "name": "Linda Blair",
+      "character": "Regan MacNeil"
+    },
+    {
+      "name": "Jason Miller",
+      "character": "Padre Damien Karras"
+    },
+    {
+      "name": "Max von Sydow",
+      "character": "Padre Lankester Merrin"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "character": "Teniente William F. Kinderman"
+    },
+    {
+      "name": "Mercedes McCambridge",
+      "character": "Voz de Pazuzu / Demonio"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de 2 Premios Oscar y 4 Golden Globes",
+    "Primera película de terror nominada a Mejor Película en los Oscar"
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en hechos reales y novela",
+      "text": "La historia fue escrita por William Peter Blatty inspirándose en el caso real de exorcismo de un niño conocido como 'Roland Doe' en 1949."
+    },
+    {
+      "title": "Efectos en la audiencia",
+      "text": "Durante su estreno original en cines en 1973, la película causó desmayos, náuseas y crisis de pánico entre los espectadores debido a su realismo e intensidad."
+    },
+    {
+      "title": "Tema musical icónico",
+      "text": "El célebre tema principal 'Tubular Bells' fue compuesto por Mike Oldfield y se convirtió en una de las melodías más reconocibles de la historia del cine."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "81 / 100",
+      "text": "Considerada unánimemente una obra maestra del cine de terror que redefinió las convenciones del género y el impacto cultural en la taquilla."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "8.1 / 10",
+      "text": "Un clásico atemporal del terror psicológico y religioso que destaca por actuaciones excepcionales y efectos prácticos perturbadores."
+    }
+  ]
 }
   
 ]
