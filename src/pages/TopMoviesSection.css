@@ -1,5 +1,30 @@
 /* Estilos de la sección Top 10 películas más vistas - Leidy */
 
+.home-section--views .home-section__heading h2 {
+  font-size: clamp(2.2rem, 4.5vw, 3.2rem);
+}
+
+.home-section--views .home-eyebrow {
+  font-size: 0.82rem;
+}
+
+.home-section--views .home-section__heading p {
+  font-size: 1rem;
+}
+
+.home-section--views .home-view-list__rank {
+  font-size: 1.5rem;
+}
+
+.home-section--views .home-view-list .top-movies__text strong {
+  font-size: 1rem;
+}
+
+.home-section--views .home-view-list .top-movies__text small,
+.home-section--views .home-view-list__count {
+  font-size: 0.85rem;
+}
+
 .home-view-list .top-movies__info {
   display: flex;
   align-items: center;

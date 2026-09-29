@@ -1,6 +1,16 @@
 import React from 'react';
 
-export const EpisodeCard = ({ episode }: { episode: any }) => {
+type EpisodeCardData = {
+  episodeNumber: number
+  title: string
+  imageUrl: string
+  duration: string
+  rating: number
+  airDate: string
+  synopsis: string
+}
+
+export const EpisodeCard = ({ episode }: { episode: EpisodeCardData }) => {
   return (
     <div style={{
       display: 'flex',
