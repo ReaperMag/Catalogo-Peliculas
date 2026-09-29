@@ -68,7 +68,7 @@
 
 
 /* Home template inspired by the supplied CineBase landing page. */
-.app-shell--home { width: min(1440px, calc(100% - 40px)); max-width: 1440px; }
+.app-shell--home { width: 100% }
 .app-shell--home .app-header { padding: 14px clamp(12px, 3vw, 42px); }
 .home-page { display: grid; gap: 0; padding-bottom: 36px; color: #e4e6eb; }
 .home-eyebrow, .home-card-kicker { color: #f5c518; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; }
