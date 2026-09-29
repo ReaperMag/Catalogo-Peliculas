@@ -1,5 +1,3 @@
-import { PlaceholderSection } from '../components/common/PlaceholderSection'
-import { FilterChip } from '../components/molecules/FilterChip'
 import { MovieCard } from '../components/molecules/MovieCard'
 import { useMovies } from '../contexts/MoviesContext'
 
@@ -8,7 +6,7 @@ type MoviesPageProps = {
 }
 
 export function MoviesPage({ onSelectMovie }: MoviesPageProps) {
-  const { isFavorite, movies, toggleFavorite } = useMovies()
+  const { movies } = useMovies()
 
   return (
     <main className="page-stack">
@@ -16,34 +14,15 @@ export function MoviesPage({ onSelectMovie }: MoviesPageProps) {
         <div className="section-heading">
           <span className="eyebrow">Catalogo</span>
           <h1>Peliculas</h1>
-          <p>Vista base para filtros, paginacion y tarjetas reutilizables.</p>
-        </div>
-
-        <div className="filter-row" aria-label="Filtros pendientes">
-          <FilterChip active label="Todas" />
-          <FilterChip label="Accion" />
-          <FilterChip label="Drama" />
-          <FilterChip label="Sci-Fi" />
+          <p>Listado inicial conectado a los datos del catálogo.</p>
         </div>
 
         <div className="movie-grid">
           {movies.map((movie) => (
-            <MovieCard
-              isFavorite={isFavorite(movie.id)}
-              key={movie.id}
-              movie={movie}
-              onToggleFavorite={toggleFavorite}
-              onViewDetail={onSelectMovie}
-            />
+            <MovieCard key={movie.id} movie={movie} onViewDetail={onSelectMovie} />
           ))}
         </div>
       </section>
-
-      <PlaceholderSection
-        description="Aqui pueden entrar paginacion, filtros avanzados o carga desde JSON mas grande."
-        slots={['Pagination', 'GenreFilter', 'RatingFilter']}
-        title="Espacios para features del equipo"
-      />
     </main>
   )
 }

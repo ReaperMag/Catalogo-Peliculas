@@ -1,0 +1,2811 @@
+[
+  {
+    "id": "s20",
+    "title": "It: Bienvenidos a Derry",
+    "originalTitle": "It: Welcome to Derry",
+    "tagline": "El origen del mal regresa a Derry.",
+    "year": 2025,
+    "endYear": null,
+    "status": "Terminada",
+    "rating": 8.1,
+    "episodes": 8,
+    "episodeDuration": "55-65 min",
+    "certification": "18+",
+    "seasons": 1,
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Drama"
+    ],
+    "synopsis": "Ambientada en la década de 1960, la serie explora los eventos previos a las películas de IT, profundizando en la historia del pueblo de Derry y el despertar del terrorífico payaso Pennywise.",
+    "image": "series/it.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=oKa6u7LT0qE",
+    "creators": ["Andy Muschietti", "Barbara Muschietti", "Jason Fuchs"],
+    "writers": ["Jason Fuchs", "Brad Caleb Kane"],
+    "directors": ["Andy Muschietti"],
+    "music": "Benjamin Wallfisch",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["HBO / Max"],
+    "productionCompanies": ["Warner Bros. Television", "Double Dream", "Rideback", "Vertigo Entertainment"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2025,
+        "episodeDetails": [
+          { "number": 1, "title": "The Pilot", "rating": 8.4, "image": "series/it-ep.jpg"},
+          { "number": 2, "title": "The Thing in the Dark", "rating": 8.1, "image": "series/it-ep.jpg" },
+          { "number": 3, "title": "Now You See It", "rating": 7.9, "image": "series/it-ep.jpg"},
+          { "number": 4, "title": "The Great Swirling Apparatus of Our Planet's Function", "rating": 8.2, "image": "series/it-ep.jpg" },
+          { "number": 5, "title": "29 Neibolt Street", "rating": 8.6, "image": "series/it-ep.jpg"},
+          { "number": 6, "title": "In the Name of the Father", "rating": 8.0, "image": "series/it-ep.jpg"},
+          { "number": 7, "title": "The Black Spot", "rating": 8.5, "image": "series/it-ep.jpg"},
+          { "number": 8, "title": "Winter Fire", "rating": 8.8, "image": "series/it-ep.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Bill Skarsgård", "character": "Pennywise / Bob Gray" },
+      { "name": "Jovan Adepo", "character": "Leroy Hanlon" },
+      { "name": "Taylour Paige", "character": "Charlotte Hanlon" },
+      { "name": "Chris Chalk", "character": "Dick Hallorann" },
+      { "name": "James Remar", "character": "Francis Shaw" },
+      { "name": "Madeleine Stowe", "character": "Ingrid Kersh" }
+    ],
+    "awards": ["Nominada a producciones destacadas de terror en televisión"],
+    "reviews": [
+      {
+        "author": "Crítica de televisión",
+        "source": "Reseña de medios",
+        "score": "8.5/10",
+        "text": "Una expansión inquietante del universo de Stephen King que amplía de manera efectiva el trasfondo histórico de Pennywise."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "8/10",
+        "text": "Mantiene el nivel de producción de las películas y entrega momentos de tensión bien construidos."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "El regreso de Bill Skarsgård",
+        "text": "Bill Skarsgård vuelve a interpretar al icónico payaso Pennywise tras encarnarlo en las adaptaciones cinematográficas de 2017 y 2019."
+      },
+      {
+        "title": "Conexión con El Resplandor",
+        "text": "La serie incluye al personaje de Dick Hallorann en su juventud, conectando la historia con el universo compartido de Stephen King."
+      },
+      {
+        "title": "Liderada por los hermanos Muschietti",
+        "text": "Andy y Barbara Muschietti, directores del díptico cinematográfico de IT, regresan como productores ejecutivos y showrunners de la serie."
+      }
+    ]
+  },
+  {
+    "id": "s21",
+    "title": "American Horror Stories",
+    "originalTitle": "American Horror Stories",
+    "tagline": "Diferentes historias. Mismos pesadillas.",
+    "year": 2021,
+    "endYear": null,
+    "status": "En emisión",
+    "rating": 6.2,
+    "episodes": 28,
+    "episodeDuration": "38-48 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Suspenso"
+    ],
+    "synopsis": "Una serie antológica derivada de American Horror Story en la que cada episodio presenta una historia de terror diferente, explorando desde mitos urbanos y casas embrujadas hasta tecnología macabra.",
+    "image": "series/am-horr.png",
+    "creators": ["Ryan Murphy", "Brad Falchuk"],
+    "writers": ["Ryan Murphy", "Brad Falchuk", "Manny Coto"],
+    "directors": ["Loni Peristere", "Max Winkler", "Alexis Martin Woodall"],
+    "music": "Mac Quayle",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["FX on Hulu", "Disney+"],
+    "productionCompanies": ["20th Television", "Ryan Murphy Television"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 7,
+        "year": 2021,
+        "trailerUrl": "https://www.youtube.com/watch?v=nLJR2twdK00",
+        "episodeDetails": [
+          { "number": 1, "title": "Rubber(wo)Man: Part 1", "rating": 6.2, "image": "series/am-horr-s1.jpg" },
+          { "number": 2, "title": "Rubber(wo)Man: Part 2", "rating": 5.8, "image": "series/am-horr-s1.jpg"},
+          { "number": 3, "title": "Drive In", "rating": 6.4, "image": "series/am-horr-s1.jpg"},
+          { "number": 4, "title": "The Naughty List", "rating": 4.9, "image": "series/am-horr-s1.jpg"},
+          { "number": 5, "title": "BA'AL", "rating": 7.3, "image": "series/am-horr-s1.jpg"},
+          { "number": 6, "title": "Feral", "rating": 6.8, "image": "series/am-horr-s1.jpg"},
+          { "number": 7, "title": "Game Over", "rating": 5.1, "image": "series/am-horr-s1.jpg"}
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=3RWYH6UZ5PQ",
+        "episodeDetails": [
+          { "number": 1, "title": "Dollhouse", "rating": 7.7, "image": "series/am-horr-s2.jpg" },
+          { "number": 2, "title": "Aura", "rating": 6.3, "image": "series/am-horr-s2.jpg"},
+          { "number": 3, "title": "Drive", "rating": 5.7, "image": "series/am-horr-s2.jpg"},
+          { "number": 4, "title": "Milkmaids", "rating": 5.6, "image": "series/am-horr-s2.jpg"},
+          { "number": 5, "title": "Bloody Mary", "rating": 6.9, "image": "series/am-horr-s2.jpg"},
+          { "number": 6, "title": "Facelift", "rating": 6.1, "image": "series/am-horr-s2.jpg"},
+          { "number": 7, "title": "Necro", "rating": 5.5, "image": "series/am-horr-s2.jpg"},
+          { "number": 8, "title": "Lake", "rating": 5.8, "image": "series/am-horr-s2.jpg"}
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 9,
+        "year": 2023,
+        "trailerUrl": "https://www.youtube.com/watch?v=yHvZZIgMDFA",
+        "episodeDetails": [
+          { "number": 1, "title": "Bestie", "rating": 6.8, "image": "series/am-horr-s3.jpg" },
+          { "number": 2, "title": "Daphne", "rating": 6.5, "image": "series/am-horr-s3.jpg"},
+          { "number": 3, "title": "Tapeworm", "rating": 6.1, "image": "series/am-horr-s3.jpg"},
+          { "number": 4, "title": "Organ", "rating": 5.9, "image": "series/am-horr-s3.jpg"},
+          { "number": 5, "title": "Backrooms", "rating": 6.6, "image": "series/am-horr-s3.jpg"},
+          { "number": 6, "title": "Clone", "rating": 6.2, "image": "series/am-horr-s3.jpg"},
+          { "number": 7, "title": "X", "rating": 6.0, "image": "series/am-horr-s3.jpg"},
+          { "number": 8, "title": "Leprechaun", "rating": 5.7, "image": "series/am-horr-s3.jpg"},
+          { "number": 9, "title": "The Thing Under the Bed", "rating": 6.4, "image": "series/am-horr-s3.jpg"}
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Sierra McCormick", "character": "Scarlett" },
+      { "name": "Matt Bomer", "character": "Michael" },
+      { "name": "Denis O'Hare", "character": "Spalding / Van Wirt" },
+      { "name": "Billie Lourd", "character": "Hannah" },
+      { "name": "Dylan McDermott", "character": "Dr. Ben Harmon" },
+      { "name": "Cody Fern", "character": "Stan Vogel" }
+    ],
+    "awards": ["Nominaciones a los Hollywood Critics Association TV Awards"],
+    "reviews": [
+      {
+        "author": "Crítico de TV",
+        "source": "Reseña de medios",
+        "score": "6.5/10",
+        "text": "Una propuesta entretenida para los fans del formato antológico que ofrece relatos rápidos de terror con altibajos según el episodio."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "6/10",
+        "text": "Funciona bien si buscas historias autoconclusivas sin necesidad de comprometerte con una temporada completa."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Spin-off directo",
+        "text": "Es una serie derivada de American Horror Story donde cada capítulo aborda un relato independiente en lugar de hacerlo por temporada."
+      },
+      {
+        "title": "Retorno a Murder House",
+        "text": "Los primeros dos episodios de la primera temporada regresan a la mítica casa de la primera temporada de la serie principal."
+      },
+      {
+        "title": "Caras conocidas",
+        "text": "Varios actores de la serie matriz reaparecen interpretando tanto personajes clásicos como nuevos roles dentro del formato antológico."
+      }
+    ]
+  },
+  {
+    "id": "s22",
+    "title": "Chucky",
+    "originalTitle": "Chucky",
+    "tagline": "Un clásico del terror nunca muere.",
+    "year": 2021,
+    "endYear": 2024,
+    "status": "Finalizada",
+    "rating": 7.3,
+    "episodes": 24,
+    "episodeDuration": "40-47 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Comedia negra",
+      "Suspenso"
+    ],
+    "synopsis": "Un muñeco clásico de Chucky aparece en una venta de garaje suburbana, sumiendo a una idílica ciudad estadounidense en el caos a medida que una serie de horribles asesinatos comienzan a exponer las hipocresías y los secretos del pueblo.",
+    "image": "series/chucky.jpg",
+    "creators": ["Don Mancini"],
+    "writers": ["Don Mancini", "Kim Garland", "Sarah Acosta"],
+    "directors": ["Don Mancini", "Samir Rehem", "Dermott Downs"],
+    "music": "Joseph LoDuca",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["Syfy", "USA Network", "Star+ / Disney+"],
+    "productionCompanies": ["Universal Content Productions (UCP)", "David Kirschner Productions"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2021,
+        "trailerUrl": "https://www.youtube.com/watch?v=5BVC-zskczk",
+        "episodeDetails": [
+          { "number": 1, "title": "Death by Misadventure", "rating": 7.7, "image": "series/chuc-s1.jpg"},
+          { "number": 2, "title": "Give Me Something Good to Eat", "rating": 7.6, "image": "series/chuc-s1.jpg" },
+          { "number": 3, "title": "I Like to Be Hugged", "rating": 7.8, "image": "series/chuc-s1.jpg" },
+          { "number": 4, "title": "Just Let Go", "rating": 8.0, "image": "series/chuc-s1.jpg" },
+          { "number": 5, "title": "Little Little Lies", "rating": 8.1, "image": "series/chuc-s1.jpg" },
+          { "number": 6, "title": "Cape Queer", "rating": 8.2, "image": "series/chuc-s1.jpg" },
+          { "number": 7, "title": "Twice the Grief, Double the Loss", "rating": 8.3, "image": "series/chuc-s1.jpg" },
+          { "number": 8, "title": "An Affair to Dismember", "rating": 8.5, "image": "series/chuc-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 8,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=Qk3X_Ku8DfY",
+        "episodeDetails": [
+          { "number": 1, "title": "Halloween II", "rating": 7.6, "image": "series/chuc-s2.jpg" },
+          { "number": 2, "title": "The Sinners Are Much More Fun", "rating": 7.4, "image": "series/chuc-s2.jpg" },
+          { "number": 3, "title": "Hail Mary!", "rating": 7.9, "image": "series/chuc-s2.jpg" },
+          { "number": 4, "title": "Death on Denial", "rating": 8.1, "image": "series/chuc-s2.jpg" },
+          { "number": 5, "title": "Doll on Doll", "rating": 7.8, "image": "series/chuc-s2.jpg" },
+          { "number": 6, "title": "He is Risen Indeed", "rating": 7.7, "image": "series/chuc-s2.jpg" },
+          { "number": 7, "title": "Goin' to the Chapel", "rating": 8.0, "image": "series/chuc-s2.jpg" },
+          { "number": 8, "title": "Chucky Actual", "rating": 8.2, "image": "series/chuc-s2.jpg" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "year": 2023,
+        "trailerUrl": "https://www.youtube.com/watch?v=0g0OZc5-xoY",
+        "episodeDetails": [
+          { "number": 1, "title": "Murder at 1600", "rating": 7.8, "image": "series/chuc-s3.jpg" },
+          { "number": 2, "title": "Let the Right One In", "rating": 7.6, "image": "series/chuc-s3.jpg" },
+          { "number": 3, "title": "Jennifer's Body", "rating": 8.0, "image": "series/chuc-s3.jpg" },
+          { "number": 4, "title": "Dressed to Kill", "rating": 8.2, "image": "series/chuc-s3.jpg" },
+          { "number": 5, "title": "Death Becomes Her", "rating": 7.9, "image": "series/chuc-s3.jpg" },
+          { "number": 6, "title": "Panic Room", "rating": 8.1, "image": "series/chuc-s3.jpg" },
+          { "number": 7, "title": "There's Fate Worse Than Death", "rating": 8.3, "image": "series/chuc-s3.jpg" },
+          { "number": 8, "title": "Final Destination", "rating": 8.4, "image": "series/chuc-s3.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Zackary Arthur", "character": "Jake Wheeler" },
+      { "name": "Björgvin Arnarson", "character": "Devon Evans" },
+      { "name": "Alyvia Alyn Lind", "character": "Lexy Cross" },
+      { "name": "Brad Dourif", "character": "Voz de Chucky" },
+      { "name": "Jennifer Tilly", "character": "Tiffany Valentine / Ella misma" },
+      { "name": "Fiona Dourif", "character": "Nica Pierce" }
+    ],
+    "awards": ["Nominada a los Saturn Awards y Critics Choice Super Awards"],
+    "reviews": [
+      {
+        "author": "Crítica especial de terror",
+        "source": "Reseña de cine y TV",
+        "score": "8/10",
+        "text": "Logra adaptar con éxito el humor negro y el gore de la saga original de Chucky al formato televisivo moderno."
+      },
+      {
+        "author": "Fan de la saga",
+        "source": "Opinión de audiencia",
+        "score": "8.5/10",
+        "text": "Mantiene viva la esencia del personaje con la inigualable voz de Brad Dourif y el regreso del elenco clásico."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Continuidad directa",
+        "text": "La serie sirve como secuela directa de Cult of Chucky (2017), manteniendo la línea temporal oficial de la franquicia viva por décadas."
+      },
+      {
+        "title": "Creador original al mando",
+        "text": "Don Mancini, creador del personaje en 1988, escribió y dirigió gran parte de la serie para asegurar la esencia de la franquicia."
+      },
+      {
+        "title": "Reunión familiar",
+        "text": "Brad Dourif vuelve para dar voz al icónico muñeco, mientras que su hija en la vida real, Fiona Dourif, retoma su papel de Nica Pierce."
+      }
+    ]
+  },
+  {
+    "id": "s23",
+    "title": "Stranger Things",
+    "originalTitle": "Stranger Things",
+    "tagline": "Un lado oscuro acecha bajo la superficie.",
+    "year": 2016,
+    "endYear": 2025,
+    "status": "Finalizada",
+    "rating": 8.7,
+    "episodes": 42,
+    "episodeDuration": "42-150 min",
+    "certification": "16+",
+    "seasons": 5,
+    "genres": [
+      "Ciencia ficción",
+      "Terror",
+      "Misterio",
+      "Drama"
+    ],
+    "synopsis": "A principios de los años ochenta, en el ficticio pueblo de Hawkins, Indiana, la misteriosa desaparición de un niño desvela un enigma que involucra experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+    "image": "series/strang.jpg",
+    "creators": ["Matt Duffer", "Ross Duffer"],
+    "writers": ["Matt Duffer", "Ross Duffer", "Kate Trefry", "Paul Dichter"],
+    "directors": ["Matt Duffer", "Ross Duffer", "Shawn Levy", "Nimród Antal"],
+    "music": "Kyle Dixon, Michael Stein",
+    "country": "Estados Unidos",
+    "language": "Inglés",
+    "streamingPlatforms": ["Netflix"],
+    "productionCompanies": ["Monkey Massacre Productions", "21 Laps Entertainment"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2016,
+        "trailerUrl": "https://www.youtube.com/watch?v=mnd7sFt5c3A",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: The Vanishing of Will Byers", "rating": 8.5 , "image": "series/strg-s1.jpg" },
+          { "number": 2, "title": "Chapter Two: The Weirdo on Maple Street", "rating": 8.4, "image": "series/strg-s1.jpg"  },
+          { "number": 3, "title": "Chapter Three: Holly, Jolly", "rating": 8.8, "image": "series/strg-s1.jpg" },
+          { "number": 4, "title": "Chapter Four: The Body", "rating": 8.9, "image": "series/strg-s1.jpg" },
+          { "number": 5, "title": "Chapter Five: The Flea and the Acrobat", "rating": 8.7, "image": "series/strg-s1.jpg" },
+          { "number": 6, "title": "Chapter Six: The Monster", "rating": 8.8, "image": "series/strg-s1.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Bathtub", "rating": 9.0, "image": "series/strg-s1.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Upside Down", "rating": 9.3, "image": "series/strg-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 9,
+        "year": 2017,
+        "trailerUrl": "https://www.youtube.com/watch?v=R1ZXOOLMJ8s",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: MADMAX", "rating": 8.2, "image": "series/strg-s2.jpg"  },
+          { "number": 2, "title": "Chapter Two: Trick or Treat, Freak", "rating": 8.3, "image": "series/strg-s2.jpg" },
+          { "number": 3, "title": "Chapter Three: The Pollywog", "rating": 8.2, "image": "series/strg-s2.jpg" },
+          { "number": 4, "title": "Chapter Four: Will the Wise", "rating": 8.5, "image": "series/strg-s2.jpg" },
+          { "number": 5, "title": "Chapter Five: Dig Dug", "rating": 8.7, "image": "series/strg-s2.jpg" },
+          { "number": 6, "title": "Chapter Six: The Spy", "rating": 9.1, "image": "series/strg-s2.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Lost Sister", "rating": 6.1, "image": "series/strg-s2.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Mind Flayer", "rating": 9.2, "image": "series/strg-s2.jpg" },
+          { "number": 9, "title": "Chapter Nine: The Gate", "rating": 9.3, "image": "series/strg-s2.jpg" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 8,
+        "year": 2019,
+        "trailerUrl": "https://www.youtube.com/watch?v=y7nmoLQSGnk",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: Suzie, Do You Copy?", "rating": 8.0, "image": "series/strg-s3.jpg" },
+          { "number": 2, "title": "Chapter Two: The Mall Rats", "rating": 8.0, "image": "series/strg-s3.jpg" },
+          { "number": 3, "title": "Chapter Three: The Case of the Missing Lifeguard", "rating": 8.2, "image": "series/strg-s3.jpg" },
+          { "number": 4, "title": "Chapter Four: The Sauna Test", "rating": 8.9, "image": "series/strg-s3.jpg" },
+          { "number": 5, "title": "Chapter Five: The Flayed", "rating": 8.6, "image": "series/strg-s3.jpg" },
+          { "number": 6, "title": "Chapter Six: E Pluribus Unum", "rating": 8.6, "image": "series/strg-s3.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Bite", "rating": 8.8, "image": "series/strg-s3.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Battle of Starcourt", "rating": 9.2, "image": "series/strg-s3.jpg" }
+        ]
+      },
+      {
+        "season": 4,
+        "episodes": 9,
+        "year": 2022,
+        "trailerUrl": "https://www.youtube.com/watch?v=32qjg3lg7gA",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: The Hellfire Club", "rating": 8.4, "image": "series/strg-s4.jpg" },
+          { "number": 2, "title": "Chapter Two: Vecna's Curse", "rating": 8.3, "image": "series/strg-s4.jpg" },
+          { "number": 3, "title": "Chapter Three: The Monster and the Superhero", "rating": 8.4, "image": "series/strg-s4.jpg" },
+          { "number": 4, "title": "Chapter Four: Dear Billy", "rating": 9.6, "image": "series/strg-s4.jpg" },
+          { "number": 5, "title": "Chapter Five: The Nina Project", "rating": 8.5, "image": "series/strg-s4.jpg" },
+          { "number": 6, "title": "Chapter Six: The Dive", "rating": 8.8, "image": "series/strg-s4.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Massacre at Hawkins Lab", "rating": 9.5, "image": "series/strg-s4.jpg" },
+          { "number": 8, "title": "Chapter Eight: Papa", "rating": 8.9, "image": "series/strg-s4.jpg" },
+          { "number": 9, "title": "Chapter Nine: The Piggyback", "rating": 9.2, "image": "series/strg-s4.jpg" }
+        ]
+      },
+      {
+        "season": 5,
+        "episodes": 8,
+        "year": 2025,
+        "trailerUrl": "https://www.youtube.com/watch?v=Zf03hjU1MWA",
+        "episodeDetails": [
+          { "number": 1, "title": "Chapter One: The Crawl", "rating": 8.8, "image": "series/strg-s5.jpg" },
+          { "number": 2, "title": "Chapter Two: The Vanishing of...", "rating": 8.6, "image": "series/strg-s5.jpg" },
+          { "number": 3, "title": "Chapter Three: The Turnbow Trap", "rating": 8.7, "image": "series/strg-s5.jpg" },
+          { "number": 4, "title": "Chapter Four: Sorcerer", "rating": 8.9, "image": "series/strg-s5.jpg" },
+          { "number": 5, "title": "Chapter Five: Shock Jock", "rating": 8.8, "image": "series/strg-s5.jpg" },
+          { "number": 6, "title": "Chapter Six: Escape from Camazotz", "rating": 9.1, "image": "series/strg-s5.jpg" },
+          { "number": 7, "title": "Chapter Seven: The Bridge", "rating": 9.3, "image": "series/strg-s5.jpg" },
+          { "number": 8, "title": "Chapter Eight: The Rightside Up", "rating": 9.5, "image": "series/strg-s5.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Millie Bobby Brown", "character": "Eleven / Once" },
+      { "name": "Finn Wolfhard", "character": "Mike Wheeler" },
+      { "name": "Winona Ryder", "character": "Joyce Byers" },
+      { "name": "David Harbour", "character": "Jim Hopper" },
+      { "name": "Gaten Matarazzo", "character": "Dustin Henderson" },
+      { "name": "Caleb McLaughlin", "character": "Lucas Sinclair" },
+      { "name": "Noah Schnapp", "character": "Will Byers" },
+      { "name": "Sadie Sink", "character": "Max Mayfield" },
+      { "name": "Joe Keery", "character": "Steve Harrington" }
+    ],
+    "awards": ["Ganadora de 12 premios Primetime Emmy y nominada a los Golden Globes"],
+    "reviews": [
+      {
+        "author": "Crítica especializada",
+        "source": "Reseña de medios",
+        "score": "9.5/10",
+        "text": "Un tributo extraordinario al cine fantástico de los ochenta con un desarrollo de personajes impecable y efectos visuales de primer nivel."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "9/10",
+        "text": "Una de las series más icónicas de la televisión moderna; logra mantener la emoción y el suspenso a lo largo de todas sus temporadas."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Inspiración en el proyecto Montauk",
+        "text": "El concepto original de la serie se basó en supuestos experimentos secretos del gobierno estadounidense en Montauk, Nueva York."
+      },
+      {
+        "title": "Audiciones infantiles masivas",
+        "text": "Los hermanos Duffer audicionaron a más de 1200 niños antes de seleccionar al elenco principal de amigos."
+      },
+      {
+        "title": "Banda sonora en sintetizador",
+        "text": "La memorable música synthwave fue compuesta por Kyle Dixon y Michael Stein, miembros de la banda electrónica SURVIVE."
+      }
+    ]
+  },
+  {
+    "id": "s24",
+    "title": "Penny Dreadful",
+    "originalTitle": "Penny Dreadful",
+    "tagline": "Hay cosas terribles dentro de todos nosotros.",
+    "year": 2014,
+    "endYear": 2016,
+    "status": "Finalizada",
+    "rating": 8.2,
+    "episodes": 27,
+    "episodeDuration": "47-60 min",
+    "certification": "18+",
+    "seasons": 3,
+    "genres": [
+      "Terror",
+      "Gótico",
+      "Misterio",
+      "Drama"
+    ],
+    "synopsis": "En el Londres victoriano del siglo XIX, figuras icónicas de la literatura gótica como el Dr. Frankenstein, Dorian Gray y los personajes de Drácula se entrelazan en una oscura red sobrenatural liderada por la enigmática Vanessa Ives.",
+    "image": "series/penny.jpg",
+    "creators": ["John Logan"],
+    "writers": ["John Logan", "Andrew Hinderaker", "Krysty Wilson-Cairns"],
+    "directors": ["J.A. Bayona", "Dearbhla Walsh", "Coky Giedroyc", "Damon Thomas"],
+    "music": "Abel Korzeniowski",
+    "country": "Estados Unidos / Reino Unido",
+    "language": "Inglés",
+    "streamingPlatforms": ["Showtime", "Paramount+", "Prime Video"],
+    "productionCompanies": ["Desert Wolf Productions", "Neal Street Productions"],
+    "seasonDetails": [
+      {
+        "season": 1,
+        "episodes": 8,
+        "year": 2014,
+        "trailerUrl": "https://www.youtube.com/watch?v=YFXHfEqMcis",
+        "episodeDetails": [
+          { "number": 1, "title": "Night Work", "rating": 8.0 , "image": "series/pnyDR-s1.jpg" },
+          { "number": 2, "title": "Séance", "rating": 8.3, "image": "series/pnyDR-s1.jpg" },
+          { "number": 3, "title": "Resurrection", "rating": 8.2, "image": "series/pnyDR-s1.jpg" },
+          { "number": 4, "title": "Demimonde", "rating": 8.1, "image": "series/pnyDR-s1.jpg" },
+          { "number": 5, "title": "Closer Than Sisters", "rating": 8.9, "image": "series/pnyDR-s1.jpg" },
+          { "number": 6, "title": "What Death Can Join Together", "rating": 8.4, "image": "series/pnyDR-s1.jpg" },
+          { "number": 7, "title": "Possession", "rating": 8.8, "image": "series/pnyDR-s1.jpg" },
+          { "number": 8, "title": "Grand Guignol", "rating": 8.5, "image": "series/pnyDR-s1.jpg" }
+        ]
+      },
+      {
+        "season": 2,
+        "episodes": 10,
+        "year": 2015,
+        "trailerUrl": "https://www.youtube.com/watch?v=Wfhik-kUBGQ",
+        "episodeDetails": [
+          { "number": 1, "title": "Fresh Hell", "rating": 8.3, "image": "series/pnyDR-s2.jpg" },
+          { "number": 2, "title": "Verbis Diablo", "rating": 8.4, "image": "series/pnyDR-s2.jpg" },
+          { "number": 3, "title": "The Nightcomers", "rating": 9.1, "image": "series/pnyDR-s2.jpg" },
+          { "number": 4, "title": "Evil Spirits in Heavenly Places", "rating": 8.3, "image": "series/pnyDR-s2.jpg" },
+          { "number": 5, "title": "Above the Vaulted Sky", "rating": 8.2, "image": "series/pnyDR-s2.jpg" },
+          { "number": 6, "title": "Glorious Horrors", "rating": 8.5, "image": "series/pnyDR-s2.jpg" },
+          { "number": 7, "title": "Little Scorpion", "rating": 8.8, "image": "series/pnyDR-s2.jpg" },
+          { "number": 8, "title": "Memento Mori", "rating": 8.7, "image": "series/pnyDR-s2.jpg" },
+          { "number": 9,"title": "And Hell Itself My Only Foe", "rating": 8.9, "image": "series/pnyDR-s2.jpg" },
+          { "number": 10,"title": "And They Were Enemies","rating": 8.8,"image": "series/pnyDR-s2.jpg" }
+        ]
+      },
+      {
+        "season": 3,
+        "episodes": 9,
+        "year": 2016,
+        "trailerUrl": "https://www.youtube.com/watch?v=WiurpmS4spI",
+        "episodeDetails": [
+          { "number": 1, "title": "The Day Tennyson Died", "rating": 8.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 2, "title": "Predators Far and Near", "rating": 8.1, "image": "series/pnyDR-s3.jpg" },
+          { "number": 3, "title": "Good and Evil Braided Be", "rating": 8.3, "image": "series/pnyDR-s3.jpg" },
+          { "number": 4, "title": "A Blade of Grass", "rating": 9.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 5, "title": "This World Is Our Hell", "rating": 8.0, "image": "series/pnyDR-s3.jpg" },
+          { "number": 6, "title": "No Beast So Fierce", "rating": 8.2, "image": "series/pnyDR-s3.jpg" },
+          { "number": 7, "title": "Ebb Tide", "rating": 8.5, "image": "series/pnyDR-s3.jpg" },
+          { "number": 8, "title": "Perpetual Night", "rating": 8.3, "image": "series/pnyDR-s3.jpg" },
+          { "number": 9, "title": "The Blessed Dark", "rating": 7.8, "image": "series/pnyDR-s3.jpg" }
+        ]
+      }
+    ],
+    "cast": [
+      { "name": "Eva Green", "character": "Vanessa Ives" },
+      { "name": "Josh Hartnett", "character": "Ethan Chandler" },
+      { "name": "Timothy Dalton", "character": "Sir Malcolm Murray" },
+      { "name": "Harry Treadaway", "character": "Dr. Victor Frankenstein" },
+      { "name": "Reeve Carney", "character": "Dorian Gray" },
+      { "name": "Billie Piper", "character": "Brona Croft / Lily" },
+      { "name": "Rory Kinnear", "character": "La Criatura / John Clare" }
+    ],
+    "awards": ["Ganadora de 3 premios BAFTA TV Craft y múltiples nominaciones a los Premios Emmy"],
+    "reviews": [
+      {
+        "author": "Crítica de televisión",
+        "source": "Reseña especializada",
+        "score": "9/10",
+        "text": "Una obra maestra del terror gótico televisivo impulsada por una actuación inolvidable y magistral de Eva Green."
+      },
+      {
+        "author": "Audiencia general",
+        "source": "Opinión de audiencia",
+        "score": "8.5/10",
+        "text": "Destaca por su prosa elegante, ambientación impecable y una banda sonora poética que complementa a la perfección la atmósfera del Londres victoriano."
+      }
+    ],
+    "trivia": [
+      {
+        "title": "Origen del título",
+        "text": "El término 'Penny Dreadful' hace referencia a los folletines de ficción barata y terrorífica que se vendían por un penique en el Reino Unido del siglo XIX."
+      },
+      {
+        "title": "Dirección inicial de J.A. Bayona",
+        "text": "El célebre director español J.A. Bayona dirigió los primeros dos episodios de la serie, estableciendo la estética y el tono visual macabro."
+      },
+      {
+        "title": "Composición de Abel Korzeniowski",
+        "text": "La aclamada banda sonora fue compuesta por Abel Korzeniowski, otorgándole un tono melancólico y trágico a la narrativa."
+      }
+    ]
+  },
+{
+  "id": "s4",
+  "title": "The L Word",
+  "originalTitle": "The L Word",
+  "tagline": "Same Sex. Different City.",
+  "year": 2004,
+  "endYear": 2009,
+  "status": "Finalizada",
+  "rating": 7.7,
+  "episodes": 71,
+  "episodeDuration": "45-60 min",
+  "certification": "TV-MA",
+  "seasons": 6,
+
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+
+  "synopsis": "La serie sigue la vida personal, profesional y sentimental de un grupo de mujeres lesbianas y bisexuales que viven en Los Ángeles, explorando sus relaciones, amistades, conflictos y experiencias a lo largo de varios años.",
+
+  "image": "series/the-l-word.png",
+
+  "trailerUrl": "https://youtu.be/eozHBSyq68E?si=53-4pjILcmZUuhrL",
+
+  "creators": [
+    "Ilene Chaiken",
+    "Michele Abbott",
+    "Kathy Greenberg"
+  ],
+
+  "writers": [
+    "Ilene Chaiken"
+  ],
+
+  "directors": [
+    "Rose Troche",
+    "Angela Robinson",
+    "Ernest R. Dickerson"
+  ],
+
+  "music": "Elizabeth Ziff",
+
+  "country": "Estados Unidos / Canadá",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Paramount+"
+  ],
+
+  "productionCompanies": [
+    "Showtime Networks",
+    "MGM Television"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 14,
+      "year": 2004,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Pilot Part 1",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Pilot Part 2",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Let's Do It",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Longing",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lies, Lies, Lies",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lawfully",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Losing It",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "L'Ennui",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Listen Up",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Luck, Next Time",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Liberally",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Looking Back",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Locked Up",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 14,
+          "title": "Limb from Limb",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 2,
+      "episodes": 13,
+      "year": 2005,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Life, Loss, Leaving",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Lap Dance",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Loneliest Number",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Lynch Pin",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Labyrinth",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lagrimas de Oro",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Luminous",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Loyal",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Late, Later, Latent",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Land Ahoy",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Loud & Proud",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "L'Chaim",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Lacuna",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 3,
+      "episodes": 12,
+      "year": 2006,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Labia Majora",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Lost Weekend",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lobsters",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Light My Fire",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lifeline",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lifesize",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lone Star",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Latecomer",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Lead, Follow, or Get Out of the Way",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Losing the Light",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Last Dance",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Left Hand of the Goddess",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 4,
+      "episodes": 12,
+      "year": 2007,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Legend in the Making",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Livin' La Vida Loca",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lassoed",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Layup",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lez Girls",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Luck Be a Lady",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lesson Number One",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Lexington and Concord",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Lacy Lilting Lyrics",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Little Boy Blue",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Literary License to Kill",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Long Time Coming",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 5,
+      "episodes": 12,
+      "year": 2008,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "LGB Tease",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Look Out, Here They Come!",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Lady of the Lake",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Let's Get This Party Started",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Lookin' at You, Kid",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lights! Camera! Action!",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Lesbians Gone Wild",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Lay Down the Law",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Liquid Heat",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Lifecycle",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Lunar Cycle",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Loyal and True",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 6,
+      "episodes": 8,
+      "year": 2009,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Long Night's Journey Into Day",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Least Likely",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "LMFAO",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Leaving Los Angeles",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Litmus Test",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Lactose Intolerant",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Last Couple Standing",
+          "image": "series/the-l-word-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Last Word",
+          "image": "series/the-l-word-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Jennifer Beals",
+      "character": "Bette Porter"
+    },
+    {
+      "name": "Laurel Holloman",
+      "character": "Tina Kennard"
+    },
+    {
+      "name": "Mia Kirshner",
+      "character": "Jenny Schecter"
+    },
+    {
+      "name": "Katherine Moennig",
+      "character": "Shane McCutcheon"
+    },
+    {
+      "name": "Leisha Hailey",
+      "character": "Alice Pieszecki"
+    },
+    {
+      "name": "Pam Grier",
+      "character": "Kit Porter"
+    }
+  ],
+
+  "awards": [
+    "Nominada a un Primetime Emmy",
+    "5 premios ganados y 24 nominaciones registradas en IMDb"
+  ],
+
+"reviews": [
+  {
+    "author": "Sofía M.",
+    "source": "Opinión de la comunidad",
+    "score": "8/10",
+    "text": "Una serie centrada en relaciones, amistad y conflictos personales, con un reparto coral que evoluciona a lo largo de sus seis temporadas."
+  },
+  {
+    "author": "Camila R.",
+    "source": "Opinión de la comunidad",
+    "score": "9/10",
+    "text": "Su grupo de personajes y sus historias conectadas hicieron de la serie una producción muy reconocible dentro del drama romántico televisivo."
+  }
+],
+
+  "trivia": [
+    {
+      "title": "Los títulos de los episodios",
+      "text": "Exceptuando el piloto, los títulos de los episodios comienzan con la letra L."
+    },
+    {
+      "title": "Producción estadounidense y canadiense",
+      "text": "La serie fue una coproducción de Estados Unidos y Canadá y tuvo parte importante de su producción en Vancouver."
+    },
+    {
+      "title": "Una continuación años después",
+      "text": "La franquicia continuó posteriormente con The L Word: Generation Q, ambientada años después de la serie original."
+    }
+  ]
+},
+{
+  "id": "s5",
+  "title": "Sterling Point",
+  "originalTitle": "Sterling Point",
+  "tagline": "Una isla. Un secreto. Un verano que lo cambia todo.",
+  "year": 2026,
+  "status": "En emisión",
+  "rating": 7.4,
+  "episodes": 8,
+  "episodeDuration": "50-55 min",
+  "certification": "16+",
+  "seasons": 1,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Misterio"
+  ],
+
+  "synopsis": "Annie Jacobson, una joven de 17 años criada en Nueva York, descubre que ella y su hermano gemelo han heredado una isla en Canadá de un abuelo con el que nunca tuvieron relación. Al viajar hasta Sterling Point para investigar, Annie se ve envuelta en secretos familiares, nuevas amistades y romances inesperados.",
+
+  "image": "series/sterling-point.jpg",
+
+  "trailerUrl": "https://youtu.be/Azy6TIHNYnE?si=dqGoU0EM6In1oeRT",
+
+  "creators": [
+    "Megan Park"
+  ],
+
+  "writers": [
+    "Megan Park"
+  ],
+
+  "directors": [
+    "Megan Park",
+    "Aurora Guerrero",
+    "Andrew Ahn"
+  ],
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Prime Video"
+  ],
+
+  "productionCompanies": [
+    "Fake Empire",
+    "LuckyChap",
+    "Amazon MGM Studios"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2026,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Pero me acabo de tomar un Ambien",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Ella da vibes de soltera y bisexual",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Mi fobia debilita a los lobos",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Llevame a los acantilados",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Tampoco soy una chica de shots",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Sigo sangrando",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Talves sea caballa",
+          "image": "series/sterling-point-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Soy la niña",
+          "image": "series/sterling-point-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Ella Rubin",
+      "character": "Annie Jacobson"
+    },
+    {
+      "name": "Amélie Hoeferle",
+      "character": "Ramona"
+    },
+    {
+      "name": "Jacob Whiteduck-Lavoie",
+      "character": "Ellis"
+    },
+    {
+      "name": "Keen Ruffalo",
+      "character": "Connor"
+    },
+    {
+      "name": "Bo Bragason",
+      "character": "Oona"
+    },
+    {
+      "name": "Jay Duplass",
+      "character": "Padre de Annie"
+    }
+  ],
+
+  "awards": [],
+
+  "reviews": [
+    {
+      "author": "Daniela P.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "La ambientación en la isla y el misterio familiar hacen que la historia tenga algo más que un romance juvenil tradicional."
+    },
+    {
+      "author": "Lucía G.",
+      "source": "Opinión de la comunidad",
+      "score": "7/10",
+      "text": "Tiene una mezcla entretenida de romance, drama adolescente y secretos familiares, con personajes que van construyendo sus relaciones poco a poco."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Una historia original",
+      "text": "Sterling Point es una historia original y no está basada en una novela previa."
+    },
+    {
+      "title": "La isla como centro de la historia",
+      "text": "Sterling Point es una pequeña isla situada en la región de Muskoka, Canadá, y funciona como el escenario principal de la serie."
+    },
+    {
+      "title": "Producción de LuckyChap",
+      "text": "La serie cuenta entre sus productoras con LuckyChap, compañía asociada a Margot Robbie."
+    }
+  ]
+},
+{
+  "id": "s6",
+  "title": "Bridgerton",
+  "originalTitle": "Bridgerton",
+  "tagline": "El amor nunca sigue las reglas.",
+  "year": 2020,
+  "status": "En emisión",
+  "rating": 7.5,
+  "episodes": 32,
+  "episodeDuration": "50-75 min",
+  "certification": "TV-MA",
+  "seasons": 4,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Época"
+  ],
+
+  "synopsis": "En la alta sociedad londinense de la época de la Regencia, los ocho hermanos de la familia Bridgerton buscan el amor y la felicidad mientras enfrentan las exigencias sociales, los escándalos y los secretos que Lady Whistledown revela a través de su popular columna de chismes.",
+
+  "image": "series/bridgerton.jpg",
+
+  "trailerUrl": "https://youtu.be/5cOfyLkQRGk?si=AzLi4WlUJZ1Dd0B0",
+
+  "creators": [
+    "Chris Van Dusen"
+  ],
+
+  "writers": [
+    "Chris Van Dusen",
+    "Jess Brownell"
+  ],
+
+  "directors": [
+    "Tom Verica",
+    "Tricia Brock",
+    "Julie Anne Robinson",
+    "Andrew Ahn",
+    "Anya Adams"
+  ],
+
+  "music": "Kris Bowers",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "Shondaland",
+    "CVD Productions"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2020,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Diamond of the First Water",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Shock and Delight",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Art of the Swoon",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "An Affair of Honor",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "The Duke and I",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Swish",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Oceans Apart",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "After the Rain",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 2,
+      "episodes": 8,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Capital R Rake",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Off to the Races",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "A Bee in Your Bonnet",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Victory",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "An Unthinkable Fate",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "The Choice",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Harmony",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "The Viscount Who Loved Me",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 3,
+      "episodes": 8,
+      "year": 2024,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Out of the Shadows",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "How Bright the Moon",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Forces of Nature",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Old Friends",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Tick Tock",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Romancing Mister Bridgerton",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Joining of Hands",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Into the Light",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    },
+
+    {
+      "season": 4,
+      "episodes": 8,
+      "year": 2026,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "The Waltz",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Time Transfixed",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "The Field Next to the Other Road",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "An Offer from a Gentleman",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Yes or No",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "The Passing Winter",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "The Beyond",
+          "image": "series/bridgerton-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Dance in the Country",
+          "image": "series/bridgerton-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Nicola Coughlan",
+      "character": "Penelope Featherington"
+    },
+    {
+      "name": "Jonathan Bailey",
+      "character": "Anthony Bridgerton"
+    },
+    {
+      "name": "Simone Ashley",
+      "character": "Kate Sharma"
+    },
+    {
+      "name": "Luke Newton",
+      "character": "Colin Bridgerton"
+    },
+    {
+      "name": "Luke Thompson",
+      "character": "Benedict Bridgerton"
+    },
+    {
+      "name": "Claudia Jessie",
+      "character": "Eloise Bridgerton"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de múltiples premios Primetime Emmy",
+    "Reconocida con numerosas nominaciones por actuación, vestuario, música y producción"
+  ],
+
+  "reviews": [
+    {
+      "author": "Valentina C.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Me gusta que cada temporada desarrolle un romance diferente sin abandonar las historias de los demás miembros de la familia Bridgerton."
+    },
+    {
+      "author": "Gabriela T.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "La ambientación, el vestuario y la música hacen que el drama romántico tenga una identidad muy reconocible y entretenida."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en novelas",
+      "text": "La serie está basada en la saga de novelas románticas Bridgerton escrita por Julia Quinn."
+    },
+    {
+      "title": "Un romance principal por temporada",
+      "text": "Cada temporada centra buena parte de su historia en la relación romántica de uno de los hermanos Bridgerton."
+    },
+    {
+      "title": "Música contemporánea con estilo clásico",
+      "text": "La serie se caracteriza por utilizar versiones instrumentales de canciones modernas durante bailes y escenas de la alta sociedad."
+    }
+  ]
+},
+{
+  "id": "s7",
+  "title": "Heartstopper",
+  "originalTitle": "Heartstopper",
+  "tagline": "El amor puede llegar cuando menos lo esperas.",
+  "year": 2022,
+  "endYear": 2024,
+  "status": "Finalizada",
+  "rating": 8.5,
+  "episodes": 24,
+  "episodeDuration": "26-33 min",
+  "certification": "TV-14",
+  "seasons": 3,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Juvenil"
+  ],
+
+  "synopsis": "Charlie Spring y Nick Nelson descubren que su amistad puede convertirse en algo más mientras atraviesan el amor, la identidad, la amistad y los cambios propios de la adolescencia junto a su grupo de amigos.",
+
+  "image": "series/heartstopper.jpg",
+
+  "trailerUrl": "https://youtu.be/YtJ9uwqY1M4?si=AP4MjK_zHTgccXa1",
+
+  "creators": [
+    "Alice Oseman"
+  ],
+
+  "writers": [
+    "Alice Oseman"
+  ],
+
+  "directors": [
+    "Euros Lyn",
+    "Andy Newbery"
+  ],
+
+  "music": "Adiescar Chase",
+
+  "country": "Reino Unido",
+  "language": "Inglés",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "See-Saw Films",
+    "Netflix"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 8,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Meet",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Crush",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Kiss",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Secret",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Friend",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Girls",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Bully",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Boyfriend",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": 8,
+      "year": 2023,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Out",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Family",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Promise",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Challenge",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Heat",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Truth / Dare",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Sorry",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Perfect",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": 8,
+      "year": 2024,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Love",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Home",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Talk",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Journey",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Winter",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Body",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Together",
+          "image": "series/heartstopper-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Apart",
+          "image": "series/heartstopper-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Joe Locke",
+      "character": "Charlie Spring"
+    },
+    {
+      "name": "Kit Connor",
+      "character": "Nick Nelson"
+    },
+    {
+      "name": "William Gao",
+      "character": "Tao Xu"
+    },
+    {
+      "name": "Yasmin Finney",
+      "character": "Elle Argent"
+    },
+    {
+      "name": "Corinna Brown",
+      "character": "Tara Jones"
+    },
+    {
+      "name": "Kizzy Edgell",
+      "character": "Darcy Olsson"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de premios Children's & Family Emmy",
+    "Reconocida por su representación LGBTQ+ y su impacto en el público juvenil"
+  ],
+
+  "reviews": [
+    {
+      "author": "Andrea L.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Es una serie muy cálida y sensible, con una historia romántica juvenil que se siente cercana y honesta."
+    },
+    {
+      "author": "Paula V.",
+      "source": "Opinión de la comunidad",
+      "score": "8/10",
+      "text": "Además del romance principal, destaca por la amistad del grupo y por tratar temas emocionales con mucha delicadeza."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en una novela gráfica",
+      "text": "La serie adapta la popular novela gráfica Heartstopper creada por Alice Oseman."
+    },
+    {
+      "title": "Alice Oseman escribió la adaptación",
+      "text": "La propia autora de la obra original estuvo a cargo de la escritura de la serie."
+    },
+    {
+      "title": "Tres temporadas estrenadas",
+      "text": "La serie cuenta con tres temporadas publicadas en Netflix."
+    }
+  ]
+},
+{
+  "id": "s8",
+  "title": "Veinticinco, Veintiuno",
+  "originalTitle": "Twenty Five Twenty One",
+  "tagline": "A los veinticinco y veintiuno, se enamoraron.",
+  "year": 2022,
+  "endYear": 2022,
+  "status": "Finalizada",
+  "rating": 8.5,
+  "episodes": 16,
+  "episodeDuration": "70-80 min",
+  "certification": "TV-14",
+  "seasons": 1,
+
+  "genres": [
+    "Romance",
+    "Drama",
+    "Juvenil",
+    "Deporte"
+  ],
+
+  "synopsis": "Durante la crisis financiera de finales de los años noventa en Corea del Sur, Na Hee-do lucha por mantener vivo su sueño de convertirse en esgrimista profesional, mientras Baek Yi-jin intenta reconstruir su vida después de que su familia pierde todo. A medida que crecen y enfrentan nuevas dificultades, su amistad evoluciona hacia una relación que marcará sus vidas.",
+
+  "image": "series/twenty-five-twenty-one.jpg",
+
+  "trailerUrl": "https://youtu.be/V9NLRnpaxeo?si=sTFBYR0lQE_zOtN8",
+
+  "creators": [
+    "Jung Ji-hyun",
+    "Kwon Do-eun"
+  ],
+
+  "writers": [
+    "Kwon Do-eun"
+  ],
+
+  "directors": [
+    "Jung Ji-hyun",
+    "Kim Seung-ho"
+  ],
+
+  "music": "Lim Ha-young",
+
+  "country": "Corea del Sur",
+  "language": "Coreano",
+
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+
+  "productionCompanies": [
+    "Studio Dragon",
+    "Hwa&Dam Pictures"
+  ],
+
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 16,
+      "year": 2022,
+      "episodeDetails": [
+        {
+          "number": 1,
+          "title": "Episode 1",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 2,
+          "title": "Episode 2",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 3,
+          "title": "Episode 3",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 4,
+          "title": "Episode 4",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 5,
+          "title": "Episode 5",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 6,
+          "title": "Episode 6",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 7,
+          "title": "Episode 7",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 8,
+          "title": "Episode 8",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 9,
+          "title": "Episode 9",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 10,
+          "title": "Episode 10",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 11,
+          "title": "Episode 11",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 12,
+          "title": "Episode 12",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 13,
+          "title": "Episode 13",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 14,
+          "title": "Episode 14",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 15,
+          "title": "Episode 15",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        },
+        {
+          "number": 16,
+          "title": "Episode 16",
+          "image": "series/twenty-five-twenty-one-episodios.jpg"
+        }
+      ]
+    }
+  ],
+
+  "cast": [
+    {
+      "name": "Kim Tae-ri",
+      "character": "Na Hee-do"
+    },
+    {
+      "name": "Nam Joo-hyuk",
+      "character": "Baek Yi-jin"
+    },
+    {
+      "name": "Kim Ji-yeon",
+      "character": "Ko Yu-rim"
+    },
+    {
+      "name": "Choi Hyun-wook",
+      "character": "Moon Ji-woong"
+    },
+    {
+      "name": "Lee Ju-myoung",
+      "character": "Ji Seung-wan"
+    }
+  ],
+
+  "awards": [
+    "Reconocida por sus actuaciones y por su historia de crecimiento juvenil",
+    "Ganadora y nominada en diversos premios de televisión surcoreanos"
+  ],
+
+  "reviews": [
+    {
+      "author": "Nicole S.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "La combinación de romance, amistad y crecimiento personal hace que la historia sea muy emotiva y fácil de recordar."
+    },
+    {
+      "author": "María J.",
+      "source": "Opinión de la comunidad",
+      "score": "9/10",
+      "text": "Me gustó mucho cómo muestra los sueños y dificultades de los personajes sin reducir toda la historia únicamente al romance."
+    }
+  ],
+
+  "trivia": [
+    {
+      "title": "Ambientada durante la crisis financiera",
+      "text": "Parte de la historia comienza durante la crisis financiera asiática de finales de los años noventa y muestra cómo afecta los sueños de los protagonistas."
+    },
+    {
+      "title": "Preparación para la esgrima",
+      "text": "Kim Tae-ri y Kim Ji-yeon recibieron entrenamiento de esgrima para interpretar a sus personajes."
+    },
+    {
+      "title": "Producción de Studio Dragon",
+      "text": "La serie fue producida por Studio Dragon y Hwa&Dam Pictures para tvN."
+    }
+  ]
+},
+{
+  "id": "ms-s1",
+  "title": "Los Soprano",
+  "originalTitle": "The Sopranos",
+  "tagline": "La familia. El crimen. La terapia.",
+  "year": 1999,
+  "endYear": 2007,
+  "status": "Finalizada",
+  "rating": 9.2,
+  "episodes": 86,
+  "episodeDuration": "50-60 min",
+  "certification": "18+",
+  "seasons": 6,
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "Tony Soprano, un jefe de la mafia de Nueva Jersey, intenta equilibrar las exigencias de su organización criminal con su vida familiar mientras acude a terapia para tratar ataques de pánico y otros conflictos personales.",
+  "image": "series/ms_TheSopranos.png",
+  "creators": [
+    "David Chase"
+  ],
+  "writers": [
+    "David Chase",
+    "Terence Winter",
+    "Robin Green",
+    "Mitchell Burgess",
+    "Matthew Weiner"
+  ],
+  "directors": [
+    "Tim Van Patten",
+    "Alan Taylor",
+    "John Patterson",
+    "Steve Buscemi"
+  ],
+  "music": "Música licenciada; tema principal 'Woke Up This Morning' de Alabama 3",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "Chase Films",
+    "Brad Grey Television",
+    "HBO"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 13,
+      "year": 1999,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 13,
+      "year": 2000,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 13,
+      "year": 2001,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 13,
+      "year": 2002,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 13,
+      "year": 2004,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 6,
+      "episodes": 21,
+      "year": 2006,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "James Gandolfini",
+      "character": "Tony Soprano"
+    },
+    {
+      "name": "Edie Falco",
+      "character": "Carmela Soprano"
+    },
+    {
+      "name": "Lorraine Bracco",
+      "character": "Dra. Jennifer Melfi"
+    },
+    {
+      "name": "Michael Imperioli",
+      "character": "Christopher Moltisanti"
+    },
+    {
+      "name": "Dominic Chianese",
+      "character": "Corrado 'Junior' Soprano"
+    },
+    {
+      "name": "Steven Van Zandt",
+      "character": "Silvio Dante"
+    }
+  ],
+  "awards": [
+    "Ganadora de 21 premios Primetime Emmy y numerosos reconocimientos adicionales."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9.5/10",
+      "text": "Drama criminal centrado tanto en la violencia del mundo mafioso como en las contradicciones familiares y psicológicas de su protagonista."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.2/10",
+      "text": "Su construcción de personajes, diálogos y evolución de Tony Soprano la han convertido en una referencia de la televisión dramática."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Terapia como eje narrativo",
+      "text": "Las sesiones de Tony con la doctora Jennifer Melfi permiten explorar su vida criminal desde una perspectiva psicológica."
+    },
+    {
+      "title": "Nueva Jersey",
+      "text": "La historia se desarrolla principalmente en Nueva Jersey y utiliza numerosas localizaciones reales del estado."
+    },
+    {
+      "title": "Temporada final extendida",
+      "text": "La sexta temporada tuvo 21 episodios emitidos en dos partes entre 2006 y 2007."
+    }
+  ]
+},
+{
+  "id": "ms-s2",
+  "title": "Breaking Bad",
+  "originalTitle": "Breaking Bad",
+  "tagline": "Todo hombre tiene un punto de quiebre.",
+  "year": 2008,
+  "endYear": 2013,
+  "status": "Finalizada",
+  "rating": 9.5,
+  "episodes": 62,
+  "episodeDuration": "43-60 min",
+  "certification": "18+",
+  "seasons": 5,
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Thriller"
+  ],
+  "synopsis": "Walter White, un profesor de química de Albuquerque, descubre que padece cáncer de pulmón. Preocupado por el futuro económico de su familia, comienza a fabricar metanfetamina junto con su antiguo alumno Jesse Pinkman. Lo que inicia como una decisión desesperada termina transformándolo progresivamente en una poderosa y peligrosa figura del narcotráfico.",
+  "image": "series/ms_BreakingBad.png",
+  "creators": [
+    "Vince Gilligan"
+  ],
+  "writers": [
+    "Vince Gilligan",
+    "Peter Gould",
+    "George Mastras",
+    "Sam Catlin",
+    "Moira Walley-Beckett",
+    "Thomas Schnauz"
+  ],
+  "directors": [
+    "Vince Gilligan",
+    "Michelle MacLaren",
+    "Adam Bernstein",
+    "Rian Johnson",
+    "Colin Bucksey"
+  ],
+  "music": "Dave Porter",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Netflix"
+  ],
+  "productionCompanies": [
+    "High Bridge Productions",
+    "Gran Via Productions",
+    "Sony Pictures Television"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 7,
+      "year": 2008,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 13,
+      "year": 2009,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 13,
+      "year": 2010,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 13,
+      "year": 2011,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 16,
+      "year": 2012,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Bryan Cranston",
+      "character": "Walter White"
+    },
+    {
+      "name": "Aaron Paul",
+      "character": "Jesse Pinkman"
+    },
+    {
+      "name": "Anna Gunn",
+      "character": "Skyler White"
+    },
+    {
+      "name": "Dean Norris",
+      "character": "Hank Schrader"
+    },
+    {
+      "name": "Betsy Brandt",
+      "character": "Marie Schrader"
+    },
+    {
+      "name": "RJ Mitte",
+      "character": "Walter White Jr."
+    },
+    {
+      "name": "Bob Odenkirk",
+      "character": "Saul Goodman"
+    },
+    {
+      "name": "Giancarlo Esposito",
+      "character": "Gustavo Fring"
+    }
+  ],
+  "awards": [
+    "Ganadora de 16 premios Primetime Emmy, incluidos reconocimientos a mejor serie dramática y múltiples premios de interpretación para Bryan Cranston y Aaron Paul."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "La serie construye una transformación progresiva de su protagonista mediante una narrativa criminal cada vez más intensa y consecuencias que afectan a todos los personajes."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.5/10",
+      "text": "Destaca por la evolución de Walter White, la relación con Jesse Pinkman, su fotografía y una tensión que aumenta notablemente durante sus últimas temporadas."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "El alter ego Heisenberg",
+      "text": "Walter White utiliza el nombre Heisenberg como identidad dentro del mundo del narcotráfico, en referencia al físico alemán Werner Heisenberg."
+    },
+    {
+      "title": "Albuquerque",
+      "text": "La serie está ambientada y fue filmada principalmente en Albuquerque, Nuevo México, convirtiendo numerosas localizaciones reales de la ciudad en lugares reconocibles para los seguidores."
+    },
+    {
+      "title": "Última temporada dividida",
+      "text": "La quinta temporada consta de 16 episodios y fue emitida en dos bloques de ocho episodios entre 2012 y 2013."
+    }
+  ]
+},
+{
+  "id": "ms-s3",
+  "title": "The Wire",
+  "originalTitle": "The Wire",
+  "tagline": "Todo está conectado.",
+  "year": 2002,
+  "endYear": 2008,
+  "status": "Finalizada",
+  "rating": 9.3,
+  "episodes": 60,
+  "episodeDuration": "55-60 min",
+  "certification": "18+",
+  "seasons": 5,
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Thriller"
+  ],
+  "synopsis": "Ambientada en Baltimore, la serie examina el narcotráfico y las investigaciones policiales desde múltiples perspectivas. A lo largo de sus temporadas amplía su mirada hacia los puertos, la política, el sistema educativo y los medios de comunicación, mostrando cómo distintas instituciones de la ciudad se relacionan y afectan entre sí.",
+  "image": "series/ms_TheWire.png",
+  "creators": [
+    "David Simon"
+  ],
+  "writers": [
+    "David Simon",
+    "Ed Burns",
+    "George Pelecanos",
+    "Richard Price",
+    "Dennis Lehane"
+  ],
+  "directors": [
+    "Clark Johnson",
+    "Joe Chappelle",
+    "Ernest Dickerson",
+    "Agnieszka Holland"
+  ],
+  "music": "Blake Leyh",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "Blown Deadline Productions",
+    "HBO"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 13,
+      "year": 2002,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 12,
+      "year": 2003,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 12,
+      "year": 2004,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 13,
+      "year": 2006,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 10,
+      "year": 2008,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Dominic West",
+      "character": "Jimmy McNulty"
+    },
+    {
+      "name": "Lance Reddick",
+      "character": "Cedric Daniels"
+    },
+    {
+      "name": "Sonja Sohn",
+      "character": "Kima Greggs"
+    },
+    {
+      "name": "Wendell Pierce",
+      "character": "Bunk Moreland"
+    },
+    {
+      "name": "Clarke Peters",
+      "character": "Lester Freamon"
+    },
+    {
+      "name": "Idris Elba",
+      "character": "Stringer Bell"
+    },
+    {
+      "name": "Michael K. Williams",
+      "character": "Omar Little"
+    }
+  ],
+  "awards": [
+    "Nominada a 2 premios Primetime Emmy y ganadora de numerosos reconocimientos de la crítica."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9.5/10",
+      "text": "Un drama criminal de estructura coral que analiza con profundidad la relación entre crimen, policía, política y otras instituciones urbanas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.3/10",
+      "text": "Es especialmente valorada por su realismo, sus personajes complejos y la manera en que cada temporada amplía el retrato social de Baltimore."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Una institución por temporada",
+      "text": "Cada temporada amplía el foco narrativo hacia una institución distinta de Baltimore, incluyendo el narcotráfico, los puertos, la política, las escuelas y los medios de comunicación."
+    },
+    {
+      "title": "Experiencia real",
+      "text": "David Simon trabajó como periodista en Baltimore y Ed Burns fue detective de homicidios y profesor, experiencias que influyeron en el enfoque realista de la serie."
+    },
+    {
+      "title": "Tema de apertura",
+      "text": "La canción de apertura es 'Way Down in the Hole', escrita por Tom Waits, pero interpretada por distintos artistas a lo largo de las temporadas."
+    }
+  ]
+},
+{
+  "id": "ms-s4",
+  "title": "Juego de Tronos",
+  "originalTitle": "Game of Thrones",
+  "tagline": "Cuando juegas al juego de tronos, ganas o mueres.",
+  "year": 2011,
+  "endYear": 2019,
+  "status": "Finalizada",
+  "rating": 9.2,
+  "episodes": 73,
+  "episodeDuration": "50-82 min",
+  "certification": "18+",
+  "seasons": 8,
+  "genres": [
+    "Drama",
+    "Fantasía",
+    "Aventura"
+  ],
+  "synopsis": "En los continentes ficticios de Poniente y Essos, diversas casas nobles compiten por el control del Trono de Hierro mientras antiguas amenazas resurgen más allá del Muro. La serie combina luchas dinásticas, intrigas políticas, guerras, alianzas y elementos sobrenaturales.",
+  "image": "series/ms_GameOfThrones.png",
+  "creators": [
+    "David Benioff",
+    "D. B. Weiss"
+  ],
+  "writers": [
+    "David Benioff",
+    "D. B. Weiss",
+    "George R. R. Martin",
+    "Bryan Cogman",
+    "Dave Hill"
+  ],
+  "directors": [
+    "David Nutter",
+    "Miguel Sapochnik",
+    "Alan Taylor",
+    "Mark Mylod",
+    "Jeremy Podeswa"
+  ],
+  "music": "Ramin Djawadi",
+  "country": "Estados Unidos / Reino Unido",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "HBO Entertainment",
+    "Television 360",
+    "Grok! Studio",
+    "Generator Entertainment"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 10,
+      "year": 2011,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 10,
+      "year": 2012,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 10,
+      "year": 2013,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 10,
+      "year": 2014,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 5,
+      "episodes": 10,
+      "year": 2015,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 6,
+      "episodes": 10,
+      "year": 2016,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 7,
+      "episodes": 7,
+      "year": 2017,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 8,
+      "episodes": 6,
+      "year": 2019,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Emilia Clarke",
+      "character": "Daenerys Targaryen"
+    },
+    {
+      "name": "Kit Harington",
+      "character": "Jon Snow"
+    },
+    {
+      "name": "Peter Dinklage",
+      "character": "Tyrion Lannister"
+    },
+    {
+      "name": "Lena Headey",
+      "character": "Cersei Lannister"
+    },
+    {
+      "name": "Nikolaj Coster-Waldau",
+      "character": "Jaime Lannister"
+    },
+    {
+      "name": "Sophie Turner",
+      "character": "Sansa Stark"
+    },
+    {
+      "name": "Maisie Williams",
+      "character": "Arya Stark"
+    },
+    {
+      "name": "Sean Bean",
+      "character": "Eddard Stark"
+    }
+  ],
+  "awards": [
+    "Ganadora de numerosos premios Primetime Emmy y reconocida como una de las producciones televisivas más premiadas de su época."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Una superproducción de fantasía y drama político caracterizada por sus conflictos dinásticos, su gran escala visual y un amplio reparto coral."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.2/10",
+      "text": "Destaca especialmente por sus personajes, sus giros narrativos y episodios de gran impacto, aunque su temporada final generó una recepción más dividida."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Canción de hielo y fuego",
+      "text": "La serie está basada en la saga literaria 'A Song of Ice and Fire' de George R. R. Martin."
+    },
+    {
+      "title": "Rodaje internacional",
+      "text": "La producción utilizó localizaciones en varios países, entre ellos Irlanda del Norte, Croacia, España, Islandia y Malta."
+    },
+    {
+      "title": "Episodios de gran valoración",
+      "text": "Episodios como 'Battle of the Bastards', 'The Winds of Winter' y 'The Rains of Castamere' figuran entre los capítulos mejor valorados de la serie."
+    }
+  ]
+},
+{
+  "id": "ms-s5",
+  "title": "Succession",
+  "originalTitle": "Succession",
+  "tagline": "Cada familia tiene su propia versión de una guerra civil.",
+  "year": 2018,
+  "endYear": 2023,
+  "status": "Finalizada",
+  "rating": 8.8,
+  "episodes": 39,
+  "episodeDuration": "56-75 min",
+  "certification": "18+",
+  "seasons": 4,
+  "genres": [
+    "Drama",
+    "Comedia negra",
+    "Sátira"
+  ],
+  "synopsis": "La familia Roy controla Waystar Royco, uno de los conglomerados de medios y entretenimiento más poderosos del mundo. Cuando la salud y el futuro empresarial del patriarca Logan Roy se vuelven inciertos, sus hijos comienzan una intensa lucha por el control de la compañía, marcada por rivalidades familiares, traiciones, alianzas y ambición.",
+  "image": "series/ms_Succession.png",
+  "creators": [
+    "Jesse Armstrong"
+  ],
+  "writers": [
+    "Jesse Armstrong",
+    "Lucy Prebble",
+    "Georgia Pritchett",
+    "Tony Roche",
+    "Will Tracy",
+    "Susan Soon He Stanton"
+  ],
+  "directors": [
+    "Mark Mylod",
+    "Andrij Parekh",
+    "Adam McKay",
+    "Matt Shakman",
+    "Cathy Yan"
+  ],
+  "music": "Nicholas Britell",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "streamingPlatforms": [
+    "Max"
+  ],
+  "productionCompanies": [
+    "Gary Sanchez Productions",
+    "Project Zeus",
+    "Hyperobject Industries",
+    "HBO Entertainment"
+  ],
+  "seasonDetails": [
+    {
+      "season": 1,
+      "episodes": 10,
+      "year": 2018,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 2,
+      "episodes": 10,
+      "year": 2019,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 3,
+      "episodes": 9,
+      "year": 2021,
+      "trailerUrl": "",
+      "episodeDetails": []
+    },
+    {
+      "season": 4,
+      "episodes": 10,
+      "year": 2023,
+      "trailerUrl": "",
+      "episodeDetails": []
+    }
+  ],
+  "cast": [
+    {
+      "name": "Brian Cox",
+      "character": "Logan Roy"
+    },
+    {
+      "name": "Jeremy Strong",
+      "character": "Kendall Roy"
+    },
+    {
+      "name": "Sarah Snook",
+      "character": "Siobhan 'Shiv' Roy"
+    },
+    {
+      "name": "Kieran Culkin",
+      "character": "Roman Roy"
+    },
+    {
+      "name": "Alan Ruck",
+      "character": "Connor Roy"
+    },
+    {
+      "name": "Matthew Macfadyen",
+      "character": "Tom Wambsgans"
+    },
+    {
+      "name": "Nicholas Braun",
+      "character": "Greg Hirsch"
+    }
+  ],
+  "awards": [
+    "Ganadora de 19 premios Primetime Emmy y numerosos reconocimientos de la crítica y de asociaciones de guionistas y televisión."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama corporativo y familiar que combina rivalidad, poder, sátira y conflictos emocionales dentro de una de las familias más influyentes del mundo empresarial ficticio."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "8.8/10",
+      "text": "Es especialmente valorada por sus diálogos, actuaciones y la tensión constante entre los miembros de la familia Roy."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Waystar Royco",
+      "text": "La empresa ficticia Waystar Royco funciona como el centro de la disputa familiar y combina negocios de medios, entretenimiento, parques y noticias."
+    },
+    {
+      "title": "Música de Nicholas Britell",
+      "text": "Nicholas Britell compuso la banda sonora de la serie, incluido su reconocible tema principal."
+    },
+    {
+      "title": "Final planificado",
+      "text": "La cuarta temporada fue concebida como la temporada final de la serie y cerró el conflicto por el control de Waystar Royco."
+    }
+  ]
+}
+]

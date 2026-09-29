@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "a1",
+    "name": "Keanu Reeves",
+    "birthYear": 1964,
+    "birthDate": "2 de septiembre de 1964",
+    "birthPlace": "Beirut, Líbano",
+    "nationality": "Canadiense",
+    "occupation": "Actor, productor y director",
+    "biography": "Keanu Reeves es un actor canadiense nacido en Beirut, Líbano. Desarrolló gran parte de su carrera en producciones de acción y ciencia ficción y alcanzó reconocimiento internacional con personajes como Neo en The Matrix, Jack Traven en Speed, Johnny Utah en Point Break y John Wick en la saga del mismo nombre.",
+    "knownFor": [
+      "The Matrix",
+      "John Wick",
+      "Speed",
+      "Point Break"
+    ],
+    "filmography": [
+      {
+        "year": 2025,
+        "title": "Ballerina",
+        "character": "John Wick",
+        "type": "Película",
+        "rating": 6.8
+      },
+      {
+        "year": 2024,
+        "title": "Sonic the Hedgehog 3",
+        "character": "Shadow",
+        "type": "Película",
+        "rating": 6.9
+      },
+      {
+        "year": 2023,
+        "title": "John Wick: Chapter 4",
+        "character": "John Wick",
+        "type": "Película",
+        "rating": 7.6
+      },
+      {
+        "year": 2021,
+        "title": "The Matrix Resurrections",
+        "character": "Neo / Thomas Anderson",
+        "type": "Película",
+        "rating": 5.7
+      },
+      {
+        "year": 2019,
+        "title": "John Wick: Chapter 3 - Parabellum",
+        "character": "John Wick",
+        "type": "Película",
+        "rating": 7.4
+      },
+      {
+        "year": 2017,
+        "title": "John Wick: Chapter 2",
+        "character": "John Wick",
+        "type": "Película",
+        "rating": 7.4
+      },
+      {
+        "year": 2014,
+        "title": "John Wick",
+        "character": "John Wick",
+        "type": "Película",
+        "rating": 7.5
+      },
+      {
+        "year": 2003,
+        "title": "The Matrix Reloaded",
+        "character": "Neo",
+        "type": "Película",
+        "rating": 7.2
+      },
+      {
+        "year": 1999,
+        "title": "The Matrix",
+        "character": "Neo",
+        "type": "Película",
+        "rating": 8.7
+      },
+      {
+        "year": 1997,
+        "title": "The Devil's Advocate",
+        "character": "Kevin Lomax",
+        "type": "Película",
+        "rating": 7.5
+      },
+      {
+        "year": 1994,
+        "title": "Speed",
+        "character": "Jack Traven",
+        "type": "Película",
+        "rating": 7.3
+      },
+      {
+        "year": 1991,
+        "title": "Point Break",
+        "character": "Johnny Utah",
+        "type": "Película",
+        "rating": 7.3
+      }
+    ],
+    "image": "actores/ms_KeanuReeves.png"
+  },
+  {
+    "id": "a2",
+    "name": "Matthew McConaughey",
+    "birthYear": 1969,
+    "birthDate": "4 de noviembre de 1969",
+    "birthPlace": "Uvalde, Texas, Estados Unidos",
+    "nationality": "Estadounidense",
+    "occupation": "Actor y productor",
+    "biography": "Matthew McConaughey es un actor estadounidense nacido en Uvalde, Texas. Tras alcanzar notoriedad durante la década de 1990, desarrolló una carrera que abarca comedia, drama, suspenso y ciencia ficción. Es especialmente reconocido por sus interpretaciones en Interstellar, Dallas Buyers Club y la primera temporada de True Detective.",
+    "knownFor": [
+      "Interstellar",
+      "Dallas Buyers Club",
+      "True Detective",
+      "Mud"
+    ],
+    "filmography": [
+      {
+        "year": 2019,
+        "title": "The Gentlemen",
+        "character": "Mickey Pearson",
+        "type": "Película",
+        "rating": 7.8
+      },
+      {
+        "year": 2016,
+        "title": "Free State of Jones",
+        "character": "Newton Knight",
+        "type": "Película",
+        "rating": 6.9
+      },
+      {
+        "year": 2014,
+        "title": "Interstellar",
+        "character": "Cooper",
+        "type": "Película",
+        "rating": 8.7
+      },
+      {
+        "year": 2014,
+        "title": "True Detective",
+        "character": "Rustin Cohle",
+        "type": "Serie",
+        "rating": 8.9
+      },
+      {
+        "year": 2013,
+        "title": "Dallas Buyers Club",
+        "character": "Ron Woodroof",
+        "type": "Película",
+        "rating": 7.9
+      },
+      {
+        "year": 2013,
+        "title": "The Wolf of Wall Street",
+        "character": "Mark Hanna",
+        "type": "Película",
+        "rating": 8.2
+      },
+      {
+        "year": 2012,
+        "title": "Mud",
+        "character": "Mud",
+        "type": "Película",
+        "rating": 7.3
+      },
+      {
+        "year": 2012,
+        "title": "Magic Mike",
+        "character": "Dallas",
+        "type": "Película",
+        "rating": 6.1
+      },
+      {
+        "year": 2011,
+        "title": "The Lincoln Lawyer",
+        "character": "Mick Haller",
+        "type": "Película",
+        "rating": 7.3
+      },
+      {
+        "year": 2003,
+        "title": "How to Lose a Guy in 10 Days",
+        "character": "Benjamin Barry",
+        "type": "Película",
+        "rating": 6.5
+      },
+      {
+        "year": 1996,
+        "title": "A Time to Kill",
+        "character": "Jake Brigance",
+        "type": "Película",
+        "rating": 7.5
+      },
+      {
+        "year": 1993,
+        "title": "Dazed and Confused",
+        "character": "David Wooderson",
+        "type": "Película",
+        "rating": 7.6
+      }
+    ],
+    "image": "actores/ms_MatthewMcConaughey.png"
+  },
+
+{
+  "id": "a3",
+  "name": "Sigourney Weaver",
+  "birthYear": 1949,
+  "birthDate": "8 de octubre de 1949",
+  "birthPlace": "Manhattan, Nueva York, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Sigourney Weaver es una actriz estadounidense reconocida por una extensa trayectoria en cine, teatro y televisión. Alcanzó reconocimiento internacional por interpretar a Ellen Ripley en la saga Alien, personaje que se convirtió en uno de los más representativos del cine de ciencia ficción. También ha participado en producciones como Avatar, Gorillas in the Mist, Ghostbusters y Galaxy Quest.",
+  "knownFor": [
+    "Alien",
+    "Aliens",
+    "Avatar",
+    "Gorillas in the Mist"
+  ],
+  "filmography": [
+    {
+      "year": 2022,
+      "title": "Avatar: The Way of Water",
+      "character": "Kiri",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2016,
+      "title": "A Monster Calls",
+      "character": "Grandma",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2009,
+      "title": "Avatar",
+      "character": "Dr. Grace Augustine",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 1999,
+      "title": "Galaxy Quest",
+      "character": "Gwen DeMarco",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 1997,
+      "title": "Alien: Resurrection",
+      "character": "Ripley",
+      "type": "Película",
+      "rating": 6.2
+    },
+    {
+      "year": 1995,
+      "title": "Copycat",
+      "character": "Helen Hudson",
+      "type": "Película",
+      "rating": 6.6
+    },
+    {
+      "year": 1992,
+      "title": "Alien 3",
+      "character": "Ripley",
+      "type": "Película",
+      "rating": 6.4
+    },
+    {
+      "year": 1988,
+      "title": "Gorillas in the Mist",
+      "character": "Dian Fossey",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 1986,
+      "title": "Aliens",
+      "character": "Ellen Ripley",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 1984,
+      "title": "Ghostbusters",
+      "character": "Dana Barrett",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 1979,
+      "title": "Alien",
+      "character": "Ellen Ripley",
+      "type": "Película",
+      "rating": 8.4
+    }
+  ],
+  "image": "actores/ms_SigourneyWeaver.png"
+},
+{
+  "id": "a4",
+  "name": "Amy Adams",
+  "birthYear": 1974,
+  "birthDate": "20 de agosto de 1974",
+  "birthPlace": "Vicenza, Veneto, Italia",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Amy Adams es una actriz estadounidense nacida en Italia. Ha desarrollado una carrera reconocida por su versatilidad en dramas, comedias, musicales y ciencia ficción. Entre sus interpretaciones más conocidas se encuentran Louise Banks en Arrival, Giselle en Enchanted, Charlene Fleming en The Fighter y Lois Lane en varias producciones de DC.",
+  "knownFor": [
+    "Arrival",
+    "Enchanted",
+    "The Fighter",
+    "The Master"
+  ],
+  "filmography": [
+    {
+      "year": 2021,
+      "title": "The Woman in the Window",
+      "character": "Anna Fox",
+      "type": "Película",
+      "rating": 5.7
+    },
+    {
+      "year": 2018,
+      "title": "Vice",
+      "character": "Lynne Cheney",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2016,
+      "title": "Arrival",
+      "character": "Louise Banks",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 2016,
+      "title": "Nocturnal Animals",
+      "character": "Susan Morrow",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2016,
+      "title": "Batman v Superman: Dawn of Justice",
+      "character": "Lois Lane",
+      "type": "Película",
+      "rating": 6.5
+    },
+    {
+      "year": 2014,
+      "title": "Big Eyes",
+      "character": "Margaret Keane",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2013,
+      "title": "American Hustle",
+      "character": "Sydney Prosser",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2013,
+      "title": "Man of Steel",
+      "character": "Lois Lane",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2012,
+      "title": "The Master",
+      "character": "Peggy Dodd",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2010,
+      "title": "The Fighter",
+      "character": "Charlene Fleming",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2007,
+      "title": "Enchanted",
+      "character": "Giselle",
+      "type": "Película",
+      "rating": 7.1
+    }
+  ],
+  "image": "actores/ms_AmyAdams.png"
+},
+{
+  "id": "a5",
+  "name": "Leonardo DiCaprio",
+  "birthYear": 1974,
+  "birthDate": "11 de noviembre de 1974",
+  "birthPlace": "Hollywood, Los Ángeles, California, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actor y productor",
+  "biography": "Leonardo DiCaprio es un actor y productor estadounidense que inició su carrera en televisión y posteriormente alcanzó reconocimiento internacional durante la década de 1990. Tras protagonizar Romeo + Juliet y Titanic, consolidó su carrera como protagonista de grandes producciones y dramas dirigidos por cineastas como Martin Scorsese y Christopher Nolan.",
+  "knownFor": [
+    "Titanic",
+    "Inception",
+    "The Wolf of Wall Street",
+    "The Revenant"
+  ],
+  "filmography": [
+    {
+      "year": 2023,
+      "title": "Killers of the Flower Moon",
+      "character": "Ernest Burkhart",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2021,
+      "title": "Don't Look Up",
+      "character": "Dr. Randall Mindy",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2019,
+      "title": "Once Upon a Time... in Hollywood",
+      "character": "Rick Dalton",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2015,
+      "title": "The Revenant",
+      "character": "Hugh Glass",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2013,
+      "title": "The Wolf of Wall Street",
+      "character": "Jordan Belfort",
+      "type": "Película",
+      "rating": 8.2
+    },
+    {
+      "year": 2010,
+      "title": "Inception",
+      "character": "Dom Cobb",
+      "type": "Película",
+      "rating": 8.8
+    },
+    {
+      "year": 2010,
+      "title": "Shutter Island",
+      "character": "Teddy Daniels",
+      "type": "Película",
+      "rating": 8.2
+    },
+    {
+      "year": 2008,
+      "title": "Revolutionary Road",
+      "character": "Frank Wheeler",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2006,
+      "title": "The Departed",
+      "character": "Billy Costigan",
+      "type": "Película",
+      "rating": 8.5
+    },
+    {
+      "year": 2004,
+      "title": "The Aviator",
+      "character": "Howard Hughes",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2002,
+      "title": "Catch Me If You Can",
+      "character": "Frank Abagnale Jr.",
+      "type": "Película",
+      "rating": 8.1
+    },
+    {
+      "year": 1997,
+      "title": "Titanic",
+      "character": "Jack Dawson",
+      "type": "Película",
+      "rating": 8.0
+    }
+  ],
+  "image": "actores/ms_LeonardoDiCaprio.png"
+},
+{
+  "id": "a6",
+  "name": "Kate Winslet",
+  "birthYear": 1975,
+  "birthDate": "5 de octubre de 1975",
+  "birthPlace": "Reading, Berkshire, Inglaterra, Reino Unido",
+  "nationality": "Británica",
+  "occupation": "Actriz y productora",
+  "biography": "Kate Winslet es una actriz y productora británica reconocida por una extensa trayectoria en cine y televisión. Alcanzó fama internacional interpretando a Rose DeWitt Bukater en Titanic y posteriormente desarrolló numerosos papeles dramáticos en producciones como Eternal Sunshine of the Spotless Mind, Revolutionary Road y The Reader.",
+  "knownFor": [
+    "Titanic",
+    "Eternal Sunshine of the Spotless Mind",
+    "Revolutionary Road",
+    "The Reader"
+  ],
+  "filmography": [
+    {
+      "year": 2022,
+      "title": "Avatar: The Way of Water",
+      "character": "Ronal",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2021,
+      "title": "Mare of Easttown",
+      "character": "Mare Sheehan",
+      "type": "Miniserie",
+      "rating": 8.4
+    },
+    {
+      "year": 2015,
+      "title": "Steve Jobs",
+      "character": "Joanna Hoffman",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 2011,
+      "title": "Contagion",
+      "character": "Dr. Erin Mears",
+      "type": "Película",
+      "rating": 6.8
+    },
+    {
+      "year": 2008,
+      "title": "The Reader",
+      "character": "Hanna Schmitz",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2008,
+      "title": "Revolutionary Road",
+      "character": "April Wheeler",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2006,
+      "title": "The Holiday",
+      "character": "Iris Simpkins",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2004,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "character": "Clementine Kruczynski",
+      "type": "Película",
+      "rating": 8.3
+    },
+    {
+      "year": 2000,
+      "title": "Quills",
+      "character": "Madeleine LeClerc",
+      "type": "Película",
+      "rating": 7.2
+    },
+    {
+      "year": 1997,
+      "title": "Titanic",
+      "character": "Rose DeWitt Bukater",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 1995,
+      "title": "Sense and Sensibility",
+      "character": "Marianne Dashwood",
+      "type": "Película",
+      "rating": 7.7
+    }
+  ],
+  "image": "actores/ms_KateWinslet.png"
+},
+{
+  "id": "a7",
+  "name": "Scarlett Johansson",
+  "birthYear": 1984,
+  "birthDate": "22 de noviembre de 1984",
+  "birthPlace": "Manhattan, Nueva York, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Scarlett Johansson es una actriz y productora estadounidense que comenzó su carrera desde una edad temprana. Ha participado en dramas, películas de ciencia ficción, comedias y grandes producciones de acción. Alcanzó especial reconocimiento internacional por interpretar a Natasha Romanoff, también conocida como Black Widow, dentro del Universo Cinematográfico de Marvel.",
+  "knownFor": [
+    "Black Widow",
+    "Lost in Translation",
+    "Marriage Story",
+    "The Avengers"
+  ],
+  "filmography": [
+    {
+      "year": 2021,
+      "title": "Black Widow",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 6.7
+    },
+    {
+      "year": 2019,
+      "title": "Marriage Story",
+      "character": "Nicole Barber",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 2019,
+      "title": "Avengers: Endgame",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2018,
+      "title": "Avengers: Infinity War",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2016,
+      "title": "Captain America: Civil War",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2014,
+      "title": "Lucy",
+      "character": "Lucy",
+      "type": "Película",
+      "rating": 6.4
+    },
+    {
+      "year": 2013,
+      "title": "Her",
+      "character": "Samantha",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2012,
+      "title": "The Avengers",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2010,
+      "title": "Iron Man 2",
+      "character": "Natasha Romanoff / Black Widow",
+      "type": "Película",
+      "rating": 6.9
+    },
+    {
+      "year": 2008,
+      "title": "Vicky Cristina Barcelona",
+      "character": "Cristina",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2003,
+      "title": "Lost in Translation",
+      "character": "Charlotte",
+      "type": "Película",
+      "rating": 7.7
+    }
+  ],
+  "image": "actores/ms_ScarlettJohansson.png"
+},
+{
+  "id": "a8",
+  "name": "Chris Evans",
+  "birthYear": 1981,
+  "birthDate": "13 de junio de 1981",
+  "birthPlace": "Boston, Massachusetts, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actor, productor y director",
+  "biography": "Chris Evans es un actor, productor y director estadounidense. Comenzó su carrera en televisión y cine a comienzos de los años 2000 y posteriormente alcanzó reconocimiento internacional interpretando a Steve Rogers, también conocido como Captain America, dentro del Universo Cinematográfico de Marvel.",
+  "knownFor": [
+    "Captain America: The First Avenger",
+    "The Avengers",
+    "Avengers: Endgame",
+    "Knives Out"
+  ],
+  "filmography": [
+    {
+      "year": 2022,
+      "title": "The Gray Man",
+      "character": "Lloyd Hansen",
+      "type": "Película",
+      "rating": 6.5
+    },
+    {
+      "year": 2019,
+      "title": "Knives Out",
+      "character": "Ransom Drysdale",
+      "type": "Película",
+      "rating": 7.9
+    },
+    {
+      "year": 2019,
+      "title": "Avengers: Endgame",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2018,
+      "title": "Avengers: Infinity War",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 8.4
+    },
+    {
+      "year": 2016,
+      "title": "Captain America: Civil War",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2014,
+      "title": "Captain America: The Winter Soldier",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2013,
+      "title": "Snowpiercer",
+      "character": "Curtis",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2012,
+      "title": "The Avengers",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2011,
+      "title": "Captain America: The First Avenger",
+      "character": "Steve Rogers / Captain America",
+      "type": "Película",
+      "rating": 6.9
+    },
+    {
+      "year": 2010,
+      "title": "Scott Pilgrim vs. the World",
+      "character": "Lucas Lee",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2005,
+      "title": "Fantastic Four",
+      "character": "Johnny Storm / Human Torch",
+      "type": "Película",
+      "rating": 5.7
+    }
+  ],
+  "image": "actores/ms_ChrisEvans.png"
+},
+{
+  "id": "a9",
+  "name": "Emma Stone",
+  "birthYear": 1988,
+  "birthDate": "6 de noviembre de 1988",
+  "birthPlace": "Scottsdale, Arizona, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Emma Stone es una actriz y productora estadounidense. Comenzó su carrera profesional en televisión y alcanzó reconocimiento cinematográfico con producciones de comedia y drama. Su interpretación de Olive en Easy A consolidó su carrera como protagonista y posteriormente participó en películas como The Help, La La Land y Poor Things.",
+  "knownFor": [
+    "La La Land",
+    "Easy A",
+    "The Help",
+    "Poor Things"
+  ],
+  "filmography": [
+    {
+      "year": 2023,
+      "title": "Poor Things",
+      "character": "Bella Baxter",
+      "type": "Película",
+      "rating": 7.7
+    },
+    {
+      "year": 2021,
+      "title": "Cruella",
+      "character": "Estella / Cruella",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2018,
+      "title": "The Favourite",
+      "character": "Abigail",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2016,
+      "title": "La La Land",
+      "character": "Mia",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2014,
+      "title": "Birdman",
+      "character": "Sam",
+      "type": "Película",
+      "rating": 7.7
+    },
+    {
+      "year": 2011,
+      "title": "The Help",
+      "character": "Skeeter Phelan",
+      "type": "Película",
+      "rating": 8.1
+    },
+    {
+      "year": 2011,
+      "title": "Crazy, Stupid, Love.",
+      "character": "Hannah",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2010,
+      "title": "Easy A",
+      "character": "Olive",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2009,
+      "title": "Zombieland",
+      "character": "Wichita",
+      "type": "Película",
+      "rating": 7.6
+    },
+    {
+      "year": 2007,
+      "title": "Superbad",
+      "character": "Jules",
+      "type": "Película",
+      "rating": 7.6
+    }
+  ],
+  "image": "actores/ms_EmmaStone.png"
+},
+{
+  "id": "a10",
+  "name": "Ryan Gosling",
+  "birthYear": 1980,
+  "birthDate": "12 de noviembre de 1980",
+  "birthPlace": "London, Ontario, Canadá",
+  "nationality": "Canadiense",
+  "occupation": "Actor y productor",
+  "biography": "Ryan Gosling es un actor y productor canadiense que comenzó su carrera como intérprete infantil y posteriormente se consolidó en el cine. Ha trabajado en dramas, romances, musicales, thrillers y producciones de ciencia ficción. Entre sus trabajos más reconocidos se encuentran Drive, Blue Valentine, La La Land y Blade Runner 2049.",
+  "knownFor": [
+    "La La Land",
+    "Drive",
+    "Blue Valentine",
+    "Blade Runner 2049"
+  ],
+  "filmography": [
+    {
+      "year": 2023,
+      "title": "Barbie",
+      "character": "Ken",
+      "type": "Película",
+      "rating": 6.8
+    },
+    {
+      "year": 2022,
+      "title": "The Gray Man",
+      "character": "Six",
+      "type": "Película",
+      "rating": 6.5
+    },
+    {
+      "year": 2018,
+      "title": "First Man",
+      "character": "Neil Armstrong",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2017,
+      "title": "Blade Runner 2049",
+      "character": "K",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2016,
+      "title": "La La Land",
+      "character": "Sebastian",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2015,
+      "title": "The Big Short",
+      "character": "Jared Vennett",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2011,
+      "title": "Drive",
+      "character": "Driver",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2011,
+      "title": "Crazy, Stupid, Love.",
+      "character": "Jacob Palmer",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2010,
+      "title": "Blue Valentine",
+      "character": "Dean",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2004,
+      "title": "The Notebook",
+      "character": "Noah Calhoun",
+      "type": "Película",
+      "rating": 7.8
+    }
+  ],
+  "image": "actores/ms_RyanGosling.png"
+},
+{
+  "id": "a11",
+  "name": "Zendaya",
+  "birthYear": 1996,
+  "birthDate": "1 de septiembre de 1996",
+  "birthPlace": "Oakland, California, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actriz y productora",
+  "biography": "Zendaya es una actriz y productora estadounidense que comenzó su carrera profesional como modelo y bailarina antes de alcanzar reconocimiento en televisión. Posteriormente desarrolló una carrera cinematográfica en producciones como Spider-Man: Homecoming, The Greatest Showman, Dune y Challengers, además de protagonizar la serie Euphoria.",
+  "knownFor": [
+    "Euphoria",
+    "Dune",
+    "Spider-Man: Homecoming",
+    "Challengers"
+  ],
+  "filmography": [
+    {
+      "year": 2024,
+      "title": "Challengers",
+      "character": "Tashi Duncan",
+      "type": "Película",
+      "rating": 7.1
+    },
+    {
+      "year": 2024,
+      "title": "Dune: Part Two",
+      "character": "Chani",
+      "type": "Película",
+      "rating": 8.5
+    },
+    {
+      "year": 2021,
+      "title": "Dune",
+      "character": "Chani",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2021,
+      "title": "Spider-Man: No Way Home",
+      "character": "MJ",
+      "type": "Película",
+      "rating": 8.2
+    },
+    {
+      "year": 2019,
+      "title": "Euphoria",
+      "character": "Rue Bennett",
+      "type": "Serie",
+      "rating": 8.3
+    },
+    {
+      "year": 2019,
+      "title": "Spider-Man: Far From Home",
+      "character": "MJ",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2017,
+      "title": "The Greatest Showman",
+      "character": "Anne Wheeler",
+      "type": "Película",
+      "rating": 7.5
+    },
+    {
+      "year": 2017,
+      "title": "Spider-Man: Homecoming",
+      "character": "Michelle",
+      "type": "Película",
+      "rating": 7.4
+    }
+  ],
+  "image": "actores/ms_Zendaya.png"
+},
+{
+  "id": "a12",
+  "name": "Timothée Chalamet",
+  "birthYear": 1995,
+  "birthDate": "27 de diciembre de 1995",
+  "birthPlace": "Nueva York, Nueva York, Estados Unidos",
+  "nationality": "Estadounidense",
+  "occupation": "Actor y productor",
+  "biography": "Timothée Chalamet es un actor y productor estadounidense que comenzó su carrera con trabajos en televisión, teatro y cine. Alcanzó reconocimiento internacional por su interpretación en Call Me by Your Name y posteriormente protagonizó producciones como Lady Bird, Little Women, Dune, Wonka y A Complete Unknown.",
+  "knownFor": [
+    "Call Me by Your Name",
+    "Dune",
+    "Lady Bird",
+    "A Complete Unknown"
+  ],
+  "filmography": [
+    {
+      "year": 2024,
+      "title": "A Complete Unknown",
+      "character": "Bob Dylan",
+      "type": "Película",
+      "rating": 7.3
+    },
+    {
+      "year": 2024,
+      "title": "Dune: Part Two",
+      "character": "Paul Atreides",
+      "type": "Película",
+      "rating": 8.5
+    },
+    {
+      "year": 2023,
+      "title": "Wonka",
+      "character": "Willy Wonka",
+      "type": "Película",
+      "rating": 7.0
+    },
+    {
+      "year": 2021,
+      "title": "Dune",
+      "character": "Paul Atreides",
+      "type": "Película",
+      "rating": 8.0
+    },
+    {
+      "year": 2019,
+      "title": "Little Women",
+      "character": "Theodore Laurence",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2018,
+      "title": "Beautiful Boy",
+      "character": "Nic Sheff",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2017,
+      "title": "Call Me by Your Name",
+      "character": "Elio Perlman",
+      "type": "Película",
+      "rating": 7.8
+    },
+    {
+      "year": 2017,
+      "title": "Lady Bird",
+      "character": "Kyle Scheible",
+      "type": "Película",
+      "rating": 7.4
+    },
+    {
+      "year": 2014,
+      "title": "Interstellar",
+      "character": "Tom Cooper joven",
+      "type": "Película",
+      "rating": 8.7
+    }
+  ],
+  "image": "actores/ms_TimotheeChalamet.png"
+}
+]

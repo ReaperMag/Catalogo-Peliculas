@@ -1,32 +1,1534 @@
 [
   {
-    "id": "m1",
-    "title": "The Matrix",
-    "year": 1999,
-    "rating": 8.7,
-    "duration": "2h 16m",
-    "genres": ["Action", "Sci-Fi"],
-    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=600&q=80",
-    "synopsis": "A hacker discovers that reality is a simulated world and joins a rebellion against its controllers."
-  },
-  {
-    "id": "m2",
-    "title": "Interstellar",
-    "year": 2014,
-    "rating": 8.7,
-    "duration": "2h 49m",
-    "genres": ["Adventure", "Drama", "Sci-Fi"],
-    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=600&q=80",
-    "synopsis": "A team of explorers travels through a wormhole in space in search of a future for humanity."
-  },
-  {
-    "id": "m3",
-    "title": "The Dark Knight",
-    "year": 2008,
-    "rating": 9.0,
-    "duration": "2h 32m",
-    "genres": ["Action", "Crime", "Drama"],
-    "posterUrl": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?auto=format&fit=crop&w=600&q=80",
-    "synopsis": "A masked vigilante faces a chaotic criminal mastermind who pushes Gotham to its limits."
-  }
+  "id": "m4",
+  "title": "Rosas Rojas",
+  "originalTitle": "Imagine Me & You",
+  "tagline": "Ahi va la novia.",
+  "year": 2005,
+  "rating": 6.8,
+  "metascore": 49,
+  "duration": "1h 30m",
+  "certification": "R",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Drama"
+  ],
+
+  "synopsis": "Rachel está a punto de comenzar su vida matrimonial con Heck cuando conoce a Luce, la florista encargada de su boda. La conexión entre ambas es inmediata y, a medida que su amistad crece, Rachel comienza a cuestionar los sentimientos que creía tener claros y debe decidir qué quiere realmente para su vida.",
+
+  "image": "peliculas/imagine-me-and-you.jpg",
+
+  "trailerUrl": "https://youtu.be/X-EEMiSmnNw?si=9c8EzkyXIDoOo4Q3",
+  "viewCount": null,
+
+  "director": "Ol Parker",
+
+  "writers": [
+    "Ol Parker"
+  ],
+
+  "music": "Alex Heffes",
+  "cinematography": "Ben Davis",
+  "editing": "Alex Mackie",
+
+  "country": "Reino Unido / Alemania",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "BBC Films",
+    "Ealing Studios",
+    "Focus Features",
+    "Cougar Films",
+    "Fragile Films"
+  ],
+
+  "boxOffice": "$2.64 millones mundial",
+
+  "cast": [
+    {
+      "name": "Piper Perabo",
+      "character": "Rachel"
+    },
+    {
+      "name": "Lena Headey",
+      "character": "Luce"
+    },
+    {
+      "name": "Matthew Goode",
+      "character": "Heck"
+    },
+    {
+      "name": "Celia Imrie",
+      "character": "Tessa"
+    },
+    {
+      "name": "Anthony Head",
+      "character": "Ned"
+    },
+    {
+      "name": "Darren Boyd",
+      "character": "Cooper"
+    }
+  ],
+
+  "awards": [
+    "1 nominación total",
+    "Nominada a los GLAAD Media Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Título inspirado en una canción",
+      "text": "El título Imagine Me & You proviene de una línea de la canción Happy Together de The Turtles."
+    },
+    {
+      "title": "Título original del proyecto",
+      "text": "Ol Parker explicó que inicialmente la película iba a llamarse Click, pero el nombre fue cambiado antes de su estreno."
+    },
+    {
+      "title": "Rodaje y producción británica",
+      "text": "La película fue desarrollada como una coproducción principalmente británica y alemana con participación de BBC Films, Ealing Studios y Focus Features."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "49 / 100",
+      "text": "La recepción crítica agregada fue mixta, aunque varias reseñas destacaron el encanto del reparto y algunos de sus diálogos."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.8 / 10",
+      "text": "Una comedia romántica centrada en el descubrimiento personal, el amor inesperado y las decisiones emocionales que surgen después de un encuentro fortuito."
+    }
+  ]
+},
+{
+  "id": "m5",
+  "title": "Cuestión de tiempo",
+  "originalTitle": "About Time",
+  "tagline": "Una nueva comedia sobre el amor y valorar el tiempo.",
+  "year": 2013,
+  "rating": 7.8,
+  "metascore": 55,
+  "duration": "2h 3m",
+  "certification": "R",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Drama",
+    "Fantasía"
+  ],
+
+  "synopsis": "A los 21 años, Tim descubre que los hombres de su familia pueden viajar en el tiempo. Aunque no puede cambiar la historia, decide utilizar esta habilidad para mejorar su vida y encontrar el amor. Cuando conoce a Mary, comprende que incluso viajar al pasado no puede evitar todos los problemas y pérdidas de la vida cotidiana.",
+
+  "image": "peliculas/cuestion-de-tiempo.jpg",
+
+  "trailerUrl": "https://youtu.be/hGehr1xjnDA?si=cipee2hy1zyvkGtE",
+
+  "viewCount": null,
+
+  "director": "Richard Curtis",
+
+  "writers": [
+    "Richard Curtis"
+  ],
+
+  "music": "Nick Laird-Clowes",
+  "cinematography": "John Guleserian",
+  "editing": "Mark Day",
+
+  "country": "Reino Unido / Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Working Title Films",
+    "Relativity Media"
+  ],
+
+  "boxOffice": "$87.1 millones mundial",
+
+  "cast": [
+    {
+      "name": "Domhnall Gleeson",
+      "character": "Tim Lake"
+    },
+    {
+      "name": "Rachel McAdams",
+      "character": "Mary"
+    },
+    {
+      "name": "Bill Nighy",
+      "character": "James Lake"
+    },
+    {
+      "name": "Lydia Wilson",
+      "character": "Kit Kat"
+    },
+    {
+      "name": "Lindsay Duncan",
+      "character": "Mary Lake"
+    },
+    {
+      "name": "Tom Hollander",
+      "character": "Harry"
+    }
+  ],
+
+  "awards": [
+    "3 premios y 9 nominaciones",
+    "Nominada en los Saturn Awards",
+    "Ganadora en los Golden Trailer Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Richard Curtis volvió a dirigir",
+      "text": "La película fue escrita y dirigida por Richard Curtis, conocido también por historias románticas como Love Actually y Notting Hill."
+    },
+    {
+      "title": "El viaje en el tiempo no es el centro",
+      "text": "Aunque la historia utiliza viajes en el tiempo, el argumento se enfoca principalmente en las relaciones, la familia y la forma de valorar la vida cotidiana."
+    },
+    {
+      "title": "Producción británica",
+      "text": "La película fue producida principalmente por Working Title Films y distribuida internacionalmente por Universal Pictures."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "55 / 100",
+      "text": "La recepción crítica fue mixta o favorable, destacando especialmente el tono emotivo de la historia y las actuaciones del reparto."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.8 / 10",
+      "text": "Una historia romántica que utiliza los viajes en el tiempo para explorar el amor, la familia y la importancia de disfrutar los momentos cotidianos."
+    }
+  ]
+},
+{
+  "id": "m6",
+  "title": "Si yo tuviera 30",
+  "originalTitle": "13 Going on 30",
+  "tagline": "Para algunas, los 30 son los nuevos 13.",
+  "year": 2004,
+  "rating": 6.3,
+  "metascore": 57,
+  "duration": "1h 38m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Fantasía"
+  ],
+
+  "synopsis": "Jenna Rink, una adolescente de trece años, desea desesperadamente ser adulta. Después de una fiesta de cumpleaños desastrosa, despierta de manera inexplicable con treinta años y descubre que tiene la vida que siempre quiso. Sin embargo, mientras intenta comprender en quién se ha convertido, comienza a valorar las amistades, decisiones y sentimientos que dejó atrás.",
+
+  "image": "peliculas/si-yo-tuviera-30.png",
+
+  "trailerUrl": "https://youtu.be/Zk07Lkpfn-M?si=FbS99fm0L-ZCsYFH",
+
+  "viewCount": null,
+
+  "director": "Gary Winick",
+
+  "writers": [
+    "Josh Goldsmith",
+    "Cathy Yuspa"
+  ],
+
+  "music": "Theodore Shapiro",
+  "cinematography": "Don Burgess",
+  "editing": "Susan Littenberg",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Revolution Studios",
+    "Columbia Pictures"
+  ],
+
+  "boxOffice": "$96.5 millones mundial",
+
+  "cast": [
+    {
+      "name": "Jennifer Garner",
+      "character": "Jenna Rink"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "character": "Matt Flamhaff"
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Lucy Wyman"
+    },
+    {
+      "name": "Andy Serkis",
+      "character": "Richard Kneeland"
+    },
+    {
+      "name": "Kathy Baker",
+      "character": "Beverly Rink"
+    },
+    {
+      "name": "Christa B. Allen",
+      "character": "Jenna Rink joven"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de varios premios juveniles y nominaciones por sus actuaciones",
+    "Reconocida como una de las comedias románticas más recordadas de los años 2000"
+  ],
+
+  "trivia": [
+    {
+      "title": "Una escena muy recordada",
+      "text": "La secuencia de baile con Thriller de Michael Jackson se convirtió en una de las escenas más reconocibles de la película."
+    },
+    {
+      "title": "Jennifer Garner y Christa B. Allen",
+      "text": "Christa B. Allen interpreta a Jenna adolescente y años después volvería a interpretar una versión joven de un personaje de Jennifer Garner."
+    },
+    {
+      "title": "Ambientación en Nueva York",
+      "text": "Gran parte de la historia transcurre en el mundo editorial y de revistas de moda de Nueva York."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "57 / 100",
+      "text": "La recepción crítica fue mixta o favorable, con elogios frecuentes a la actuación carismática de Jennifer Garner."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.3 / 10",
+      "text": "Una comedia romántica ligera que combina fantasía, nostalgia y crecimiento personal alrededor del deseo de crecer demasiado rápido."
+    }
+  ]
+},
+{
+  "id": "m7",
+  "title": "Ella es el hombre",
+  "originalTitle": "She's the Man",
+  "tagline": "Todos tienen un secreto.",
+  "year": 2006,
+  "rating": 6.4,
+  "metascore": 45,
+  "duration": "1h 45m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Romance",
+    "Comedia",
+    "Deporte"
+  ],
+
+  "synopsis": "Viola Hastings quiere demostrar que puede jugar fútbol tan bien como los chicos. Cuando su hermano gemelo Sebastian se ausenta de su nuevo internado, Viola decide hacerse pasar por él y ocupar su lugar en el equipo masculino. La situación se complica cuando comienza a enamorarse de su compañero de habitación, Duke, mientras Olivia se interesa por Sebastian sin saber que en realidad es Viola.",
+
+  "image": "peliculas/ella-es-el-hombre.jpg",
+
+  "trailerUrl": "https://youtu.be/9oDZXr1sZrs?si=fTWethlhB9fvu006",
+
+  "viewCount": null,
+
+  "director": "Andy Fickman",
+
+  "writers": [
+    "Ewan Leslie",
+    "Karen McCullah",
+    "Kirsten Smith"
+  ],
+
+  "basedOn": "Twelfth Night de William Shakespeare",
+
+  "music": "Nathan Wang",
+  "cinematography": "Greg Gardiner",
+  "editing": "Michael Jablow",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "DreamWorks Pictures",
+    "Lakeshore Entertainment",
+    "The Donners' Company"
+  ],
+
+  "boxOffice": "$57.2 millones mundial",
+
+  "cast": [
+    {
+      "name": "Amanda Bynes",
+      "character": "Viola Hastings"
+    },
+    {
+      "name": "Channing Tatum",
+      "character": "Duke Orsino"
+    },
+    {
+      "name": "Laura Ramsey",
+      "character": "Olivia Lennox"
+    },
+    {
+      "name": "James Kirk",
+      "character": "Sebastian Hastings"
+    },
+    {
+      "name": "Robert Hoffman",
+      "character": "Justin Drayton"
+    },
+    {
+      "name": "Alex Breckenridge",
+      "character": "Monique Valentine"
+    }
+  ],
+
+  "awards": [
+    "Varias nominaciones en premios juveniles por su reparto y comedia",
+    "Amanda Bynes recibió reconocimiento por su interpretación cómica"
+  ],
+
+  "trivia": [
+    {
+      "title": "Inspirada en Shakespeare",
+      "text": "La historia es una adaptación moderna de la obra Twelfth Night de William Shakespeare."
+    },
+    {
+      "title": "Amanda Bynes aprendió fútbol",
+      "text": "Durante la producción, Amanda Bynes tuvo que entrenar fútbol para interpretar a Viola y realizó buena parte de las escenas deportivas."
+    },
+    {
+      "title": "Rodaje en Canadá",
+      "text": "Aunque la historia se desarrolla en Estados Unidos, varias escenas fueron filmadas en Columbia Británica, Canadá."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "45 / 100",
+      "text": "La recepción crítica fue mixta, aunque varias reseñas destacaron la energía y el desempeño cómico de Amanda Bynes."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.4 / 10",
+      "text": "Una comedia romántica juvenil que combina romance, fútbol y una identidad equivocada inspirada en Shakespeare."
+    }
+  ]
+},
+{
+  "id": "m8",
+  "title": "Diario de una pasión",
+  "originalTitle": "The Notebook",
+  "tagline": "Detrás de cada gran amor hay una gran historia.",
+  "year": 2004,
+  "rating": 7.8,
+  "metascore": 53,
+  "duration": "2h 3m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+
+  "synopsis": "En la década de 1940, Noah Calhoun y Allie Hamilton viven un intenso romance de verano que se ve interrumpido por las diferencias sociales y las decisiones familiares. Años después, sus caminos vuelven a cruzarse y ambos deberán enfrentar los sentimientos que aún conservan, mientras una historia de amor es recordada a través de un viejo cuaderno.",
+
+  "image": "peliculas/diario-de-una-pasion.jpg",
+
+  "trailerUrl": "https://youtu.be/DqJbx39Cs2k?si=yEc_ETW_7AMtauSS",
+
+  "viewCount": null,
+
+  "director": "Nick Cassavetes",
+
+  "writers": [
+    "Jeremy Leven",
+    "Jan Sardi"
+  ],
+
+  "basedOn": "The Notebook de Nicholas Sparks",
+
+  "music": "Aaron Zigman",
+  "cinematography": "Robert Fraisse",
+  "editing": "Alan Heim",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "New Line Cinema",
+    "Gran Via Productions",
+    "Avery Pix"
+  ],
+
+  "boxOffice": "$118.2 millones mundial",
+
+  "cast": [
+    {
+      "name": "Ryan Gosling",
+      "character": "Noah Calhoun"
+    },
+    {
+      "name": "Rachel McAdams",
+      "character": "Allie Hamilton"
+    },
+    {
+      "name": "James Garner",
+      "character": "Duke"
+    },
+    {
+      "name": "Gena Rowlands",
+      "character": "Allie mayor"
+    },
+    {
+      "name": "Joan Allen",
+      "character": "Anne Hamilton"
+    },
+    {
+      "name": "Sam Shepard",
+      "character": "Frank Calhoun"
+    }
+  ],
+
+  "awards": [
+    "Ganadora del MTV Movie Award a Mejor Beso",
+    "Reconocida como una de las películas románticas más populares de los años 2000"
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en una novela",
+      "text": "La película está basada en la novela The Notebook de Nicholas Sparks, uno de los autores más conocidos del género romántico."
+    },
+    {
+      "title": "Ryan Gosling fue elegido por su perfil diferente",
+      "text": "Nick Cassavetes comentó que eligió a Ryan Gosling porque quería un protagonista que no tuviera el aspecto típico de estrella romántica."
+    },
+    {
+      "title": "Una pareja muy recordada",
+      "text": "La química entre Ryan Gosling y Rachel McAdams convirtió a la película en una de las historias de amor más recordadas del cine romántico contemporáneo."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "53 / 100",
+      "text": "La recepción crítica fue mixta, aunque con el tiempo la película ganó gran popularidad entre el público y se convirtió en un referente del romance moderno."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.8 / 10",
+      "text": "Una historia romántica intensa y emotiva sobre el paso del tiempo, la memoria y un amor que persiste a pesar de los obstáculos."
+    }
+  ]
+},
+{
+  "id": "m51",
+  "title": "El Conjuro",
+  "originalTitle": "The Conjuring",
+  "tagline": "Basada en los archivos de casos reales de Ed y Lorraine Warren.",
+  "year": 2013,
+  "rating": 7.5,
+  "metascore": 68,
+  "duration": "1h 52m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Suspenso"
+  ],
+
+  "synopsis": "A principios de los años 70, los investigadores paranormales de renombre mundial Ed y Lorraine Warren son llamados para ayudar a la familia Perron, que experimenta sucesos aterradores y oscuros en su granja aislada en Rhode Island. Al enfrentarse a una poderosa entidad demoníaca, los Warren se ven envueltos en el caso más peligroso de sus carreras.",
+
+  "image": "peliculas/conjuro.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+  "viewCount": null,
+
+  "director": "James Wan",
+
+  "writers": [
+    "Chad Hayes",
+    "Carey W. Hayes"
+  ],
+
+  "music": "Joseph Bishara",
+  "cinematography": "John R. Leonetti",
+  "editing": "Kirk M. Morri",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "New Line Cinema",
+    "The Safran Company",
+    "Evergreen Media Group"
+  ],
+
+  "boxOffice": "$319.5 millones mundial",
+
+  "cast": [
+    {
+      "name": "Vera Farmiga",
+      "character": "Lorraine Warren"
+    },
+    {
+      "name": "Patrick Wilson",
+      "character": "Ed Warren"
+    },
+    {
+      "name": "Lili Taylor",
+      "character": "Carolyn Perron"
+    },
+    {
+      "name": "Ron Livingston",
+      "character": "Roger Perron"
+    },
+    {
+      "name": "Shanley Caswell",
+      "character": "Andrea Perron"
+    },
+    {
+      "name": "Hayley McFarland",
+      "character": "Nancy Perron"
+    }
+  ],
+
+  "awards": [
+    "15 victorias y 22 nominaciones totales",
+    "Ganadora del Saturn Award a Mejor Película de Terror"
+  ],
+
+  "trivia": [
+    {
+      "title": "Inspirada en hechos reales",
+      "text": "La película se basa en las experiencias reales registradas por los demonólogos Ed y Lorraine Warren durante su investigación en la residencia Perron en 1971."
+    },
+    {
+      "title": "Asesoría de la verdadera Lorraine Warren",
+      "text": "Lorraine Warren actuó como consultora en la producción y realizó una breve aparición cameo en el auditorio donde Ed imparte una conferencia."
+    },
+    {
+      "title": "Universo cinematográfico masivo",
+      "text": "El enorme éxito comercial de la película dio origen a un universo compartido que incluye secuelas y spin-offs centrados en Annabelle y La Monja."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "68 / 100",
+      "text": "La crítica destacó la dirección atmosférica de James Wan y la capacidad de revitalizar los tropos clásicos del cine de casas embrujadas con sustos genuinos."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.5 / 10",
+      "text": "Una de las películas de terror más aclamadas de la década que sentó las bases para una franquicia taquillera basada en expedientes paranormales."
+    }
+  ]
+},
+{
+  "id": "m56",
+  "title": "Halloween",
+  "originalTitle": "Halloween",
+  "tagline": "El mal vuelve a casa.",
+  "year": 2018,
+  "rating": 6.5,
+  "metascore": 67,
+  "duration": "1h 46m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Slasher",
+    "Suspenso"
+  ],
+
+  "synopsis": "Cuarenta años después de escapar por poco del ataque de Michael Myers en la noche de Halloween, Laurie Strode se enfrenta de nuevo al enmascarado Asesino de Haddonfield. Preparada tras décadas de trauma y aislamiento, Laurie intentará proteger a su hija y a su nieta en la confrontación final.",
+
+  "image": "peliculas/halloween.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=ek1ePFp-nBI",
+  "viewCount": null,
+
+  "director": "David Gordon Green",
+
+  "writers": [
+    "David Gordon Green",
+    "Danny McBride",
+    "Jeff Fradley"
+  ],
+
+  "music": "John Carpenter, Cody Carpenter, Daniel Davies",
+  "cinematography": "Michael Simmonds",
+  "editing": "Tim Alverson",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Blumhouse Productions",
+    "Miramax",
+    "Rough House Pictures",
+    "Trancas International Films"
+  ],
+
+  "boxOffice": "$255.6 millones mundial",
+
+  "cast": [
+    {
+      "name": "Jamie Lee Curtis",
+      "character": "Laurie Strode"
+    },
+    {
+      "name": "Judy Greer",
+      "character": "Karen Nelson"
+    },
+    {
+      "name": "Andi Matichak",
+      "character": "Allyson Nelson"
+    },
+    {
+      "name": "Nick Castle / James Jude Courtney",
+      "character": "Michael Myers / The Shape"
+    },
+    {
+      "name": "Haluk Bilginer",
+      "character": "Dr. Ranbir Sartain"
+    },
+    {
+      "name": "Will Patton",
+      "character": "Oficial Frank Hawkins"
+    }
+  ],
+
+  "awards": [
+    "4 victorias y 19 nominaciones totales",
+    "Ganadora de Mejor Película de Terror en los Fright Meter Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Secuela directa ignorando secuelas anteriores",
+      "text": "La película ignora todas las secuelas lanzadas desde 1981, sirviendo como continuación directa de la película original de John Carpenter de 1978."
+    },
+    {
+      "title": "Retorno de John Carpenter",
+      "text": "John Carpenter regresó a la franquicia como productor ejecutivo y compositor de la banda sonora por primera vez desde Halloween III en 1982."
+    },
+    {
+      "title": "El regreso de Nick Castle",
+      "text": "Nick Castle, quien interpretó originalmente a 'The Shape' en la cinta de 1978, volvió para realizar algunas escenas seleccionadas y aportar los respiraciones características del personaje."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "67 / 100",
+      "text": "La crítica respaldó el regreso de Jamie Lee Curtis y la dirección de David Gordon Green, destacando el equilibrio entre el homenaje nostálgico y la violencia del slasher moderno."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "6.5 / 10",
+      "text": "Un reinicio efectivo que revitaliza al villano icónico Michael Myers mientras explora el trauma generacional de la familia Strode."
+    }
+  ]
+},
+{
+  "id": "m57",
+  "title": "Háblame",
+  "originalTitle": "Talk to Me",
+  "tagline": "Abre la puerta al otro lado. Solo mantén el contacto 90 segundos.",
+  "year": 2022,
+  "rating": 7.1,
+  "metascore": 76,
+  "duration": "1h 35m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Suspenso"
+  ],
+
+  "synopsis": "Un grupo de amigos descubre cómo invocar espíritus utilizando una mano embalsamada misteriosa. Lo que comienza como un emocionante juego de fiesta donde experimentan breves posesiones se vuelve aterrador cuando una de las sesiones rompe la regla de los 90 segundos y desata fuerzas sobrenaturales devastadoras.",
+
+  "image": "peliculas/talk2me.png",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=aLAKJu9aJys",
+  "viewCount": null,
+
+  "director": "Danny Philippou, Michael Philippou",
+
+  "writers": [
+    "Danny Philippou",
+    "Bill Hinzman"
+  ],
+
+  "music": "Cornel Wilczek",
+  "cinematography": "Aaron McLisky",
+  "editing": "Geoff Lamb",
+
+  "country": "Australia",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Causeway Films",
+    "Bankside Films",
+    "A24"
+  ],
+
+  "boxOffice": "$92.1 millones mundial",
+
+  "cast": [
+    {
+      "name": "Sophie Wilde",
+      "character": "Mia"
+    },
+    {
+      "name": "Alexandra Jensen",
+      "character": "Jade"
+    },
+    {
+      "name": "Joe Bird",
+      "character": "Riley"
+    },
+    {
+      "name": "Otis Dhanji",
+      "character": "Daniel"
+    },
+    {
+      "name": "Miranda Otto",
+      "character": "Sue"
+    },
+    {
+      "name": "Zoe Terakes",
+      "character": "Hayley"
+    }
+  ],
+
+  "awards": [
+    "18 victorias y 38 nominaciones totales",
+    "Ganadora de Mejor Película en los AACTA Awards"
+  ],
+
+  "trivia": [
+    {
+      "title": "Debut de YouTubers australianos",
+      "text": "La película fue dirigida por los hermanos gemelos Danny y Michael Philippou, conocidos popularmente por su canal de YouTube RackaRacka."
+    },
+    {
+      "title": "Éxito masivo para A24",
+      "text": "Tras su estreno en el Festival de Cine de Sundance, A24 adquirió los derechos de distribución y la convirtió en una de sus películas de terror más taquilleras."
+    },
+    {
+      "title": "Regla inspirada en adicciones",
+      "text": "Los directores concibieron el concepto del límite de los 90 segundos y la adicción al ritual como una metáfora visual del abuso de sustancias entre jóvenes."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "76 / 100",
+      "text": "Aclamada por la crítica por su premisa aterradora, una dirección visceral y la destacada interpretación protagonista de Sophie Wilde."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.1 / 10",
+      "text": "Un soplo de aire fresco para el género sobrenatural que combina la presión social de la era moderna con posesiones oscuras e impactantes."
+    }
+  ]
+},
+{
+  "id": "m58",
+  "title": "El Exorcista",
+  "originalTitle": "The Exorcist",
+  "tagline": "Algo aterrador le está ocurriendo a la pequeña Regan.",
+  "year": 1973,
+  "rating": 8.1,
+  "metascore": 81,
+  "duration": "2h 02m",
+  "certification": "R",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Drama"
+  ],
+
+  "synopsis": "Cuando una niña de doce años es poseída por una entidad misteriosa, su desesperada madre recurre a la ayuda de dos sacerdotes para intentar salvarla mediante un peligroso ritual de exorcismo.",
+
+  "image": "peliculas/exor.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=7iCJssW8XiI",
+  "viewCount": null,
+
+  "director": "William Friedkin",
+
+  "writers": [
+    "William Peter Blatty"
+  ],
+
+  "music": "Mike Oldfield, Jack Nitzsche",
+  "cinematography": "Owen Roizman",
+  "editing": "Norman Gay, Evan A. Lottman",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "Warner Bros.",
+    "Hoya Productions"
+  ],
+
+  "boxOffice": "$441.3 millones mundial",
+
+  "cast": [
+    {
+      "name": "Ellen Burstyn",
+      "character": "Chris MacNeil"
+    },
+    {
+      "name": "Linda Blair",
+      "character": "Regan MacNeil"
+    },
+    {
+      "name": "Jason Miller",
+      "character": "Padre Damien Karras"
+    },
+    {
+      "name": "Max von Sydow",
+      "character": "Padre Lankester Merrin"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "character": "Teniente William F. Kinderman"
+    },
+    {
+      "name": "Mercedes McCambridge",
+      "character": "Voz de Pazuzu / Demonio"
+    }
+  ],
+
+  "awards": [
+    "Ganadora de 2 Premios Oscar y 4 Golden Globes",
+    "Primera película de terror nominada a Mejor Película en los Oscar"
+  ],
+
+  "trivia": [
+    {
+      "title": "Basada en hechos reales y novela",
+      "text": "La historia fue escrita por William Peter Blatty inspirándose en el caso real de exorcismo de un niño conocido como 'Roland Doe' en 1949."
+    },
+    {
+      "title": "Efectos en la audiencia",
+      "text": "Durante su estreno original en cines en 1973, la película causó desmayos, náuseas y crisis de pánico entre los espectadores debido a su realismo e intensidad."
+    },
+    {
+      "title": "Tema musical icónico",
+      "text": "El célebre tema principal 'Tubular Bells' fue compuesto por Mike Oldfield y se convirtió en una de las melodías más reconocibles de la historia del cine."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "81 / 100",
+      "text": "Considerada unánimemente una obra maestra del cine de terror que redefinió las convenciones del género y el impacto cultural en la taquilla."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "8.1 / 10",
+      "text": "Un clásico atemporal del terror psicológico y religioso que destaca por actuaciones excepcionales y efectos prácticos perturbadores."
+    }
+  ]
+},
+{
+  "id": "m59",
+  "title": "The Backrooms",
+  "originalTitle": "The Backrooms",
+  "tagline": "Si no tienes cuidado y te sales de la realidad en los lugares equivocados...",
+  "year": 2026,
+  "rating": 7.3,
+  "metascore": 72,
+  "duration": "1h 45m",
+  "certification": "PG-13",
+
+  "genres": [
+    "Terror",
+    "Misterio",
+    "Ciencia ficción",
+    "Suspenso"
+  ],
+
+  "synopsis": "Cuando un joven cae accidentalmente a través de los límites de la realidad física, se encuentra atrapado en un laberinto infinito de habitaciones de oficina vacías, moqueta húmeda y luces fluorescentes zumbantes. A medida que explora las interminables salas amarillas, descubre que no está completamente solo en este plano liminal.",
+
+  "image": "peliculas/backrooms.jpg",
+
+  "trailerUrl": "https://www.youtube.com/watch?v=0HjdiohVOik",
+  "viewCount": null,
+
+  "director": "Kane Parsons",
+
+  "writers": [
+    "Will Soodik",
+    "Kane Parsons"
+  ],
+
+  "music": "Kane Parsons, Edo Van Breemen",
+  "cinematography": "Kane Parsons",
+  "editing": "Kane Parsons",
+
+  "country": "Estados Unidos",
+  "language": "Inglés",
+
+  "productionCompanies": [
+    "A24",
+    "Atomic Monster",
+    "Chernin Entertainment",
+    "21 Laps Entertainment"
+  ],
+
+  "boxOffice": "$382 millones mundial",
+
+  "cast": [
+    {
+      "name": "Chiwetel Ejiofor",
+      "character": "Dr. Mark Thorne"
+    },
+    {
+      "name": "Renate Reinsve",
+      "character": "Elena"
+    },
+    {
+      "name": "Mark Duplass",
+      "character": "Investigador ASYNC"
+    },
+    {
+      "name": "Avan Jogia",
+      "character": "Técnico de laboratorio"
+    },
+    {
+      "name": "Finn Bennett",
+      "character": "Sujeto de prueba"
+    },
+    {
+      "name": "Lukita Maxwell",
+      "character": "Operadora"
+    }
+  ],
+
+  "awards": [
+    "3 victorias y 8 nominaciones totales",
+    "Película revelación en festivales de cine de género"
+  ],
+
+  "trivia": [
+    {
+      "title": "Director de 20 años",
+      "text": "El creador original de la serie en YouTube, Kane Parsons (Kane Pixels), fue contratado por A24 para dirigir el largometraje cuando tenía solo 17 años, convirtiéndose en el director más joven en la historia del estudio."
+    },
+    {
+      "title": "Origen en el creepypasta de internet",
+      "text": "La premisa se basa en una célebre leyenda urbana de internet sobre 'no-clipping' fuera de la realidad hacia dimensiones infinitas de espacios liminales."
+    },
+    {
+      "title": "Respaldado por gigantes del terror",
+      "text": "La producción contó con el apoyo de James Wan (creador de El Conjuro) y Shawn Levy (productor de Stranger Things) a través de sus respectivas productoras."
+    }
+  ],
+
+  "reviews": [
+    {
+      "author": "Metacritic",
+      "source": "Crítica agregada",
+      "score": "72 / 100",
+      "text": "Elogiada por adaptar con éxito la atmósfera opresiva y el terror liminal de los cortometrajes de YouTube a una narrativa cinematográfica envolvente."
+    },
+    {
+      "author": "CineBase",
+      "source": "Ficha informativa",
+      "score": "7.3 / 10",
+      "text": "Una experiencia inquietante que transforma la monotonía arquitectónica y la soledad en un relato de ciencia ficción y suspenso altamente efectivo."
+    }
+  ]
+},
+{
+  "id": "ms-p1",
+  "title": "El padrino. Parte II",
+  "originalTitle": "The Godfather Part II",
+  "tagline": "Toda familia tiene sus secretos.",
+  "year": 1974,
+  "rating": 9.0,
+  "metascore": 90,
+  "duration": "3h 22m",
+  "certification": "R",
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "La historia continúa la vida de Michael Corleone mientras consolida y expande el poder de la familia Corleone, al mismo tiempo que se muestra, en paralelo, el ascenso de su padre Vito Corleone desde su juventud en Sicilia hasta convertirse en una figura central del crimen organizado en Nueva York.",
+  "image": "peliculas/ms_TheGodfatherPartII.png",
+  "director": "Francis Ford Coppola",
+  "writers": [
+    "Francis Ford Coppola",
+    "Mario Puzo"
+  ],
+  "cast": [
+    {
+      "name": "Al Pacino",
+      "character": "Michael Corleone"
+    },
+    {
+      "name": "Robert De Niro",
+      "character": "Vito Corleone"
+    },
+    {
+      "name": "Robert Duvall",
+      "character": "Tom Hagen"
+    },
+    {
+      "name": "Diane Keaton",
+      "character": "Kay Adams-Corleone"
+    },
+    {
+      "name": "John Cazale",
+      "character": "Fredo Corleone"
+    },
+    {
+      "name": "Talia Shire",
+      "character": "Connie Corleone"
+    },
+    {
+      "name": "Lee Strasberg",
+      "character": "Hyman Roth"
+    }
+  ],
+  "music": "Nino Rota y Carmine Coppola",
+  "country": "Estados Unidos",
+  "language": "Inglés / Italiano / Español",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company"
+  ],
+  "awards": [
+    "Ganadora de 6 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Actor de Reparto para Robert De Niro."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Una continuación ambiciosa que expande la historia de la familia Corleone mediante dos líneas temporales conectadas por el poder, la familia y la pérdida."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es ampliamente valorada por sus actuaciones, su estructura narrativa y la evolución de Michael Corleone."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Robert De Niro como Vito Corleone",
+      "text": "Robert De Niro interpreta a la versión joven de Vito Corleone y ganó el Óscar a Mejor Actor de Reparto por su actuación."
+    },
+    {
+      "title": "Dos líneas temporales",
+      "text": "La película alterna entre la consolidación del poder de Michael Corleone y la juventud de Vito Corleone."
+    },
+    {
+      "title": "Ganadora del Óscar a Mejor Película",
+      "text": "Fue la primera secuela en ganar el premio Óscar a Mejor Película."
+    }
+  ]
+},
+{
+  "id": "ms-p2",
+  "title": "Cadena perpetua",
+  "originalTitle": "The Shawshank Redemption",
+  "tagline": "El miedo puede mantenerte prisionero. La esperanza puede liberarte.",
+  "year": 1994,
+  "rating": 9.3,
+  "metascore": 82,
+  "duration": "2h 22m",
+  "certification": "R",
+  "genres": [
+    "Drama"
+  ],
+  "synopsis": "Andy Dufresne, un banquero condenado a cadena perpetua por el asesinato de su esposa y el amante de ella, es enviado a la prisión de Shawshank. Allí entabla una profunda amistad con Ellis 'Red' Redding y aprende a sobrevivir en un entorno marcado por la violencia, la corrupción y la pérdida de libertad, aferrándose a la esperanza como forma de resistencia.",
+  "image": "peliculas/ms_TheShawshankRedemption.png",
+  "director": "Frank Darabont",
+  "writers": [
+    "Frank Darabont",
+    "Stephen King"
+  ],
+  "cast": [
+    {
+      "name": "Tim Robbins",
+      "character": "Andy Dufresne"
+    },
+    {
+      "name": "Morgan Freeman",
+      "character": "Ellis Boyd 'Red' Redding"
+    },
+    {
+      "name": "Bob Gunton",
+      "character": "Samuel Norton"
+    },
+    {
+      "name": "William Sadler",
+      "character": "Heywood"
+    },
+    {
+      "name": "Clancy Brown",
+      "character": "Byron Hadley"
+    },
+    {
+      "name": "Gil Bellows",
+      "character": "Tommy Williams"
+    },
+    {
+      "name": "James Whitmore",
+      "character": "Brooks Hatlen"
+    }
+  ],
+  "music": "Thomas Newman",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "awards": [
+    "Nominada a 7 premios Óscar, incluyendo Mejor Película, Mejor Actor para Morgan Freeman y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama carcelario centrado en la amistad, la dignidad y la capacidad de mantener la esperanza incluso en condiciones extremas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9.3/10",
+      "text": "Es especialmente apreciada por la relación entre Andy y Red, su desarrollo emocional y un desenlace que refuerza el tema de la esperanza."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Stephen King",
+      "text": "La película adapta la novela corta 'Rita Hayworth and Shawshank Redemption', incluida en la colección Different Seasons de Stephen King."
+    },
+    {
+      "title": "Narración de Morgan Freeman",
+      "text": "Morgan Freeman interpreta a Red y también proporciona la narración que acompaña gran parte de la historia."
+    },
+    {
+      "title": "Reconocimiento con el tiempo",
+      "text": "Aunque su desempeño inicial en taquilla fue moderado, la película ganó una enorme popularidad posteriormente gracias al video doméstico, la televisión y el reconocimiento del público."
+    }
+  ]
+},
+{
+  "id": "ms-p3",
+  "title": "La lista de Schindler",
+  "originalTitle": "Schindler's List",
+  "tagline": "Quien salva una vida, salva al mundo entero.",
+  "year": 1993,
+  "rating": 9.0,
+  "metascore": 95,
+  "duration": "3h 15m",
+  "certification": "R",
+  "genres": [
+    "Drama",
+    "Historia",
+    "Biografía"
+  ],
+  "synopsis": "Durante la Segunda Guerra Mundial, el empresario alemán Oskar Schindler llega a Cracovia con la intención de enriquecerse aprovechando la guerra. Con el tiempo, presencia la persecución y el exterminio de la población judía y utiliza su fábrica, su influencia y su fortuna para proteger a más de mil personas de la deportación y la muerte.",
+  "image": "peliculas/ms_SchindlersList.png",
+  "director": "Steven Spielberg",
+  "writers": [
+    "Steven Zaillian",
+    "Thomas Keneally"
+  ],
+  "cast": [
+    {
+      "name": "Liam Neeson",
+      "character": "Oskar Schindler"
+    },
+    {
+      "name": "Ben Kingsley",
+      "character": "Itzhak Stern"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "character": "Amon Göth"
+    },
+    {
+      "name": "Caroline Goodall",
+      "character": "Emilie Schindler"
+    },
+    {
+      "name": "Jonathan Sagall",
+      "character": "Poldek Pfefferberg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "character": "Helen Hirsch"
+    }
+  ],
+  "music": "John Williams",
+  "country": "Estados Unidos",
+  "language": "Inglés / Alemán / Polaco / Hebreo",
+  "productionCompanies": [
+    "Universal Pictures",
+    "Amblin Entertainment"
+  ],
+  "awards": [
+    "Ganadora de 7 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Un drama histórico de gran impacto emocional que aborda el Holocausto desde la transformación moral de Oskar Schindler y la experiencia de las personas perseguidas."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es ampliamente reconocida por sus actuaciones, su fotografía en blanco y negro y la forma sobria y dura en que representa uno de los episodios más trágicos del siglo XX."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Fotografía en blanco y negro",
+      "text": "La mayor parte de la película fue rodada en blanco y negro para reforzar su apariencia documental y su vínculo visual con imágenes históricas de la época."
+    },
+    {
+      "title": "La niña del abrigo rojo",
+      "text": "Uno de los pocos usos destacados del color es el abrigo rojo de una niña durante la liquidación del gueto de Cracovia."
+    },
+    {
+      "title": "Basada en hechos reales",
+      "text": "La película está basada en la novela Schindler's Ark de Thomas Keneally, inspirada en la historia real de Oskar Schindler."
+    }
+  ]
+},
+{
+  "id": "ms-p4",
+  "title": "Doce hombres sin piedad",
+  "originalTitle": "12 Angry Men",
+  "tagline": "La vida de un hombre está en sus manos.",
+  "year": 1957,
+  "rating": 9.0,
+  "metascore": 97,
+  "duration": "1h 36m",
+  "certification": "Approved",
+  "genres": [
+    "Drama",
+    "Crimen"
+  ],
+  "synopsis": "Doce miembros de un jurado deben decidir el destino de un joven acusado de asesinar a su padre. Aunque al principio casi todos consideran que el caso está resuelto, uno de los jurados plantea dudas razonables sobre las pruebas. A partir de ese momento, la deliberación se convierte en un intenso enfrentamiento de argumentos, prejuicios y convicciones personales.",
+  "image": "peliculas/ms_12AngryMen.png",
+  "director": "Sidney Lumet",
+  "writers": [
+    "Reginald Rose"
+  ],
+  "cast": [
+    {
+      "name": "Henry Fonda",
+      "character": "Juror 8"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "character": "Juror 3"
+    },
+    {
+      "name": "Ed Begley",
+      "character": "Juror 10"
+    },
+    {
+      "name": "E. G. Marshall",
+      "character": "Juror 4"
+    },
+    {
+      "name": "Jack Klugman",
+      "character": "Juror 5"
+    },
+    {
+      "name": "Martin Balsam",
+      "character": "Juror 1"
+    },
+    {
+      "name": "John Fiedler",
+      "character": "Juror 2"
+    }
+  ],
+  "music": "Kenyon Hopkins",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Orion-Nova Productions"
+  ],
+  "awards": [
+    "Nominada a 3 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Guion Adaptado."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "10/10",
+      "text": "Un drama judicial construido casi por completo a partir del diálogo y la confrontación moral entre los miembros del jurado."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "9/10",
+      "text": "Es especialmente valorada por su tensión, sus actuaciones y la manera en que explora el prejuicio, la duda razonable y la responsabilidad individual."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Un espacio casi único",
+      "text": "La mayor parte de la película transcurre dentro de una sala de deliberaciones, lo que refuerza la sensación de encierro y tensión."
+    },
+    {
+      "title": "Debut cinematográfico de Sidney Lumet",
+      "text": "12 Angry Men fue el primer largometraje dirigido por Sidney Lumet."
+    },
+    {
+      "title": "Origen televisivo",
+      "text": "La historia fue escrita originalmente por Reginald Rose como un drama televisivo antes de ser adaptada al cine."
+    }
+  ]
+},
+{
+  "id": "ms-p5",
+  "title": "Testigo de cargo",
+  "originalTitle": "Witness for the Prosecution",
+  "tagline": "El juicio ha comenzado. Nada es lo que parece.",
+  "year": 1957,
+  "rating": 8.4,
+  "metascore": 76,
+  "duration": "1h 56m",
+  "certification": "Approved",
+  "genres": [
+    "Drama",
+    "Crimen",
+    "Misterio"
+  ],
+  "synopsis": "El veterano abogado Sir Wilfrid Robarts acepta defender a Leonard Vole, un hombre acusado de asesinar a una viuda adinerada. El caso se complica cuando la esposa del acusado decide declarar como testigo de la acusación, dando paso a una serie de revelaciones, contradicciones y giros inesperados dentro y fuera de la sala del tribunal.",
+  "image": "peliculas/ms_WitnessForTheProsecution.png",
+  "director": "Billy Wilder",
+  "writers": [
+    "Billy Wilder",
+    "Harry Kurnitz",
+    "Agatha Christie"
+  ],
+  "cast": [
+    {
+      "name": "Tyrone Power",
+      "character": "Leonard Vole"
+    },
+    {
+      "name": "Marlene Dietrich",
+      "character": "Christine Vole"
+    },
+    {
+      "name": "Charles Laughton",
+      "character": "Sir Wilfrid Robarts"
+    },
+    {
+      "name": "Elsa Lanchester",
+      "character": "Miss Plimsoll"
+    },
+    {
+      "name": "John Williams",
+      "character": "Brogan-Moore"
+    },
+    {
+      "name": "Henry Daniell",
+      "character": "Mayhew"
+    }
+  ],
+  "music": "Matty Malneck",
+  "country": "Estados Unidos",
+  "language": "Inglés",
+  "productionCompanies": [
+    "Edward Small Productions",
+    "United Artists"
+  ],
+  "awards": [
+    "Nominada a 6 premios Óscar, incluyendo Mejor Película, Mejor Director y Mejor Actor para Charles Laughton."
+  ],
+  "reviews": [
+    {
+      "author": "Crítica especializada",
+      "source": "Síntesis editorial",
+      "score": "9/10",
+      "text": "Un drama judicial de ritmo preciso que combina misterio, ironía y giros narrativos construidos alrededor del testimonio y la credibilidad de sus personajes."
+    },
+    {
+      "author": "Audiencia general",
+      "source": "Síntesis de recepción",
+      "score": "8.4/10",
+      "text": "Destaca por las actuaciones de Charles Laughton y Marlene Dietrich y por un desenlace diseñado para sorprender al espectador."
+    }
+  ],
+  "trivia": [
+    {
+      "title": "Basada en Agatha Christie",
+      "text": "La película adapta la obra teatral Witness for the Prosecution, escrita por Agatha Christie."
+    },
+    {
+      "title": "Dirección de Billy Wilder",
+      "text": "Billy Wilder dirigió y coescribió la adaptación cinematográfica, combinando drama judicial con misterio."
+    },
+    {
+      "title": "Final protegido",
+      "text": "Durante su promoción se pidió al público que no revelara el desenlace de la película para preservar el efecto de sus giros narrativos."
+    }
+  ]
+}
+  
 ]
