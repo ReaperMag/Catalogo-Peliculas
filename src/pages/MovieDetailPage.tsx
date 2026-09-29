@@ -1,5 +1,5 @@
 import { Button } from '../components/common/Button'
-import { useMovies } from '../contexts/MoviesContext'
+import { useMovies } from '../contexts/useMovies'
 import { getMediaImage } from '../lib/mediaImages'
 import type { PageKey } from '../types/movie'
 

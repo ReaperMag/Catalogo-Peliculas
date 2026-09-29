@@ -1,6 +1,6 @@
 // Página de categoría - Leidy
 // Muestra en forma de matriz las películas y series de una categoría
-import { useMovies } from '../contexts/MoviesContext'
+import { useMovies } from '../contexts/useMovies'
 import { filterByCategory } from '../lib/categories'
 import { getMediaImage } from '../lib/mediaImages'
 import type { PageKey } from '../types/movie'

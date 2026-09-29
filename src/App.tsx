@@ -32,7 +32,7 @@ function App() {
         <Header activePage={activePage} onNavigate={setActivePage} />
         {activePage === 'home' && <HomePage onNavigate={setActivePage} onSelectMovie={selectMovie} onSelectSeries={selectSeries} onSelectActor={selectActor} onSelectCategory={selectCategory} />}
         {activePage === 'movies' && <MoviesPage onSelectMovie={selectMovie} />}
-        {activePage === 'search' && <SearchPage onSelectMovie={selectMovie} />}
+        {activePage === 'search' && <SearchPage onSelectMovie={selectMovie} onSelectSeries={selectSeries} />}
         {activePage === 'detail' && <MovieDetailPage movieId={selectedMovieId} onNavigate={setActivePage} />}
         {activePage === 'series' && <SeriesDetailPage seriesId={selectedSeriesId} onNavigate={setActivePage} />}
         {activePage === 'actor' && <ActorDetailPage actorId={selectedActorId} onNavigate={setActivePage} />}

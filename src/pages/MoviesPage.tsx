@@ -1,5 +1,5 @@
 import { MovieCard } from '../components/molecules/MovieCard'
-import { useMovies } from '../contexts/MoviesContext'
+import { useMovies } from '../contexts/useMovies'
 
 type MoviesPageProps = {
   onSelectMovie: (movieId: string) => void

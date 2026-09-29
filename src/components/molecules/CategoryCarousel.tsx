@@ -1,6 +1,6 @@
 // Carrusel de categorías del Home - Leidy
 import { useRef } from 'react'
-import { useMovies } from '../../contexts/MoviesContext'
+import { useMovies } from '../../contexts/useMovies'
 import { filterByCategory } from '../../lib/categories'
 import './CategoryCarousel.css'
 
