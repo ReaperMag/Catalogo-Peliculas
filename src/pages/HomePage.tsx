@@ -139,7 +139,6 @@ const scrollMoviesRight = () => {
 </section>
 
       <section className="home-section home-section--views"><div className="home-section__heading"><div><span className="home-eyebrow">Solo información</span><h2>Top 10 películas más vistas</h2><p>Ranking de las películas con más visualizaciones en CineBase.</p></div><span className="home-section__index">03</span></div><ol className="home-view-list">{mostViewedMovies.map((movie, index) => <li key={movie.id}><span className="home-view-list__rank">{String(index + 1).padStart(2, '0')}</span><div className="top-movies__info">{getMediaImage(movie.image) && <img alt={movie.title} className="top-movies__thumb" src={getMediaImage(movie.image)} />}<div className="top-movies__text"><strong>{movie.title}</strong><small>{movie.year} · {movie.genres.join(' · ')}</small></div></div><span className="home-view-list__count">{movie.viewCount == null ? 'Vistas sin registrar' : `${movie.viewCount.toLocaleString('es-ES')} vistas`}</span></li>)}</ol></section>
-0
             <section className="home-section home-section--categories"><div className="home-section__heading"><div><span className="home-eyebrow">Encuentra tu próxima historia</span><h2>Categorías</h2></div></div><CategoryCarousel categories={categoriesData as string[]} onSelectCategory={onSelectCategory} /></section>
     </main>
   )
